@@ -1,3 +1,6 @@
+[default]
+timeout = 120
+
 [fashion]
 title = "하퍼스바자 코리아 ─ 패션"
 url = "https://www.harpersbazaar.co.kr/fashion"
