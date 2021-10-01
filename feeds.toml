@@ -1,3 +1,13 @@
+[fashion]
+title = "하퍼스바자 코리아 ─ 패션"
+url = "https://www.harpersbazaar.co.kr/fashion"
+entrySelector = "div.articlebox"
+titleSelector = "em.title a"
+linkSelector = "em a"
+contentSelector = "p.excerpt a"
+imageSelector = "div.imgbox.Thumb455"
+waitForSelector = ".articlebox"
+
 [beauty]
 title = "하퍼스바자 코리아 ─ 뷰티"
 url = "https://www.harpersbazaar.co.kr/beauty"
