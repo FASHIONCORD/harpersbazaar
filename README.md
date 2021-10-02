@@ -7,10 +7,11 @@ https://fashioncord.github.io/harpersbazaar/all.xml
 - https://fashioncord.github.io/harpersbazaar/artandculture.xml
 - https://fashioncord.github.io/harpersbazaar/lifestyle.xml
 - https://fashioncord.github.io/harpersbazaar/sustainability.xml
+
 ## 네이버 포스트
-- https://FASHIONCORD.github.io/harpersbazaar/naverpost_life.xml
-- https://FASHIONCORD.github.io/harpersbazaar/naverpost_fashion.xml
-- https://FASHIONCORD.github.io/harpersbazaar/naverpost_celebs.xml
-- https://FASHIONCORD.github.io/harpersbazaar/naverpost_beauty.xml
-- https://FASHIONCORD.github.io/harpersbazaar/naverpost_event.xml
-- https://FASHIONCORD.github.io/harpersbazaar/naverpost_art.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_life.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_fashion.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_celebs.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_beauty.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_event.xml
+- https://fashioncord.github.io/harpersbazaar/naverpost_art.xml
