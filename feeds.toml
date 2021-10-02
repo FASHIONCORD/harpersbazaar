@@ -61,6 +61,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+timeout = 180
 
 [beauty]
 title = "하퍼스바자 코리아 ─ 뷰티"
@@ -71,6 +72,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+timeout = 180
 
 [celebrity]
 title = "하퍼스바자 코리아 ─ 셀레브리티"
@@ -81,6 +83,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+timeout = 180
 
 [artandculture]
 title = "하퍼스바자 코리아 ─ 아트&컬쳐"
@@ -91,6 +94,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+timeout = 180
 
 [lifestyle]
 title = "하퍼스바자 코리아 ─ 라이프스타일"
@@ -101,6 +105,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+timeout = 180
 
 [sustainability]
 title = "하퍼스바자 코리아 ─ 지속가능성"
@@ -111,3 +116,4 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
+timeout = 180
