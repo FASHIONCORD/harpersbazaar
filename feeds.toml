@@ -94,7 +94,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 180
+onFail = "stale"
 
 [lifestyle]
 title = "하퍼스바자 코리아 ─ 라이프스타일"
@@ -105,7 +105,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 180
+onFail = "stale"
 
 [sustainability]
 title = "하퍼스바자 코리아 ─ 지속가능성"
@@ -116,4 +116,4 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = ".articlebox"
-timeout = 180
+onFail = "stale"
