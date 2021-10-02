@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 14:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 15:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로제도 사랑한 한국 브랜드, 잉크]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58966</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58966</guid>
+            <pubDate>Sat, 02 Oct 2021 15:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[강렬한 컬러의 향연과 동시대적인 로맨티시즘으로 재해석한 가을.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/86ba6a02-530d-4254-a48d-6ead77a75407.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텅빈 놀이터에서 만난 티백의 소녀와의 동심어린 플레이 타임.]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58956</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 11:13:28 GMT</pubDate>
             <content:encoded><![CDATA[콘서트장을 방불케 한 파리 패션위크 이색풍경]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2dccae17-e844-4644-8a2f-bd7fc4d0b9dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘패션 뮤즈’로 카메라 앞에 돌아온 장윤주]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58882</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58882</guid>
-            <pubDate>Fri, 01 Oct 2021 11:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[자유롭고 날것의 섬세한 표정과 표현력으로 완성한 하퍼스 바자 10월호 화보 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/dc08d0c6-def5-4483-9036-7e1f9f52f9b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 14:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 15:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파인애플로 가죽을 만든다고? #지구해요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58940</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58940</guid>
+            <pubDate>Sat, 02 Oct 2021 15:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[비건 파인애플 가죽 '피냐텍스'는 어떤 것?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/f1231d22-fbf1-4fe4-bcd2-6b300b10ed15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월 연휴 기간 여긴 어때? 가슴이 탁 트이는 파주 카페 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58932</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
             <content:encoded><![CDATA[카페를 벗어나고픈 프리랜서와 사무실을 벗어나고픈 직장인을 위해 찾은 2곳]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7f3b1047-1753-4f8f-8dda-430890a889d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고로 만들어진 테마파크가 찾아온다? #이슈있슈]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58848</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58848</guid>
-            <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[세계 10번째 레고랜드가 내년 3월 강원도 춘천에 들어선다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/e4e8b0d0-f092-4f64-8a60-2edd8ba7cf98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
