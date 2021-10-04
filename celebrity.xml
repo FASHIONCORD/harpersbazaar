@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 14:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 15:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['버버리 왕자님' 스물 다섯 차은우의 오늘]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58887</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58887</guid>
+            <pubDate>Mon, 04 Oct 2021 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[철학적이고 운명을 믿으며 지금의 시간을 충분히 즐기고 싶다는 스물다섯의 청년. 차은우가 버버...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/140f7ea9-5e02-4dde-b923-be487875fc0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여자 배구와 근대5종 국가대표 선수의 숨은 매력]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58886</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 11:21:58 GMT</pubDate>
             <content:encoded><![CDATA[배우 박은빈의 진정한 변신]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/e7238b44-89c4-4953-966d-c0f823543399.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[따라 입고 싶어! 정호연의 OOTD]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58828</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58828</guid>
-            <pubDate>Fri, 01 Oct 2021 11:21:58 GMT</pubDate>
-            <content:encoded><![CDATA['오징어 게임'의 새벽! 정호연의 매력]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/0eb38b4d-d7cd-47ea-b90c-a5d149b2a575.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
