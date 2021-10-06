@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주삼다수의 자연과 사람을 위한 결심]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58891</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58891</guid>
+            <pubDate>Wed, 06 Oct 2021 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[비닐 라벨을 뗐다. 환경을 생각하는 마음으로 재활용을 위해 사력을 다한다. 이 모든 과정인 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/88d03805-cdda-4993-bb5c-be78f84a107b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정말 밤 맛이야! 요즘 난리 난 #밤디저트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58967</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58967</guid>
+            <pubDate>Wed, 06 Oct 2021 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[못 먹으면 손해. 이 가을이 가기 전에 꼭 맛봐야 할 밤 디저트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/54d9d50a-7799-4c80-b4d3-ef67aed37917.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파인애플로 가죽을 만든다고? #지구해요]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58940</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
             <content:encoded><![CDATA[인기 틱톡커가 되는 비법은? 틱톡 콘텐츠 담당자에게 듣는 ‘챌린지’의 인기 비결]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7873ee08-1d6b-4c7c-8359-4c5080064c6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼쑤 좋다, 타이포잔치가 열렸다!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58900</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58900</guid>
-            <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[이토록 기발하고 아름다운 문자들이라니! 세계 유일의 타이포그래피 비엔날레가 지금 서울에서 열...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/eafd6579-c348-446d-800a-61687d220ccf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 내 사무실은 여기!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58885</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58885</guid>
-            <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[카페를 벗어나고픈 프리랜서와 사무실을 벗어나고픈 직장인을 위해 찾은 2곳]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7f3b1047-1753-4f8f-8dda-430890a889d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

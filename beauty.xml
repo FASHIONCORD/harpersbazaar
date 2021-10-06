@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선선해지는 가을, 지금 당장 다이어트를 시작해야 하는 이유]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58911</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58911</guid>
+            <pubDate>Wed, 06 Oct 2021 07:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[천고마비의 계절, 사람도 살찐다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/5b2c231e-b456-4b20-8d11-e5d5878322ad.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배구황제 김연경이 평소에 운동하는 법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58910</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 11:09:50 GMT</pubDate>
             <content:encoded><![CDATA[오늘부터 식단 재조정 가보자고~!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/cfb7dd1f-0690-467c-a387-6fc7d62e0856.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설현이 요즘 먹는 것]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58781</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58781</guid>
-            <pubDate>Fri, 01 Oct 2021 11:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[연예계 대표 먹짱 아이돌 설현이 알려주는 혼자서도 잘 먹는 법. 심지어 간단하고, 건강하면서...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/76b3d9a4-c47f-42d3-b03a-aae8386d7fdb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
