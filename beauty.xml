@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 13:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 15:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마스크 위에 바르고 싶을 정도로 '예쁜' 신상립]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58996</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58996</guid>
+            <pubDate>Thu, 07 Oct 2021 15:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[입술은 왜 한 개일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/275bb6ef-f46c-43ee-ad1c-838eb67792ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이어트 중에 먹방 보면 도움이 된다vs 안 된다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58912</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 02:07:36 GMT</pubDate>
             <content:encoded><![CDATA[촉촉한 텍스처와 은은하게 빛나는 속광, 자연스러운 커버력 어느 하나 놓칠 수 없다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/36ced182-b7e5-4af7-8393-5b35871d7924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그러움 그자체! 배우 신현빈의 빛나는 피부 비결은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58810</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58810</guid>
-            <pubDate>Thu, 07 Oct 2021 02:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[배우 신현빈, 자체발광 뷰티 화보 공개]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/caf127a6-badd-43f6-bc17-1e489d123fae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
