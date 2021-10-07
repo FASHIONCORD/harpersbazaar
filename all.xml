@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 02:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1082,6 +1082,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/1fc0e76b-7da4-4a94-a5a1-7010caa582c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부안의 숨은 비경을 찾아 떠나는 여행 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58989</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58989</guid>
+            <pubDate>Thu, 07 Oct 2021 04:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[부안의 안쪽 기슭으로 들어서자 내변산의 깊은 숨구멍으로 미끄러진다. 낯설고 신비로운 내변산의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/6945591b-0723-4849-b706-723336c8fa9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제주삼다수의 자연과 사람을 위한 결심 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58891</link>
             <guid>https://www.harpersbazaar.co.kr/article/58891</guid>
@@ -1138,12 +1146,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/9f1bb3f8-22ab-4c39-aa43-a9e769e9ca91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#노제 #헤이마마 따라하면 나도 인기 틱톡커? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58907</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58907</guid>
-            <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[인기 틱톡커가 되는 비법은? 틱톡 콘텐츠 담당자에게 듣는 ‘챌린지’의 인기 비결]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7873ee08-1d6b-4c7c-8359-4c5080064c6c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[쓰레기 없는 세상을 꿈꾸는 관악, 동작구의 친환경 숍 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58702</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58702</guid>
+            <pubDate>Thu, 07 Oct 2021 04:28:52 GMT</pubDate>
+            <content:encoded><![CDATA[친환경 숍 사장님들은 어떤 생각을 갖고 있을까? '친환경 전도사' 사장님들과 나눈 이야기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/22/2fc0ecc5-4f02-455b-b716-cbd9b8c2cde5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관악, 동작구에도 제로 웨이스트 숍이? #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
@@ -1200,14 +1208,6 @@
             <pubDate>Fri, 01 Oct 2021 11:23:45 GMT</pubDate>
             <content:encoded><![CDATA[미래지향적인 움직임을 이끄는 숍 사장님이 전하는 이야기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/9a84cd38-6207-4257-a515-e31b128ad43b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비건, 제로 웨이스트 불모지인 강동구의 친환경 숍 2 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58350</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58350</guid>
-            <pubDate>Fri, 01 Oct 2021 11:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[지금보다 더 나은 미래를 꿈꾸는 제로 웨이스트 숍 사장님과 나눈 이야기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/8987ede3-bc81-4d4f-a247-cc5ed4489148.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

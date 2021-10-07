@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 02:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부안의 숨은 비경을 찾아 떠나는 여행]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58989</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58989</guid>
+            <pubDate>Thu, 07 Oct 2021 04:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[부안의 안쪽 기슭으로 들어서자 내변산의 깊은 숨구멍으로 미끄러진다. 낯설고 신비로운 내변산의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/6945591b-0723-4849-b706-723336c8fa9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주삼다수의 자연과 사람을 위한 결심]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58891</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
             <content:encoded><![CDATA[소셜 판매의 미래를 보여주는 '레플리카'의 창업자 카린 말레와 나눈 이야기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/9f1bb3f8-22ab-4c39-aa43-a9e769e9ca91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#노제 #헤이마마 따라하면 나도 인기 틱톡커?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58907</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58907</guid>
-            <pubDate>Fri, 01 Oct 2021 11:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[인기 틱톡커가 되는 비법은? 틱톡 콘텐츠 담당자에게 듣는 ‘챌린지’의 인기 비결]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7873ee08-1d6b-4c7c-8359-4c5080064c6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
