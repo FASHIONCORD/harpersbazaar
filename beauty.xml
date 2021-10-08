@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 06:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 08:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 제일 잘나가! 요즘 핫한 메이크업 제품 여기 다 모였다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59009</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59009</guid>
+            <pubDate>Fri, 08 Oct 2021 08:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 뷰티 업계 역시 힘든 시기를 겪고 있지만, 어려운 상황 속에서도 두각을 나타낸 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/14e06dbb-de07-4394-858a-e53a6ae483a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마스크 위에 바르고 싶을 정도로 '예쁜' 신상립]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58996</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 02:07:36 GMT</pubDate>
             <content:encoded><![CDATA[산부인과 전문의가 알려주는 똑똑한 준비법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/02a5e126-a914-4b0b-b50b-b43f7bacc279.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱짱한 밀착력을 자랑하는 내피부 착붙 환절기 쿠션? #B_신상템]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58838</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58838</guid>
-            <pubDate>Thu, 07 Oct 2021 02:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[촉촉한 텍스처와 은은하게 빛나는 속광, 자연스러운 커버력 어느 하나 놓칠 수 없다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/36ced182-b7e5-4af7-8393-5b35871d7924.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
