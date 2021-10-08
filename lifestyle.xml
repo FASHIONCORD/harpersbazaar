@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 13:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 14:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셰프가 알려주는 배달 음식 재활용 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59022</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59022</guid>
+            <pubDate>Fri, 08 Oct 2021 14:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[‘냉장고 파먹기’도 일종의 환경보전이다. 음식 쓰레기가 될 위기에 처한 식재료들을 한 끼 집...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/369a9e8f-45b5-4698-9120-eb099ae71f93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하늘이 다 했네, 요즘 인기 최고 루프탑 핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58994</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
             <content:encoded><![CDATA[브런치 먹고 쇼핑까지 한 자리에서 다 한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/3514a53f-d159-4344-9588-c448ecafa114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확찐자를 위한 #두부요리레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58926</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58926</guid>
-            <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[연휴 동안 급찐살이 걱정이라면? 삼시 세끼 먹어도 질리지 않는 두부 먹고 빼자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/5a18dd59-07d5-43ca-af81-e49867558568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
