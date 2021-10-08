@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 08:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 09:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생 로랑의 강렬한 사운드]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59101</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59101</guid>
+            <pubDate>Fri, 08 Oct 2021 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[전율이 느껴지는 강렬한 사운드에 몸을 맡기다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/369bc7f0-eca8-4039-906d-14cae5391f85.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던의 빈티지 보물창고, 'Rellik'은 어떤 곳?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59081</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 16:27:27 GMT</pubDate>
             <content:encoded><![CDATA[126주년을 맞이해 새롭게 태어난 스와로브스키. ‘모두를 위한 다이아몬드’ 크리스털의 세계 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/17192e8f-e1ef-49ff-b0fa-4b859d7aed5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 2021 F/W 컬렉션과 함께한 모던 모먼트.]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59021</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59021</guid>
-            <pubDate>Tue, 05 Oct 2021 12:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[닮은 듯 다른 두 사람이 있다. 머리부터 발끝까지, 심지어 룩과 백, 슈즈까지도. 샤넬 20...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e849d93e-3a23-4520-94b0-38ffe77e949c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
