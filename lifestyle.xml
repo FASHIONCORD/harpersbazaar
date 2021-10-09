@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 14:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 17:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[런던의 빈티지 보물창고, 'Rellik'은 어떤 곳?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59081</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59081</guid>
+            <pubDate>Sat, 09 Oct 2021 17:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[Rellik 오너가 알려주는 빈티지의 모든 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/40b5313a-8577-4698-94fa-8ec520d348e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셰프가 알려주는 배달 음식 재활용 레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59022</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
             <content:encoded><![CDATA[요즘 핫플 중 핫플이라는 파주 대형 카페 세 곳!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/b372d21e-88e3-4658-a1a8-84ecd6ce04e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그릇 쇼핑과 브런치를 한 자리에서? 이번 주 #신상핫플]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58928</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58928</guid>
-            <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[브런치 먹고 쇼핑까지 한 자리에서 다 한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/3514a53f-d159-4344-9588-c448ecafa114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
