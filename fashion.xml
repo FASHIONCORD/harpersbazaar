@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 15:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가죽 재킷엔 뭐다? 네온컬러!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59128</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59128</guid>
+            <pubDate>Sun, 10 Oct 2021 15:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[상반되는 소재와 질감, 컬러를 활용한 신선한 믹스 매치 스타일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ececb9bf-6a09-4e4c-ad13-279aa09e913a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 S/S 파리 패션위크 하이라이트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59117</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 02:07:23 GMT</pubDate>
             <content:encoded><![CDATA[126주년을 맞이해 새롭게 태어난 스와로브스키. ‘모두를 위한 다이아몬드’ 크리스털의 세계 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/6e4c7123-b482-4a54-a18d-6a4f4dfc2ec4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멀 좀 아는 언니 채정안이 달려간 바닷가. 그리고 데님과 레더로 점철된 가을 룩.]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59038</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59038</guid>
-            <pubDate>Wed, 06 Oct 2021 15:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[“누구나 자기만의 바닷가가 하나씩 있으면 좋다. 자기만의 바다로 달려가 쓰러지는 게 좋다.”...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5faa9c1b-d03c-4593-b975-07e46c8a6e27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
