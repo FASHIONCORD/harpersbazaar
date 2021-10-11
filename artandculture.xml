@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 16:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 17:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔이라는 일상 속에 스며든 예술 작품]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59167</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59167</guid>
+            <pubDate>Mon, 11 Oct 2021 17:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[호텔이라는 근사한 공간이 내포한 일상에서 아트의 비중은 점점 높아지고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/4cea055a-b435-4969-84aa-97e3d891cc97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오징어게임이 세운 신기록들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59140</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Oct 2021 15:19:17 GMT</pubDate>
             <content:encoded><![CDATA[나날이 심각해지는 기후변화 대응을 위해 블랙핑크가 나선다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2f9b13f1-5e3f-405b-98ac-90d304b3f510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#노제 #헤이마마 따라하면 나도 인기 틱톡커?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58907</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58907</guid>
-            <pubDate>Tue, 05 Oct 2021 03:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[인기 틱톡커가 되는 비법은? 틱톡 콘텐츠 담당자에게 듣는 ‘챌린지’의 인기 비결]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/7873ee08-1d6b-4c7c-8359-4c5080064c6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
