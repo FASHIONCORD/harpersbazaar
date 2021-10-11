@@ -60,8 +60,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
-timeout = 180
+waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [beauty]
 title = "하퍼스바자 코리아 ─ 뷰티"
@@ -71,8 +71,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
-timeout = 180
+waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [celebrity]
 title = "하퍼스바자 코리아 ─ 셀레브리티"
@@ -82,8 +82,8 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
-timeout = 180
+waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [artandculture]
 title = "하퍼스바자 코리아 ─ 아트&컬쳐"
@@ -93,7 +93,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 onFail = "stale"
 
 [lifestyle]
@@ -104,7 +104,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 onFail = "stale"
 
 [sustainability]
@@ -115,5 +115,5 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 onFail = "stale"
