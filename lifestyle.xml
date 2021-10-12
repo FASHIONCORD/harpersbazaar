@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 01:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 02:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#쓰확행을 위해 노력하는 친환경 숍 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59086</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59086</guid>
+            <pubDate>Tue, 12 Oct 2021 02:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기를 줄이는 확실한 행동을 알리고자 노력하는 광진구, 성동구, 송파구의 제로 웨이스트 숍...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/57ce7222-eb4c-4527-955f-91606998a2e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[런던의 빈티지 보물창고, 'Rellik'은 어떤 곳?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59081</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
             <content:encoded><![CDATA[비건 파인애플 가죽 '피냐텍스'는 어떤 것?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/f1231d22-fbf1-4fe4-bcd2-6b300b10ed15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 연휴 기간 여긴 어때? 가슴이 탁 트이는 파주 카페 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58932</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58932</guid>
-            <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 핫플 중 핫플이라는 파주 대형 카페 세 곳!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/b372d21e-88e3-4658-a1a8-84ecd6ce04e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
