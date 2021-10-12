@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 08:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽클레르의 새로운 지니어스는 누구? Hyke!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59168</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59168</guid>
+            <pubDate>Tue, 12 Oct 2021 09:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[몽클레르의 새로운 지니어스, 그 역동의 에너지를 포착하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/f6c678d8-c3b5-4c29-a8b4-4cdfa661eee6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 장윤주, '찐' 톱 모델의 아우라!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59154</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 08:20:34 GMT</pubDate>
             <content:encoded><![CDATA[Rellik 오너가 알려주는 빈티지의 모든 것!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/40b5313a-8577-4698-94fa-8ec520d348e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세기말의 팝 아이콘과 Y2K 패션에 푹 빠진 팝 프린세스들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59076</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59076</guid>
-            <pubDate>Thu, 07 Oct 2021 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[브리트니 스피어스, 크리스티나 아길레라, 그웬 스테파니…. 세기말을 풍미한 팝 아이콘과 Y2...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/56080ac5-acb4-4d20-be0b-df099de80660.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
