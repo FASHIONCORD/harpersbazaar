@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 15:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 16:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이코코'와의 TMI 인터뷰! 최애템부터 모두가 박장대소한 이상형은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59227</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59227</guid>
+            <pubDate>Wed, 13 Oct 2021 16:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[나만 알고 싶은 이코코의 15가지 TMI]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/4ac1f119-6d2b-4310-a125-45d900a22d0a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지미 팰런쇼에 등장한 <오징어 게임> 4인방, 빵터진 이유는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59216</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 14:16:42 GMT</pubDate>
             <content:encoded><![CDATA[배우 박은빈은 온통 작품 생각뿐이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/0fcbd801-c2f2-4e4e-a40b-14faca86683a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정일우의 숨고르기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59039</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59039</guid>
-            <pubDate>Fri, 08 Oct 2021 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[드라마를 마쳤지만 다시 부지런히 일상을 채우는 배우 정일우를 만났다. 끊임없이 비우고 채우는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/d12f1287-2fc9-4e50-b08e-7c80c43c917a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 15:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 16:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현민 프로그래머가 말하는 '여성영화제를 끝마치며']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59251</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59251</guid>
+            <pubDate>Wed, 13 Oct 2021 16:26:22 GMT</pubDate>
+            <content:encoded><![CDATA[2001년 개봉한 &lt;고양이를 부탁해&gt;의 디지털 리마스터링 버전을 보며 20년 전 그녀들이 지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/ad9199aa-3d2c-47a1-95f7-6b79f4263d31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일생 논란을 일으키며 살아온 예술가와의 대화]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59250</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 02:09:26 GMT</pubDate>
             <content:encoded><![CDATA[현대미술가 줄리언 오피의 작업이 ‘동시대적 풍경화’라 불리는 건 세상의 가장 ‘보편’적인 대...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/ef25f148-1c3f-47fb-9cdd-f8a8765b9276.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ 세대도 예술 작품을 가질 권리가 있다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59179</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59179</guid>
-            <pubDate>Tue, 12 Oct 2021 02:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[폭발적이라고밖에 할 수 없는 ₩미술계 호황이 이어지고 있다. 2007년과도 비슷한 양상이지만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/b6762b1e-d41f-4b63-a9db-0eb4bac6b668.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
