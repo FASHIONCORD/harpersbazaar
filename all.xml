@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1081,6 +1081,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/ef25f148-1c3f-47fb-9cdd-f8a8765b9276.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맥주, 컵밥에 이어 첵스팥까지 섭렵한 K-할머니 열풍! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59156</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59156</guid>
+            <pubDate>Tue, 12 Oct 2021 09:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[‘지금은~ 할매시대!’를 외치게 하는 광고 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/f6f8add9-1a1b-487d-be3f-d44e95792962.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안소희의 취향저격 공간 3 #인_스타_플레이스 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59137</link>
             <guid>https://www.harpersbazaar.co.kr/article/59137</guid>
@@ -1137,12 +1145,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/6945591b-0723-4849-b706-723336c8fa9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제주삼다수의 자연과 사람을 위한 결심 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58891</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58891</guid>
-            <pubDate>Wed, 06 Oct 2021 07:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[비닐 라벨을 뗐다. 환경을 생각하는 마음으로 재활용을 위해 사력을 다한다. 이 모든 과정인 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/88d03805-cdda-4993-bb5c-be78f84a107b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[캡슐커피 어떻게 버려야 할까? #지구해요 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58720</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58720</guid>
+            <pubDate>Thu, 14 Oct 2021 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[소비자들은 캡슐커피 용기로 인한 환경오염 문제 개선을 원하고 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/8e1a0e73-a3d2-4cf5-bb66-132d856d2a9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰레기 없는 세상을 꿈꾸는 관악, 동작구의 친환경 숍 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
@@ -1199,14 +1207,6 @@
             <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[케어링 그룹, 아디다스, 룰루레몬, 그리고 스텔라 맥카트니 브랜드 등의 탈가죽을 가능케 해준...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/c6d2484c-b010-47f7-89b9-614029f49c55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰레기 없는 세상을 꿈꾸는 서초구의 친환경 숍 3 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58351</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58351</guid>
-            <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[미래지향적인 움직임을 이끄는 숍 사장님이 전하는 이야기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/9a84cd38-6207-4257-a515-e31b128ad43b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

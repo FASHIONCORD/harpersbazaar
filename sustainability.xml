@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캡슐커피 어떻게 버려야 할까? #지구해요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58720</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58720</guid>
+            <pubDate>Thu, 14 Oct 2021 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[소비자들은 캡슐커피 용기로 인한 환경오염 문제 개선을 원하고 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/8e1a0e73-a3d2-4cf5-bb66-132d856d2a9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쓰레기 없는 세상을 꿈꾸는 관악, 동작구의 친환경 숍 #쓰레기없지도]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58702</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[케어링 그룹, 아디다스, 룰루레몬, 그리고 스텔라 맥카트니 브랜드 등의 탈가죽을 가능케 해준...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/c6d2484c-b010-47f7-89b9-614029f49c55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰레기 없는 세상을 꿈꾸는 서초구의 친환경 숍 3 #쓰레기없지도]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58351</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58351</guid>
-            <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[미래지향적인 움직임을 이끄는 숍 사장님이 전하는 이야기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/9a84cd38-6207-4257-a515-e31b128ad43b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 02:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥주, 컵밥에 이어 첵스팥까지 섭렵한 K-할머니 열풍!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59156</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59156</guid>
+            <pubDate>Thu, 14 Oct 2021 03:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[‘지금은~ 할매시대!’를 외치게 하는 광고 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/f6f8add9-1a1b-487d-be3f-d44e95792962.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안소희의 취향저격 공간 3 #인_스타_플레이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59137</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
             <content:encoded><![CDATA[부안의 안쪽 기슭으로 들어서자 내변산의 깊은 숨구멍으로 미끄러진다. 낯설고 신비로운 내변산의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/6945591b-0723-4849-b706-723336c8fa9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주삼다수의 자연과 사람을 위한 결심]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58891</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58891</guid>
-            <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[비닐 라벨을 뗐다. 환경을 생각하는 마음으로 재활용을 위해 사력을 다한다. 이 모든 과정인 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/88d03805-cdda-4993-bb5c-be78f84a107b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
