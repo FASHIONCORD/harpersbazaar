@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 04:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 05:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라치카 회오리 감자 의상 어디 거?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59254</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59254</guid>
+            <pubDate>Thu, 14 Oct 2021 05:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[라치카가 라치카했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/21ee9bc4-18d7-4af6-9fd7-b7872ec3b84e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현민 프로그래머가 말하는 '여성영화제를 끝마치며']]></title>
             <link>https://www.harpersbazaar.co.kr/article/59251</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 02:08:17 GMT</pubDate>
             <content:encoded><![CDATA[짐 달링(Jim Darling)은 다시 되살리고픈 풍경을 담는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/aeb7d432-3811-4af1-ad2d-731f97deccd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던 스튜디오에서 만난 줄리언 오피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59182</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59182</guid>
-            <pubDate>Tue, 12 Oct 2021 02:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[현대미술가 줄리언 오피의 작업이 ‘동시대적 풍경화’라 불리는 건 세상의 가장 ‘보편’적인 대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/ef25f148-1c3f-47fb-9cdd-f8a8765b9276.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
