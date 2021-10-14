@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 09:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 10:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예멘 최초의 여자 사진가가 말하는 히잡의 의미]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59173</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59173</guid>
+            <pubDate>Thu, 14 Oct 2021 10:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[아프가니스탄에 탈레반이 재집권하던 날, 거리의 벽에서부터 여자의 모습은 지워졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/cd7cd840-5afe-421d-b42d-9873421ab73d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥주, 컵밥에 이어 첵스팥까지 섭렵한 K-할머니 열풍!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59156</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 02:13:31 GMT</pubDate>
             <content:encoded><![CDATA[요즘 예술인 하늘! 루프탑 핫플에서 만끽해요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/d865e06c-f911-44da-9a41-6b92418c4960.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부안의 숨은 비경을 찾아 떠나는 여행]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58989</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58989</guid>
-            <pubDate>Thu, 07 Oct 2021 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[부안의 안쪽 기슭으로 들어서자 내변산의 깊은 숨구멍으로 미끄러진다. 낯설고 신비로운 내변산의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/6945591b-0723-4849-b706-723336c8fa9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
