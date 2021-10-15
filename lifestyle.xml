@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 09:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS에서 난리 난 ‘빵도둑’ 버터 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59255</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59255</guid>
+            <pubDate>Fri, 15 Oct 2021 10:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[비건 버터, 해초 버터, 밤 버터, 달고나 버터, 트러플 버터 등 취향대로 발라 먹자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a9b6dd32-99ff-4191-bd37-a8ad556ad0a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유튜브로 최초 공개한 강민경의 오피스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59238</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59238</guid>
+            <pubDate>Fri, 15 Oct 2021 10:21:26 GMT</pubDate>
+            <content:encoded><![CDATA['강민경스럽다'고 소문난 아비에무아 오피스 대.공.개]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/0658d84f-af31-4bdc-b265-af05b0d50ccb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[츄, 윤승아, 전효성의 비건 레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59214</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 02:09:56 GMT</pubDate>
             <content:encoded><![CDATA[쓰레기를 줄이는 확실한 행동을 알리고자 노력하는 광진구, 성동구, 송파구의 제로 웨이스트 숍...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/57ce7222-eb4c-4527-955f-91606998a2e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던의 빈티지 보물창고, 'Rellik'은 어떤 곳?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59081</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59081</guid>
-            <pubDate>Sat, 09 Oct 2021 17:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[Rellik 오너가 알려주는 빈티지의 모든 것!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/40b5313a-8577-4698-94fa-8ec520d348e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셰프가 알려주는 배달 음식 재활용 레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59022</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59022</guid>
-            <pubDate>Fri, 08 Oct 2021 14:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[‘냉장고 파먹기’도 일종의 환경보전이다. 음식 쓰레기가 될 위기에 처한 식재료들을 한 끼 집...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/369a9e8f-45b5-4698-9120-eb099ae71f93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
