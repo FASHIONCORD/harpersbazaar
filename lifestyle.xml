@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[츄, 윤승아, 전효성의 비건 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59214</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59214</guid>
+            <pubDate>Fri, 15 Oct 2021 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[지구를 생각하는 Clean Eating에 도전해보자고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/3567985f-935f-4d38-910d-323c21fc7f29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예멘 최초의 여자 사진가가 말하는 히잡의 의미]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59173</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 14:17:25 GMT</pubDate>
             <content:encoded><![CDATA[‘냉장고 파먹기’도 일종의 환경보전이다. 음식 쓰레기가 될 위기에 처한 식재료들을 한 끼 집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/369a9e8f-45b5-4698-9120-eb099ae71f93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘이 다 했네, 요즘 인기 최고 루프탑 핫플]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58994</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58994</guid>
-            <pubDate>Fri, 08 Oct 2021 02:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 예술인 하늘! 루프탑 핫플에서 만끽해요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/d865e06c-f911-44da-9a41-6b92418c4960.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
