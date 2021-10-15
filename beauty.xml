@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 02:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 03:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판매량이 증명하는 핫 스킨케어템]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59245</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59245</guid>
+            <pubDate>Fri, 15 Oct 2021 03:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 뷰티 업계 역시 힘든 시기를 겪고 있지만, 어려운 상황 속에서도 두각을 나타낸 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/54aea576-274c-484f-8cb1-851bf7937e49.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워너비 몸매, 장윤주가 말하는 가장 효과적인 다이어트 운동은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59233</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 08:20:42 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 뷰티 업계 역시 힘든 시기를 겪고 있지만, 어려운 상황 속에서도 두각을 나타낸 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/1947810d-a528-4b59-9d13-97b5eb5b672c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<바자 뷰티 핫 100>에 선정된 베스트 스킨케어템은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59100</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59100</guid>
-            <pubDate>Tue, 12 Oct 2021 02:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 뷰티 업계 역시 힘든 시기를 겪고 있지만, 어려운 상황 속에서도 두각을 나타낸 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/38027fc5-b4c7-486c-bc7b-2e69b5e8e560.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
