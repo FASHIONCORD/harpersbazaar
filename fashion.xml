@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 08:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무릎 위와 허벅지 사이를 오가는? 가을 부츠]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59252</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59252</guid>
+            <pubDate>Fri, 15 Oct 2021 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[가을빛 고운 10월, &lt;바자&gt;가 주목한 10가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3c67f1eb-73e8-4708-9f94-6e7645491b0b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차은우는 MBTI가 2개라던데..?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59236</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Oct 2021 15:17:57 GMT</pubDate>
             <content:encoded><![CDATA[토즈 팝업 스토어에 만난 레드벨벳 조이]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/0782eae6-506a-468f-9f3d-b8640b3d1e2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가죽 재킷엔 뭐다? 네온컬러!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59128</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59128</guid>
-            <pubDate>Sun, 10 Oct 2021 15:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[상반되는 소재와 질감, 컬러를 활용한 신선한 믹스 매치 스타일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ececb9bf-6a09-4e4c-ad13-279aa09e913a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
