@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 16:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 17:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['올해의 작가상 2020'을 끝낸 정희승이 요즘 몰두하는 것]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59327</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59327</guid>
+            <pubDate>Sat, 16 Oct 2021 17:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[정희승은 목동 작업실에서 여전히 무언가를 들여다보는 일에 몰두하고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/ff3d2334-d821-4899-b26b-772593e4dab3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59316</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 05:16:16 GMT</pubDate>
             <content:encoded><![CDATA[라치카가 라치카했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/21ee9bc4-18d7-4af6-9fd7-b7872ec3b84e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현민 프로그래머가 말하는 '여성영화제를 끝마치며']]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59251</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59251</guid>
-            <pubDate>Wed, 13 Oct 2021 16:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[2001년 개봉한 &lt;고양이를 부탁해&gt;의 디지털 리마스터링 버전을 보며 20년 전 그녀들이 지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/ad9199aa-3d2c-47a1-95f7-6b79f4263d31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
