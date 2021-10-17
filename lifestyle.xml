@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 04:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 05:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이토록 새로운 차이나타운]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59347</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59347</guid>
+            <pubDate>Sun, 17 Oct 2021 05:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[인천 차이나타운 방문 예정이라면? 반드시 알아야 할 루트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/6c241fe4-7be7-433a-897f-e009dc039bf1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59316</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 03:20:04 GMT</pubDate>
             <content:encoded><![CDATA[‘지금은~ 할매시대!’를 외치게 하는 광고 3]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/f6f8add9-1a1b-487d-be3f-d44e95792962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안소희의 취향저격 공간 3 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59137</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59137</guid>
-            <pubDate>Wed, 13 Oct 2021 03:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[안소희의 인스타그램 속 장소들을 따라 성수동 핫플레이스 정복하기!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/e441666b-8843-401b-8db5-df8b7322a7b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
