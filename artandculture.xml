@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 05:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 06:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해외에서 더 유명한 이수경 작가의 새 시리즈 '달빛 왕관']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59373</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59373</guid>
+            <pubDate>Mon, 18 Oct 2021 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[전시장에서 만난 이수경 작가는 한사코 자신의 모습은 작게 찍기를 원했다. 구례산 두더지처럼 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/3e5ca832-3f47-404f-b0f9-cd586edfeb5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루 한끼 채식을 먹고 싶다면 플렉시테리언의 레시피 참고해]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59363</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 16:28:44 GMT</pubDate>
             <content:encoded><![CDATA[지미 팰런부터 드레이크 까지. 세계적인 스타들과 '맞팔'하는 사이!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/39291622-52da-45e4-9af7-73ba52b76506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핼러윈의 주인공이 될 수 있는 456명은 누구!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59257</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59257</guid>
-            <pubDate>Thu, 14 Oct 2021 10:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[무신사 X 오징어 게임 공식 굿즈 출시]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/f4aa3710-f6c1-45df-bbe2-d86301ce90d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
