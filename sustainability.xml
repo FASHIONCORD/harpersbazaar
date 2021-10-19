@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#쓰확행을 위해 노력하는 친환경 숍 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59086</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59086</guid>
+            <pubDate>Tue, 19 Oct 2021 08:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기를 줄이는 확실한 행동을 알리고자 노력하는 광진구, 성동구, 송파구의 제로 웨이스트 숍...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/57ce7222-eb4c-4527-955f-91606998a2e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셰프가 알려주는 배달 음식 재활용 레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59022</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[농작물에 사용하는 살충제가 비만 가능성을 높일 수 있다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/8e30b5db-c0b9-47ec-94e0-b5addcb8174e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플라스틱과의 전쟁을 선포한 영국]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58592</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58592</guid>
-            <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA["공원과 녹지, 해변에 넘쳐나는 플라스틱을 처리할 조치를 지금 당장 취할 것"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/28b70a5e-f507-4acb-a3af-3c86286cfd0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

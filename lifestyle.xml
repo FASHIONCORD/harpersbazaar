@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로브, 맥케이슨, 퓨처레트로. 영 골퍼들 사이에서 입소문난 핫 브랜드]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59374</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59374</guid>
+            <pubDate>Tue, 19 Oct 2021 08:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[올가을, 골프웨어 쇼핑에 스마트한 가이드가 되어줄 14개 브랜드의 키 아이템을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/958d5815-ef17-4562-960a-601519002514.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골프 실력도 패션 센스도 스타일도 남다른 이들을 위한 쇼핑리스트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59372</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 10:21:26 GMT</pubDate>
             <content:encoded><![CDATA[비건 버터, 해초 버터, 밤 버터, 달고나 버터, 트러플 버터 등 취향대로 발라 먹자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/a9b6dd32-99ff-4191-bd37-a8ad556ad0a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브로 최초 공개한 강민경의 오피스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59238</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59238</guid>
-            <pubDate>Fri, 15 Oct 2021 10:21:26 GMT</pubDate>
-            <content:encoded><![CDATA['강민경스럽다'고 소문난 아비에무아 오피스 대.공.개]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/0658d84f-af31-4bdc-b265-af05b0d50ccb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
