@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 23:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 01:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셰프가 알려주는 배달 음식 재활용 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59022</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59022</guid>
+            <pubDate>Tue, 19 Oct 2021 01:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[‘냉장고 파먹기’도 일종의 환경보전이다. 음식 쓰레기가 될 위기에 처한 식재료들을 한 끼 집...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/369a9e8f-45b5-4698-9120-eb099ae71f93.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파인애플로 가죽을 만든다고? #지구해요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/58940</link>
+            <guid>https://www.harpersbazaar.co.kr/article/58940</guid>
+            <pubDate>Tue, 19 Oct 2021 01:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[비건 파인애플 가죽 '피냐텍스'는 어떤 것?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/f1231d22-fbf1-4fe4-bcd2-6b300b10ed15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캡슐커피 어떻게 버려야 할까? #지구해요]]></title>
             <link>https://www.harpersbazaar.co.kr/article/58720</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA["공원과 녹지, 해변에 넘쳐나는 플라스틱을 처리할 조치를 지금 당장 취할 것"]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/28b70a5e-f507-4acb-a3af-3c86286cfd0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제는 화장품 리필 시대, 어디서 할 수 있을까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58440</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58440</guid>
-            <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[아직 화장품을 리필할 수 있는 곳은 많지 않지만 앞으로 더 가까이에서 자주 만나게 되길 기대...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/14/865f4650-1bb9-47c5-94e5-e9acfed15796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹지말고 패션에 양보하세요! 버섯으로 만든 가죽의 등장]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58379</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58379</guid>
-            <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[케어링 그룹, 아디다스, 룰루레몬, 그리고 스텔라 맥카트니 브랜드 등의 탈가죽을 가능케 해준...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/c6d2484c-b010-47f7-89b9-614029f49c55.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
