@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 09:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 10:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스커트 입는 남자들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59382</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59382</guid>
+            <pubDate>Tue, 19 Oct 2021 10:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[젠더 뉴트럴의 시대. 옷은 더 이상 성별을 따지지 않는다. 스커트도 예외는 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/d9b082f7-cc74-48cc-8eb3-6b04f9c274e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 재킷 꺼내려고 했는데 한파 온다고..?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59356</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 08:20:26 GMT</pubDate>
             <content:encoded><![CDATA[은우도 촬영 전에는 닭가슴살 먹는다. 모두 분발하자!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/bfe6fa1d-0015-4cc4-b6fa-3b3dd2518339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평화로운 풍경에서 포착한 이번 시즌의 부츠들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59205</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59205</guid>
-            <pubDate>Thu, 14 Oct 2021 07:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[강렬한 컬러, 포근한 텍스처, 화려한 반짝임. 이 계절, 주목해야 할 부츠들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/6d09275d-592b-4378-945a-01817e202118.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
