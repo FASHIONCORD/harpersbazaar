@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 15:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트 굿즈 모여라! 세계 여기 저기서 모은 아트 굿즈들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59406</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59406</guid>
+            <pubDate>Tue, 19 Oct 2021 15:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[좋아하는 작가나 공간의 일부를 오래도록 간직할 수 있을까? 6인의 컬렉터가 각자의 소중한 기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27e7ba6f-c003-4847-9f78-9967852720dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어 공개된, 디즈니+의 콘텐츠 라인업]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59388</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 16 Oct 2021 17:20:50 GMT</pubDate>
             <content:encoded><![CDATA[정희승은 목동 작업실에서 여전히 무언가를 들여다보는 일에 몰두하고 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/ff3d2334-d821-4899-b26b-772593e4dab3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59316</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59316</guid>
-            <pubDate>Sat, 16 Oct 2021 04:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[지금 당장 재생 목록에 찜해야 할 넷플릭스 다큐멘터리 작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/eb4a0a42-dafc-4104-a09d-d40a50ea952d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
