@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 10:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<놀면 뭐하니>에 등장한 깐부 할아버지의 명언]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59419</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59419</guid>
+            <pubDate>Wed, 20 Oct 2021 10:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[어떻게 살아야 할까... 고민이 많은 사람이라면 ,품위 넘치는 오영수 배우와의 인터뷰를 주목...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/8f6937d0-4b24-451f-b6b8-1464354d2e23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트 굿즈 모여라! 세계 여기 저기서 모은 아트 굿즈들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59406</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 17 Oct 2021 05:16:05 GMT</pubDate>
             <content:encoded><![CDATA[하루 한끼, 고기 대신 채소 위주로 식사를 하는 것만으로 지구 탄소 배출을 줄일 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/915b3e82-0b93-46c1-8aaa-b45c80e1f719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['올해의 작가상 2020'을 끝낸 정희승이 요즘 몰두하는 것]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59327</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59327</guid>
-            <pubDate>Sat, 16 Oct 2021 17:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[정희승은 목동 작업실에서 여전히 무언가를 들여다보는 일에 몰두하고 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/ff3d2334-d821-4899-b26b-772593e4dab3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

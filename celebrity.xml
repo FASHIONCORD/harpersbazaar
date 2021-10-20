@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 10:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이네임 한소희의 OOTD]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59407</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59407</guid>
+            <pubDate>Wed, 20 Oct 2021 10:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[큐티, 시크, 편안함으로 무장한 한소희의 데일리 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/19d04a12-b1f8-410c-9d7b-d2c1278108de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해가 가기 전 단발이 하고 싶다면? 리사, 윈터, 현아처럼!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59393</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 08:21:11 GMT</pubDate>
             <content:encoded><![CDATA[평소 꾸준히 완벽한 몸매를 유지하는 비결은 무엇?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/1e62b51a-e25c-45e8-9689-36cdf293ab03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김선호, 이런 캐릭터는 오랜만이야!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59228</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59228</guid>
-            <pubDate>Thu, 14 Oct 2021 05:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;갯마을 차차차〉의 홍반장을 통해 2021년 대세 배우로 떠오른 김선호의 매력을 알아봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/875bd740-d9af-4515-8ee2-7ab9f8168a84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
