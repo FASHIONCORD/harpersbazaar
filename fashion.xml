@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 23:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 01:00:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이네임 한소희의 OOTD]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59407</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59407</guid>
+            <pubDate>Wed, 20 Oct 2021 00:58:44 GMT</pubDate>
+            <content:encoded><![CDATA[큐티, 시크, 편안함으로 무장한 한소희의 데일리 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/19d04a12-b1f8-410c-9d7b-d2c1278108de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스커트 입는 남자들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59382</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 09:17:21 GMT</pubDate>
             <content:encoded><![CDATA[가을빛 고운 10월, &lt;바자&gt;가 주목한 10가지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3c67f1eb-73e8-4708-9f94-6e7645491b0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차은우는 MBTI가 2개라던데..?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59236</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59236</guid>
-            <pubDate>Fri, 15 Oct 2021 08:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[은우도 촬영 전에는 닭가슴살 먹는다. 모두 분발하자!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/bfe6fa1d-0015-4cc4-b6fa-3b3dd2518339.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
