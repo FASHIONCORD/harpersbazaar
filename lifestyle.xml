@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 04:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 05:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아파트 반 셀프 인테리어, 이렇게 하세요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59421</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59421</guid>
+            <pubDate>Wed, 20 Oct 2021 05:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[박람회까지 섭렵 할 정도로 발품 팔아 완성한 인테리어 장인의 집 #홈터뷰]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c89fd7d2-e77c-48a8-9862-7dc99f8f373e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 가장 핫한 편의점 신상 과자 4]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59417</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 17 Oct 2021 05:16:34 GMT</pubDate>
             <content:encoded><![CDATA[이토록 새로운 차이나타운]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/6c241fe4-7be7-433a-897f-e009dc039bf1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59316</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59316</guid>
-            <pubDate>Sat, 16 Oct 2021 02:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[지금 당장 재생 목록에 찜해야 할 넷플릭스 다큐멘터리 작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/eb4a0a42-dafc-4104-a09d-d40a50ea952d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
