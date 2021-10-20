@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 07:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 08:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고기보다 맛있는 양배추 스테이크?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59422</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59422</guid>
+            <pubDate>Wed, 20 Oct 2021 08:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[많이 먹어도 살 안 쪄요. 한 통 순삭하게 만드는 초간단 양배추 요리 레시피.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/aeda40e0-fe1a-4893-9e34-0648051460eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아파트 반 셀프 인테리어, 이렇게 하세요]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59421</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Oct 2021 10:20:54 GMT</pubDate>
             <content:encoded><![CDATA[제주의 맛을 충분히 즐겼다면, 이제 카페 투어를 떠날 차례. 일단 여기 다섯 곳은 꼭 가보자...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c4b1ad29-c678-4577-b6d1-7b20044b9f87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인천 차이나타운 방문 예정이라면? 반드시 알아야 할 루트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59347</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59347</guid>
-            <pubDate>Sun, 17 Oct 2021 05:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[이토록 새로운 차이나타운]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/6c241fe4-7be7-433a-897f-e009dc039bf1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
