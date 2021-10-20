@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진으로 느끼는 기후위기의 심각성 #지구해요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59111</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59111</guid>
+            <pubDate>Wed, 20 Oct 2021 07:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기를 견디고 살아남는다는 것은 어떤 의미일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/47bc29ea-ab83-4755-b33b-152aabdec42c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#쓰확행을 위해 노력하는 친환경 숍 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59086</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[폐현수막의 환골탈태]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/75451295-a9c3-498a-a1f9-67a064a9a345.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 야채만 먹는데 살이 찔까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58636</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58636</guid>
-            <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[농작물에 사용하는 살충제가 비만 가능성을 높일 수 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/8e30b5db-c0b9-47ec-94e0-b5addcb8174e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
