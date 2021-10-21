@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이산화탄소를 안경으로 바꿀 수 있다고? #지구해요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59295</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59295</guid>
+            <pubDate>Thu, 21 Oct 2021 03:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능한 패션을 위한 도전! 기후친화적 아이웨어 출시]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/5d73881f-b1a2-4568-bfc6-0863556259a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사진으로 느끼는 기후위기의 심각성 #지구해요]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59111</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
             <content:encoded><![CDATA[친환경의 가치를 알리기 위해 노력하는 사장님들과 나눈 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/22/c98adb0d-31d4-4d56-bbb6-3077d68f40d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아까운 폐현수막, 다시 쓸 수 있을까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58672</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58672</guid>
-            <pubDate>Thu, 07 Oct 2021 11:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[폐현수막의 환골탈태]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/75451295-a9c3-498a-a1f9-67a064a9a345.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

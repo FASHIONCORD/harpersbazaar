@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바늘로 문질러 피부 좋아지는 법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59379</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59379</guid>
+            <pubDate>Thu, 21 Oct 2021 03:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[예뻐지기 위해 바늘로 얼굴을 문지른다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/595e3255-da4e-4008-9c30-a2a13673c146.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연출가로 변신한 문근영의 다이어트 비결은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59360</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 10:19:45 GMT</pubDate>
             <content:encoded><![CDATA[10만 팔로워를 보유한 그녀의 사진 잘 나오는 메이크업 대공개!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/f40b274f-c247-41cb-a142-b6f636ed0db0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아델의 우울증 극복법은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59277</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59277</guid>
-            <pubDate>Fri, 15 Oct 2021 10:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[아델이 우울증 이겨낸 방법, 운동이라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/ba0af316-9928-44de-aad6-b4311118fea0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
