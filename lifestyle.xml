@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 06:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 07:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카페 맞아? 오픈런 각오해야 할 이번 주 #신상핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59449</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59449</guid>
+            <pubDate>Thu, 21 Oct 2021 07:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[무조건 오픈런! 따끈따끈 새롭게 오픈한 이번 주 신상 핫플레이스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/43b91584-5ed1-4f5b-99c5-3588dfc2f0bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페트병이 비닐을 벗기 시작했다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59441</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Oct 2021 10:20:54 GMT</pubDate>
             <content:encoded><![CDATA[올가을, 골프웨어 쇼핑에 스마트한 가이드가 되어줄 14개 브랜드의 키 아이템을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/3f4c1841-c9ea-4c6b-ad72-0d2cd4ddbe6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 한끼 채식을 먹고 싶다면 플렉시테리언의 레시피 참고해]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59363</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59363</guid>
-            <pubDate>Mon, 18 Oct 2021 10:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[하루 한끼, 고기 대신 채소 위주로 식사를 하는 것만으로 지구 탄소 배출을 줄일 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/915b3e82-0b93-46c1-8aaa-b45c80e1f719.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
