@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 10:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 11:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS, 빌리 아일리시, 콜드플레이, 위켄드까지! 투어가 시작된다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59463</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59463</guid>
+            <pubDate>Thu, 21 Oct 2021 11:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[위드 코로나? 오프라인 콘서트를 예고한 그들 공연의 중요 포인트]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/c5da6c30-6069-44b0-b0d5-1eb6a04c9364.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마음을 전할 편지지와 문필 도구들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59451</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59451</guid>
+            <pubDate>Thu, 21 Oct 2021 11:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[종이 위로 번지는 마음의 편지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/75d74168-ad1b-4dfe-9f2d-cdcf2adefd56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카페 맞아? 오픈런 각오해야 할 이번 주 #신상핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59449</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 12:28:34 GMT</pubDate>
             <content:encoded><![CDATA[내년에는 가볼 수 있겠지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/79e00d01-4381-43f6-bca3-1014a6e6f888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로브, 맥케이슨, 퓨처레트로. 영 골퍼들 사이에서 입소문난 핫 브랜드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59374</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59374</guid>
-            <pubDate>Tue, 19 Oct 2021 08:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[올가을, 골프웨어 쇼핑에 스마트한 가이드가 되어줄 14개 브랜드의 키 아이템을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/958d5815-ef17-4562-960a-601519002514.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골프 실력도 패션 센스도 스타일도 남다른 이들을 위한 쇼핑리스트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59372</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59372</guid>
-            <pubDate>Mon, 18 Oct 2021 10:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[올가을, 골프웨어 쇼핑에 스마트한 가이드가 되어줄 14개 브랜드의 키 아이템을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/3f4c1841-c9ea-4c6b-ad72-0d2cd4ddbe6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

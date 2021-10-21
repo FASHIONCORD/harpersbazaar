@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 10:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 11:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마블의 히어로 마동석의 매력 포인트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59475</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59475</guid>
+            <pubDate>Thu, 21 Oct 2021 11:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[연기도 잘하는데 영어도 잘하고 사랑꾼이다...!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/c7e7e30c-c0ea-4a8c-978d-6494f35f60b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS, 빌리 아일리시, 콜드플레이, 위켄드까지! 투어가 시작된다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59463</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 10:20:18 GMT</pubDate>
             <content:encoded><![CDATA[자연 속에서 방탄소년단이 요리하고 먹고 족구하고 놀고 쉰다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/820a9d6a-b151-4441-8590-cb6de49b33ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이블랙이 스우파 보고 화난 이유 ?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59280</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59280</guid>
-            <pubDate>Mon, 18 Oct 2021 12:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[“타이 점수가 나왔다고요?”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/d5d6a613-bec4-4eea-b882-40ecc5d05f0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

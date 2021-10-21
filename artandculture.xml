@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 10:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 11:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고기보다 맛있는 양배추 스테이크?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59422</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59422</guid>
+            <pubDate>Thu, 21 Oct 2021 11:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[많이 먹어도 살 안 쪄요. 한 통 순삭하게 만드는 초간단 양배추 요리 레시피.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/aeda40e0-fe1a-4893-9e34-0648051460eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<놀면 뭐하니>에 등장한 깐부 할아버지의 명언]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59419</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Oct 2021 06:22:21 GMT</pubDate>
             <content:encoded><![CDATA[전시장에서 만난 이수경 작가는 한사코 자신의 모습은 작게 찍기를 원했다. 구례산 두더지처럼 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/3e5ca832-3f47-404f-b0f9-cd586edfeb5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 한끼 채식을 먹고 싶다면 플렉시테리언의 레시피 참고해]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59363</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59363</guid>
-            <pubDate>Sun, 17 Oct 2021 05:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[하루 한끼, 고기 대신 채소 위주로 식사를 하는 것만으로 지구 탄소 배출을 줄일 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/915b3e82-0b93-46c1-8aaa-b45c80e1f719.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
