@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 01:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 02:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언제나 빛나는 미모, 샤이니 민호]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59495</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59495</guid>
+            <pubDate>Fri, 22 Oct 2021 02:33:12 GMT</pubDate>
+            <content:encoded><![CDATA["역할 속에 더 잘 녹아 들기 위해 내 모습을 뛰어 넘으려 한다."]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/c424e728-e8d3-4b51-b363-e6741fafc56d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 대세, '잘생쁨' 언니들  #Z세대보고서]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59484</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 08:21:25 GMT</pubDate>
             <content:encoded><![CDATA[긴 머리 짧게 자르고 스타일 확 바뀐 단발 스타 3]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/f4f050ef-dee3-4c0b-8cd0-972aaddf892a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허니제이와 박재범의 꿀 케미]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59301</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59301</guid>
-            <pubDate>Wed, 20 Oct 2021 05:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[두 유 노우 비즈니스 파트너?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/d17aff13-5e7b-4e07-b64b-c9c27800fd29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
