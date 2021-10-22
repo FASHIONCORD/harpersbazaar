@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 23:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 01:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 대세, '잘생쁨' 언니들  #Z세대보고서]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59484</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59484</guid>
+            <pubDate>Fri, 22 Oct 2021 01:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[제 얼굴 똑 바로 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/0fa9cab7-73a5-4fe7-86c7-1e5bcbc188b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마블의 히어로 마동석의 매력 포인트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59475</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 05:16:40 GMT</pubDate>
             <content:encoded><![CDATA[두 유 노우 비즈니스 파트너?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/d17aff13-5e7b-4e07-b64b-c9c27800fd29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 방을 앞둔 방탄소년단의 새 예능?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59299</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59299</guid>
-            <pubDate>Tue, 19 Oct 2021 10:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[자연 속에서 방탄소년단이 요리하고 먹고 족구하고 놀고 쉰다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/820a9d6a-b151-4441-8590-cb6de49b33ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
