@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 16:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 17:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포즈왕찐천재! 발렌시아가와 함께한 홍진경]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59456</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59456</guid>
+            <pubDate>Sun, 24 Oct 2021 17:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[본업 활동 중인 홍진경의 찐모습]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/4444c0a7-bf61-452c-b509-7493db7974bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아델과 자비에 돌란의 만남?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59447</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 08:21:01 GMT</pubDate>
             <content:encoded><![CDATA[가을아 힘내!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/dec73b8d-63c0-4a06-8ba4-4fd2e47d4232.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누적 시청자 10만명! 틱톡 X 서울패션위크 라이브 방송은 무엇?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59352</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59352</guid>
-            <pubDate>Mon, 18 Oct 2021 12:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[서울패션위크를 대표하는 4개의 브랜드와 틱톡 크리에이터 4인의 컬래버레이션 라이브 방송!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/b56e68ae-eaf9-42b7-afa8-fe1bc642c1ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
