@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 09:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 10:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이 비통 카퓌신을 커스텀한 예술가들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59454</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59454</guid>
+            <pubDate>Mon, 25 Oct 2021 10:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통과 현대미술가의 협업인 아티카퓌신(ArtyCapucines)의 세 번째 프로젝트가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/26a11177-0185-4ad7-ac34-6f6a4e6e5c11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아델과 자비에 돌란의 만남?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59447</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 09:18:05 GMT</pubDate>
             <content:encoded><![CDATA[기록하면 기억된다. 주류 역사에서 배제된 소수자의 보이지 않는 삶의 흔적을 발굴해 서정적이고...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/74de1e06-8d00-45c7-939d-92ea07b725f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피카소? 샤갈? 페르시아 미니어쳐? 톰 안홀트의 회화 세계]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59376</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59376</guid>
-            <pubDate>Mon, 18 Oct 2021 10:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[표현주의와 입체주의를 넘나드는 화면 위에 가미한 ‘페르시아 미니어처’ 풍의 기하학적 도형과 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/bd4434fd-91f9-4849-8289-e1a7af7c96a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
