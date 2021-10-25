@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥주현의 건강한 피부 비결]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59344</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59344</guid>
+            <pubDate>Mon, 25 Oct 2021 09:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[10년간 닥터하우쉬카로 피부 본연의 건강함을 유지해온 옥주현. 그녀의 아름다운 순간을 담았다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/62810a88-0f64-49a2-8844-3cee880bf33f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비타민C 많이 먹을 수록 좋다? 비타민C메가도스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59405</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 17 Oct 2021 16:25:03 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 뷰티 업계 역시 힘든 시기를 겪고 있지만, 어려운 상황 속에서도 두각을 나타낸 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/71dc4bb1-514b-4a6f-8f98-177cd7d40a81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[많이 팔린 데는 이유가 있다! 1년 동안 가장 잘 나간 보디 케어]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59289</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59289</guid>
-            <pubDate>Sat, 16 Oct 2021 17:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 뷰티 업계 역시 힘든 시기를 겪고 있지만, 어려운 상황 속에서도 두각을 나타낸 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ff52b60c-df22-4476-ae89-d2b0f4155c1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

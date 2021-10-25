@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민호의 프라임세포는 열정세포? 다정세포? 미남세포?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59557</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59557</guid>
+            <pubDate>Mon, 25 Oct 2021 09:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕 난 민호고 이건 내 사랑세포야]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/bdf2f60d-b134-41a9-8cbc-6ace90b705b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혜리의 반전 매력, 타사키와 빛나는 만남]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59554</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 21 Oct 2021 11:15:40 GMT</pubDate>
             <content:encoded><![CDATA[연기도 잘하는데 영어도 잘하고 사랑꾼이다...!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/c7e7e30c-c0ea-4a8c-978d-6494f35f60b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS, 빌리 아일리시, 콜드플레이, 위켄드까지! 투어가 시작된다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59463</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59463</guid>
-            <pubDate>Thu, 21 Oct 2021 09:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[위드 코로나? 오프라인 콘서트를 예고한 그들 공연의 중요 포인트]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/c5da6c30-6069-44b0-b0d5-1eb6a04c9364.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
