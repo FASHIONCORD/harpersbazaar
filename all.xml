@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 07:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 08:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -944,6 +944,13 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ff52b60c-df22-4476-ae89-d2b0f4155c1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혜리의 반전 매력, 타사키와 빛나는 만남 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59554</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59554</guid>
+            <pubDate>Mon, 25 Oct 2021 08:21:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/725e5abf-f5f3-48a3-8708-9437b21d0056.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모빌의 창시자, 알렉산더 칼더의 개인전이 서울에서 열린다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59540</link>
             <guid>https://www.harpersbazaar.co.kr/article/59540</guid>
@@ -1000,7 +1007,7 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/c5da6c30-6069-44b0-b0d5-1eb6a04c9364.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아델과 자비에 돌란의 만남? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <title><![CDATA[아델과 자비에 돌란의 만남? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59447</link>
             <guid>https://www.harpersbazaar.co.kr/article/59447</guid>
             <pubDate>Thu, 21 Oct 2021 07:18:52 GMT</pubDate>
@@ -1064,12 +1071,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/bd4434fd-91f9-4849-8289-e1a7af7c96a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밴드 실리카겔의 신곡은 이렇게 만들어졌다 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59375</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59375</guid>
-            <pubDate>Mon, 18 Oct 2021 10:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 실리카겔이 음악과 비디오로 만들어내는 세계는 매번 새롭다. 이번에는 사막으로의 초대장이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/da4e7e42-11ba-43ba-b49b-e07c12dddc87.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[따릉이가 없어진다고? 그럴리가!? #이슈있슈 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59578</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59578</guid>
+            <pubDate>Mon, 25 Oct 2021 08:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[따릉이 내년 예산이 ‘0원’이라고? “6000대 추가 도입합니다!"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/641a23f3-ab77-466a-8d63-9b3bfe39fe9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모빌의 창시자, 알렉산더 칼더의 개인전이 서울에서 열린다 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -1126,14 +1133,6 @@
             <pubDate>Thu, 21 Oct 2021 11:16:26 GMT</pubDate>
             <content:encoded><![CDATA[종이 위로 번지는 마음의 편지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/75d74168-ad1b-4dfe-9f2d-cdcf2adefd56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카페 맞아? 오픈런 각오해야 할 이번 주 #신상핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59449</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59449</guid>
-            <pubDate>Thu, 21 Oct 2021 07:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[무조건 오픈런! 따끈따끈 새롭게 오픈한 이번 주 신상 핫플레이스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/43b91584-5ed1-4f5b-99c5-3588dfc2f0bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리 (하퍼스바자 코리아 ─ 지속가능성)]]></title>

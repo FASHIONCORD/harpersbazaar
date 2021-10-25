@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 07:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 08:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아델과 자비에 돌란의 만남?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59447</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59447</guid>
+            <pubDate>Mon, 25 Oct 2021 08:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[아델과 자비에 돌란, 두 사람이 환상의 짝꿍일 수 밖에 없는 이유!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/b13bd3cd-0e68-4443-8430-1b981b487f3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤디 워홀의 50가지 얼굴]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59439</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 18 Oct 2021 10:20:26 GMT</pubDate>
             <content:encoded><![CDATA[표현주의와 입체주의를 넘나드는 화면 위에 가미한 ‘페르시아 미니어처’ 풍의 기하학적 도형과 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/bd4434fd-91f9-4849-8289-e1a7af7c96a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밴드 실리카겔의 신곡은 이렇게 만들어졌다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59375</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59375</guid>
-            <pubDate>Mon, 18 Oct 2021 10:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[밴드 실리카겔이 음악과 비디오로 만들어내는 세계는 매번 새롭다. 이번에는 사막으로의 초대장이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/16/da4e7e42-11ba-43ba-b49b-e07c12dddc87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
