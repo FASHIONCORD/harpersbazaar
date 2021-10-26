@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 23:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 00:57:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노제, 이런 모습 처음이야! 압도적 미모]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59604</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59604</guid>
+            <pubDate>Tue, 26 Oct 2021 00:55:11 GMT</pubDate>
+            <content:encoded><![CDATA[댄서 노제의 지금까지 볼 수 없었던 팔색조 매력]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/6f93601e-1485-4ad5-b945-6987d8001206.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민호의 프라임세포는 열정세포? 다정세포? 미남세포?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59557</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 22 Oct 2021 01:03:51 GMT</pubDate>
             <content:encoded><![CDATA[제 얼굴 똑 바로 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/0fa9cab7-73a5-4fe7-86c7-1e5bcbc188b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마블의 히어로 마동석의 매력 포인트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59475</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59475</guid>
-            <pubDate>Thu, 21 Oct 2021 11:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[연기도 잘하는데 영어도 잘하고 사랑꾼이다...!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/c7e7e30c-c0ea-4a8c-978d-6494f35f60b5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
