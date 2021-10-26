@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 11:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 12:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스토킹 벌금 10만 원 시대는 이제 끝! 최대 징역 5년]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59613</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59613</guid>
+            <pubDate>Tue, 26 Oct 2021 12:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[처벌수위가 올라가는 스토킹 범죄. #이슈있슈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/76752693-7184-443f-92ab-efb021570616.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창가 쟁탈전 치열한 #통창뷰맛집]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59581</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 12:28:33 GMT</pubDate>
             <content:encoded><![CDATA[올해 '대상' 수상작은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/c6c6da7f-7499-48c0-9049-ec388b684f04.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[‘환경특별시' 인천의 친환경 숍 4 #쓰레기없지도]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59473</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59473</guid>
-            <pubDate>Fri, 22 Oct 2021 10:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[환경을 위해 앞장서는 숍 마스터들의 작지만 큰 목소리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/1364141a-4410-4bf0-889a-e6a00e8036c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

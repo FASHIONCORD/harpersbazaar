@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 11:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 12:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모빌의 창시자, 알렉산더 칼더의 개인전이 서울에서 열린다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59540</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59540</guid>
+            <pubDate>Tue, 26 Oct 2021 12:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[놓치면 내 손해! 꼭 챙겨봐야 할 이번 주 신상 전시회 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/046986b4-3171-46b7-9a03-9edcb0114ac1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 대세, '잘생쁨' 언니들  #Z세대보고서]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59484</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 15:20:05 GMT</pubDate>
             <content:encoded><![CDATA[좋아하는 작가나 공간의 일부를 오래도록 간직할 수 있을까? 6인의 컬렉터가 각자의 소중한 기...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27e7ba6f-c003-4847-9f78-9967852720dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 공개된, 디즈니+의 콘텐츠 라인업]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59388</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59388</guid>
-            <pubDate>Tue, 19 Oct 2021 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[강다니엘 드라마, 국내 히어로물도?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/68e66a88-5fc4-4a91-bdf8-fdba592b97dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
