@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MCM이 그리는 미래]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59563</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59563</guid>
+            <pubDate>Tue, 26 Oct 2021 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[MCM 메타버스 프로젝트를 서울에서 처음으로 개최한다. 이를 기념해 서울을 찾은 MCM 크리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/41380692-faa5-4b9a-8813-53b090ee3d7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리폼 패션의 귀환]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59559</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59559</guid>
+            <pubDate>Tue, 26 Oct 2021 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA["시간과 공을 들여 수공 제작한 리폼 컬렉션이 앞으로 더 성행할 거라고 예상한다!"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/62bef187-f39a-42e5-bdb5-f837b9d7e4cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LIVE 보테가 베네타의 살롱03을 공개합니다.]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59514</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 01:02:30 GMT</pubDate>
             <content:encoded><![CDATA[연, 하다, 고로켓, 미선이 말하는 틱톡의 매력부터 라이브 방송 후기까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/6683bd3e-f528-4e1e-8539-46ee022fa26d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이네임 한소희의 OOTD]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59407</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59407</guid>
-            <pubDate>Wed, 20 Oct 2021 00:58:44 GMT</pubDate>
-            <content:encoded><![CDATA[큐티, 시크, 편안함으로 무장한 한소희의 데일리 룩]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/19d04a12-b1f8-410c-9d7b-d2c1278108de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스커트 입는 남자들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59382</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59382</guid>
-            <pubDate>Tue, 19 Oct 2021 10:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[젠더 뉴트럴의 시대. 옷은 더 이상 성별을 따지지 않는다. 스커트도 예외는 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/d9b082f7-cc74-48cc-8eb3-6b04f9c274e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
