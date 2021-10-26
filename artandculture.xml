@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 06:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 07:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 대세, '잘생쁨' 언니들  #Z세대보고서]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59484</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59484</guid>
+            <pubDate>Tue, 26 Oct 2021 07:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[제 얼굴 똑 바로 보세요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/0fa9cab7-73a5-4fe7-86c7-1e5bcbc188b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루이 비통 카퓌신을 커스텀한 예술가들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59454</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 10:20:35 GMT</pubDate>
             <content:encoded><![CDATA[강다니엘 드라마, 국내 히어로물도?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/68e66a88-5fc4-4a91-bdf8-fdba592b97dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게이 인권과 역사를 바탕으로 작업하는 작가 이강승]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59380</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59380</guid>
-            <pubDate>Tue, 19 Oct 2021 09:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[기록하면 기억된다. 주류 역사에서 배제된 소수자의 보이지 않는 삶의 흔적을 발굴해 서정적이고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/74de1e06-8d00-45c7-939d-92ea07b725f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
