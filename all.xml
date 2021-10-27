@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1007,6 +1007,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/fa328f51-1e17-4982-8a96-a046d0cf2f42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이유, 노래만 좋은 줄 알았지? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59618</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59618</guid>
+            <pubDate>Tue, 26 Oct 2021 12:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[아이유가 직접 쓴 곡 소개글도 좋다! 앨범 소개글 맛집, 아이유의 띵소개글과 노래를 모았다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/2233ce3f-95f9-469a-8e47-2f94f47c53db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모빌의 창시자, 알렉산더 칼더의 개인전이 서울에서 열린다 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59540</link>
             <guid>https://www.harpersbazaar.co.kr/article/59540</guid>
@@ -1061,14 +1069,6 @@
             <pubDate>Wed, 20 Oct 2021 10:20:11 GMT</pubDate>
             <content:encoded><![CDATA[어떻게 살아야 할까... 고민이 많은 사람이라면 ,품위 넘치는 오영수 배우와의 인터뷰를 주목...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/8f6937d0-4b24-451f-b6b8-1464354d2e23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아트 굿즈 모여라! 세계 여기 저기서 모은 아트 굿즈들 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59406</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59406</guid>
-            <pubDate>Tue, 19 Oct 2021 15:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[좋아하는 작가나 공간의 일부를 오래도록 간직할 수 있을까? 6인의 컬렉터가 각자의 소중한 기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/27e7ba6f-c003-4847-9f78-9967852720dc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스토킹 벌금 10만 원 시대는 이제 끝! 최대 징역 5년 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
