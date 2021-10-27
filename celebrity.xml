@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이시영의 여긴 어디? #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59632</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59632</guid>
+            <pubDate>Wed, 27 Oct 2021 09:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[럭셔리한 카페부터 자연 속 힐링 공간까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/3a7134b2-e507-432b-b56a-bbd4c5857ad4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨스 앤더슨 감독의 ‘프렌치 디스패치’ 관전 포인트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59629</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 25 Oct 2021 06:22:01 GMT</pubDate>
             <content:encoded><![CDATA[매일 20가지가 넘는 아이템을 들고 다닌다고요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/a0e6a9e8-dedc-447c-9ca0-788e63367602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스테이씨가 지구와 함께 사는 법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59518</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59518</guid>
-            <pubDate>Mon, 25 Oct 2021 00:58:38 GMT</pubDate>
-            <content:encoded><![CDATA[스테이씨가 그린 라이프를 실천하기 위해 일상에서 사용하는 물건들을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/fa328f51-1e17-4982-8a96-a046d0cf2f42.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
