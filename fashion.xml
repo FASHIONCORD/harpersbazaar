@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행운을 준다던 목걸이]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60655</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60655</guid>
+            <pubDate>Wed, 27 Oct 2021 07:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[몸에 지니면 행운을 가져다줄 것 같은 코인과 카메오 주얼리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/38053d55-ec4d-4e5e-a9bd-56e00d003cb8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울-파리-런던을 잇는 커버 스토리.]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60654</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60654</guid>
+            <pubDate>Wed, 27 Oct 2021 07:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[도시 자체가 하나의 세계관을 이루는 세 도시로 떠났다. 첫번째 목적지는 서울. 세계에서 가장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/52f6a9f0-46e7-4d02-8807-29c50511f322.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석양 아래에서 마주한 김성령]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59643</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 00:54:18 GMT</pubDate>
             <content:encoded><![CDATA[보테가 베네타의 2022년 봄 컬렉션 미리보기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c4bf2a70-22f0-4a65-9a95-4c0b1fc413c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포즈왕찐천재! 발렌시아가와 함께한 홍진경]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59456</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59456</guid>
-            <pubDate>Sun, 24 Oct 2021 17:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[본업 활동 중인 홍진경의 찐모습]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/4444c0a7-bf61-452c-b509-7493db7974bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아델과 자비에 돌란의 만남?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59447</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59447</guid>
-            <pubDate>Fri, 22 Oct 2021 08:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[아델과 자비에 돌란, 두 사람이 환상의 짝꿍일 수 밖에 없는 이유!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/b13bd3cd-0e68-4443-8430-1b981b487f3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
