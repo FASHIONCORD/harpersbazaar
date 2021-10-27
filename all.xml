@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 07:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 08:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1071,6 +1071,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/8f6937d0-4b24-451f-b6b8-1464354d2e23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<놀면 뭐하니?> 팀이 다녀간 맛집 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59614</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59614</guid>
+            <pubDate>Wed, 27 Oct 2021 08:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[안 가고 뭐하니?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/35c05175-b5fc-4144-aea0-d3bb4672dc87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스토킹 벌금 10만 원 시대는 이제 끝! 최대 징역 5년 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59613</link>
             <guid>https://www.harpersbazaar.co.kr/article/59613</guid>
@@ -1125,14 +1133,6 @@
             <pubDate>Fri, 22 Oct 2021 12:28:33 GMT</pubDate>
             <content:encoded><![CDATA[스테이씨가 그린 라이프를 실천하기 위해 일상에서 사용하는 물건들을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/fa328f51-1e17-4982-8a96-a046d0cf2f42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연의 아름다움을 담은 '2021 네이처 포토 콘테스트' (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59503</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59503</guid>
-            <pubDate>Fri, 22 Oct 2021 12:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[올해 '대상' 수상작은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/c6c6da7f-7499-48c0-9049-ec388b684f04.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
