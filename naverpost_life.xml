@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 22:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 23:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['놀 줄 아는' 이시영이 다녀온 힙플레이스 3 (서운 동산, 램램램, 카페 디올)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32635512&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32635512&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 27 Oct 2021 23:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMTg3/MDAxNjM1MzE4ODc4MDc1.iPwM5PbuPS-ahhGDiR_3W6umsqXWbu0EGpEIhq3N7Icg.w-RsDfJqI1NJLfnzcE7x___TV2pb3TiHe5znjP7XQhEg.JPEG/I1zaQzweqFDKHTo1neaBivyeWWcc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛집 다음은 커피가 국룰! 제주 카페 핫플레이스 BEST 5 (롤링브루잉, 커피템플 등)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32576268&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -160,14 +168,6 @@
             <pubDate>Thu, 07 Oct 2021 12:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjlfNTYg/MDAxNjI3NTQ1MDg2MzQz.A0EUEgRZ1sq_Gx1LayjjTgCijaOXyXhlWEwFp3rZS7og.mKlPkuGxPEsOpO2qgD7piHio1Mdngt7L6iiX3u61gq0g.JPEG/IhVYGkVNq3zw9BT3LWLFVkEK7bSY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴가 계획 짠다고? 1박 2일 강원도 여행코스 (고성, 양양, 속초, 원주 등)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32058455&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32058455&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 12:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA3MjhfMjg3/MDAxNjI3NDQxNzg4MTc5.8DJdRdGS12nvcKKR648yPu5eS2IQVOl29v3CcGBQaowg.6yUknmuP9VwPnr2IUWSa6UJk2qXv_ErRIU-TurU2dNwg.JPEG/IdrQBB3Ob1ww1z6yl3e2cDO5LS-8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
