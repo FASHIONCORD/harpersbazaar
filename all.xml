@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 07:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 08:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1071,6 +1071,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/8f6937d0-4b24-451f-b6b8-1464354d2e23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맛있는 컬래버레이션 BEST 6 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60653</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60653</guid>
+            <pubDate>Thu, 28 Oct 2021 08:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[맛있는 것과 맛있는 것이 만났다. 지금 먹을 수 있는 특별한 컬래버레이션 신상템!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/576e5ae8-859d-4330-b000-1c5c7c190d08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<오징어 게임> 알리의 고향의 맛 카레와 밀크티 레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59637</link>
             <guid>https://www.harpersbazaar.co.kr/article/59637</guid>
@@ -1125,14 +1133,6 @@
             <pubDate>Mon, 25 Oct 2021 08:22:26 GMT</pubDate>
             <content:encoded><![CDATA[따릉이 내년 예산이 ‘0원’이라고? “6000대 추가 도입합니다!"]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/641a23f3-ab77-466a-8d63-9b3bfe39fe9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모빌의 창시자, 알렉산더 칼더의 개인전이 서울에서 열린다 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59540</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59540</guid>
-            <pubDate>Mon, 25 Oct 2021 03:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[놓치면 내 손해! 꼭 챙겨봐야 할 이번 주 신상 전시회 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/046986b4-3171-46b7-9a03-9edcb0114ac1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
