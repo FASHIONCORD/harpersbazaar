@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 09:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 10:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<전참시> 화제의 시스터즈! 김재화, 김혜화, 김승화 세 자매의 '지금']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60666</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60666</guid>
+            <pubDate>Fri, 29 Oct 2021 10:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[찐 자매 케미는 이런 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/d5741743-fd44-42af-89e5-65443e278036.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[붉은 지구를 구해라, 레오나르도 디카프리오의 환경운동]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60658</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 00:55:11 GMT</pubDate>
             <content:encoded><![CDATA[댄서 노제의 지금까지 볼 수 없었던 팔색조 매력]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/6f93601e-1485-4ad5-b945-6987d8001206.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민호의 프라임세포는 열정세포? 다정세포? 미남세포?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59557</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59557</guid>
-            <pubDate>Mon, 25 Oct 2021 09:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[안녕 난 민호고 이건 내 사랑세포야]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/bdf2f60d-b134-41a9-8cbc-6ace90b705b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

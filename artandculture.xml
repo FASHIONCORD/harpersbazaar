@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 09:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 10:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스 예능이 뜬다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59634</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59634</guid>
+            <pubDate>Fri, 29 Oct 2021 10:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지의 예능과는 조금 다른 신개념 메타버스 예능 2]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/8f99e30c-3101-47af-816c-0ed0ed3cf5ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유, 노래만 좋은 줄 알았지?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59618</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 11:15:55 GMT</pubDate>
             <content:encoded><![CDATA[많이 먹어도 살 안 쪄요. 한 통 순삭하게 만드는 초간단 양배추 요리 레시피.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/aeda40e0-fe1a-4893-9e34-0648051460eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<놀면 뭐하니>에 등장한 깐부 할아버지의 명언]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59419</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59419</guid>
-            <pubDate>Wed, 20 Oct 2021 10:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[어떻게 살아야 할까... 고민이 많은 사람이라면 ,품위 넘치는 오영수 배우와의 인터뷰를 주목...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/8f6937d0-4b24-451f-b6b8-1464354d2e23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
