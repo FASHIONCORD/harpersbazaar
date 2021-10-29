@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 06:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 07:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패션 경매사는 어떤 일을 할까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60686</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60686</guid>
+            <pubDate>Fri, 29 Oct 2021 07:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[존 갈리아노가 크리스챤 디올을 위해 디자인한 드레스는 얼마에 낙찰됐을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1c161aa1-bcb0-44a0-b8f5-0715f4265306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 경매의 대모가 말하는 <오징어 게임> 속 의상의 가치는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60680</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 15:18:28 GMT</pubDate>
             <content:encoded><![CDATA[니트 스타일링을 다양하게 즐기고 싶다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/0de1b71f-0f5d-4e11-afd5-eee2b35e3ddd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을겨울 최애템, 블랙 롱 부츠 하나면 끝]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59575</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59575</guid>
-            <pubDate>Tue, 26 Oct 2021 12:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[가을부터 겨울까지, 필수품은 뭐다? 바로 부츠!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c27ea9da-d004-4ead-9e3a-30cb7077cd59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
