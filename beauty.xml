@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 14:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리사처럼 날씬한 비키니 뒤태 만드는 법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60792</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60792</guid>
+            <pubDate>Fri, 29 Oct 2021 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[겨울에도 비키니 포기 못 해? 따라 해봐!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/2600b598-d3da-49d2-b8dd-4ed84f975671.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2주간 직접 사용해 본 ‘럭셔리크림’, 그 효과는? #B_신상템]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60787</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 03:20:17 GMT</pubDate>
             <content:encoded><![CDATA[이번 기회를 놓치면 다시 만날 수 없다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/37af1fb8-4991-4d79-8c8f-cee43eed9ce6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<마이네임> 안보현의 왕팔뚝 비법은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59517</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59517</guid>
-            <pubDate>Thu, 28 Oct 2021 13:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[브라보현 채널에서 밝힌 안보현의 운동법!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/60a8ac54-d9d3-41f2-a3bd-3cc58c1bf1a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

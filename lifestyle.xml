@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 14:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핼러윈 시즌 지나면 못 먹어요 #핼러윈디저트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60752</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60752</guid>
+            <pubDate>Fri, 29 Oct 2021 15:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[핼러윈 데이 무드를 UP 시켜 줄 스페셜한 한정판 디저트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/dd7f1877-8de3-4fdf-a543-ce2b37663ee5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말 힐링은 양평에서, 경기도투어 #양평핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60751</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 10:21:25 GMT</pubDate>
             <content:encoded><![CDATA[환경 운동에 적극 앞장서고 있는 헐리웃 찐 에코브리티, 레오나르도 디카프리오!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/2725449a-dcea-4537-943e-02e0927d42c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛있는 컬래버레이션 BEST 6]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60653</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60653</guid>
-            <pubDate>Thu, 28 Oct 2021 08:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[맛있는 것과 맛있는 것이 만났다. 지금 먹을 수 있는 특별한 컬래버레이션 신상템!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/576e5ae8-859d-4330-b000-1c5c7c190d08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
