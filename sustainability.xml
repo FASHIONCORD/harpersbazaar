@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 07:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 08:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페트병이 비닐을 벗기 시작했다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59441</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59441</guid>
+            <pubDate>Fri, 29 Oct 2021 08:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[비닐 라벨을 뗐다. 환경을 생각하는 마음으로 재활용을 위해 사력을 다한다. 이 모든 과정인 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/af67a356-7ad0-4df1-9d84-f22348df4a5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루 한끼 채식을 먹고 싶다면 플렉시테리언의 레시피 참고해]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59363</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 01:01:53 GMT</pubDate>
             <content:encoded><![CDATA[비건 파인애플 가죽 '피냐텍스'는 어떤 것?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/f1231d22-fbf1-4fe4-bcd2-6b300b10ed15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캡슐커피 어떻게 버려야 할까? #지구해요]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58720</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58720</guid>
-            <pubDate>Thu, 14 Oct 2021 03:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[소비자들은 캡슐커피 용기로 인한 환경오염 문제 개선을 원하고 있다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/8e1a0e73-a3d2-4cf5-bb66-132d856d2a9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
