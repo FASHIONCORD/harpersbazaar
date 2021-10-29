@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 09:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘환경특별시' 인천의 친환경 숍 4 #쓰레기없지도]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59473</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59473</guid>
+            <pubDate>Fri, 29 Oct 2021 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[환경을 위해 앞장서는 숍 마스터들의 작지만 큰 목소리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/1364141a-4410-4bf0-889a-e6a00e8036c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페트병이 비닐을 벗기 시작했다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59441</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 01:01:53 GMT</pubDate>
             <content:encoded><![CDATA[‘냉장고 파먹기’도 일종의 환경보전이다. 음식 쓰레기가 될 위기에 처한 식재료들을 한 끼 집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/369a9e8f-45b5-4698-9120-eb099ae71f93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파인애플로 가죽을 만든다고? #지구해요]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/58940</link>
-            <guid>https://www.harpersbazaar.co.kr/article/58940</guid>
-            <pubDate>Tue, 19 Oct 2021 01:01:53 GMT</pubDate>
-            <content:encoded><![CDATA[비건 파인애플 가죽 '피냐텍스'는 어떤 것?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/f1231d22-fbf1-4fe4-bcd2-6b300b10ed15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

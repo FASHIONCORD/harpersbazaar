@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 09:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혜리 이런 모습 처음이야]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32650419&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32650419&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 29 Oct 2021 09:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjlfMTYy/MDAxNjM1NDg5MDQ2NzUx.FuKwSlcPbNUY-NfdhmRiaOaqIokt0-IOJ81iQ0m_Jkgg.2BJgPol7hIb7ARiOvsO0-uCmc93jWX1PzuVhRFv8Gc4g.JPEG/IaVywrAvTWK0jre1JItL-TL-_d6E.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 할로윈! 이렇게 입어봐 (오징어 게임, 넥스트 레벨 등)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32647158&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 07:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTFfMTcy/MDAxNjI4NjUzMDA0ODYx.jz5L9hkdinBM_NwwoVkhms5WJ86k_1S5UHs-Euz_c_cg.1vgEd4Zo-0FiJoK-SrIN8Da77oCSFRCBvZKeAqGRi3Yg.JPEG/ICfN3wtt0C5SGatHfxeCEj9JxiTI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워너비 스타 아이유, 김나영, 헤일리 비버가 요즘 꽂힌 캡 모자.ZIP]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32092846&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32092846&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 07:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDJfMjk5/MDAxNjI3OTA0MjE4NzM1.aKYrOZgNqPmehzcNoFCJDzGYw1durDoVyxXbHaOUmqcg.dpyKL80vlH2wBMYkTSt-gDe1FmuveMWbP-JKFP8Dw1Mg.JPEG/IcKFE-T28Ps2k3chaxEI4d4bkTkM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
