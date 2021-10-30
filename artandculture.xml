@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 09:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 10:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임> 알리의 고향의 맛 카레와 밀크티 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59637</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59637</guid>
+            <pubDate>Sat, 30 Oct 2021 10:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[인도 출신 이누팜의 홈쿡 레시피]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/290c6bfa-f400-477b-ab1c-3e698f25c66e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스 예능이 뜬다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/59634</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 05:18:44 GMT</pubDate>
             <content:encoded><![CDATA[수프 깡통과 바나나는 없고 얼굴만 있는 앤디 워홀 전시.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/a13ee052-17c6-4214-b710-b0dde2d826df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고기보다 맛있는 양배추 스테이크?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59422</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59422</guid>
-            <pubDate>Thu, 21 Oct 2021 11:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[많이 먹어도 살 안 쪄요. 한 통 순삭하게 만드는 초간단 양배추 요리 레시피.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/aeda40e0-fe1a-4893-9e34-0648051460eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
