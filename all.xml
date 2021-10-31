@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 11:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 12:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1072,6 +1072,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/a13ee052-17c6-4214-b710-b0dde2d826df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[9년 만에 귀환한 영화감독 레오 카락스의 신작! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60815</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60815</guid>
+            <pubDate>Sun, 31 Oct 2021 12:27:37 GMT</pubDate>
+            <content:encoded><![CDATA[꼭 대형 스크린으로 봐야 한다. 예매를 서둘러야 할 신작 영화 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/cf6bbb29-d363-46f7-9cd4-4d756d992e86.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이건 못 참지, 대세는 크림 빵빵 도넛 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60814</link>
             <guid>https://www.harpersbazaar.co.kr/article/60814</guid>
@@ -1126,14 +1134,6 @@
             <pubDate>Sat, 30 Oct 2021 10:20:19 GMT</pubDate>
             <content:encoded><![CDATA[지속가능한 패션의 선한 영향력]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9d110116-6b1e-4054-ad8a-220713eb47da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꾸덕쫀득, 버터바 아직도 안 먹어봤니? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60753</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60753</guid>
-            <pubDate>Sat, 30 Oct 2021 10:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[쿠키야, 브라우니야? 먹어보지 않고는 설명할 수 없다. 인기 초절정 버터바 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ee015ed2-96cd-439f-b54b-198f7ab535f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘환경특별시' 인천의 친환경 숍 4 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
