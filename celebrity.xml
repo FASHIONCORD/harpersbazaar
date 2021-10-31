@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 06:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 07:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혜리 이런 모습 처음이야]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60724</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60724</guid>
+            <pubDate>Sun, 31 Oct 2021 07:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[깊어가는 밤. 아직은 낭만의 열기로 가득한 그곳에서 빛나는 혜리, 그리고 타사키의 새로운 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/9c30a0fa-71ba-413e-a857-bae6dee3e6ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포즈도 남다른 '찐천재' 홍진경과 하이 패션!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60696</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 01:59:44 GMT</pubDate>
             <content:encoded><![CDATA[티모시 샬라메와 첫 만남]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/6f6f1fbc-a1e7-43fe-a5d8-bdcaa0ebade3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 노래만 좋은 줄 알았지?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59618</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59618</guid>
-            <pubDate>Tue, 26 Oct 2021 12:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[아이유가 직접 쓴 곡 소개글도 좋다! 앨범 소개글 맛집, 아이유의 띵소개글과 노래를 모았다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/2233ce3f-95f9-469a-8e47-2f94f47c53db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
