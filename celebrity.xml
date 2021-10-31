@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 07:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 08:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민호의 가장 좋은 때, 민호시절]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60758</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60758</guid>
+            <pubDate>Sun, 31 Oct 2021 08:21:26 GMT</pubDate>
+            <content:encoded><![CDATA["틀을 두되 작게 두지 않아요. 그 안에 있다가도 가끔 깨고 나가고 선을 타고 숨어 들기도 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1294e221-50af-43e6-b087-699c645ce8a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혜리 이런 모습 처음이야]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60724</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 09:19:48 GMT</pubDate>
             <content:encoded><![CDATA[럭셔리한 카페부터 자연 속 힐링 공간까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/3a7134b2-e507-432b-b56a-bbd4c5857ad4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스 앤더슨 감독의 ‘프렌치 디스패치’ 관전 포인트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59629</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59629</guid>
-            <pubDate>Wed, 27 Oct 2021 01:59:44 GMT</pubDate>
-            <content:encoded><![CDATA[티모시 샬라메와 첫 만남]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/6f6f1fbc-a1e7-43fe-a5d8-bdcaa0ebade3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
