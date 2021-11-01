@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 07:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1072,6 +1072,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/a13ee052-17c6-4214-b710-b0dde2d826df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국에 ‘X’ 성별중립 표기한 여권 등장? #이슈있슈 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60816</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60816</guid>
+            <pubDate>Mon, 01 Nov 2021 08:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[성별을 고르는 란에서 x를 체크할 수 있다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/d8795fc2-453d-4ab7-a38b-e728f0061469.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[9년 만에 귀환한 영화감독 레오 카락스의 신작! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60815</link>
             <guid>https://www.harpersbazaar.co.kr/article/60815</guid>
@@ -1126,14 +1134,6 @@
             <pubDate>Sat, 30 Oct 2021 10:20:19 GMT</pubDate>
             <content:encoded><![CDATA[여행 전문기자가 추천하는 차박 코스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/065da809-cd67-4c25-85e7-526526099ec3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안젤리나 졸리 옷 입고 시상식에 등장한 자녀들 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60788</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60788</guid>
-            <pubDate>Sat, 30 Oct 2021 10:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[지속가능한 패션의 선한 영향력]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9d110116-6b1e-4054-ad8a-220713eb47da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘환경특별시' 인천의 친환경 숍 4 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
