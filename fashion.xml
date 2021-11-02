@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[70주년을 이어온 막스마라 정신!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60840</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60840</guid>
+            <pubDate>Tue, 02 Nov 2021 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[인간의 나이로 70세는 고희라고 한다. 이는 ‘뜻대로 행해도 어긋나지 않는’ 나이를 의미한다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/852c78ac-0a99-4a2f-a9d1-1835ce257d41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀러브리티들이 선택한 그 백!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60834</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Oct 2021 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[지속가능한 패션의 선한 영향력]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9d110116-6b1e-4054-ad8a-220713eb47da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레오퍼드를 입자]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60755</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60755</guid>
-            <pubDate>Sun, 31 Oct 2021 06:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[이번 시즌 관능미와 모더니즘, 파워가 공존하는 레오퍼드를 탐하라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/f69a4e91-dedc-49d0-ad5e-c6a3e1e6869e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

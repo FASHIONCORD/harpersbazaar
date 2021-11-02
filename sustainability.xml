@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스테이씨가 지구와 함께 사는 법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/59518</link>
+            <guid>https://www.harpersbazaar.co.kr/article/59518</guid>
+            <pubDate>Tue, 02 Nov 2021 15:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[스테이씨가 그린 라이프를 실천하기 위해 일상에서 사용하는 물건들을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/fa328f51-1e17-4982-8a96-a046d0cf2f42.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자연의 아름다움을 담은 '2021 네이처 포토 콘테스트']]></title>
             <link>https://www.harpersbazaar.co.kr/article/59503</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 07:20:30 GMT</pubDate>
             <content:encoded><![CDATA[기후위기를 견디고 살아남는다는 것은 어떤 의미일까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/47bc29ea-ab83-4755-b33b-152aabdec42c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#쓰확행을 위해 노력하는 친환경 숍 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59086</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59086</guid>
-            <pubDate>Tue, 19 Oct 2021 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[쓰레기를 줄이는 확실한 행동을 알리고자 노력하는 광진구, 성동구, 송파구의 제로 웨이스트 숍...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/57ce7222-eb4c-4527-955f-91606998a2e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

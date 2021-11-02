@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인터뷰에서 밝힌 있지가 하루 동안 먹는 것]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60798</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60798</guid>
+            <pubDate>Tue, 02 Nov 2021 15:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[이렇게 먹어도 살이 안 찐다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/198c7875-a740-40fb-b79a-01ba95194a89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[댄서들은 왜 뱃살이 없을까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60797</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 08:21:39 GMT</pubDate>
             <content:encoded><![CDATA[다이어트 성공한 조세호자기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/44a9fabe-0277-4e05-8f87-1775476e2abc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엠마, 가비, 시미즈의 스우파 메이크업은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60668</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60668</guid>
-            <pubDate>Fri, 29 Oct 2021 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 춤 대결만큼이나 눈을 뗄 수 없는 스타일링 배틀. 스트릿 우먼 파이터들의 메이크업 비...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/c1ecde6a-5c60-4309-aaa0-8052b14bf6f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
