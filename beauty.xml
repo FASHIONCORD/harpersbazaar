@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 09:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댄서들은 왜 뱃살이 없을까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60797</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60797</guid>
+            <pubDate>Tue, 02 Nov 2021 10:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[둠칫둠칫 따라 하다 보면 나도 납작 배 완성!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/0e0708cd-3edc-4aaa-9c15-661880287ddf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부기 제로! 태연의 모닝 루틴]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60793</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 08:21:39 GMT</pubDate>
             <content:encoded><![CDATA[화려한 춤 대결만큼이나 눈을 뗄 수 없는 스타일링 배틀. 스트릿 우먼 파이터들의 메이크업 비...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/c1ecde6a-5c60-4309-aaa0-8052b14bf6f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리정, 허니제이의 스우파 메이크업 비하인드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60667</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60667</guid>
-            <pubDate>Fri, 29 Oct 2021 08:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 춤 대결만큼이나 눈을 뗄 수 없는 스타일링 배틀. 스트릿 우먼 파이터들의 메이크업 비...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/ff770ad9-0a7d-4e26-8fa7-04a235cb8471.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

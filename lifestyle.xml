@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 09:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이징동계올림픽 메달 디자인 선공개, “통조림 뚜껑?”]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60817</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60817</guid>
+            <pubDate>Tue, 02 Nov 2021 10:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[중국 철학을 담았다는데... #이슈있슈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/d83aa116-4412-4f0c-a537-ed104d2c2157.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국에 ‘X’ 성별중립 표기한 여권 등장? #이슈있슈]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60816</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Oct 2021 10:20:19 GMT</pubDate>
             <content:encoded><![CDATA[생활 속 탄소 제로를 위한 실천, 어렵지 않아요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1eb6a42d-cf5d-4a15-aa2c-a219eeab874a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차박 계획이 있다면? 무조건 이 곳으로!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60790</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60790</guid>
-            <pubDate>Sat, 30 Oct 2021 10:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[여행 전문기자가 추천하는 차박 코스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/065da809-cd67-4c25-85e7-526526099ec3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
