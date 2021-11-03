@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 09:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 필수품 페어아일 니트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60844</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60844</guid>
+            <pubDate>Wed, 03 Nov 2021 09:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 니트가 지겹다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/5886fea7-fc6d-4901-b5da-ebe2e8c3c875.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[70주년을 이어온 막스마라 정신!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60840</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 05:16:21 GMT</pubDate>
             <content:encoded><![CDATA[올겨울 컬러풀한 비니를 도전하고 싶다면? 여기를 주목!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1ca22e15-cfff-488e-85d2-9fa306846bb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안젤리나 졸리 옷 입고 시상식에 등장한 자녀들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60788</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60788</guid>
-            <pubDate>Sun, 31 Oct 2021 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[지속가능한 패션의 선한 영향력]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9d110116-6b1e-4054-ad8a-220713eb47da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
