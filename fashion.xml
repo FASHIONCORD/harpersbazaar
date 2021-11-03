@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주목해야 할 서울 디자이너 #서울패션위크]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60854</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60854</guid>
+            <pubDate>Wed, 03 Nov 2021 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난 10월 7일부터 15일까지 7일 동안 대한민국 디자이너들의 2022 S/S 컬렉션을 공...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/1a6fdf48-5f3b-4789-8f7f-4923b7faa000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울 필수품 페어아일 니트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60844</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 15:19:17 GMT</pubDate>
             <content:encoded><![CDATA[예지의 비트와 오혁의 감성이 만나면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/cccb5540-08c6-4025-a513-bbcff157c347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사, 소희. 현아의 컬러 비니 스타일링!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60795</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60795</guid>
-            <pubDate>Mon, 01 Nov 2021 05:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[올겨울 컬러풀한 비니를 도전하고 싶다면? 여기를 주목!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1ca22e15-cfff-488e-85d2-9fa306846bb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
