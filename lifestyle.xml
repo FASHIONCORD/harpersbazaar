@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 03:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 04:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아크릴 수세미는 친환경이 아니다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60869</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60869</guid>
+            <pubDate>Thu, 04 Nov 2021 04:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[소재부터 폐기까지 환경에 이로운 '진짜' 친환경 수세미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/47a7f48e-da2d-46c5-94e7-bbacf0c29ab5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출렁출렁 출렁 대는 단풍 구경]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60836</link>
@@ -21,7 +29,7 @@
             <guid>https://www.harpersbazaar.co.kr/article/60828</guid>
             <pubDate>Wed, 03 Nov 2021 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[안소희의 샐러드 레시피와 즐겨먹는 간식템. 손님용으로도 제격!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/8985d033-b980-4429-ac8a-9e1f089356cc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/dc48b8d1-b8db-4fc5-806e-a720293a6c8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채정안이 가위 없으면 못 사는 이유는?]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Oct 2021 12:27:37 GMT</pubDate>
             <content:encoded><![CDATA[꼭 대형 스크린으로 봐야 한다. 예매를 서둘러야 할 신작 영화 소식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/cf6bbb29-d363-46f7-9cd4-4d756d992e86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 못 참지, 대세는 크림 빵빵 도넛]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60814</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60814</guid>
-            <pubDate>Sun, 31 Oct 2021 08:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[맛있으면 0칼로리! 죄책감은 일단 접어두고 무조건 맛봐야 할 크림 빵빵 도넛들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/57e0776e-0cde-493e-9cda-917e27c04180.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
