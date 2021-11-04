@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 16:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 18:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1134,6 +1134,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/d8795fc2-453d-4ab7-a38b-e728f0061469.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아크릴 수세미는 친환경이 아니다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60869</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60869</guid>
+            <pubDate>Thu, 04 Nov 2021 04:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[소재부터 폐기까지 환경에 이로운 '진짜' 친환경 수세미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/47a7f48e-da2d-46c5-94e7-bbacf0c29ab5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘부터 무해하게! 친환경 라이프를 위한 알아두면 좋은 상식 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60791</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60791</guid>
+            <pubDate>Thu, 04 Nov 2021 18:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[생활 속 탄소 제로를 위한 실천, 어렵지 않아요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1eb6a42d-cf5d-4a15-aa2c-a219eeab874a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안젤리나 졸리 옷 입고 시상식에 등장한 자녀들 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60788</link>
             <guid>https://www.harpersbazaar.co.kr/article/60788</guid>
@@ -1180,22 +1196,6 @@
             <pubDate>Fri, 29 Oct 2021 08:25:11 GMT</pubDate>
             <content:encoded><![CDATA[비닐 라벨을 뗐다. 환경을 생각하는 마음으로 재활용을 위해 사력을 다한다. 이 모든 과정인 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/af67a356-7ad0-4df1-9d84-f22348df4a5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 한끼 채식을 먹고 싶다면 플렉시테리언의 레시피 참고해 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59363</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59363</guid>
-            <pubDate>Thu, 28 Oct 2021 10:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[하루 한끼, 고기 대신 채소 위주로 식사를 하는 것만으로 지구 탄소 배출을 줄일 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/915b3e82-0b93-46c1-8aaa-b45c80e1f719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다오염의 주범은 사실 플라스틱이 아니다? 넷플릭스 #환경다큐멘터리 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59316</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59316</guid>
-            <pubDate>Thu, 21 Oct 2021 07:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[지금 당장 재생 목록에 찜해야 할 넷플릭스 다큐멘터리 작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/eb4a0a42-dafc-4104-a09d-d40a50ea952d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
