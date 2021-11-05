@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 09:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 10:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최초공개! <스우파> 나가기 전, 가비가 꾼 예지몽은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60675</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60675</guid>
+            <pubDate>Fri, 05 Nov 2021 10:20:27 GMT</pubDate>
+            <content:encoded><![CDATA['찐친' 라치카의 저세상 텐션 인터뷰와 소중한 애정템 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/4a4b22ad-5493-4627-af27-5393eb7e9e3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[붉은 지구를 구해라, 레오나르도 디카프리오의 환경운동]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60658</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 07:18:40 GMT</pubDate>
             <content:encoded><![CDATA[제 얼굴 똑 바로 보세요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/0fa9cab7-73a5-4fe7-86c7-1e5bcbc188b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통 카퓌신을 커스텀한 예술가들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59454</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59454</guid>
-            <pubDate>Mon, 25 Oct 2021 10:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[루이 비통과 현대미술가의 협업인 아티카퓌신(ArtyCapucines)의 세 번째 프로젝트가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/26a11177-0185-4ad7-ac34-6f6a4e6e5c11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
