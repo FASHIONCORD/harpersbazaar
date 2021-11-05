@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 14:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 15:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -878,6 +878,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/852c78ac-0a99-4a2f-a9d1-1835ce257d41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세경씨 그렇게 안 봤는데, 식단 잘 지키는 사람이네 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60886</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60886</guid>
+            <pubDate>Fri, 05 Nov 2021 15:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[이제 프로 유튜버인 신세경의 건강 식단]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b07d704e-2f40-43bd-9f01-892e9fb8a285.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[원더우먼 하늬가 꽂힌 밀프렙. 나도 도전? (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60885</link>
             <guid>https://www.harpersbazaar.co.kr/article/60885</guid>
@@ -932,14 +940,6 @@
             <pubDate>Tue, 02 Nov 2021 15:19:21 GMT</pubDate>
             <content:encoded><![CDATA[이렇게 먹어도 살이 안 찐다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/198c7875-a740-40fb-b79a-01ba95194a89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄서들은 왜 뱃살이 없을까? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60797</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60797</guid>
-            <pubDate>Tue, 02 Nov 2021 10:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[둠칫둠칫 따라 하다 보면 나도 납작 배 완성!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/0e0708cd-3edc-4aaa-9c15-661880287ddf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삶의 질 수직 상승! 여배우들의 찐 데일리 템 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1070,6 +1070,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/0fa9cab7-73a5-4fe7-86c7-1e5bcbc188b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[친환경을 위한 패션계의 노력 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60922</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60922</guid>
+            <pubDate>Fri, 05 Nov 2021 15:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[착한 패션 실천을 위해 어떤 것을 할 수 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/5aeaed05-2065-4a8a-883d-d058ad0bb1c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 나은 환경을 꿈꾸는 남양주의 제로 웨이스트 숍 2 #쓰레기없지도 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60901</link>
             <guid>https://www.harpersbazaar.co.kr/article/60901</guid>
@@ -1124,14 +1132,6 @@
             <pubDate>Wed, 03 Nov 2021 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[안소희의 샐러드 레시피와 즐겨먹는 간식템. 손님용으로도 제격!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/dc48b8d1-b8db-4fc5-806e-a720293a6c8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 가위 없으면 못 사는 이유는? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60827</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60827</guid>
-            <pubDate>Tue, 02 Nov 2021 06:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[이 언니 추천이라면 믿고 쓴다. 삶의 질이 수직 상승한다는 채정안의 라이프스타일 아이템!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/e577167a-c506-48ec-b109-72c940e95e56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아크릴 수세미는 친환경이 아니다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
