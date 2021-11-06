@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 14:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 15:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친환경을 위한 패션계의 노력]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60922</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60922</guid>
+            <pubDate>Sat, 06 Nov 2021 15:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[착한 패션 실천을 위해 어떤 것을 할 수 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/5aeaed05-2065-4a8a-883d-d058ad0bb1c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이디 가가, 벨라 하디드의 마음을 사로잡은 남자]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60915</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 09:18:52 GMT</pubDate>
             <content:encoded><![CDATA[평범한 니트가 지겹다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/5886fea7-fc6d-4901-b5da-ebe2e8c3c875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[70주년을 이어온 막스마라 정신!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60840</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60840</guid>
-            <pubDate>Tue, 02 Nov 2021 15:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[인간의 나이로 70세는 고희라고 한다. 이는 ‘뜻대로 행해도 어긋나지 않는’ 나이를 의미한다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/852c78ac-0a99-4a2f-a9d1-1835ce257d41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
