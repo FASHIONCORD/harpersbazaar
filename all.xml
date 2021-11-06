@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 17:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 18:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1070,6 +1070,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/0fa9cab7-73a5-4fe7-86c7-1e5bcbc188b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘은 #논멍 #밭멍 이 대세! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60941</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60941</guid>
+            <pubDate>Sat, 06 Nov 2021 18:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[시고르 논밭뷰와 함께 멍때리기 좋은 카페 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/3407ac39-3172-428e-88ee-ae1820ab5253.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[친환경을 위한 패션계의 노력 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60922</link>
             <guid>https://www.harpersbazaar.co.kr/article/60922</guid>
@@ -1124,14 +1132,6 @@
             <pubDate>Wed, 03 Nov 2021 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[단풍 구경은 덤, 스릴 만점! 요즘 인기 폭발이라는 출렁다리 명소.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/a6c5698e-cb14-42ab-a7f7-597294821622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안소희가 늘 변함없는 몸매를 유지하는 이유 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60828</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60828</guid>
-            <pubDate>Wed, 03 Nov 2021 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[안소희의 샐러드 레시피와 즐겨먹는 간식템. 손님용으로도 제격!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/dc48b8d1-b8db-4fc5-806e-a720293a6c8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아크릴 수세미는 친환경이 아니다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
