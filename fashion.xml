@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 15:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 16:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미래를 예견한 브랜드 '쿠레주'의 새로운 메시아, 니콜라 디 펠리체]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61001</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61001</guid>
+            <pubDate>Mon, 08 Nov 2021 16:27:53 GMT</pubDate>
+            <content:encoded><![CDATA[1960년대에 ‘우주 시대’라는 컬렉션으로 미니멀리즘과 퓨처리즘을 아우르며 패션계에 큰 획을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/b2b88644-e698-4cd3-994a-e70bcac88e2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럭셔리 룩의 종결자! 닮고 싶은 고현정 룩]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60958</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 15:18:46 GMT</pubDate>
             <content:encoded><![CDATA[파코라반에서 액트 넘버원까지, 미모도 패션 센스도 만렙을 찍은 전소미의 컴백 패션 들여다보기...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/c3e7cd8b-4bd6-478c-8696-b0b82f77a688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울을 위한 버뮤다 팬츠 활용법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60876</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60876</guid>
-            <pubDate>Thu, 04 Nov 2021 07:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[무릎 길이의 버뮤다 팬츠는 롱 부츠 혹은 하이힐과 함께하면 이 계절을 위한 완벽한 아이템으로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/18e3165c-f5ee-40ee-85d0-8e53bc5e4e09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
