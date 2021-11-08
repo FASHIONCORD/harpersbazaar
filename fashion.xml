@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 13:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 14:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행운을 가져다 주는 참 목걸이와 니트의 만남]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60945</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60945</guid>
+            <pubDate>Mon, 08 Nov 2021 14:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[참 장식 목걸이를 겹겹이 레이어드해 평범한 스웨터에 장난스러움을 더하라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/7a291a18-a648-435e-a580-47533759bb6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김고은의 옷장 세포들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60932</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 04:22:47 GMT</pubDate>
             <content:encoded><![CDATA[다양한 인종과 문화를 품고 끝없이 팽창하는, 은하와 같은 런던의 거리에서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/ea71fdbe-3ffa-418b-b2fa-1e87dfded2bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리보는 2022년 서울의 '봄'  #서울패션위크]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60855</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60855</guid>
-            <pubDate>Thu, 04 Nov 2021 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[지난 10월 7일부터 15일까지 7일 동안 대한민국 디자이너들의 2022 S/S 컬렉션을 공...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/da764008-081b-4e18-b6f9-406d633844c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
