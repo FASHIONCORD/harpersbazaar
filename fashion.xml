@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 14:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 15:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[럭셔리 룩의 종결자! 닮고 싶은 고현정 룩]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60958</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60958</guid>
+            <pubDate>Mon, 08 Nov 2021 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 발끝까지 귀티 좔좔 나는 럭셔리 룩의 종결자 고현정 따라잡기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/0a8d598d-42a1-4c88-9169-0d8adccf6bb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행운을 가져다 주는 참 목걸이와 니트의 만남]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60945</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 07:17:27 GMT</pubDate>
             <content:encoded><![CDATA[무릎 길이의 버뮤다 팬츠는 롱 부츠 혹은 하이힐과 함께하면 이 계절을 위한 완벽한 아이템으로...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/18e3165c-f5ee-40ee-85d0-8e53bc5e4e09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시 자체가 하나의 세계관을 이루는 도시로 떠났다. 그 두번째 런던!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60859</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60859</guid>
-            <pubDate>Thu, 04 Nov 2021 04:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 인종과 문화를 품고 끝없이 팽창하는, 은하와 같은 런던의 거리에서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/ea71fdbe-3ffa-418b-b2fa-1e87dfded2bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
