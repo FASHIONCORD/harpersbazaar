@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티파니와 슈프림이 만났을 때]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61019</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61019</guid>
+            <pubDate>Tue, 09 Nov 2021 10:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[하이주얼리와 스트리트 브랜드의 만남]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/ef5eb359-e2f4-478b-b210-f26e018bf27f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텔라 매카트니의 쿨 드레싱]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61006</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 15:18:06 GMT</pubDate>
             <content:encoded><![CDATA[착한 패션 실천을 위해 어떤 것을 할 수 있을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/5aeaed05-2065-4a8a-883d-d058ad0bb1c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이디 가가, 벨라 하디드의 마음을 사로잡은 남자]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60915</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60915</guid>
-            <pubDate>Fri, 05 Nov 2021 06:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[그의 컬렉션은 한마디로 비범하다. 그리고 호기심을 자극하는 초현실적 요소로 가득하다. “하우...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/ced8f606-1aec-4110-bc55-bdcdb134c71e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

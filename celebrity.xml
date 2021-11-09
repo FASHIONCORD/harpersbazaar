@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너는 지금 빠져들고 있다. 김재화.혜화.승화 자매]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60858</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60858</guid>
+            <pubDate>Tue, 09 Nov 2021 10:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;제인 에어&gt;를 쓴 샬럿과 &lt;폭풍의 언덕&gt;을 쓴 에밀리, &lt;와이드펠 홀의 소작인&gt;을 쓴 앤의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/4729a09a-27f2-4900-928a-12030b91e7d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[촬영장을 무대로 만들어버린 연기 천재 자매 독백 연기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60850</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 17:24:29 GMT</pubDate>
             <content:encoded><![CDATA[지속가능한 패션의 선한 영향력]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9d110116-6b1e-4054-ad8a-220713eb47da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민호의 가장 좋은 때, 민호시절]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60758</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60758</guid>
-            <pubDate>Sun, 31 Oct 2021 08:21:26 GMT</pubDate>
-            <content:encoded><![CDATA["틀을 두되 작게 두지 않아요. 그 안에 있다가도 가끔 깨고 나가고 선을 타고 숨어 들기도 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1294e221-50af-43e6-b087-699c645ce8a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
