@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 06:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스텔라 매카트니의 쿨 드레싱]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61006</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61006</guid>
+            <pubDate>Tue, 09 Nov 2021 06:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[클래식한 체크 재킷과 캐주얼한 실루엣 그리고 비비드 컬러의 완벽한 조화.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/c5850111-d3d3-48ad-825f-219a8521bdd6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미래를 예견한 브랜드 '쿠레주'의 새로운 메시아, 니콜라 디 펠리체]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61001</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 06:21:11 GMT</pubDate>
             <content:encoded><![CDATA[그의 컬렉션은 한마디로 비범하다. 그리고 호기심을 자극하는 초현실적 요소로 가득하다. “하우...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/ced8f606-1aec-4110-bc55-bdcdb134c71e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘XOXO’로 돌아온 전소미, 컴백 의상은 다 어디 꺼?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60906</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60906</guid>
-            <pubDate>Thu, 04 Nov 2021 15:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[파코라반에서 액트 넘버원까지, 미모도 패션 센스도 만렙을 찍은 전소미의 컴백 패션 들여다보기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/c3e7cd8b-4bd6-478c-8696-b0b82f77a688.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
