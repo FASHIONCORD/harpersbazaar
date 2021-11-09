@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 10:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 11:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1006,6 +1006,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9d110116-6b1e-4054-ad8a-220713eb47da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[온앤오프, 더 사랑하게 될 거야 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60977</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60977</guid>
+            <pubDate>Tue, 09 Nov 2021 11:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[아이돌 최초 단체 동반 입대를 발표한 온앤오프의 선택을 응원하며, 지금 당장 플레이리스트에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/1935c7b0-6309-414e-a2c7-db53e1e8db0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[11월 극장 가이드 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60851</link>
             <guid>https://www.harpersbazaar.co.kr/article/60851</guid>
@@ -1062,12 +1070,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/da62f707-72f8-4174-a1c6-2d9aef47cf6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<오징어 게임> 알리의 고향의 맛 카레와 밀크티 레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59637</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59637</guid>
-            <pubDate>Sat, 30 Oct 2021 10:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[인도 출신 이누팜의 홈쿡 레시피]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/290c6bfa-f400-477b-ab1c-3e698f25c66e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[백신 접종 거부했다가 회사 짤리면 부당해고일까? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61011</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61011</guid>
+            <pubDate>Tue, 09 Nov 2021 11:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[백신 주사 안 맞았다고 입사 취소됐다는 글이 올라와 화제다. #이슈있슈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/3b451f6b-6163-4710-96f4-b480b1b83dde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부와 지구를 함께 지키는 크림 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -1124,14 +1132,6 @@
             <pubDate>Fri, 05 Nov 2021 15:20:07 GMT</pubDate>
             <content:encoded><![CDATA[착한 패션 실천을 위해 어떤 것을 할 수 있을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/5aeaed05-2065-4a8a-883d-d058ad0bb1c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 나은 환경을 꿈꾸는 남양주의 제로 웨이스트 숍 2 #쓰레기없지도 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60901</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60901</guid>
-            <pubDate>Fri, 05 Nov 2021 14:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[보다 많은 사람들이 친환경을 실천하는 그날까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/5bb82c72-0b87-4dff-abbc-9ddf1993c696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경 하고 싶다면 여기로! 노원구의 제로 웨이스트 숍 3 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
