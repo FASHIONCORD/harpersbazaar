@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 02:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 02:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박서보, 영원한 슈퍼 실버]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61004</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61004</guid>
+            <pubDate>Wed, 10 Nov 2021 02:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[박서보의 이름 석 자는 “나이를 초월하는 열정과 노력으로 힙하고 쿨한 작품을 만들고 동시대와...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/ed2ba7a0-09a1-4722-bb41-cf6ee2a3129a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온앤오프, 더 사랑하게 될 거야]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60977</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 02:08:21 GMT</pubDate>
             <content:encoded><![CDATA[환경 운동에 적극 앞장서고 있는 헐리웃 찐 에코브리티, 레오나르도 디카프리오!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/2725449a-dcea-4537-943e-02e0927d42c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교회가 전시 공간으로? 새로 태어난 예술 공간들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60650</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60650</guid>
-            <pubDate>Tue, 02 Nov 2021 02:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[사연을 한번 들어볼까? 다시 태어난 예술공간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/da62f707-72f8-4174-a1c6-2d9aef47cf6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
