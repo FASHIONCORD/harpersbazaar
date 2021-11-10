@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 11:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 12:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가야 줄 안서는 얼리어답터의 #신상맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61024</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61024</guid>
+            <pubDate>Wed, 10 Nov 2021 12:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[무조건 100% 핫플 예감! 발 빠르게 접수해야 할 이번 주 신상 공간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/da5b55ec-9ca6-4167-8209-49c2ce93f182.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친환경 덕질의 시대]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61021</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 00:58:39 GMT</pubDate>
             <content:encoded><![CDATA[스타가 방문하는 송리단길의 카페는 어디?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/788f6f38-1c4f-4c25-9dd3-1a80e4f7f515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스티로폼을 버릴 땐 이렇게]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60944</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60944</guid>
-            <pubDate>Mon, 08 Nov 2021 00:58:39 GMT</pubDate>
-            <content:encoded><![CDATA[마치 축제가 끝난 뒤의 잔해 같다. 일 년에 두 번, 설과 추석 연휴가 끝나고 나면 필연적으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/cd0751bf-229d-49a6-8e90-0f05a42e38e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
