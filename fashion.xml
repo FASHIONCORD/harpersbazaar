@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 12:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 13:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박민영과 함께하는 홀리데이 판타지]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61022</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61022</guid>
+            <pubDate>Thu, 11 Nov 2021 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[홀리데이를 기대하게 만드는 제이에스티나의 ‘ART OF GIVING’ 캠페인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/bc4a8fbf-3a0a-4770-be98-a10472b538e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 스타일로 주얼리를 레이어드 하는 방법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61036</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 15:18:57 GMT</pubDate>
             <content:encoded><![CDATA[머리부터 발끝까지 귀티 좔좔 나는 럭셔리 룩의 종결자 고현정 따라잡기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/0a8d598d-42a1-4c88-9169-0d8adccf6bb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행운을 가져다 주는 참 목걸이와 니트의 만남]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60945</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60945</guid>
-            <pubDate>Mon, 08 Nov 2021 14:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[참 장식 목걸이를 겹겹이 레이어드해 평범한 스웨터에 장난스러움을 더하라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/7a291a18-a648-435e-a580-47533759bb6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
