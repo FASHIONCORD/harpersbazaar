@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 14:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 15:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹는 코로나 치료제 도입? 백신 안 맞아도 되나요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61074</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61074</guid>
+            <pubDate>Thu, 11 Nov 2021 15:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[얼마일까? #이슈있슈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/85f22970-d42b-4a0a-800f-9290b2d00ec9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찐 고구마는 이제 그만! 인싸들의 색다른 고구마]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61049</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 14:19:59 GMT</pubDate>
             <content:encoded><![CDATA[땅, 씨앗, 자라는 모든 과정까지 꼼꼼히 관리한 유기농 식물을 담아 자연과 사람 모두에게 이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/32727d23-5075-4d9b-97f6-40f7533dc5bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 세대 블루칼라 워커들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60987</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60987</guid>
-            <pubDate>Mon, 08 Nov 2021 13:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[온몸으로 창조하는 사람들. 요즘 세대 블루칼라 워커들의 일 근육에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/c739f354-1225-481b-9893-119fae582a5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
