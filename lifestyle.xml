@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 14:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 15:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS의 RM, 제이홉, 뷔, 샤이니의 키와 블랙핑크의 로제가 찾은 전시]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61107</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61107</guid>
+            <pubDate>Fri, 12 Nov 2021 15:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[바쁜 일정 속에서도 스타들이 놓치지 않은 전시와 그들이 남긴 전시 인증샷을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/d600b29c-0ee9-4f58-8a5a-d52ed15ba151.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에디터와 비주얼 머천다이저 자매가 만든 마켓, SLMM의 모든 것!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61105</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 12:29:13 GMT</pubDate>
             <content:encoded><![CDATA[무조건 100% 핫플 예감! 발 빠르게 접수해야 할 이번 주 신상 공간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/da5b55ec-9ca6-4167-8209-49c2ce93f182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 덕질의 시대]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61021</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61021</guid>
-            <pubDate>Wed, 10 Nov 2021 10:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[“죽은 지구에 케이팝은 없다.” 죄책감 가지며 하는 덕질은 더 이상 No!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/54b96c62-1baf-4525-983a-e5500125ddff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

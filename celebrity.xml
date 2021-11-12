@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 14:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 15:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장희령의 송리단길 카페 투어 #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60973</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60973</guid>
+            <pubDate>Fri, 12 Nov 2021 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[스타가 방문하는 송리단길의 카페는 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/788f6f38-1c4f-4c25-9dd3-1a80e4f7f515.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘XOXO’로 돌아온 전소미, 컴백 의상은 다 어디 꺼?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/60906</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 06:22:35 GMT</pubDate>
             <content:encoded><![CDATA[꼭 대형 스크린으로 봐야 한다. 예매를 서둘러야 할 신작 영화 소식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/cf6bbb29-d363-46f7-9cd4-4d756d992e86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예지랑 오혁, 둘이 왜 친해?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60801</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60801</guid>
-            <pubDate>Tue, 02 Nov 2021 02:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[예지의 비트와 오혁의 감성이 만나면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/cccb5540-08c6-4025-a513-bbcff157c347.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
