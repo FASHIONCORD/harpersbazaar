@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 03:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 04:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이네임의 미친 빌런! '믿보배' 장률]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61050</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61050</guid>
+            <pubDate>Fri, 12 Nov 2021 04:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;마이네임&gt;으로 눈도장 제대로 찍은 대세 배우 장률, 그가 궁금하다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/578b64ed-a1e2-4032-9d65-29a5a09f915a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예약이 별따기. 리움 미술관 랜선 리뷰]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61030</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 Nov 2021 15:20:38 GMT</pubDate>
             <content:encoded><![CDATA[김재화, 김계화, 김승화 배우의 몰입도 100% 연기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/673d56d2-16ef-44b2-b021-bbe8e443b85d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9년 만에 귀환한 영화감독 레오 카락스의 신작!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60815</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60815</guid>
-            <pubDate>Mon, 08 Nov 2021 02:38:24 GMT</pubDate>
-            <content:encoded><![CDATA[꼭 대형 스크린으로 봐야 한다. 예매를 서둘러야 할 신작 영화 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/cf6bbb29-d363-46f7-9cd4-4d756d992e86.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
