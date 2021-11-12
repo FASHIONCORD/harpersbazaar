@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 06:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별다방 시즌 한정 음료를 집에서 즐기는 방법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61085</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61085</guid>
+            <pubDate>Fri, 12 Nov 2021 06:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[정들때 쯤 사라져서 아쉬운 별다방 시즈널 드링크, 홈메이드로 내가 부활시킨다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/3c42face-ecb3-4d51-b5fa-3404cc0b6197.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위드코로나로 ‘한강 음주’도 가능해졌다, 정부의 노림수?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61078</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 10:21:18 GMT</pubDate>
             <content:encoded><![CDATA[창업 17년만에! #이슈있슈]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/a7543b82-4c8d-4dcb-a570-0e7fc1a26935.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백신 접종 거부했다가 회사 짤리면 부당해고일까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61011</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61011</guid>
-            <pubDate>Tue, 09 Nov 2021 11:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[백신 주사 안 맞았다고 입사 취소됐다는 글이 올라와 화제다. #이슈있슈]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/3b451f6b-6163-4710-96f4-b480b1b83dde.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
