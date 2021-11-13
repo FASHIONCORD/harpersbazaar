@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 07:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 08:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전지현과 주지훈이 달린 그 지리산 능선은 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61129</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61129</guid>
+            <pubDate>Sat, 13 Nov 2021 08:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[노고단, 천왕봉부터 접근이 금지된 보호구역까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/74e66f00-9193-4c75-9f01-507e79f3c0a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 여행은 여기로?  아메리칸 다이닝 맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61119</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61119</guid>
+            <pubDate>Sat, 13 Nov 2021 08:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 미국 맛을 선보이는 아메리칸 다이닝!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/5bc607a5-f3e6-41cf-bd38-b975aec9e659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS의 RM, 제이홉, 뷔, 샤이니의 키와 블랙핑크의 로제가 찾은 전시]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61107</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 08:23:44 GMT</pubDate>
             <content:encoded><![CDATA[맛있구마! 요즘 유튜브에서 핫한 고구마 요리 레시피.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/69d761f8-892b-4569-b00d-0693aebc4691.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밥 없는 김밥? 살 안 찌는 #대체면 요리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61029</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61029</guid>
-            <pubDate>Thu, 11 Nov 2021 08:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[탄수화물 끊기 대작전을 위한 필살기! 초간단 대체면 요리 레시피.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/5a6118bf-a7ea-4ec7-bc28-23fab0fd923f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가야 줄 안서는 얼리어답터의 #신상맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61024</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61024</guid>
-            <pubDate>Wed, 10 Nov 2021 12:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[무조건 100% 핫플 예감! 발 빠르게 접수해야 할 이번 주 신상 공간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/da5b55ec-9ca6-4167-8209-49c2ce93f182.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
