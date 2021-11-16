@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 10:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 11:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은, 오느른 카페에 가자]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61132</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61132</guid>
+            <pubDate>Tue, 16 Nov 2021 11:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[MBC PD의 시골살이를 담은 힐링 유튜브 채널 ‘오느른’의 카페가 전북 김제에 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/3bc3cdef-6baf-48cb-8f88-917400237785.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전지현과 주지훈이 달린 그 지리산 능선은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61129</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 15:21:00 GMT</pubDate>
             <content:encoded><![CDATA[얼마일까? #이슈있슈]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/85f22970-d42b-4a0a-800f-9290b2d00ec9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐 고구마는 이제 그만! 인싸들의 색다른 고구마]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61049</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61049</guid>
-            <pubDate>Thu, 11 Nov 2021 08:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[맛있구마! 요즘 유튜브에서 핫한 고구마 요리 레시피.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/69d761f8-892b-4569-b00d-0693aebc4691.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

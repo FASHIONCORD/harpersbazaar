@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 10:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 11:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올겨울 당신이 기억해야할 코트 10!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61156</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61156</guid>
+            <pubDate>Tue, 16 Nov 2021 11:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[오버사이즈, 매니시, 클래식, 체크와 캐멀… 올겨울을 위한 코트 키워드 10.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/9b2edb59-925a-4781-a060-7e02e5679634.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말 파티 룩을 위한 꿀팁, 작고 소중한 미니 백과 칵테일 링의 조합!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61155</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Nov 2021 13:23:22 GMT</pubDate>
             <content:encoded><![CDATA[놀라운 재능과 신선한 아이디어로 똘똘 뭉친 서울의 제너레이션 넥스트를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/b9b17d51-e08d-401b-82b3-d277f32e5ce3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이네임의 미친 빌런! '믿보배' 장률]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61050</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61050</guid>
-            <pubDate>Thu, 11 Nov 2021 15:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;마이네임&gt;으로 눈도장 제대로 찍은 대세 배우 장률, 그가 궁금하다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/578b64ed-a1e2-4032-9d65-29a5a09f915a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
