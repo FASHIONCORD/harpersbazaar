@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 01:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 02:02:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1068,6 +1068,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/d1cfc9de-64d2-4c2e-9e7d-1ae500e5cdc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대전 칼국수 맛집 4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61147</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61147</guid>
+            <pubDate>Thu, 18 Nov 2021 02:01:41 GMT</pubDate>
+            <content:encoded><![CDATA[대전에서 성심당 빵만 먹으면 서운하다. 대전에서 꼭 가봐야 할 칼국수 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0633e76b-c95a-4093-a687-1c46b61b5388.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오늘은, 오느른 카페에 가자 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61132</link>
             <guid>https://www.harpersbazaar.co.kr/article/61132</guid>
@@ -1122,14 +1130,6 @@
             <pubDate>Fri, 12 Nov 2021 04:24:52 GMT</pubDate>
             <content:encoded><![CDATA[얼어 죽을각.  #이슈있슈]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/ec251566-043e-4b67-b369-2da8090393e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹는 코로나 치료제 도입? 백신 안 맞아도 되나요 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61074</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61074</guid>
-            <pubDate>Thu, 11 Nov 2021 15:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[얼마일까? #이슈있슈]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/85f22970-d42b-4a0a-800f-9290b2d00ec9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경 하고 싶다면 여기로! 노원구의 제로 웨이스트 숍 3 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
