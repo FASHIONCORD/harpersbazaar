@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 11:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 12:31:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1068,6 +1068,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/508984a7-9759-4ac3-9de0-7cd7bfaba014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[백종원도 추천하는 신박한 사과 레시피는? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61164</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61164</guid>
+            <pubDate>Thu, 18 Nov 2021 12:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[사과, 그냥 먹지 말고 이 레시피를 따라 해보자. 무궁무진한 사과 요리!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/d470e05d-c7cc-42f1-950a-7fd4049a85c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정용진 회장이 극찬한 빵집? 이번주 신상핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61163</link>
             <guid>https://www.harpersbazaar.co.kr/article/61163</guid>
@@ -1122,14 +1130,6 @@
             <pubDate>Fri, 12 Nov 2021 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[바쁜 일정 속에서도 스타들이 놓치지 않은 전시와 그들이 남긴 전시 인증샷을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/d600b29c-0ee9-4f58-8a5a-d52ed15ba151.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디터와 비주얼 머천다이저 자매가 만든 마켓, SLMM의 모든 것! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61105</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61105</guid>
-            <pubDate>Fri, 12 Nov 2021 11:18:27 GMT</pubDate>
-            <content:encoded><![CDATA['작은 소비를 통해 기쁨을 퍼트리겠다!']]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/bfef2ee3-247b-4cd1-8794-9ffe11432732.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경 하고 싶다면 여기로! 노원구의 제로 웨이스트 숍 3 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
