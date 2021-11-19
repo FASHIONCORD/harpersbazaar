@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말 홈파티를 위한 신상 막걸리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61298</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61298</guid>
+            <pubDate>Fri, 19 Nov 2021 12:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[사이다 막걸리 vs 바밤바 막걸리, 어떤 막걸리를 마실까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/2e19b0d4-5d40-4163-9738-7e4f795c2074.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지리산이 아니라고? 드라마 속 의외의 장소]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61274</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61274</guid>
+            <pubDate>Fri, 19 Nov 2021 12:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 &lt;지리산&gt;의 환상적인 풍광이 모두 지리산에서 촬영된 것은 아니다. 구례와 남원, 안동...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/9620131b-5aed-44b9-9186-1e41a1fe1065.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한남동에 나타난 붉은 고성? 시선 강탈, 이번 주 #신상핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61265</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 02:01:41 GMT</pubDate>
             <content:encoded><![CDATA[대전에서 성심당 빵만 먹으면 서운하다. 대전에서 꼭 가봐야 할 칼국수 맛집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0633e76b-c95a-4093-a687-1c46b61b5388.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은, 오느른 카페에 가자]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61132</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61132</guid>
-            <pubDate>Tue, 16 Nov 2021 11:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[MBC PD의 시골살이를 담은 힐링 유튜브 채널 ‘오느른’의 카페가 전북 김제에 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/3bc3cdef-6baf-48cb-8f88-917400237785.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전지현과 주지훈이 달린 그 지리산 능선은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61129</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61129</guid>
-            <pubDate>Sat, 13 Nov 2021 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[노고단, 천왕봉부터 접근이 금지된 보호구역까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/74e66f00-9193-4c75-9f01-507e79f3c0a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
