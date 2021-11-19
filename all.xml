@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1067,6 +1067,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/508984a7-9759-4ac3-9de0-7cd7bfaba014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한남동에 나타난 붉은 고성? 시선 강탈, 이번 주 #신상핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61265</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61265</guid>
+            <pubDate>Fri, 19 Nov 2021 11:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[여긴 또 뭐 하는 곳이람! 색다른 콘셉트로 무장한 이번 주 신상 공간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/b0d95737-3700-4bba-89de-a084c8cf968b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국내 최초 채식 쿡방이 떴다! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61231</link>
             <guid>https://www.harpersbazaar.co.kr/article/61231</guid>
@@ -1123,12 +1131,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/74e66f00-9193-4c75-9f01-507e79f3c0a1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국 여행은 여기로?  아메리칸 다이닝 맛집 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61119</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61119</guid>
-            <pubDate>Sat, 13 Nov 2021 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 미국 맛을 선보이는 아메리칸 다이닝!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/5bc607a5-f3e6-41cf-bd38-b975aec9e659.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[더 나은 환경을 꿈꾸는 남양주의 제로 웨이스트 숍 2 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/60901</link>
+            <guid>https://www.harpersbazaar.co.kr/article/60901</guid>
+            <pubDate>Fri, 19 Nov 2021 11:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[보다 많은 사람들이 친환경을 실천하는 그날까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/5bb82c72-0b87-4dff-abbc-9ddf1993c696.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경 하고 싶다면 여기로! 노원구의 제로 웨이스트 숍 3 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
@@ -1185,14 +1193,6 @@
             <pubDate>Tue, 02 Nov 2021 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[스테이씨가 그린 라이프를 실천하기 위해 일상에서 사용하는 물건들을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/fa328f51-1e17-4982-8a96-a046d0cf2f42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연의 아름다움을 담은 '2021 네이처 포토 콘테스트' (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/59503</link>
-            <guid>https://www.harpersbazaar.co.kr/article/59503</guid>
-            <pubDate>Tue, 02 Nov 2021 10:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[올해 '대상' 수상작은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/c6c6da7f-7499-48c0-9049-ec388b684f04.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

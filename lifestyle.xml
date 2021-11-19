@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한남동에 나타난 붉은 고성? 시선 강탈, 이번 주 #신상핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61265</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61265</guid>
+            <pubDate>Fri, 19 Nov 2021 11:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[여긴 또 뭐 하는 곳이람! 색다른 콘셉트로 무장한 이번 주 신상 공간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/b0d95737-3700-4bba-89de-a084c8cf968b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 최초 채식 쿡방이 떴다!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61231</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 08:22:07 GMT</pubDate>
             <content:encoded><![CDATA[노고단, 천왕봉부터 접근이 금지된 보호구역까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/74e66f00-9193-4c75-9f01-507e79f3c0a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 여행은 여기로?  아메리칸 다이닝 맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61119</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61119</guid>
-            <pubDate>Sat, 13 Nov 2021 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[진짜 미국 맛을 선보이는 아메리칸 다이닝!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/5bc607a5-f3e6-41cf-bd38-b975aec9e659.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
