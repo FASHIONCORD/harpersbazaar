@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 02:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 03:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱그러운 라이프스타일의 싹을 틔우다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61206</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61206</guid>
+            <pubDate>Tue, 23 Nov 2021 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘물멍’, ‘불멍’에 이어 이제 ‘식멍(식물을 보고 멍 때리기)’이 대세. 여기 싱그러운 ‘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/319fcea1-bed4-4cb4-b4f3-124abd6caa97.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 대세는 떡와! 요즘 느낌 떡볶이 바]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61305</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 08:26:24 GMT</pubDate>
             <content:encoded><![CDATA[지금껏 보지 못한 색다른 콘셉트의 디저트 베이커리와 카페, 일식당까지! 발 빠르게 접수해야 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/68b0d793-8294-415d-ae22-25c2365dd899.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울특별시골 어반 글램핑 베스트 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61148</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61148</guid>
-            <pubDate>Thu, 18 Nov 2021 02:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[캠린이, 뚜벅이도 문제 없다. 도심 한복판에서 즐기는 초간편 글램핑 플레이스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/2f54ddf3-ede6-4b5d-b9ee-e41af7ec508d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
