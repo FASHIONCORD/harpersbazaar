@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 11:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 12:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1067,6 +1067,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/d600b29c-0ee9-4f58-8a5a-d52ed15ba151.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[놓치면 내 손해, 클래식 스타들의 내한 공연 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61337</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61337</guid>
+            <pubDate>Tue, 23 Nov 2021 12:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[절대로 놓칠 수 없다! 동시대 클래식 거장들의 반가운 내한 공연 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/35bccfd1-3695-49c1-bb72-20f84a3b0ad3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[은평, 서대문구에 위치한 친환경 매장 4 #쓰레기없지도 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61334</link>
             <guid>https://www.harpersbazaar.co.kr/article/61334</guid>
@@ -1121,14 +1129,6 @@
             <pubDate>Fri, 19 Nov 2021 04:24:50 GMT</pubDate>
             <content:encoded><![CDATA[정재형, 홍진경이 MC로 나선 〈채소가지구〉는 국내 최초 채식 요리 대결 프로그램이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/9737186d-d48c-43d8-b096-35e0c44cc7b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원도 추천하는 신박한 사과 레시피는? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61164</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61164</guid>
-            <pubDate>Thu, 18 Nov 2021 12:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[사과, 그냥 먹지 말고 이 레시피를 따라 해보자. 무궁무진한 사과 요리!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/d470e05d-c7cc-42f1-950a-7fd4049a85c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 나은 환경을 꿈꾸는 남양주의 제로 웨이스트 숍 2 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
