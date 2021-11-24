@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 10:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 11:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1003,6 +1003,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/e0ef9b40-d1b3-4763-8abd-5fce84e5b5f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그림 속에 내 얼굴이 있을지도 몰라, 이번 주 #신상전시회 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61338</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61338</guid>
+            <pubDate>Wed, 24 Nov 2021 04:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 인간 군상, 도시의 초상에 주목하는 아티스트들의 전시가 열린다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/37cff3fc-72a6-4e3e-8805-4b76d2c82940.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놓치면 내 손해, 클래식 스타들의 내한 공연 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61337</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61337</guid>
+            <pubDate>Tue, 23 Nov 2021 12:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[절대로 놓칠 수 없다! 동시대 클래식 거장들의 반가운 내한 공연 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/35bccfd1-3695-49c1-bb72-20f84a3b0ad3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지리산이 아니라고? 드라마 속 의외의 장소 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61274</link>
             <guid>https://www.harpersbazaar.co.kr/article/61274</guid>
@@ -1049,22 +1065,6 @@
             <pubDate>Mon, 15 Nov 2021 00:55:18 GMT</pubDate>
             <content:encoded><![CDATA[전설의 미드, &lt;섹스 앤 더 시티&gt;의 언니들이 돌아온다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/42c3502f-9501-45fd-8908-02c8bfdf8f33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전지현과 주지훈이 달린 그 지리산 능선은 어디? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61129</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61129</guid>
-            <pubDate>Sat, 13 Nov 2021 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[노고단, 천왕봉부터 접근이 금지된 보호구역까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/74e66f00-9193-4c75-9f01-507e79f3c0a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설악산이 아닌, <지리산>인 이유 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61127</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61127</guid>
-            <pubDate>Tue, 16 Nov 2021 11:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[김은희 작가가 지리산을 선택한 이유]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0efe1b3f-f1c9-4fe8-bb01-e93efd9671ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1년에 딱 한 번 볼 수 있는 지상 최대의 탄생 쇼! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
