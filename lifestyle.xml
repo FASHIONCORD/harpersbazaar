@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1년에 딱 한 번 볼 수 있는 지상 최대의 탄생 쇼!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61415</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61415</guid>
+            <pubDate>Wed, 24 Nov 2021 10:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[11월 보름달이 뜨면 호주 퀸즐랜드의 대산호초가 황홀한 산란을 시작한다. 지상에서 벌어지는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/85dc0876-30b4-413c-8d9f-787ca1f89acf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여길 안 가봤다고? 맛 보장! 김나영의 부산맛집]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61356</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 12:29:44 GMT</pubDate>
             <content:encoded><![CDATA[사이다 막걸리 vs 바밤바 막걸리, 어떤 막걸리를 마실까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/2e19b0d4-5d40-4163-9738-7e4f795c2074.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지리산이 아니라고? 드라마 속 의외의 장소]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61274</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61274</guid>
-            <pubDate>Fri, 19 Nov 2021 12:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 &lt;지리산&gt;의 환상적인 풍광이 모두 지리산에서 촬영된 것은 아니다. 구례와 남원, 안동...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/9620131b-5aed-44b9-9186-1e41a1fe1065.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
