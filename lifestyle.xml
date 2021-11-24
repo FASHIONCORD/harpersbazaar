@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여길 안 가봤다고? 맛 보장! 김나영의 부산맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61356</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61356</guid>
+            <pubDate>Wed, 24 Nov 2021 08:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[먹킷리스트에 추가하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/482711e9-2930-404e-91aa-2adda2f72715.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그림 속에 내 얼굴이 있을지도 몰라, 이번 주 #신상전시회]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61338</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 12:29:44 GMT</pubDate>
             <content:encoded><![CDATA[드라마 &lt;지리산&gt;의 환상적인 풍광이 모두 지리산에서 촬영된 것은 아니다. 구례와 남원, 안동...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/9620131b-5aed-44b9-9186-1e41a1fe1065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한남동에 나타난 붉은 고성? 시선 강탈, 이번 주 #신상핫플]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61265</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61265</guid>
-            <pubDate>Fri, 19 Nov 2021 11:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[여긴 또 뭐 하는 곳이람! 색다른 콘셉트로 무장한 이번 주 신상 공간들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/b0d95737-3700-4bba-89de-a084c8cf968b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
