@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 22:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 23:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올겨울 필수템! 바라클라바 쓴 강민경, 장원영 코디]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32816431&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32816431&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 24 Nov 2021 23:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMTEy/MDAxNjM3NzMxOTE3NDQ2.7NiB5AQtys7O0GOhNx_e9YRo4ZVWydXh2NlEQhNCRTQg.Uxxqr6rVhFwK1yoa1NfuN3UkqbUHvldMC1AP26Y2m28g.JPEG/I9ecAgZWtFd_hdcTrqnvdtDYZhnA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김고은 패션 세포 열일 중! 섬세하고 멋스러운 사복 모음집]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32693081&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 07:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDZfMjYz/MDAxNjMwOTAzNjEwNTcw.tFgDDOl-vDTDOrwKuQAiYQLtQHUhV7qHsYDXL9OxFAsg.qNukx96PPt3FsWHcqWn6OdgMhCihys4ngvv2YjKQsAsg.JPEG/IjhNg4oCvE_XY1mSlJxH5X5aQ2Is.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김세정이 제안하는 가을 스타일링 팁]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32232066&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32232066&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 07:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjRfMTg4/MDAxNjI5ODA0MzI4ODA3.JMYzstPUu4Tw99hEYVLFOms3YphQmdot-MxUtghq_P8g.lRU8IGrgA366eV34llj7419QDHoZllvYe36M5fxcO10g.JPEG/I5f1hulR36z39lWG5QnZx0NvlXgA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
