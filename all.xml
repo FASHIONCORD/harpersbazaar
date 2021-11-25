@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 09:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 10:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1003,6 +1003,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/42ec6dff-bfbc-4160-b908-221517ba130c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리가 <술꾼도시여자들>에 열광하는 이유? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61407</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61407</guid>
+            <pubDate>Wed, 24 Nov 2021 00:57:29 GMT</pubDate>
+            <content:encoded><![CDATA['술도녀' 보는 사람들이 공감하는 포인트 5]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/dcda6e70-c4a4-4147-b91e-c1edbfdb3444.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그림 속에 내 얼굴이 있을지도 몰라, 이번 주 #신상전시회 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61338</link>
             <guid>https://www.harpersbazaar.co.kr/article/61338</guid>
@@ -1057,14 +1065,6 @@
             <pubDate>Fri, 19 Nov 2021 12:29:16 GMT</pubDate>
             <content:encoded><![CDATA[산을 지키는 일, 그게 우리의 일이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/7a570299-4561-46b7-befc-a3e28402be33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<섹스 앤 더 시티> 사만다의 부재는 누가 채우나? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61149</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61149</guid>
-            <pubDate>Mon, 15 Nov 2021 00:55:18 GMT</pubDate>
-            <content:encoded><![CDATA[전설의 미드, &lt;섹스 앤 더 시티&gt;의 언니들이 돌아온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/42c3502f-9501-45fd-8908-02c8bfdf8f33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울엔 샐러드도 따뜻하게, 웜샐러드 레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
