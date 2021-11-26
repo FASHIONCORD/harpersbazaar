@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 12:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빵순이 윤승아의 최애 서울 빵집 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61539</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61539</guid>
+            <pubDate>Fri, 26 Nov 2021 12:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[윤승아가 일주일에 다섯 번 방문하는 베이글 가게는 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/0dc4f57e-06f3-48a7-8d39-57015bdbd25c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스우파>허니제이, 리정, 예리, 팝핀댄서 은지가 한자리에 모인 이유?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61532</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 09:20:19 GMT</pubDate>
             <content:encoded><![CDATA[춥다고 다이어트 포기하지 말자. 따뜻하게 즐기는 웜샐러드 레시피가 있으니까.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/32cd09b8-a102-4b66-9837-23ea0634613e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮아, 비건이야! 비건 디저트 맛집 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61421</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61421</guid>
-            <pubDate>Thu, 25 Nov 2021 06:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[달콤한 케이크와 도넛이 주는 행복을 포기하지 말자. 비건 디저트 맛집 3곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/fba3fe99-c67c-4713-82a8-2bc4ebbd14df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

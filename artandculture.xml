@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 11:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 12:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리뱅이 청룡영화제에?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61530</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61530</guid>
+            <pubDate>Fri, 26 Nov 2021 12:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[홀리뱅 언니들이 왜 거기서 나와?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/ddde12eb-c5b8-4d64-aa6e-965ae76057a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어머, 이건 꼭 봐야돼!" 김수현 온다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61517</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 11:15:52 GMT</pubDate>
             <content:encoded><![CDATA[다양한 인간 군상, 도시의 초상에 주목하는 아티스트들의 전시가 열린다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/37cff3fc-72a6-4e3e-8805-4b76d2c82940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놓치면 내 손해, 클래식 스타들의 내한 공연]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61337</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61337</guid>
-            <pubDate>Wed, 24 Nov 2021 11:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[절대로 놓칠 수 없다! 동시대 클래식 거장들의 반가운 내한 공연 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/35bccfd1-3695-49c1-bb72-20f84a3b0ad3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
