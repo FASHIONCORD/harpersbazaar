@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 10:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 11:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 여성 유산균을 챙겨 먹어야 할까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61550</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61550</guid>
+            <pubDate>Fri, 26 Nov 2021 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[여성 유산균에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/cf378228-8835-4756-8a93-97507be769be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파괴의 신으로 빙의하는 생리전증후군. 심하면 병원가나요?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61548</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 03:19:28 GMT</pubDate>
             <content:encoded><![CDATA[당신도 ‘큰태리’는 아니었을까요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/397907fb-dad9-45a3-aecd-cc7282becad3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴이 ‘대유잼’! 한효주VS송혜교VS전지현의 드라마 메이크업]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61239</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61239</guid>
-            <pubDate>Wed, 24 Nov 2021 06:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[돌아온 여자 톱스타들, 여전히 우리가 사랑하는 배우들의 메이크업 룩!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/bd1eff2a-ab58-423f-9a77-1fca9728acba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
