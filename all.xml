@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 디지털 세상 속으로 (네이버 포스트 ─ 하퍼스바자 ─ Life)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32812036&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32812036&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 26 Nov 2021 02:00:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfNCAg/MDAxNjM3NjY3ODA2NDE3.1U6sOhI-wRpM8N969KcmvNQUaxav16avblaE39lhDvYg.he0-aSp2adsx7w7O5jTKAjv1hVRcnnMJ8uKMZRr_cwgg.JPEG/IPVB4lLoWIlquzKNaP5GYdds1qd4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 홀리데이의 세계로 (네이버 포스트 ─ 하퍼스바자 ─ Life)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32804882&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -159,15 +167,6 @@
             <pubDate>Sat, 02 Oct 2021 02:22:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfNTIg/MDAxNjMwMzEwMTM0NzU3.UYD0iuPto7u746kiWkaQF7zCYoVX6BcSqP6T508dKxsg.pd_k9E8F04cYfwTBnr_YmavlcBAwGsjB-lC6y1FqXswg.JPEG/IVmnXEmYqwsMHgprzTgH4Zi6puTY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광고]요즘 트렌드? 
-카카오 뷰에서 만나봐. (네이버 포스트 ─ 하퍼스바자 ─ Life)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32230998&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32230998&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 02:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjRfMjQw/MDAxNjI5NzkzNjU3MDcw.q0tZ5aqJYuJJGH3V-Grea39w19Trqoa-ODPxcc-21Icg.S1Sj8yBqvg8pnqSRGGOR2qPoXbHNSnjTFTKmRIODbZsg.JPEG/IYAf6EiFrnJkQbztiv--_xqd2oBI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올겨울 필수템! 바라클라바 쓴 강민경, 장원영 코디 (네이버 포스트 ─ 하퍼스바자 ─ Fashion)]]></title>
@@ -1003,6 +1002,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/ca58a0e4-920f-4aaf-97cb-51ef53a27d8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배두나가 배두나 한 <하퍼스 바자> 화보 공개! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61411</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61411</guid>
+            <pubDate>Wed, 24 Nov 2021 02:38:43 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;배우 배두나&gt;의 출간을 앞두고 만난 배두나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/ca58a0e4-920f-4aaf-97cb-51ef53a27d8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리가 <술꾼도시여자들>에 열광하는 이유? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61407</link>
             <guid>https://www.harpersbazaar.co.kr/article/61407</guid>
@@ -1057,14 +1064,6 @@
             <pubDate>Fri, 19 Nov 2021 12:29:16 GMT</pubDate>
             <content:encoded><![CDATA[위드코로나를 맞이해 12월 개봉을 기다리는 외국영화 가운데 주목할 만한 작품을 엄선했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/b402da11-e708-4aa9-ac80-2e2222ac8b78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산악 레인저, <지리산> 드라마와 얼마나 같을까? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61169</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61169</guid>
-            <pubDate>Fri, 19 Nov 2021 12:29:16 GMT</pubDate>
-            <content:encoded><![CDATA[산을 지키는 일, 그게 우리의 일이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/7a570299-4561-46b7-befc-a3e28402be33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울엔 샐러드도 따뜻하게, 웜샐러드 레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>

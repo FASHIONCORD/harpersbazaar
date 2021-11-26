@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 00:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 디지털 세상 속으로]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32812036&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32812036&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 26 Nov 2021 02:00:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfNCAg/MDAxNjM3NjY3ODA2NDE3.1U6sOhI-wRpM8N969KcmvNQUaxav16avblaE39lhDvYg.he0-aSp2adsx7w7O5jTKAjv1hVRcnnMJ8uKMZRr_cwgg.JPEG/IPVB4lLoWIlquzKNaP5GYdds1qd4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특별한 홀리데이의 세계로]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32804882&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -159,15 +167,6 @@
             <pubDate>Thu, 07 Oct 2021 12:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfNTIg/MDAxNjMwMzEwMTM0NzU3.UYD0iuPto7u746kiWkaQF7zCYoVX6BcSqP6T508dKxsg.pd_k9E8F04cYfwTBnr_YmavlcBAwGsjB-lC6y1FqXswg.JPEG/IVmnXEmYqwsMHgprzTgH4Zi6puTY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광고]요즘 트렌드? 
-카카오 뷰에서 만나봐.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32230998&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32230998&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 12:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MjRfMjQw/MDAxNjI5NzkzNjU3MDcw.q0tZ5aqJYuJJGH3V-Grea39w19Trqoa-ODPxcc-21Icg.S1Sj8yBqvg8pnqSRGGOR2qPoXbHNSnjTFTKmRIODbZsg.JPEG/IYAf6EiFrnJkQbztiv--_xqd2oBI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
