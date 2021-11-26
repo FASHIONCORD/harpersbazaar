@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 07:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 08:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 미술관으로! 흥미 유발 이번 주 신상 전시회]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61488</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61488</guid>
+            <pubDate>Fri, 26 Nov 2021 08:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 인싸들은 다 이 전시회 간다며?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/e479cff2-22d0-42c3-b919-d843a92b20df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이 배우 누구지?!" <지옥> 신스틸러 3인]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61487</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 09:19:10 GMT</pubDate>
             <content:encoded><![CDATA[드라마 &lt;지리산&gt;의 환상적인 풍광이 모두 지리산에서 촬영된 것은 아니다. 구례와 남원, 안동...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/9620131b-5aed-44b9-9186-1e41a1fe1065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 플러스, 어땠어?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61264</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61264</guid>
-            <pubDate>Tue, 23 Nov 2021 02:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[구독할까 말까 고민 중이라면 필독.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/c5bc80c5-e391-4fb6-a515-fff96b55cfd1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
