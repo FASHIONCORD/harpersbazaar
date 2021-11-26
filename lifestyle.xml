@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 13:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 14:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영이 장 보던 그 식료품점 어디야?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61555</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61555</guid>
+            <pubDate>Fri, 26 Nov 2021 14:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[지갑 안 열고는 못 베긴다. 인싸들을 사로잡은 세련된 요즘 그로서리 셀렉트 숍.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/0d06c94d-e2a7-4cf3-98ea-517d2f4399a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빵순이 윤승아의 최애 서울 빵집 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61539</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 06:23:58 GMT</pubDate>
             <content:encoded><![CDATA[오픈 3주만에 300만명이 찾은 이곳은 어디? #메타버스]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ddc17caa-7d1f-4b20-a1d7-10a4b0104db6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울엔 샐러드도 따뜻하게, 웜샐러드 레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61442</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61442</guid>
-            <pubDate>Thu, 25 Nov 2021 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[춥다고 다이어트 포기하지 말자. 따뜻하게 즐기는 웜샐러드 레시피가 있으니까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/32cd09b8-a102-4b66-9837-23ea0634613e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
