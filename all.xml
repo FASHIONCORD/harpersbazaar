@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 03:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 04:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1002,6 +1002,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/f720cda6-d551-4130-808c-13a36a19c053.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유느가 캐럴을 부른다? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61484</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61484</guid>
+            <pubDate>Thu, 25 Nov 2021 15:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[유희열, 유재석, 정재형, 루시드폴 등이 소속된 안테나의 크리스마스 캐럴 발매 소식]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/47a6c892-bc9b-4db2-ad58-fdb96356f2d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배두나가 배두나 한 <하퍼스 바자> 화보 공개! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61411</link>
             <guid>https://www.harpersbazaar.co.kr/article/61411</guid>
@@ -1058,22 +1066,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/eab37d15-7c8c-492b-9256-46bcf998de3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[12월 극장 가이드 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61188</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61188</guid>
-            <pubDate>Fri, 19 Nov 2021 12:29:16 GMT</pubDate>
-            <content:encoded><![CDATA[위드코로나를 맞이해 12월 개봉을 기다리는 외국영화 가운데 주목할 만한 작품을 엄선했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/b402da11-e708-4aa9-ac80-2e2222ac8b78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대는 이곳으로 놀러간다! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61458</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61458</guid>
-            <pubDate>Fri, 26 Nov 2021 02:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[오픈 3주만에 300만명이 찾은 이곳은 어디? #메타버스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ddc17caa-7d1f-4b20-a1d7-10a4b0104db6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[겨울엔 샐러드도 따뜻하게, 웜샐러드 레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61442</link>
             <guid>https://www.harpersbazaar.co.kr/article/61442</guid>
@@ -1128,6 +1120,14 @@
             <pubDate>Tue, 23 Nov 2021 05:17:58 GMT</pubDate>
             <content:encoded><![CDATA[비건 베이커리부터 제로 웨이스트 숍까지! 건강한 지구를 가꾸기 위해 노력하는 사장님들의 진심...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/bcee2005-8214-4fb2-aaee-fc4ecfecdb66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱그러운 라이프스타일의 싹을 틔우다 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61206</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61206</guid>
+            <pubDate>Fri, 26 Nov 2021 04:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘물멍’, ‘불멍’에 이어 이제 ‘식멍(식물을 보고 멍 때리기)’이 대세. 여기 싱그러운 ‘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/319fcea1-bed4-4cb4-b4f3-124abd6caa97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 나은 환경을 꿈꾸는 남양주의 제로 웨이스트 숍 2 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>

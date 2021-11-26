@@ -4,17 +4,9 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 03:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 04:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[MZ세대는 이곳으로 놀러간다!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61458</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61458</guid>
-            <pubDate>Fri, 26 Nov 2021 02:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[오픈 3주만에 300만명이 찾은 이곳은 어디? #메타버스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ddc17caa-7d1f-4b20-a1d7-10a4b0104db6.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[겨울엔 샐러드도 따뜻하게, 웜샐러드 레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61442</link>
@@ -70,6 +62,14 @@
             <pubDate>Tue, 23 Nov 2021 05:17:58 GMT</pubDate>
             <content:encoded><![CDATA[비건 베이커리부터 제로 웨이스트 숍까지! 건강한 지구를 가꾸기 위해 노력하는 사장님들의 진심...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/bcee2005-8214-4fb2-aaee-fc4ecfecdb66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱그러운 라이프스타일의 싹을 틔우다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61206</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61206</guid>
+            <pubDate>Fri, 26 Nov 2021 04:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘물멍’, ‘불멍’에 이어 이제 ‘식멍(식물을 보고 멍 때리기)’이 대세. 여기 싱그러운 ‘...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/319fcea1-bed4-4cb4-b4f3-124abd6caa97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
