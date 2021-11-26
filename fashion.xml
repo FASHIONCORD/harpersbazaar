@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 09:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 가장 핫한 패션 아이템은? 발라클라봐와 스누드!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61470</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61470</guid>
+            <pubDate>Fri, 26 Nov 2021 10:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 컬러, 패턴, 소재가 어우러진 발라클라바와 스누드를 기억할 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/a59e110c-a2f3-4b2a-9c36-3a39dd7596f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외 명품 브랜드에서 일해볼까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61469</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61469</guid>
+            <pubDate>Fri, 26 Nov 2021 10:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 젊은이들을 향한 LVMH 그룹의 초청]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/600ff9f0-b112-47c5-88b2-051efbdc6260.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반짝이는 액세서리를 갖고싶다면?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61468</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 06:21:25 GMT</pubDate>
             <content:encoded><![CDATA[K-팝 부흥 시대의 서막! 90년대를 대표하는 레전드 아티스트들이 뮤직비디오가 새롭게 탄생된...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/eab37d15-7c8c-492b-9256-46bcf998de3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 인형의 환생, 장원영 <하퍼스 바자> 12월호 커버 데뷔]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61183</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61183</guid>
-            <pubDate>Wed, 24 Nov 2021 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[하퍼스 바자 사상 최연소 커버 모델로 등극.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/0a19ba73-74d8-405e-8f67-0ff12f9571ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1980년대 쇼장에서 터지던 플래시 소리와 모델들의 섹시한 제스처, 샤넬 2022 S/S 런웨이의 모든 것.]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61174</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61174</guid>
-            <pubDate>Wed, 24 Nov 2021 02:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다 에너제틱하고 희망적인 메시지로 가득했던 샤넬의 2022 S/S 런웨이. 크리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/43ecd62b-995a-4e02-b708-ed0064c57d97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
