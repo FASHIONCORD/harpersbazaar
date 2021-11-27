@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 23:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 00:58:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콜린스 출판사와 옥스퍼드 사전이 뽑은 올해의 단어는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61558</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61558</guid>
+            <pubDate>Sat, 27 Nov 2021 00:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[호옥시 오징어..게임?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/647b15eb-d5a6-4bf0-90ae-dc93331790dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영이 장 보던 그 식료품점 어디야?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61555</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 09:20:58 GMT</pubDate>
             <content:encoded><![CDATA[6개월 아기에 엄마 성(姓) 물려줬다, 법원에서 허가]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/11ded8f7-773f-49d6-82f7-5e29bcf403f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ세대는 이곳으로 놀러간다!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61458</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61458</guid>
-            <pubDate>Fri, 26 Nov 2021 06:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[오픈 3주만에 300만명이 찾은 이곳은 어디? #메타버스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ddc17caa-7d1f-4b20-a1d7-10a4b0104db6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
