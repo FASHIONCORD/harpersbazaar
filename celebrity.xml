@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 14:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 15:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빵순이 윤승아의 최애 서울 빵집 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61539</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61539</guid>
+            <pubDate>Sun, 28 Nov 2021 15:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[윤승아가 일주일에 다섯 번 방문하는 베이글 가게는 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/0dc4f57e-06f3-48a7-8d39-57015bdbd25c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스우파>허니제이, 리정, 예리, 팝핀댄서 은지가 한자리에 모인 이유?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61532</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 05:17:18 GMT</pubDate>
             <content:encoded><![CDATA[고민시 함께라면 브런치부터 디저트까지, 모든 고민 해결!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/ce592579-ddbe-4547-9991-a2883087fadb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 여기 배두나]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61497</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61497</guid>
-            <pubDate>Fri, 26 Nov 2021 02:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[어제의 자신을 뛰어넘어 부름에 답하는 배두나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/06c403c5-c7e5-4fc5-91a4-567cc61e8a07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
