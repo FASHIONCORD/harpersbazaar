@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠웨어와 어울리는 시계는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61599</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61599</guid>
+            <pubDate>Mon, 29 Nov 2021 15:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[스포티 룩과 어우러진 애슬레저 워치의 생동하는 매력.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/67ab3541-84e0-4930-aeb2-60ad9a62e89f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽클레르의 새로운 프로젝트는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61597</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 00:56:02 GMT</pubDate>
             <content:encoded><![CDATA[지갑 안 열고는 못 베긴다. 인싸들을 사로잡은 세련된 요즘 그로서리 셀렉트 숍.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/0d06c94d-e2a7-4cf3-98ea-517d2f4399a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가니(GANNI) x 리졸리(Rizzoli), 가니의 첫 브랜드 북 출간!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61513</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61513</guid>
-            <pubDate>Mon, 29 Nov 2021 00:56:02 GMT</pubDate>
-            <content:encoded><![CDATA[MZ 세대가 사랑하는 덴마크 패션 브랜드 가니(GANNI)의 여정을 담다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/83d2a021-2a8c-47a7-85ed-896513b6cfba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
