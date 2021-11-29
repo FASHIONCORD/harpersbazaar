@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 12:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 13:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톰 홀랜드, 정말 은퇴 할거야?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61567</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61567</guid>
+            <pubDate>Mon, 29 Nov 2021 13:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[톰 홀랜드가 &lt;스파이더맨: 노 웨이 홈&gt;을 끝으로 스파이더맨을 떠난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/3fc611d1-8d1a-4705-ba27-616a7275c7a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선물 주려고 샀다가 내가 갖는다는, 윤승아 Pick 선물 리스트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61565</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61565</guid>
+            <pubDate>Mon, 29 Nov 2021 13:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[취향 좋기로 소문난 윤승아가 꼼꼼하게 고른 연말 선물 추천 리스트!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/5de88c3d-8ae0-453e-a926-baef11baf8a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도쿄에서 한 달 단돈 1000원이면 주거를 해결할 수 있다고?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61560</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 10:22:46 GMT</pubDate>
             <content:encoded><![CDATA[춤도 스포츠가 될 수 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/fde6081c-ad85-417a-86c3-eacf0cf43737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리츠한센 스테이 오픈, 위치는 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61516</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61516</guid>
-            <pubDate>Fri, 26 Nov 2021 10:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[한옥에서 만나는 덴마크.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/0b8f3b36-4faf-471a-98d2-f1d8b142279e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고민시와 성수 나들이 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61505</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61505</guid>
-            <pubDate>Fri, 26 Nov 2021 10:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[고민시 함께라면 브런치부터 디저트까지, 모든 고민 해결!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/ce592579-ddbe-4547-9991-a2883087fadb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
