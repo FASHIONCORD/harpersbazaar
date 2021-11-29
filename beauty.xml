@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술 마신 다음 날, 다이어터들 필수 루틴]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61556</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61556</guid>
+            <pubDate>Mon, 29 Nov 2021 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[회식 다음 날 운동? 해장? 어떻게 해야 할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/3d5b1ce1-fc63-4302-a764-eb8541188568.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 몸매 가능해? 조이처럼 일자 팔뚝 만드는 법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61554</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
             <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마시기만 해도 살 빠지는 겨울 차 5]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61260</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61260</guid>
-            <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[부쩍 추워진 계절, 커피 대신 차 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/e07972c3-cf47-42ff-beed-29ea0359d04f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

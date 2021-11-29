@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -874,6 +874,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/83d2a021-2a8c-47a7-85ed-896513b6cfba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[술 마신 다음 날, 다이어터들 필수 루틴 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61556</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61556</guid>
+            <pubDate>Mon, 29 Nov 2021 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[회식 다음 날 운동? 해장? 어떻게 해야 할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/3d5b1ce1-fc63-4302-a764-eb8541188568.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 몸매 가능해? 조이처럼 일자 팔뚝 만드는 법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61554</link>
             <guid>https://www.harpersbazaar.co.kr/article/61554</guid>
@@ -928,14 +936,6 @@
             <pubDate>Thu, 25 Nov 2021 03:18:45 GMT</pubDate>
             <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마시기만 해도 살 빠지는 겨울 차 5 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61260</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61260</guid>
-            <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[부쩍 추워진 계절, 커피 대신 차 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/e07972c3-cf47-42ff-beed-29ea0359d04f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선물 주려고 샀다가 내가 갖는다는, 윤승아 Pick 선물 리스트 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1066,6 +1066,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/47a6c892-bc9b-4db2-ad58-fdb96356f2d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도쿄에서 한 달 단돈 1000원이면 주거를 해결할 수 있다고? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61560</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61560</guid>
+            <pubDate>Mon, 29 Nov 2021 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[이케아의 '타이니 홈즈' 프로젝트. 주인공은 단 한명! #이슈있슈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/07336221-4c16-4dc1-9db1-c9dc6bb6b591.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[델타 변이를 뛰어넘는 새로운 변이 등장, 역대 최악 변이될까 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61559</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61559</guid>
+            <pubDate>Mon, 29 Nov 2021 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[누 변이는 또 어디서 왔나. #이슈있슈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/a63869aa-777a-4d40-9090-6d8ee91699d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[콜린스 출판사와 옥스퍼드 사전이 뽑은 올해의 단어는? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61558</link>
             <guid>https://www.harpersbazaar.co.kr/article/61558</guid>
@@ -1112,22 +1128,6 @@
             <pubDate>Fri, 26 Nov 2021 05:17:18 GMT</pubDate>
             <content:encoded><![CDATA[고민시 함께라면 브런치부터 디저트까지, 모든 고민 해결!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/ce592579-ddbe-4547-9991-a2883087fadb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 미술관으로! 흥미 유발 이번 주 신상 전시회 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61488</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61488</guid>
-            <pubDate>Fri, 26 Nov 2021 08:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 인싸들은 다 이 전시회 간다며?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/e479cff2-22d0-42c3-b919-d843a92b20df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이에게 엄마 성을 물려주려면? #이슈있슈 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61478</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61478</guid>
-            <pubDate>Fri, 26 Nov 2021 09:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[6개월 아기에 엄마 성(姓) 물려줬다, 법원에서 허가]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/11ded8f7-773f-49d6-82f7-5e29bcf403f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 나은 환경을 꿈꾸는 남양주의 제로 웨이스트 숍 2 #쓰레기없지도 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
