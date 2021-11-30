@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[델타 변이를 뛰어넘는 새로운 변이 등장, 역대 최악 변이될까]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61559</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61559</guid>
+            <pubDate>Tue, 30 Nov 2021 03:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[누 변이는 또 어디서 왔나. #이슈있슈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/a63869aa-777a-4d40-9090-6d8ee91699d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델 아이린이 표현한 디지털 세상은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61385</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
             <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 복근 뭐야? 기안84의 다이어트법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61459</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61459</guid>
-            <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[안 긁은 복권들 모여라~]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/56c55f56-44a0-4f6e-853b-3d898791f753.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

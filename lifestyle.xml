@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꾸덕함이 찐! 그릭요거트 맛집 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61620</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61620</guid>
+            <pubDate>Tue, 30 Nov 2021 03:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[몸에 좋고 맛도 좋은 그릭요거트 원해?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/e1f9a5c1-dddd-483b-b02f-521220cda961.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팥, 야채, 피자 말고 이런 맛은 어때?  호빵의 무한 변신!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61578</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 14:18:21 GMT</pubDate>
             <content:encoded><![CDATA[지갑 안 열고는 못 베긴다. 인싸들을 사로잡은 세련된 요즘 그로서리 셀렉트 숍.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/0d06c94d-e2a7-4cf3-98ea-517d2f4399a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빵순이 윤승아의 최애 서울 빵집 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61539</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61539</guid>
-            <pubDate>Fri, 26 Nov 2021 12:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[윤승아가 일주일에 다섯 번 방문하는 베이글 가게는 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/0dc4f57e-06f3-48a7-8d39-57015bdbd25c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

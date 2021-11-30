@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레더 팬츠, 어렵지 않아요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61600</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61600</guid>
+            <pubDate>Tue, 30 Nov 2021 03:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[존재만으로도 강렬한 에너지를 발산하는 레더 팬츠.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/259b9e26-3fa1-43df-b875-aff5eb5dceb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포츠웨어와 어울리는 시계는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61599</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 00:56:02 GMT</pubDate>
             <content:encoded><![CDATA[새로운 디지털 세상 속으로]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영이 장 보던 그 식료품점 어디야?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61555</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61555</guid>
-            <pubDate>Mon, 29 Nov 2021 00:56:02 GMT</pubDate>
-            <content:encoded><![CDATA[지갑 안 열고는 못 베긴다. 인싸들을 사로잡은 세련된 요즘 그로서리 셀렉트 숍.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/0d06c94d-e2a7-4cf3-98ea-517d2f4399a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
