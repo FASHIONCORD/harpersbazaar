@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 00:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 01:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 하고 싶은 안소희의 ‘감성’ 캠핑템]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61622</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61622</guid>
+            <pubDate>Tue, 30 Nov 2021 01:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[안소희가 방문한 캠핑장부터 캠핑 아이템까지! '손민수' 하고 싶은 안소희의 pick!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/eed5eeda-da2a-4bfc-8165-b1fd8a012684.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버질 아블로, 굿바이. RIP]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61602</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 00:56:46 GMT</pubDate>
             <content:encoded><![CDATA[올 연말부터 내년 초까지 스타쉽과 JYP, 하이브에서 데뷔 예정인 신인 걸그룹을 소개한다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/80e1ea22-5686-4213-93ad-a88f4dc54651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빵순이 윤승아의 최애 서울 빵집 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61539</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61539</guid>
-            <pubDate>Sun, 28 Nov 2021 15:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[윤승아가 일주일에 다섯 번 방문하는 베이글 가게는 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/0dc4f57e-06f3-48a7-8d39-57015bdbd25c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
