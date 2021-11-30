@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 18:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 19:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 도심에 농장이 있다고? #스마트팜]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61628</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61628</guid>
+            <pubDate>Tue, 30 Nov 2021 19:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[식문화의 미래를 보여주는 새로운 핫플레이스 2]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/152c0b99-88cf-4599-8c7f-b61fd24e758a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손민수 하고 싶은 안소희의 ‘감성’ 캠핑템]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61622</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 08:23:48 GMT</pubDate>
             <content:encoded><![CDATA[누 변이는 또 어디서 왔나. #이슈있슈]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/a63869aa-777a-4d40-9090-6d8ee91699d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콜린스 출판사와 옥스퍼드 사전이 뽑은 올해의 단어는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61558</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61558</guid>
-            <pubDate>Sat, 27 Nov 2021 00:57:22 GMT</pubDate>
-            <content:encoded><![CDATA[호옥시 오징어..게임?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/647b15eb-d5a6-4bf0-90ae-dc93331790dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
