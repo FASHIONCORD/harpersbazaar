@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 11:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 12:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손민수 하고 싶은 안소희의 ‘감성’ 캠핑템]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61622</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61622</guid>
+            <pubDate>Tue, 30 Nov 2021 12:27:43 GMT</pubDate>
+            <content:encoded><![CDATA[안소희가 방문한 캠핑장부터 캠핑 아이템까지! '손민수' 하고 싶은 안소희의 pick!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/eed5eeda-da2a-4bfc-8165-b1fd8a012684.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꾸덕함이 찐! 그릭요거트 맛집 5]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61620</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 27 Nov 2021 00:57:22 GMT</pubDate>
             <content:encoded><![CDATA[호옥시 오징어..게임?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/647b15eb-d5a6-4bf0-90ae-dc93331790dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영이 장 보던 그 식료품점 어디야?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61555</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61555</guid>
-            <pubDate>Fri, 26 Nov 2021 14:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[지갑 안 열고는 못 베긴다. 인싸들을 사로잡은 세련된 요즘 그로서리 셀렉트 숍.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/0d06c94d-e2a7-4cf3-98ea-517d2f4399a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
