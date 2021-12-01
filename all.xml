@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 04:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -935,7 +935,15 @@
             <guid>https://www.harpersbazaar.co.kr/article/61367</guid>
             <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
             <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박형식과 한소희가 로맨스로 만나면? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61647</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61647</guid>
+            <pubDate>Wed, 01 Dec 2021 05:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직시네마 &lt;사운드트랙#1&gt; 주연 확정]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/cd1ca8b7-7b0c-4cf3-8300-bd124b1ab6d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김대명을 둘러싼 것들 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -992,14 +1000,6 @@
             <pubDate>Mon, 29 Nov 2021 12:29:08 GMT</pubDate>
             <content:encoded><![CDATA['3년이란 시간이 꼭 중학교, 고등학교를 다닌 것 같았다. 진짜 졸업하는 기분이었다.']]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/dca15684-8d77-4388-a045-493ddb6ab04a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댄싱퀸 허니제이 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61586</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61586</guid>
-            <pubDate>Mon, 29 Nov 2021 11:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[축제가 끝나도 춤은 계속된다. 댄서, 안무가, 아티스트 허니제이. 그의 삶이 곧 춤이므로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/15ea6031-b2f2-4f92-9b80-82aa138abd25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선물 주려고 샀다가 내가 갖는다는, 윤승아 Pick 선물 리스트 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -1066,6 +1066,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/e479cff2-22d0-42c3-b919-d843a92b20df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 데이트 핫플로 급부상 중인  #신상핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61629</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61629</guid>
+            <pubDate>Wed, 01 Dec 2021 05:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[누구보다 발 빠르게 바자가 접수한 따끈따끈 이번 주 신상 핫플레이스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/44a5bd68-805c-4c86-8835-dbe5948a101b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 도심에 농장이 있다고? #스마트팜 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61628</link>
             <guid>https://www.harpersbazaar.co.kr/article/61628</guid>
@@ -1120,14 +1128,6 @@
             <pubDate>Mon, 29 Nov 2021 08:23:48 GMT</pubDate>
             <content:encoded><![CDATA[이케아의 '타이니 홈즈' 프로젝트. 주인공은 단 한명! #이슈있슈]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/07336221-4c16-4dc1-9db1-c9dc6bb6b591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델타 변이를 뛰어넘는 새로운 변이 등장, 역대 최악 변이될까 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61559</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61559</guid>
-            <pubDate>Mon, 29 Nov 2021 08:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[누 변이는 또 어디서 왔나. #이슈있슈]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/a63869aa-777a-4d40-9090-6d8ee91699d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경을 위한 패션계의 노력 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
