@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 15:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친환경 패키지에 담겨 있는 의미있는 선물 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61598</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61598</guid>
+            <pubDate>Wed, 01 Dec 2021 15:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[환경까지 고려한 패키지에 담겨 더욱 의미 있는 선물.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/89e74224-6ef1-48e8-966e-7b778092e754.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[델타 변이를 뛰어넘는 새로운 변이 등장, 역대 최악 변이될까]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61559</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
             <content:encoded><![CDATA[심각한 PMS 증상. 괜찮을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/4970527d-46dd-4753-9b97-3215ee9d6ada.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOLIDAY DREAM]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61367</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61367</guid>
-            <pubDate>Fri, 26 Nov 2021 09:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
