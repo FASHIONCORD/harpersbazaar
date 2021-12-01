@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 13:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 14:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정혜영이 강추하는 초간단 애피타이저와 와인 안주?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61638</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61638</guid>
+            <pubDate>Wed, 01 Dec 2021 14:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[‘요알못’도 할 수 있는 메뉴가 생겼다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/87a371c2-2510-492d-adb6-c342f68c1582.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 데이트 핫플로 급부상 중인  #신상핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61629</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 13:25:55 GMT</pubDate>
             <content:encoded><![CDATA[취향 좋기로 소문난 윤승아가 꼼꼼하게 고른 연말 선물 추천 리스트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/5de88c3d-8ae0-453e-a926-baef11baf8a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄에서 한 달 단돈 1000원이면 주거를 해결할 수 있다고?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61560</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61560</guid>
-            <pubDate>Mon, 29 Nov 2021 08:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[이케아의 '타이니 홈즈' 프로젝트. 주인공은 단 한명! #이슈있슈]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/07336221-4c16-4dc1-9db1-c9dc6bb6b591.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
