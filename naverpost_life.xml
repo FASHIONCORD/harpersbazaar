@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 22:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 23:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애프터각 100%, 고수들이 추천하는 소개팅 성지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32860329&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32860329&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 01 Dec 2021 23:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMDFfMjA0/MDAxNjM4MzI4NzU5NzM0.y2GyhVre3f_D_bFLtYoGARKkF1LBIsRJu34bXZ7uWXsg.cSCn2cT-WS9nCuJ94Hl_g29OMXJq0oc-Q7ETTdxGmvkg.JPEG/IEnAkMRfaJnRjPzDAjvresf1oYQk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술은 절대 양보할 수 없는 다이어터를 위한 살 안찌는 안주 모음집]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32860231&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 07 Oct 2021 12:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTYg/MDAxNjMxNzkzODAxODA5.0F07b1cWWOml8Z6K2RBk8Nrk4r-cIWHMnJK7z2Y5bVMg.X-5fRs8bbycTLXLjZz_Nt0QDl8v55AG7MQCPR2Vdz9Ug.JPEG/IIx9YVHDAxBVgTEXmB73SgfwwnOk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네스프레소, 커피의 지속 가능성을 이야기하다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32377047&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32377047&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 12:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTVfMTAx/MDAxNjMxNjkxNjExNjQx.ybfn0NAhJ0xO3BtdUkJqCgq_-j92hIaqw9XcZ3W2lAog.t90S1LLsUOJtCOPzcflKAOh75liMXdzpYUgLbHGhuKgg.PNG/IybUulGp0m0zWdk2iV47AcrVCJzY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
