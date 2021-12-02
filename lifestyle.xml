@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 01:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 02:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61371</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61371</guid>
+            <pubDate>Thu, 02 Dec 2021 02:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정혜영이 강추하는 초간단 애피타이저와 와인 안주?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61638</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 13:25:55 GMT</pubDate>
             <content:encoded><![CDATA[톰 홀랜드가 &lt;스파이더맨: 노 웨이 홈&gt;을 끝으로 스파이더맨을 떠난다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/3fc611d1-8d1a-4705-ba27-616a7275c7a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선물 주려고 샀다가 내가 갖는다는, 윤승아 Pick 선물 리스트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61565</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61565</guid>
-            <pubDate>Mon, 29 Nov 2021 13:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[취향 좋기로 소문난 윤승아가 꼼꼼하게 고른 연말 선물 추천 리스트!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/5de88c3d-8ae0-453e-a926-baef11baf8a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
