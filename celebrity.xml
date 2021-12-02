@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 06:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 07:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번엔 '스걸파'다! '스우파' 리더들 총출동]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61674</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61674</guid>
+            <pubDate>Thu, 02 Dec 2021 07:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[잘 봐, K-여고생의 싸움이다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/a8d9177c-3c44-4812-9b10-9e2eb9d0f66c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이동욱X위하준 브로맨스라니 벌써 좋다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61649</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 03:17:10 GMT</pubDate>
             <content:encoded><![CDATA[기록소년단이 또 BTS를 했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/5726950e-a462-49b6-82d9-40ef268a2103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 하고 싶은 안소희의 ‘감성’ 캠핑템]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61622</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61622</guid>
-            <pubDate>Tue, 30 Nov 2021 01:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[안소희가 방문한 캠핑장부터 캠핑 아이템까지! '손민수' 하고 싶은 안소희의 pick!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/eed5eeda-da2a-4bfc-8165-b1fd8a012684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
