@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하나쯤은 갖고 싶은 클래식한 골드 워치 6]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61631</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61631</guid>
+            <pubDate>Thu, 02 Dec 2021 06:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[우아한 베젤 장식이 돋보이는 라운드 형태의 골드 워치는 영원불멸의 클래식이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/9c30a688-6071-42f1-99c4-371dbab50635.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에르메스, 티파니, 루이비통의 12월 소식]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61615</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[가진 색은 저마다 다르지만 독창성과 실험정신으로 똘똘 뭉쳤다. 지금 기억해야 할 주얼리 디자...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/e4ee57cc-43cb-4d1a-8970-ab78fd71c8da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댕댕이는 프라다를 입는다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61595</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61595</guid>
-            <pubDate>Mon, 29 Nov 2021 02:01:18 GMT</pubDate>
-            <content:encoded><![CDATA[반려동물과 함께하는 우리나라 인구가 1천5백만 명에 이르며 반려동물 산업을 뜻하는 ‘펫코노미...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/79c32cba-76bf-424f-bb1e-2b01f4e4d783.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
