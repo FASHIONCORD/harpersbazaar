@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 04:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로 산 스마트 워치보다 더 주목 받을 네일 아트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61713</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61713</guid>
+            <pubDate>Fri, 03 Dec 2021 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[시선은 스마트 워치를 향하고 있지만, 마음은 손끝에 사로잡혔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/04917f64-b660-4973-9d7c-cc2a97662b3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EVERYDAY HOLIDAY]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61371</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 01:53:20 GMT</pubDate>
             <content:encoded><![CDATA[새로운 디지털 세상 속으로]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술 마신 다음 날, 다이어터들 필수 루틴]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61556</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61556</guid>
-            <pubDate>Mon, 29 Nov 2021 08:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[회식 다음 날 운동? 해장? 어떻게 해야 할까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/3d5b1ce1-fc63-4302-a764-eb8541188568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
