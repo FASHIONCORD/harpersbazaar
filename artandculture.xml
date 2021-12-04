@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 00:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 02:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<쇼미더머니10> 세미파이널! 압도적 존재감을 뽐낸 피처링은 누구?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61630</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61630</guid>
+            <pubDate>Sat, 04 Dec 2021 02:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[어느 새부터 히-팝은 안 멋쪄!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/c580c845-ccf1-4da8-bdb9-103b2d948c26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최초공개! 배두나가 루이 비통 크루즈 쇼 리허설에서 놀랐던 이유는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61626</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 27 Nov 2021 00:56:40 GMT</pubDate>
             <content:encoded><![CDATA[왜 내가 설레지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/c539154a-0f8d-4787-8901-c3b86437e050.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청룡영화상' 무려 42년 만에 처음으로...]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61536</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61536</guid>
-            <pubDate>Sat, 27 Nov 2021 00:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[안방 1열 OTT 영화 수상 후보작 선정]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/373f72ef-f8b1-48f2-ab27-39c2cfbfca4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
