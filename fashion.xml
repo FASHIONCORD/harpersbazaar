@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 14:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 15:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그래픽 디자이너가 론칭한 주얼리는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61711</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61711</guid>
+            <pubDate>Sat, 04 Dec 2021 15:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[가진 색은 저마다 다르지만 독창성과 실험정신으로 똘똘 뭉쳤다. 지금 기억해야 할 주얼리 디자...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/3f61f7db-dcdf-440e-a041-20e7dfa55324.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 겨울, 꼭 기억해야 할 퍼 스타일링]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61684</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 10:16:42 GMT</pubDate>
             <content:encoded><![CDATA[형형색색의 오라를 지닌 현아의 깊고 넓은 스펙트럼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/f0d24d96-cd65-406f-9d62-4fb7537c76b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레더 팬츠, 어렵지 않아요]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61600</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61600</guid>
-            <pubDate>Tue, 30 Nov 2021 03:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[존재만으로도 강렬한 에너지를 발산하는 레더 팬츠.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/259b9e26-3fa1-43df-b875-aff5eb5dceb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
