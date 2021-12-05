@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 15:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 16:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송민호, '저탄소 용지+생분해 플라스틱' 앨범 제작]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61735</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61735</guid>
+            <pubDate>Sun, 05 Dec 2021 16:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[송민호의 이번 앨범은 특별하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/62e00991-2afb-4db7-b4f7-687e2e6f575f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최우식·김다미, <그 해 우리는>으로 첫 멜로 호흡]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61730</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 13:25:44 GMT</pubDate>
             <content:encoded><![CDATA[취향 좋기로 소문난 윤승아가 꼼꼼하게 고른 연말 선물 추천 리스트!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/5de88c3d-8ae0-453e-a926-baef11baf8a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4세대 신인 걸그룹이 입장합니다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61557</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61557</guid>
-            <pubDate>Mon, 29 Nov 2021 13:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[올 연말부터 내년 초까지 스타쉽과 JYP, 하이브에서 데뷔 예정인 신인 걸그룹을 소개한다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/80e1ea22-5686-4213-93ad-a88f4dc54651.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
