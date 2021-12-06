@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 04:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쥬얼리 김은정, 디바인채널 임광욱과 열애]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61765</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61765</guid>
+            <pubDate>Mon, 06 Dec 2021 05:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[음악으로 맺어진 예비부부 추가요!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/e0676edd-b4fc-4f55-8594-7a308a50f129.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5분 만에 인생이 바뀌는 식사]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61762</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Dec 2021 07:21:01 GMT</pubDate>
             <content:encoded><![CDATA[축하합니다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/ddcb8f06-a8eb-444e-a4fe-c2cdc5cb9266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톰 홀랜드, 정말 은퇴 할거야?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61567</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61567</guid>
-            <pubDate>Thu, 02 Dec 2021 07:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[톰 홀랜드가 &lt;스파이더맨: 노 웨이 홈&gt;을 끝으로 스파이더맨을 떠난다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/3fc611d1-8d1a-4705-ba27-616a7275c7a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
