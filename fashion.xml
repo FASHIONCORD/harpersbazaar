@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 14:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 15:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외할머니를 뮤즈로만든 주얼리, 지예 신]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61786</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61786</guid>
+            <pubDate>Tue, 07 Dec 2021 15:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[가진 색은 저마다 다르지만 독창성과 실험정신으로 똘똘 뭉쳤다. 지금 기억해야 할 주얼리 디자...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/9f224080-df74-45ef-a437-405e1b5eb525.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하늘의 별이 된 버질 아블로의 추모 공간]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61753</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Dec 2021 02:01:15 GMT</pubDate>
             <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나쯤은 갖고 싶은 클래식한 골드 워치 6]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61631</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61631</guid>
-            <pubDate>Thu, 02 Dec 2021 06:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[우아한 베젤 장식이 돋보이는 라운드 형태의 골드 워치는 영원불멸의 클래식이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/9c30a688-6071-42f1-99c4-371dbab50635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
