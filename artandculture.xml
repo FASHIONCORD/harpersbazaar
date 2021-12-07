@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 17:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 18:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 사는 서울은 이렇게 아름답다. #사울레이터]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61849</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61849</guid>
+            <pubDate>Tue, 07 Dec 2021 18:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[낯설고도 가까운 서울. 그의 사진 속 간과한 일상의 아름다움이 시처럼 조용히 마음에 스며든다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/433b8b33-c28d-4f8d-be63-d15093a6f228.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진욱이 600년 산 인간을 연기한다면?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61832</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 04:26:19 GMT</pubDate>
             <content:encoded><![CDATA[행동과학자 존 리비는 특별한 식사를 열어 그 무엇과도 바꿀 수 없는 인연을 얻었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/fa357d18-b952-4f72-a2cb-7dcdd13f0609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송민호, '저탄소 용지+생분해 플라스틱' 앨범 제작]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61735</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61735</guid>
-            <pubDate>Sun, 05 Dec 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[송민호의 이번 앨범은 특별하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/62e00991-2afb-4db7-b4f7-687e2e6f575f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
