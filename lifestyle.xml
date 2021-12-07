@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 09:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 10:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임수정이 좋아하는 비건 레스토랑 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61724</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61724</guid>
+            <pubDate>Tue, 07 Dec 2021 10:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[임수정의 동안 비결은 바로 비건?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/591d165a-f88b-432e-bc84-6e71be77eef4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미쉐린 가이드 선정 기준이 궁금해? #미쉐린가이드서울2022]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61710</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 01 Dec 2021 05:19:03 GMT</pubDate>
             <content:encoded><![CDATA[누구보다 발 빠르게 바자가 접수한 따끈따끈 이번 주 신상 핫플레이스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/44a5bd68-805c-4c86-8835-dbe5948a101b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 도심에 농장이 있다고? #스마트팜]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61628</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61628</guid>
-            <pubDate>Tue, 30 Nov 2021 19:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[식문화의 미래를 보여주는 새로운 핫플레이스 2]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/152c0b99-88cf-4599-8c7f-b61fd24e758a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

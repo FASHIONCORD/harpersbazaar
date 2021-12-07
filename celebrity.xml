@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 09:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 10:30:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차정원의 서울 카페 투어 #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61860</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61860</guid>
+            <pubDate>Tue, 07 Dec 2021 10:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[데일리 룩 만큼이나 손민수 하고 싶은 차정원의 즐겨 찾는 공간 모음.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/f7533c06-f07a-43ec-8be5-0dc8cc74d005.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허니제이가 직접 만든 이모티콘?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61845</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 06:23:23 GMT</pubDate>
             <content:encoded><![CDATA[미쉐린 가이드 인터내셔널 디렉터, 그웬달 뿔레넥이 말하는 서울의 미식문화와 미래.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/82f11563-d411-4b09-b670-6e9679db7796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방구석 1열 아델 콘서트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61696</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61696</guid>
-            <pubDate>Sat, 04 Dec 2021 09:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 즐기는 천상의 목소리]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/b5e4db28-4b55-4d5f-a869-a7859243deb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
