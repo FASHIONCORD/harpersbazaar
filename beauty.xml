@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 07:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨는 춥지만 마음은 따뜻하게! 이솝 연말 기프트 키트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61779</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61779</guid>
+            <pubDate>Tue, 07 Dec 2021 08:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[올해는 어떤 메시지를 담고 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/10e67bfb-1ddc-4d55-a8e6-3be92d36ce91.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[군것질 대왕 오마이걸 미미, 살 안 찌는 비결]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61764</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Dec 2021 02:39:17 GMT</pubDate>
             <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연, 현아, 모모까지 핫한 아이돌은 한 번 씩 했다는 히메 컷 아니?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61645</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61645</guid>
-            <pubDate>Thu, 02 Dec 2021 15:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[브라운관에서도, 길거리에서도 이제 히메 커트를 찾는 건 그리 어렵지 않다. 히메 커트, 해석...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/1f009bcb-0b36-4911-9159-67f9fffaac88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
