@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미쉐린 가이드 선정 기준이 궁금해? #미쉐린가이드서울2022]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61710</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61710</guid>
+            <pubDate>Tue, 07 Dec 2021 07:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[미쉐린 가이드 인터내셔널 디렉터, 그웬달 뿔레넥이 말하는 서울의 미식문화와 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/82f11563-d411-4b09-b670-6e9679db7796.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방구석 1열 아델 콘서트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61696</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 19:15:20 GMT</pubDate>
             <content:encoded><![CDATA[식문화의 미래를 보여주는 새로운 핫플레이스 2]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/152c0b99-88cf-4599-8c7f-b61fd24e758a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손민수 하고 싶은 안소희의 ‘감성’ 캠핑템]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61622</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61622</guid>
-            <pubDate>Tue, 30 Nov 2021 12:27:43 GMT</pubDate>
-            <content:encoded><![CDATA[안소희가 방문한 캠핑장부터 캠핑 아이템까지! '손민수' 하고 싶은 안소희의 pick!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/eed5eeda-da2a-4bfc-8165-b1fd8a012684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군것질 대왕 오마이걸 미미, 살 안 찌는 비결]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61764</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61764</guid>
+            <pubDate>Tue, 07 Dec 2021 07:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[이 정도는 할 수 있잖아요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/fc7bb310-057d-4e32-a97d-64e15762e354.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금까지 이런 뷰티템은 없었다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61749</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Dec 2021 15:17:11 GMT</pubDate>
             <content:encoded><![CDATA[브라운관에서도, 길거리에서도 이제 히메 커트를 찾는 건 그리 어렵지 않다. 히메 커트, 해석...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/1f009bcb-0b36-4911-9159-67f9fffaac88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술은 살 안 쪄? 다이어터용 안주 BEST 6]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61621</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61621</guid>
-            <pubDate>Thu, 02 Dec 2021 02:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[밥은 포기해도 술은 포기할 수 없는 슬픈 다이어터들에게 추천.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/ee4247ca-f0d4-48b1-a5e6-c0d23b8721a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
