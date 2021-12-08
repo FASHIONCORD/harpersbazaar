@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 11:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 12:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1066,6 +1066,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/e0676edd-b4fc-4f55-8594-7a308a50f129.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[환경을 지키는 힙한 여행자들 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61814</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61814</guid>
+            <pubDate>Wed, 08 Dec 2021 12:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[자전거를 타고 일회용품을 멀리하며 쓰레기를 줍기까지. 작은 보람을 추구하는 이들의 특별한 여...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/c64eadad-53e0-42a4-b788-f891f41d25cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여행하며 출근해요, 요즘 대세는 #워케이션 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61780</link>
             <guid>https://www.harpersbazaar.co.kr/article/61780</guid>
@@ -1120,14 +1128,6 @@
             <pubDate>Thu, 02 Dec 2021 06:24:10 GMT</pubDate>
             <content:encoded><![CDATA[소개팅 최적의 장소를 찾는다면 고수들이 추천하는 이곳을 주목!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/3b4dd388-c96f-4400-8acb-2d85b504b55a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERYDAY HOLIDAY (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61371</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61371</guid>
-            <pubDate>Thu, 02 Dec 2021 02:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부와 지구를 모두 지키는 크림 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
