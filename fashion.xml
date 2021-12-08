@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 06:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 07:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[협업? 해킹? 아님 스왑? 확 달라진 컬래버레이션 트렌드]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61800</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61800</guid>
+            <pubDate>Wed, 08 Dec 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[최근 패션계에 붐처럼 일어난 거대 하우스 간의 공동 작업은 단순 협업이 아닌, 해킹 혹은 스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/05/0e444c84-69f5-4c88-8186-822201696bbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외할머니를 뮤즈로만든 주얼리, 지예 신]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61786</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Dec 2021 02:01:15 GMT</pubDate>
             <content:encoded><![CDATA[릴 나스 엑스부터 에반 모크까지, 요즘 가장 핫한 그들의 패션 센스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/eeadd4cb-2a49-4b84-95ba-a9bc3c8ea764.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61371</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61371</guid>
-            <pubDate>Fri, 03 Dec 2021 02:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
