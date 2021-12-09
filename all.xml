@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 03:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1065,6 +1065,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/8f38abea-67f5-45bf-bfee-cfcf80b90a64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차정원의 서울 카페 투어 #인_스타_플레이스 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61860</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61860</guid>
+            <pubDate>Tue, 07 Dec 2021 10:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[데일리 룩 만큼이나 손민수 하고 싶은 차정원의 즐겨 찾는 공간 모음.zip]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/f7533c06-f07a-43ec-8be5-0dc8cc74d005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[환경을 지키는 힙한 여행자들 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61814</link>
             <guid>https://www.harpersbazaar.co.kr/article/61814</guid>
@@ -1121,12 +1129,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/41b9cdd9-cbd1-438f-ac60-f6be82c2a8bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애프터각 100%, 고수들이 추천하는 소개팅 성지 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61678</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61678</guid>
-            <pubDate>Thu, 02 Dec 2021 06:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[소개팅 최적의 장소를 찾는다면 고수들이 추천하는 이곳을 주목!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/3b4dd388-c96f-4400-8acb-2d85b504b55a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[친환경 덕질의 시대 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61021</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61021</guid>
+            <pubDate>Thu, 09 Dec 2021 03:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[“죽은 지구에 케이팝은 없다.” 죄책감 가지며 하는 덕질은 더 이상 No!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/54b96c62-1baf-4525-983a-e5500125ddff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피부와 지구를 모두 지키는 크림 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
@@ -1183,14 +1191,6 @@
             <pubDate>Thu, 04 Nov 2021 04:24:10 GMT</pubDate>
             <content:encoded><![CDATA[소재부터 폐기까지 환경에 이로운 '진짜' 친환경 수세미.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/47a7f48e-da2d-46c5-94e7-bbacf0c29ab5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 무해하게! 친환경 라이프를 위한 알아두면 좋은 상식 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/60791</link>
-            <guid>https://www.harpersbazaar.co.kr/article/60791</guid>
-            <pubDate>Thu, 04 Nov 2021 18:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[생활 속 탄소 제로를 위한 실천, 어렵지 않아요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1eb6a42d-cf5d-4a15-aa2c-a219eeab874a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
