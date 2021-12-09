@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 23:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 00:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이서진 민머리가 다 했다는 2022년 신작]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61867</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61867</guid>
+            <pubDate>Thu, 09 Dec 2021 00:59:06 GMT</pubDate>
+            <content:encoded><![CDATA[저기, 배우에서 개그맨으로 전업하시나요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/4224cddc-4c79-48b1-81f2-9ebfb648c62e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부부 작가 네오 라우흐와 로사 로이]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61848</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Dec 2021 15:21:48 GMT</pubDate>
             <content:encoded><![CDATA[일·연애 다 잡은 충무로 커플 탄생이요!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/04/8f38abea-67f5-45bf-bfee-cfcf80b90a64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥬얼리 김은정, 디바인채널 임광욱과 열애]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61765</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61765</guid>
-            <pubDate>Mon, 06 Dec 2021 05:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[음악으로 맺어진 예비부부 추가요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/e0676edd-b4fc-4f55-8594-7a308a50f129.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
