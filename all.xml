@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 08:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -937,6 +937,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/591d165a-f88b-432e-bc84-6e71be77eef4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<오징어 게임>의 배우 이정재, '크리틱스 초이스 어워즈' 후보 진출 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61869</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61869</guid>
+            <pubDate>Thu, 09 Dec 2021 07:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[아~ 기훈이형, 이제는 글로벌 대세 배우!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/4d6dcc54-e187-4301-9d26-ac141cc14529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이서진 민머리가 다 했다는 2022년 신작 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61867</link>
             <guid>https://www.harpersbazaar.co.kr/article/61867</guid>
@@ -991,14 +999,6 @@
             <pubDate>Tue, 07 Dec 2021 07:19:01 GMT</pubDate>
             <content:encoded><![CDATA['향미' 짝 찾았다! 친구에서 연인으로 발전]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/fd0eb1fc-70ae-4ee0-a1fd-01fd061fc6df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송민호, '저탄소 용지+생분해 플라스틱' 앨범 제작 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61735</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61735</guid>
-            <pubDate>Sun, 05 Dec 2021 16:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[송민호의 이번 앨범은 특별하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/62e00991-2afb-4db7-b4f7-687e2e6f575f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김나영의 가방에 빠지지 않는 데일리 아이템은? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
