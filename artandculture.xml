@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 06:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 07:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬톤이 선정한 2022년을 대표하는 색상은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61949</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61949</guid>
+            <pubDate>Fri, 10 Dec 2021 07:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[믿음과 사랑을 주는 새로운 관점과 비전을 가져다 줄 것!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/25eaae90-1212-4f44-a719-1e94a6fb9200.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잃어버린 웃음을 되찾아주는 유튜브 추천 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61947</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Dec 2021 00:59:06 GMT</pubDate>
             <content:encoded><![CDATA[저기, 배우에서 개그맨으로 전업하시나요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/4224cddc-4c79-48b1-81f2-9ebfb648c62e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부부 작가 네오 라우흐와 로사 로이]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61848</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61848</guid>
-            <pubDate>Wed, 08 Dec 2021 08:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 소설가 아니 에르노가 글쓰기를 가리켜 “진정한 나만의 장소”라고 했듯이 부부이자 예술...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/07/c5fd23f3-5c13-4ea1-82b9-b07bedc423a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
