@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 02:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 03:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[훈훈한데 옷까지 잘 입네! 드라마 <그해 우리는> 최우식 남친룩 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61916</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61916</guid>
+            <pubDate>Fri, 10 Dec 2021 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[배우 최우식이 더욱 돋보이는 드라마 속 스타일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/e560d905-197f-413e-b6d1-fb44c176da18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니와 릴 나스 엑스의 '최애' 액세서리, 에나멜 주얼리!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61888</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 10:26:04 GMT</pubDate>
             <content:encoded><![CDATA['VIRGIL FOREVER']]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/d9ee1075-83b2-4ec9-9dcc-6b5c35bee09f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 화인 주얼리의 코코 크러쉬와 카멜리아 컬렉션으로 완성한 홀리데이 룩!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61750</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61750</guid>
-            <pubDate>Tue, 07 Dec 2021 10:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[퀼팅 디자인의 ‘코코 크러쉬’와 동백꽃 모티프의 ‘까멜리아’ 컬렉션이 어우러진 운명적 순간!...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/eaddc0b4-ad57-43c5-b87d-5dcb6ddc11c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
