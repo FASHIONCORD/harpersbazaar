@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 14:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 15:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영의 가방에 빠지지 않는 데일리 아이템은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61881</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61881</guid>
+            <pubDate>Fri, 10 Dec 2021 15:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[치실부터 김환기의 수필집까지. 없는 거 빼고 다 있는 김나영의 가방 속 아이템 대 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/54b12b6d-414a-4573-af53-9347f005503a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연약한 반려동물 피부를 위한 #펫샴푸]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61875</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 07 Dec 2021 07:18:47 GMT</pubDate>
             <content:encoded><![CDATA[이 정도는 할 수 있잖아요?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/fc7bb310-057d-4e32-a97d-64e15762e354.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금까지 이런 뷰티템은 없었다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61749</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61749</guid>
-            <pubDate>Mon, 06 Dec 2021 05:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[뷰티업계에 등장한 게임 체인저들. 지금까지의 뷰티 패러다임을 뒤집고 새로운 방향을 제시한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/03/06d46fdf-a157-412e-9497-c0d30253e2fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
