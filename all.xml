@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 01:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 02:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1065,6 +1065,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/06/46861664-d0b8-44c8-aeb3-8b115d6fbae9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아시아 최초로 서울에 오픈하는 고든램지 버거 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/61913</link>
+            <guid>https://www.harpersbazaar.co.kr/article/61913</guid>
+            <pubDate>Fri, 10 Dec 2021 02:03:23 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 2곳에만 매장이 있는 수제 버거 전문 레스토랑이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/08/d48984eb-a867-4499-85e0-ad1e91ad4b00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년을 가장 먼저 만나볼 수 있는 방법은? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/61890</link>
             <guid>https://www.harpersbazaar.co.kr/article/61890</guid>
@@ -1119,14 +1127,6 @@
             <pubDate>Fri, 03 Dec 2021 17:24:33 GMT</pubDate>
             <content:encoded><![CDATA[임수정의 동안 비결은 바로 비건?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/02/591d165a-f88b-432e-bc84-6e71be77eef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미쉐린 가이드 선정 기준이 궁금해? #미쉐린가이드서울2022 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/61710</link>
-            <guid>https://www.harpersbazaar.co.kr/article/61710</guid>
-            <pubDate>Mon, 06 Dec 2021 06:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드 인터내셔널 디렉터, 그웬달 뿔레넥이 말하는 서울의 미식문화와 미래.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/09/82f11563-d411-4b09-b670-6e9679db7796.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경 덕질의 시대 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
