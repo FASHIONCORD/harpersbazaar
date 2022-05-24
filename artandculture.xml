@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 12:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화와 사진 사이]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66615</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66615</guid>
+            <pubDate>Tue, 24 May 2022 12:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/cd61aa31-601d-42e6-a8af-b3f2c14dd72b.jpg');">
+                                <a href="/article/66615">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66615">
+                                        영화와 사진 사이                                    </a>
+                                </em>
+                                <p class="excerpt">알프레드 히치콕 감독에게 영향 받은 사진가 마일즈 알드리지의 대규모 개인전.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/cd61aa31-601d-42e6-a8af-b3f2c14dd72b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["7분 기립박수" <헌트> 이정재·정우성 칸 현장 실황.zip]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66554</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66485</link>
             <guid>https://www.harpersbazaar.co.kr/article/66485</guid>
             <pubDate>Tue, 24 May 2022 06:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/07d2f82c-d439-400f-90b3-3e2baa2f9eb3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/07d2f82c-d439-400f-90b3-3e2baa2f9eb3.jpg');">
                                 <a href="/article/66485">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66485">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">김영하, 무라카미 하루키, 폴 오스터까지. 지금 서점가를 달구고 있는 화제의 신간 도서들. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/dd005ec5-4460-488f-9639-7c706be2df71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT에 질문 있어요!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65970</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65970</guid>
-            <pubDate>Tue, 24 May 2022 03:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/2f6ca48d-13f0-4ee4-8ba5-2ef5663a7f97.jpg');">
-                                <a href="/article/65970">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65970">
-                                        NFT에 질문 있어요!                                    </a>
-                                </em>
-                                <p class="excerpt">NFT아트를 향한 질문에 세 전문가가 이해의 단초가 될 만한 설명과 의견을 들려주었다. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/2f6ca48d-13f0-4ee4-8ba5-2ef5663a7f97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

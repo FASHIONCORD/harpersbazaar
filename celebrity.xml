@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 12:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["7분 기립박수" <헌트> 이정재·정우성 칸 현장 실황.zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66554</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66554</guid>
+            <pubDate>Tue, 24 May 2022 12:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/64d473aa-3186-4071-979f-bf411a5c6684.jpg');">
+                                <a href="/article/66554">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66554">
+                                        "7분 기립박수" &lt;헌트&gt; 이정재·정우성 칸 현장 실황.zip                                    </a>
+                                </em>
+                                <p class="excerpt">감독·배우로 '깐부'력 뽐낸 '23년 절친' 이정재×정우성 봐주세요!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/64d473aa-3186-4071-979f-bf411a5c6684.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈길 사로잡는 한소희의 럭셔리한 순간]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66532</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66471</link>
             <guid>https://www.harpersbazaar.co.kr/article/66471</guid>
             <pubDate>Tue, 24 May 2022 06:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/22e19468-bd96-4751-966d-753a0ad14f84.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/22e19468-bd96-4751-966d-753a0ad14f84.jpg');">
                                 <a href="/article/66471">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66471">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">맞춰 입는 즐거움. 세트업 룩은 이렇게!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/71eb9559-a5a8-4ea3-b24c-6d4cd9a9a1b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손담비♥이규혁, 결혼식 현장컷 대방출 "인생 2막!"]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66416</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66416</guid>
-            <pubDate>Tue, 24 May 2022 06:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/7a6cee2a-f455-406a-af4c-6cac26781833.jpg');">
-                                <a href="/article/66416">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66416">
-                                        손담비♥이규혁, 결혼식 현장컷 대방출 "인생 2막!"                                    </a>
-                                </em>
-                                <p class="excerpt">꿀 떨어지는 신혼부부의 달달함이란 바로 이런 것~</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/7a6cee2a-f455-406a-af4c-6cac26781833.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
