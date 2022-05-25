@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 06:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[취향 있는 남해의 핫플레이스 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66612</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66612</guid>
+            <pubDate>Wed, 25 May 2022 08:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/589e4fca-14c5-4dfe-96f8-ecd456b24c47.jpg');">
+                                <a href="/article/66612">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66612">
+                                        취향 있는 남해의 핫플레이스 5                                    </a>
+                                </em>
+                                <p class="excerpt">68개의 크고 작은 섬으로 이루어진 보물섬 남해에 숨어 있는 보물 같은 장소들. 티카페, 편집숍...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/589e4fca-14c5-4dfe-96f8-ecd456b24c47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김태리가 간 맛집이 여긴가?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66610</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66549</link>
             <guid>https://www.harpersbazaar.co.kr/article/66549</guid>
             <pubDate>Tue, 24 May 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/1150e7a9-cf8e-4dd7-aed8-6293710215db.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/1150e7a9-cf8e-4dd7-aed8-6293710215db.jpg');">
                                 <a href="/article/66549">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66549">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">파운드 케이크부터 꽈배기까지</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/9790d930-6c14-439a-8d12-bb1b64403485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좀 걸을까? 밤 산책하기 딱 좋은 날씨, 야간개장 궁궐 4]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66474</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66474</guid>
-            <pubDate>Tue, 24 May 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/4d47ef76-c3c2-46e2-886c-bffad19662f9.jpg');">
-                                <a href="/article/66474">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66474">
-                                        좀 걸을까? 밤 산책하기 딱 좋은 날씨, 야간개장 궁궐 4                                    </a>
-                                </em>
-                                <p class="excerpt">민속촌에서 동동주 한 잔?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/4d47ef76-c3c2-46e2-886c-bffad19662f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
