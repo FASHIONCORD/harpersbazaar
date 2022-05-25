@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 08:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 09:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,6 +1045,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/881eed0d-06e8-4edd-9a3c-65315012bd1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[복근 부자 모모 & 산다라박의 운동 루틴 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66398</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66398</guid>
+            <pubDate>Wed, 25 May 2022 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/02edac79-b33a-4223-b3c2-6350581a563a.jpg');">
+                                <a href="/article/66398">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66398">
+                                         복근 부자 모모 &amp; 산다라박의 운동 루틴                                     </a>
+                                </em>
+                                <p class="excerpt">바쁜 스케줄은 핑계일 뿐!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/02edac79-b33a-4223-b3c2-6350581a563a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[38kg 감량 후 10년째 유지 중인 김신영 다이어터의 비법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66397</link>
             <guid>https://www.harpersbazaar.co.kr/article/66397</guid>
@@ -1124,17 +1149,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66238</link>
             <guid>https://www.harpersbazaar.co.kr/article/66238</guid>
             <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/5079a9eb-0587-442f-a96d-37044a9ba434.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/5079a9eb-0587-442f-a96d-37044a9ba434.jpg');">
                                 <a href="/article/66238">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66238">
@@ -1215,30 +1239,6 @@
                                 <p class="excerpt">허브 농장에서 세심하게 기른 5가지 허브와 비타민을 담은 빌리프 허브 부케 컨센트레이트. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/dfee73ef-4b05-4a2a-b1e2-ecfd55b9fb6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 필요한 글루타치온 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66146</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66146</guid>
-            <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/7ad52a1e-aa04-4da0-9c5a-f4e1744a0561.jpg');">
-                                <a href="/article/66146">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66146">
-                                        지금 필요한 글루타치온                                    </a>
-                                </em>
-                                <p class="excerpt">위드코로나 시대를 살아가기 위해서 가장 신경 써야 하는 건 면역력이다. 비타민보다 100배 이상...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/7ad52a1e-aa04-4da0-9c5a-f4e1744a0561.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워너비 패셔니스타 배우 박규영, 이런 콘셉트의 화보는 처음? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1437,6 +1437,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/e351d600-0c6a-44ca-b7de-d7fe8f3c2a51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<바자>랑 같이 갤러리 투어 할래? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66619</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66619</guid>
+            <pubDate>Wed, 25 May 2022 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/b4c1234d-e2ce-4aa9-bc55-dab21f1733f9.jpg');">
+                                <a href="/article/66619">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66619">
+                                        &lt;바자&gt;랑 같이 갤러리 투어 할래?                                    </a>
+                                </em>
+                                <p class="excerpt">'바자 예술 산책'의 첫 오프라인 이벤트!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/b4c1234d-e2ce-4aa9-bc55-dab21f1733f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화와 사진 사이 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66615</link>
             <guid>https://www.harpersbazaar.co.kr/article/66615</guid>
@@ -1516,17 +1541,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66502</link>
             <guid>https://www.harpersbazaar.co.kr/article/66502</guid>
             <pubDate>Tue, 24 May 2022 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/42df1a6a-7de0-4c84-b227-bcc071685c37.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/42df1a6a-7de0-4c84-b227-bcc071685c37.jpg');">
                                 <a href="/article/66502">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66502">
@@ -1607,30 +1631,6 @@
                                 <p class="excerpt">성공한 사람들의 리추얼에 빠지지 않는 명상. 스트레스를 줄이고 불안한 마음을 다스리는 데도 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/838c2901-c29a-4c09-976c-142f9ad58964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출간하자마자 베스트셀러 1위? 소설가 김영하의 힘 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66392</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66392</guid>
-            <pubDate>Tue, 24 May 2022 03:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/dd005ec5-4460-488f-9639-7c706be2df71.jpg');">
-                                <a href="/article/66392">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66392">
-                                        출간하자마자 베스트셀러 1위? 소설가 김영하의 힘                                     </a>
-                                </em>
-                                <p class="excerpt">김영하, 무라카미 하루키, 폴 오스터까지. 지금 서점가를 달구고 있는 화제의 신간 도서들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/dd005ec5-4460-488f-9639-7c706be2df71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[취향 있는 남해의 핫플레이스 5 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>

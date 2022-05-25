@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 08:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 09:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복근 부자 모모 & 산다라박의 운동 루틴]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66398</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66398</guid>
+            <pubDate>Wed, 25 May 2022 09:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/02edac79-b33a-4223-b3c2-6350581a563a.jpg');">
+                                <a href="/article/66398">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66398">
+                                         복근 부자 모모 &amp; 산다라박의 운동 루틴                                     </a>
+                                </em>
+                                <p class="excerpt">바쁜 스케줄은 핑계일 뿐!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/02edac79-b33a-4223-b3c2-6350581a563a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[38kg 감량 후 10년째 유지 중인 김신영 다이어터의 비법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66397</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66238</link>
             <guid>https://www.harpersbazaar.co.kr/article/66238</guid>
             <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/5079a9eb-0587-442f-a96d-37044a9ba434.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/5079a9eb-0587-442f-a96d-37044a9ba434.jpg');">
                                 <a href="/article/66238">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66238">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">허브 농장에서 세심하게 기른 5가지 허브와 비타민을 담은 빌리프 허브 부케 컨센트레이트. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/dfee73ef-4b05-4a2a-b1e2-ecfd55b9fb6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 필요한 글루타치온]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66146</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66146</guid>
-            <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/7ad52a1e-aa04-4da0-9c5a-f4e1744a0561.jpg');">
-                                <a href="/article/66146">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66146">
-                                        지금 필요한 글루타치온                                    </a>
-                                </em>
-                                <p class="excerpt">위드코로나 시대를 살아가기 위해서 가장 신경 써야 하는 건 면역력이다. 비타민보다 100배 이상...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/7ad52a1e-aa04-4da0-9c5a-f4e1744a0561.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 08:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 09:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<바자>랑 같이 갤러리 투어 할래?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66619</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66619</guid>
+            <pubDate>Wed, 25 May 2022 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/b4c1234d-e2ce-4aa9-bc55-dab21f1733f9.jpg');">
+                                <a href="/article/66619">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66619">
+                                        &lt;바자&gt;랑 같이 갤러리 투어 할래?                                    </a>
+                                </em>
+                                <p class="excerpt">'바자 예술 산책'의 첫 오프라인 이벤트!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/b4c1234d-e2ce-4aa9-bc55-dab21f1733f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화와 사진 사이]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66615</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66502</link>
             <guid>https://www.harpersbazaar.co.kr/article/66502</guid>
             <pubDate>Tue, 24 May 2022 08:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/42df1a6a-7de0-4c84-b227-bcc071685c37.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/42df1a6a-7de0-4c84-b227-bcc071685c37.jpg');">
                                 <a href="/article/66502">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66502">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">성공한 사람들의 리추얼에 빠지지 않는 명상. 스트레스를 줄이고 불안한 마음을 다스리는 데도 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/838c2901-c29a-4c09-976c-142f9ad58964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출간하자마자 베스트셀러 1위? 소설가 김영하의 힘]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66392</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66392</guid>
-            <pubDate>Tue, 24 May 2022 03:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/dd005ec5-4460-488f-9639-7c706be2df71.jpg');">
-                                <a href="/article/66392">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66392">
-                                        출간하자마자 베스트셀러 1위? 소설가 김영하의 힘                                     </a>
-                                </em>
-                                <p class="excerpt">김영하, 무라카미 하루키, 폴 오스터까지. 지금 서점가를 달구고 있는 화제의 신간 도서들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/dd005ec5-4460-488f-9639-7c706be2df71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
