@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 14:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 15:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/838c2901-c29a-4c09-976c-142f9ad58964.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영화와 사진 사이 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66615</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66615</guid>
+            <pubDate>Tue, 24 May 2022 12:29:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/cd61aa31-601d-42e6-a8af-b3f2c14dd72b.jpg');">
+                                <a href="/article/66615">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66615">
+                                        영화와 사진 사이                                    </a>
+                                </em>
+                                <p class="excerpt">알프레드 히치콕 감독에게 영향 받은 사진가 마일즈 알드리지의 대규모 개인전.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/cd61aa31-601d-42e6-a8af-b3f2c14dd72b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[취향 있는 남해의 핫플레이스 5 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66612</link>
             <guid>https://www.harpersbazaar.co.kr/article/66612</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66604</link>
             <guid>https://www.harpersbazaar.co.kr/article/66604</guid>
             <pubDate>Tue, 24 May 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/ea37cf12-eaca-4a85-8ea2-450188b7a57b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/ea37cf12-eaca-4a85-8ea2-450188b7a57b.jpg');">
                                 <a href="/article/66604">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66604">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">단돈 2000원으로 만드는, 다이어터도 마음 놓고 먹을 수 있는 쫄볶이 레시피</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/e30815cd-4d67-4241-8e54-4211b6e686f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[썸남이랑 출입금지! '흑임자' 디저트 맛집 4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66479</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66479</guid>
-            <pubDate>Tue, 24 May 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/9790d930-6c14-439a-8d12-bb1b64403485.jpg');">
-                                <a href="/article/66479">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66479">
-                                        썸남이랑 출입금지! '흑임자' 디저트 맛집 4                                    </a>
-                                </em>
-                                <p class="excerpt">파운드 케이크부터 꽈배기까지</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/9790d930-6c14-439a-8d12-bb1b64403485.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 산 유기농 티셔츠가 '진짜' 유기농이 아니라면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
