@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 11:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 14:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,31 +1045,6 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/b1fe5cdd-b813-4e8c-86f4-da96b5046970.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유튜브로 명상하기 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66423</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66423</guid>
-            <pubDate>Tue, 24 May 2022 03:54:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/838c2901-c29a-4c09-976c-142f9ad58964.jpg');">
-                                <a href="/article/66423">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66423">
-                                        유튜브로 명상하기                                    </a>
-                                </em>
-                                <p class="excerpt">성공한 사람들의 리추얼에 빠지지 않는 명상. 스트레스를 줄이고 불안한 마음을 다스리는 데도 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/838c2901-c29a-4c09-976c-142f9ad58964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[복근 부자 모모 & 산다라박의 운동 루틴 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66398</link>
             <guid>https://www.harpersbazaar.co.kr/article/66398</guid>
@@ -1149,16 +1124,17 @@
             <link>https://www.harpersbazaar.co.kr/article/66247</link>
             <guid>https://www.harpersbazaar.co.kr/article/66247</guid>
             <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/b467e540-8163-4a02-a1e5-6887a52e7dd0.jpg');">
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/b467e540-8163-4a02-a1e5-6887a52e7dd0.jpg');">
                                 <a href="/article/66247">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66247">
@@ -1239,6 +1215,30 @@
                                 <p class="excerpt">취향 따라 골라 마시는 4가지 레시피</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b732c157-80a9-4bac-a28c-607d841a89f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소중한 사람을 위한 힐링 선물 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66251</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66251</guid>
+            <pubDate>Thu, 26 May 2022 14:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/dfee73ef-4b05-4a2a-b1e2-ecfd55b9fb6f.jpg');">
+                                <a href="/article/66251">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66251">
+                                        소중한 사람을 위한 힐링 선물                                    </a>
+                                </em>
+                                <p class="excerpt">허브 농장에서 세심하게 기른 5가지 허브와 비타민을 담은 빌리프 허브 부케 컨센트레이트. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/dfee73ef-4b05-4a2a-b1e2-ecfd55b9fb6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['맛잘알' 김나영이 쟁여놓는다는 식료품 찐템은? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1638,7 +1638,7 @@
             <guid>https://www.harpersbazaar.co.kr/article/66647</guid>
             <pubDate>Thu, 26 May 2022 11:13:37 GMT</pubDate>
             <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/72008420-6f87-4cb7-8acd-bc7a84619d27.jpg');">
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/72008420-6f87-4cb7-8acd-bc7a84619d27.jpg');">
                                 <a href="/article/66647">
                                     <img alt="" src="">
                                 </a>
@@ -1655,7 +1655,7 @@
                                 </em>
                                 <p class="excerpt">여름 휴가를 더욱 즐겁게 보내기 위해선 꼼꼼히 체크해야 한다.</p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/72008420-6f87-4cb7-8acd-bc7a84619d27.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/72008420-6f87-4cb7-8acd-bc7a84619d27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팰리세이드 하우스, 국내 최고의 공간 디렉터들이 모인 이유 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
