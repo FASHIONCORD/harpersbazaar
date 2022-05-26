@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 10:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구찌 ‘코스모고니’ 컬렉션 공개]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66503</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66503</guid>
+            <pubDate>Thu, 26 May 2022 10:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/2b7a3c47-10be-4934-a5fb-d246138f3fc3.jpg');">
+                                <a href="/article/66503">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66503">
+                                        구찌 ‘코스모고니’ 컬렉션 공개                                    </a>
+                                </em>
+                                <p class="excerpt">과거와 현재를 관통하는 알레산드로 미켈레의 새로운 컬렉션 ‘구찌 코스모고니’.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/2b7a3c47-10be-4934-a5fb-d246138f3fc3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[패션 에디터들도 알람 맞춰 놓고 구매하는 브랜드? 르917 신상 살펴보기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66578</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66507</link>
             <guid>https://www.harpersbazaar.co.kr/article/66507</guid>
             <pubDate>Tue, 24 May 2022 03:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/bb876f99-5909-43b3-a8c3-9a53f2a6ab7d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/bb876f99-5909-43b3-a8c3-9a53f2a6ab7d.jpg');">
                                 <a href="/article/66507">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66507">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">눈부신 햇살 덕분에 주얼리의 진가가 드러나는 계절. 봄과 여름을 위한 주얼리 연출법은?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/b1fe5cdd-b813-4e8c-86f4-da96b5046970.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랄프 로렌의 폴로 셔츠 50주년 기념, 10인의 셀러브리티 화보 공개]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66468</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66468</guid>
-            <pubDate>Tue, 24 May 2022 03:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/881eed0d-06e8-4edd-9a3c-65315012bd1c.jpg');">
-                                <a href="/article/66468">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66468">
-                                        랄프 로렌의 폴로 셔츠 50주년 기념, 10인의 셀러브리티 화보 공개                                    </a>
-                                </em>
-                                <p class="excerpt">10인 10색, 각각의 매력으로 넘쳐나는 랄프 로렌 폴로 셔츠와의 스페셜한 만남! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/881eed0d-06e8-4edd-9a3c-65315012bd1c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
