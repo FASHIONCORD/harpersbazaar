@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 23:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 07:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마트에서 발견한 비건 신상 #맛템 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66654</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66654</guid>
+            <pubDate>Fri, 27 May 2022 07:26:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/ea8e96bf-35ee-4ef8-ad6c-7e79d5bc0d55.jpg');">
+                                <a href="/article/66654">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66654">
+                                        마트에서 발견한 비건 신상 #맛템 5                                    </a>
+                                </em>
+                                <p class="excerpt">비건 요거트, 비건 제육볶음밥 등 더 쉽게 실천하는 비건 생활!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/ea8e96bf-35ee-4ef8-ad6c-7e79d5bc0d55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해외여행 준비하고 있다면? 반드시 알아야할 입/출국 절차!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66647</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66615</link>
             <guid>https://www.harpersbazaar.co.kr/article/66615</guid>
             <pubDate>Wed, 25 May 2022 15:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/cd61aa31-601d-42e6-a8af-b3f2c14dd72b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/cd61aa31-601d-42e6-a8af-b3f2c14dd72b.jpg');">
                                 <a href="/article/66615">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66615">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">품절 대란 예상! 혼자 먹기 아까워서 소개한다는 김나영의 식료품 찐템 리스트. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d3053d26-e2fc-456d-999f-c20bfe1a7e08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜬다는 명동의 핫플레이스? #명동핫플]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66604</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66604</guid>
-            <pubDate>Tue, 24 May 2022 06:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/ea37cf12-eaca-4a85-8ea2-450188b7a57b.jpg');">
-                                <a href="/article/66604">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66604">
-                                        요즘 뜬다는 명동의 핫플레이스? #명동핫플                                    </a>
-                                </em>
-                                <p class="excerpt">명동의 역사를 새로 쓰고 있는 흥미로운 신상 공간들.  </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/ea37cf12-eaca-4a85-8ea2-450188b7a57b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
