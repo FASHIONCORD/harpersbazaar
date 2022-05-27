@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 15:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1241,6 +1241,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b732c157-80a9-4bac-a28c-607d841a89f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['윰블리'의 여름. 정유미가 픽한 여름 모자는? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66652</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66652</guid>
+            <pubDate>Fri, 27 May 2022 15:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/68bdbc16-a3e8-4d35-9309-ffa180026cc0.jpg');">
+                                <a href="/article/66652">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66652">
+                                        '윰블리'의 여름. 정유미가 픽한 여름 모자는?                                    </a>
+                                </em>
+                                <p class="excerpt">충만한 6월의 햇살 아래 마주한 그녀. 우아함과 사랑스러움을 넘나드는 정유미의 감각적인 서머 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/68bdbc16-a3e8-4d35-9309-ffa180026cc0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[각양각색 매력을 지닌 일곱 명의 빌런, '악카펠라'의 화보 공개 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66641</link>
             <guid>https://www.harpersbazaar.co.kr/article/66641</guid>
@@ -1320,17 +1345,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66602</link>
             <guid>https://www.harpersbazaar.co.kr/article/66602</guid>
             <pubDate>Thu, 26 May 2022 10:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/766e4f43-875a-4446-98ac-5511056fc9cd.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/766e4f43-875a-4446-98ac-5511056fc9cd.jpg');">
                                 <a href="/article/66602">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66602">
@@ -1411,30 +1435,6 @@
                                 <p class="excerpt">감독·배우로 '깐부'력 뽐낸 '23년 절친' 이정재×정우성 봐주세요!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/64d473aa-3186-4071-979f-bf411a5c6684.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈길 사로잡는 한소희의 럭셔리한 순간 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66532</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66532</guid>
-            <pubDate>Tue, 24 May 2022 06:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/a4b774d1-74df-44ec-9ad5-a9652f43ed51.jpg');">
-                                <a href="/article/66532">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66532">
-                                        눈길 사로잡는 한소희의 럭셔리한 순간                                    </a>
-                                </em>
-                                <p class="excerpt">오메가의 새로운 얼굴, 한소희와 함께한 낮과 밤</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/a4b774d1-74df-44ec-9ad5-a9652f43ed51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주말엔 동네별 전시투어 어때? 사진 찍기 좋은 이색 전시 3 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
