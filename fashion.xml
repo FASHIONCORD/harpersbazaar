@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 09:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 11:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['엘비스'는 프라다를 입는다.]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66632</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66632</guid>
+            <pubDate>Fri, 27 May 2022 11:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/70ce4d73-b57d-45be-a98c-5e2763e21873.jpg');">
+                                <a href="/article/66632">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66632">
+                                        '엘비스'는 프라다를 입는다.                                      </a>
+                                </em>
+                                <p class="excerpt">영화 &lt;엘비스(Elvis)&gt;, 그리고 미우치아 프라다.  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/70ce4d73-b57d-45be-a98c-5e2763e21873.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과감하고 아찔하게! 슬립 드레스 활용법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66629</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66503</link>
             <guid>https://www.harpersbazaar.co.kr/article/66503</guid>
             <pubDate>Thu, 26 May 2022 10:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/2b7a3c47-10be-4934-a5fb-d246138f3fc3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/2b7a3c47-10be-4934-a5fb-d246138f3fc3.jpg');">
                                 <a href="/article/66503">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66503">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">보온성과 실용성 모두 맞춘 볼레로의 진가가 궁금하다면?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/065ceea4-25bd-4cdc-bf1d-df39b2a4b933.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬의 새로운 워치 컬렉션 ‘샤넬 원티드’]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66507</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66507</guid>
-            <pubDate>Tue, 24 May 2022 03:53:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/bb876f99-5909-43b3-a8c3-9a53f2a6ab7d.jpg');">
-                                <a href="/article/66507">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66507">
-                                        샤넬의 새로운 워치 컬렉션 ‘샤넬 원티드’                                    </a>
-                                </em>
-                                <p class="excerpt">샤넬 원티드 컬렉션은 완전히 색다른 방식으로 새로운 정체성을 각인한다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/bb876f99-5909-43b3-a8c3-9a53f2a6ab7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
