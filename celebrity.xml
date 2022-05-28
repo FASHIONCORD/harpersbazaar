@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 04:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 07:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물결처럼 일렁이는 그녀, 심은경의 청춘]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66683</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66683</guid>
+            <pubDate>Sat, 28 May 2022 07:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/51586f57-f33d-4276-b6cb-912cbbb2f408.jpg');">
+                                <a href="/article/66683">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66683">
+                                        물결처럼 일렁이는 그녀, 심은경의 청춘                                    </a>
+                                </em>
+                                <p class="excerpt">청춘과의 이별, 새로운 미래와의 만남을 기대하는 심은경의 화보 공개</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/51586f57-f33d-4276-b6cb-912cbbb2f408.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['윰블리'의 여름. 정유미가 픽한 여름 모자는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66652</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66605</link>
             <guid>https://www.harpersbazaar.co.kr/article/66605</guid>
             <pubDate>Thu, 26 May 2022 10:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d3053d26-e2fc-456d-999f-c20bfe1a7e08.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d3053d26-e2fc-456d-999f-c20bfe1a7e08.jpg');">
                                 <a href="/article/66605">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66605">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">저장을 부르는 초여름의 싱그러운 화보 공개</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/05a19726-dde2-441b-883d-7131e82ca387.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["7분 기립박수" <헌트> 이정재·정우성 칸 현장 실황.zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66554</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66554</guid>
-            <pubDate>Tue, 24 May 2022 12:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/64d473aa-3186-4071-979f-bf411a5c6684.jpg');">
-                                <a href="/article/66554">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66554">
-                                        "7분 기립박수" &lt;헌트&gt; 이정재·정우성 칸 현장 실황.zip                                    </a>
-                                </em>
-                                <p class="excerpt">감독·배우로 '깐부'력 뽐낸 '23년 절친' 이정재×정우성 봐주세요!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/64d473aa-3186-4071-979f-bf411a5c6684.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
