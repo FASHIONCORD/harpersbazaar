@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 23:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 01:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맥주병부터 밥그릇까지 생활 속 부기 제거템 효과는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66557</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66557</guid>
+            <pubDate>Sat, 28 May 2022 01:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/042b84aa-b77c-416e-89c5-6edf90c166fd.jpg');">
+                                <a href="/article/66557">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66557">
+                                        맥주병부터 밥그릇까지 생활 속 부기 제거템 효과는?                                     </a>
+                                </em>
+                                <p class="excerpt">다이어트 해볼 만큼 해본 언니들의 조언, 전문가들의 의견은?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/042b84aa-b77c-416e-89c5-6edf90c166fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브로 명상하기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66423</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66393</link>
             <guid>https://www.harpersbazaar.co.kr/article/66393</guid>
             <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/343c2ea9-ed16-41cb-befc-d4ccf6957a08.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/343c2ea9-ed16-41cb-befc-d4ccf6957a08.jpg');">
                                 <a href="/article/66393">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66393">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">성년의 날, 실패 없는 선물을 고민한다면 ‘심플로그’를 추천한다. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/9c5985b0-8b4d-4e6f-8178-e8b80713f229.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니도 마시는 귀리 우유, 이렇게 먹으면 더 맛있어!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66334</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66334</guid>
-            <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b732c157-80a9-4bac-a28c-607d841a89f9.jpg');">
-                                <a href="/article/66334">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66334">
-                                        제니도 마시는 귀리 우유, 이렇게 먹으면 더 맛있어!                                    </a>
-                                </em>
-                                <p class="excerpt">취향 따라 골라 마시는 4가지 레시피</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b732c157-80a9-4bac-a28c-607d841a89f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
