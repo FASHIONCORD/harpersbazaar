@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 14:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 16:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머 룩에 더할 포인트 아이템을 찾는다면?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66653</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66653</guid>
+            <pubDate>Sat, 28 May 2022 16:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/77ecc479-02ae-40ab-b700-516ffd0ec779.jpg');">
+                                <a href="/article/66653">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66653">
+                                        서머 룩에 더할 포인트 아이템을 찾는다면?                                    </a>
+                                </em>
+                                <p class="excerpt">대담한 실루엣과 다채로운 컬러가 보기만 해도 기분 좋아지는 액세서리를 눈여겨볼 것.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/77ecc479-02ae-40ab-b700-516ffd0ec779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[못생겼다고요? 이유비, 효민, 티파니 영, 이시영의 힙한 클로그 활용법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66737</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66610</link>
             <guid>https://www.harpersbazaar.co.kr/article/66610</guid>
             <pubDate>Fri, 27 May 2022 07:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/7392de9f-74a8-4a4d-9efa-390f3700d254.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/7392de9f-74a8-4a4d-9efa-390f3700d254.jpg');">
                                 <a href="/article/66610">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66610">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">사고 싶어도 못산다는, 르 917 신상 메구가 모두 입었꾸!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/ef431e62-e832-4108-9fc8-f240696801fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭염 전 참고, 날씬하고 스타일리시한 크롭탑 스타일링]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66555</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66555</guid>
-            <pubDate>Tue, 24 May 2022 12:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/2bd85d32-438b-4f6a-bae9-505aa4d8bcd8.jpg');">
-                                <a href="/article/66555">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66555">
-                                        폭염 전 참고, 날씬하고 스타일리시한 크롭탑 스타일링                                     </a>
-                                </em>
-                                <p class="excerpt">본격적인 여름 직전 지금부터 준비해!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/2bd85d32-438b-4f6a-bae9-505aa4d8bcd8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
