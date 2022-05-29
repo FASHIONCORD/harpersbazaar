@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 15:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<브로커>로 칸 영화제 레드카펫 밟은 아이유.jpg]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66749</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66749</guid>
+            <pubDate>Sun, 29 May 2022 15:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/1329bc3b-ee60-40f1-a6bc-5689d82cfacd.jpg');">
+                                <a href="/article/66749">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66749">
+                                        &lt;브로커&gt;로 칸 영화제 레드카펫 밟은 아이유.jpg                                    </a>
+                                </em>
+                                <p class="excerpt">K팝도, K무비도, 아이유가 뜨겁게 달궜다🔥</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/1329bc3b-ee60-40f1-a6bc-5689d82cfacd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[못생겼다고요? 이유비, 효민, 티파니 영, 이시영의 힙한 클로그 활용법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66737</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66641</link>
             <guid>https://www.harpersbazaar.co.kr/article/66641</guid>
             <pubDate>Fri, 27 May 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/fb72bc7e-c9ac-4c57-80bd-2e46c49f723d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/fb72bc7e-c9ac-4c57-80bd-2e46c49f723d.jpg');">
                                 <a href="/article/66641">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66641">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">털털한 매력의 그녀, 정은지와 하퍼스 바자의 화보 공개</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/766e4f43-875a-4446-98ac-5511056fc9cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 에디터들도 알람 맞춰 놓고 구매하는 브랜드? 르917 신상 살펴보기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66578</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66578</guid>
-            <pubDate>Wed, 25 May 2022 16:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/ef431e62-e832-4108-9fc8-f240696801fe.jpg');">
-                                <a href="/article/66578">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66578">
-                                        패션 에디터들도 알람 맞춰 놓고 구매하는 브랜드? 르917 신상 살펴보기                                    </a>
-                                </em>
-                                <p class="excerpt">사고 싶어도 못산다는, 르 917 신상 메구가 모두 입었꾸!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/ef431e62-e832-4108-9fc8-f240696801fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
