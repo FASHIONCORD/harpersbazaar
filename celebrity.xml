@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 03:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[못생겼다고요? 이유비, 효민, 티파니 영, 이시영의 힙한 클로그 활용법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66737</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66737</guid>
+            <pubDate>Sun, 29 May 2022 06:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/afefcf50-a160-40ac-b943-54230497f75f.jpg');">
+                                <a href="/article/66737">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66737">
+                                        못생겼다고요? 이유비, 효민, 티파니 영, 이시영의 힙한 클로그 활용법                                    </a>
+                                </em>
+                                <p class="excerpt">여름을 책임질 새로운 강자, 클로크 활용법을 소개한다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/afefcf50-a160-40ac-b943-54230497f75f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물결처럼 일렁이는 그녀, 심은경의 청춘]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66683</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66629</link>
             <guid>https://www.harpersbazaar.co.kr/article/66629</guid>
             <pubDate>Fri, 27 May 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/79a16fd1-57e3-4445-a11a-ef7ac0b9e414.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/79a16fd1-57e3-4445-a11a-ef7ac0b9e414.jpg');">
                                 <a href="/article/66629">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66629">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">사고 싶어도 못산다는, 르 917 신상 메구가 모두 입었꾸!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/ef431e62-e832-4108-9fc8-f240696801fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워너비 패셔니스타 배우 박규영, 이런 콘셉트의 화보는 처음?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66573</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66573</guid>
-            <pubDate>Wed, 25 May 2022 05:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/05a19726-dde2-441b-883d-7131e82ca387.jpg');">
-                                <a href="/article/66573">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66573">
-                                        워너비 패셔니스타 배우 박규영, 이런 콘셉트의 화보는 처음?                                    </a>
-                                </em>
-                                <p class="excerpt">저장을 부르는 초여름의 싱그러운 화보 공개</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/05a19726-dde2-441b-883d-7131e82ca387.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
