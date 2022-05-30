@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 10:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도 안먹어봤니? 공구, 펀딩으로 사먹는다는 신품종 과일들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66776</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66776</guid>
+            <pubDate>Mon, 30 May 2022 11:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/46cc0566-4b98-4a53-8629-096db7306003.jpg');">
+                                <a href="/article/66776">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66776">
+                                        아직도 안먹어봤니? 공구, 펀딩으로 사먹는다는 신품종 과일들                                    </a>
+                                </em>
+                                <p class="excerpt">키와노 멜론부터 만년설, 블랙 보스 수박까지.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/46cc0566-4b98-4a53-8629-096db7306003.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜브에서 최재천 교수님 강의 듣기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66748</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66680</link>
             <guid>https://www.harpersbazaar.co.kr/article/66680</guid>
             <pubDate>Fri, 27 May 2022 12:29:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/932067b7-18ca-4a2f-9322-973318040d36.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/932067b7-18ca-4a2f-9322-973318040d36.jpg');">
                                 <a href="/article/66680">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66680">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">여름 휴가를 더욱 즐겁게 보내기 위해선 꼼꼼히 체크해야 한다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/72008420-6f87-4cb7-8acd-bc7a84619d27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팰리세이드 하우스, 국내 최고의 공간 디렉터들이 모인 이유]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66631</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66631</guid>
-            <pubDate>Thu, 26 May 2022 05:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/9ff80e9d-91ad-4381-9d48-50789e34b426.jpg');">
-                                <a href="/article/66631">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66631">
-                                        팰리세이드 하우스, 국내 최고의 공간 디렉터들이 모인 이유                                    </a>
-                                </em>
-                                <p class="excerpt">'취향집합소'인 이 곳의 정체는? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/9ff80e9d-91ad-4381-9d48-50789e34b426.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

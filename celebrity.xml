@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 10:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Current Mood]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66662</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66662</guid>
+            <pubDate>Mon, 30 May 2022 11:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/4b94afa4-145b-4581-9a2c-1fdbcfda3ab6.jpg');">
+                                <a href="/article/66662">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66662">
+                                        Current Mood                                    </a>
+                                </em>
+                                <p class="excerpt">오메가의 글로벌 앰배서더로 발탁된 배우 한소희의 모든 순간, 그리고 시간 속으로.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/4b94afa4-145b-4581-9a2c-1fdbcfda3ab6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[특급 셀럽 배우 김혜수, 비, 류준열, 최시원이 모인 이유는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66759</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66683</link>
             <guid>https://www.harpersbazaar.co.kr/article/66683</guid>
             <pubDate>Sat, 28 May 2022 07:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/51586f57-f33d-4276-b6cb-912cbbb2f408.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/51586f57-f33d-4276-b6cb-912cbbb2f408.jpg');">
                                 <a href="/article/66683">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66683">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">라운지웨어로만 여겨졌던 슬립 드레스의 다양한 활용법은?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/79a16fd1-57e3-4445-a11a-ef7ac0b9e414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['맛잘알' 김나영이 쟁여놓는다는 식료품 찐템은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66605</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66605</guid>
-            <pubDate>Thu, 26 May 2022 10:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d3053d26-e2fc-456d-999f-c20bfe1a7e08.jpg');">
-                                <a href="/article/66605">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66605">
-                                        '맛잘알' 김나영이 쟁여놓는다는 식료품 찐템은?                                    </a>
-                                </em>
-                                <p class="excerpt">품절 대란 예상! 혼자 먹기 아까워서 소개한다는 김나영의 식료품 찐템 리스트. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d3053d26-e2fc-456d-999f-c20bfe1a7e08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
