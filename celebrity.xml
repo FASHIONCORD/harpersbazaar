@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 20:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 21:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손연재, 9살 연상 회사원과 결혼! '8월의 신부💕']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66790</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66790</guid>
+            <pubDate>Mon, 30 May 2022 21:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/c11f5aaf-353d-40c0-968b-4014de99d031.jpg');">
+                                <a href="/article/66790">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66790">
+                                        손연재, 9살 연상 회사원과 결혼! '8월의 신부💕'                                    </a>
+                                </em>
+                                <p class="excerpt">열애 발표 한 달만에 결혼 발표! 초고속🤵👰</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/c11f5aaf-353d-40c0-968b-4014de99d031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Current Mood]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66662</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66737</link>
             <guid>https://www.harpersbazaar.co.kr/article/66737</guid>
             <pubDate>Sun, 29 May 2022 06:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/afefcf50-a160-40ac-b943-54230497f75f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/afefcf50-a160-40ac-b943-54230497f75f.jpg');">
                                 <a href="/article/66737">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66737">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">악카펠라 7인</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/fb72bc7e-c9ac-4c57-80bd-2e46c49f723d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과감하고 아찔하게! 슬립 드레스 활용법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66629</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66629</guid>
-            <pubDate>Fri, 27 May 2022 08:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/79a16fd1-57e3-4445-a11a-ef7ac0b9e414.jpg');">
-                                <a href="/article/66629">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66629">
-                                        과감하고 아찔하게! 슬립 드레스 활용법                                    </a>
-                                </em>
-                                <p class="excerpt">라운지웨어로만 여겨졌던 슬립 드레스의 다양한 활용법은?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/79a16fd1-57e3-4445-a11a-ef7ac0b9e414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
