@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 03:32:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 09:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특급 셀럽 배우 김혜수, 비, 류준열, 최시원이 모인 이유는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66759</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66759</guid>
+            <pubDate>Mon, 30 May 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/335ddc37-6714-470c-b835-b152b60efb7d.jpg');">
+                                <a href="/article/66759">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66759">
+                                        특급 셀럽 배우 김혜수, 비, 류준열, 최시원이 모인 이유는?                                    </a>
+                                </em>
+                                <p class="excerpt">셀럽들의 #마이폴로셔츠스토리 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/335ddc37-6714-470c-b835-b152b60efb7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<브로커>로 칸 영화제 레드카펫 밟은 아이유.jpg]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66749</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66652</link>
             <guid>https://www.harpersbazaar.co.kr/article/66652</guid>
             <pubDate>Fri, 27 May 2022 15:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/68bdbc16-a3e8-4d35-9309-ffa180026cc0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/68bdbc16-a3e8-4d35-9309-ffa180026cc0.jpg');">
                                 <a href="/article/66652">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66652">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">품절 대란 예상! 혼자 먹기 아까워서 소개한다는 김나영의 식료품 찐템 리스트. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d3053d26-e2fc-456d-999f-c20bfe1a7e08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔직 담백 정은지의 꿈꾸는 순간들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66602</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66602</guid>
-            <pubDate>Thu, 26 May 2022 10:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/766e4f43-875a-4446-98ac-5511056fc9cd.jpg');">
-                                <a href="/article/66602">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66602">
-                                        솔직 담백 정은지의 꿈꾸는 순간들                                    </a>
-                                </em>
-                                <p class="excerpt">털털한 매력의 그녀, 정은지와 하퍼스 바자의 화보 공개</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/766e4f43-875a-4446-98ac-5511056fc9cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
