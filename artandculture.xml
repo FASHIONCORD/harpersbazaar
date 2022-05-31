@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 11:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강하늘의 삭발+죄수복? 강렬한 <인사이더> 온다!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66847</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66847</guid>
+            <pubDate>Tue, 31 May 2022 17:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b2e825f6-89ed-4ec0-860f-b80a08c9c1ed.jpg');">
+                                <a href="/article/66847">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66847">
+                                        강하늘의 삭발+죄수복? 강렬한 &lt;인사이더&gt; 온다!                                    </a>
+                                </em>
+                                <p class="excerpt">무려 카메오가 '대륙여신' 판빙빙!! 역대급 클라쓰~</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b2e825f6-89ed-4ec0-860f-b80a08c9c1ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박찬욱 감독상×송강호 남우주연상 "칸 영화제 K-무비 겹경사!"]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66795</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66749</link>
             <guid>https://www.harpersbazaar.co.kr/article/66749</guid>
             <pubDate>Tue, 31 May 2022 11:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/1329bc3b-ee60-40f1-a6bc-5689d82cfacd.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/1329bc3b-ee60-40f1-a6bc-5689d82cfacd.jpg');">
                                 <a href="/article/66749">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66749">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">얼마 남지 않았다. 더 늦기 전에 캘린더에 적어두자!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/a7ad35e6-8102-48f1-8fa0-536692f857a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스윗과 스윗이 만나면? 최우식×손석구 물망오른 작품]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66670</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66670</guid>
-            <pubDate>Fri, 27 May 2022 07:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/c628ab62-f66e-44f0-8396-195fd7ae1283.jpg');">
-                                <a href="/article/66670">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66670">
-                                        스윗과 스윗이 만나면? 최우식×손석구 물망오른 작품                                    </a>
-                                </em>
-                                <p class="excerpt">최우식·손석구 &lt;살인자o난감&gt; 출연 검토중!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/c628ab62-f66e-44f0-8396-195fd7ae1283.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
