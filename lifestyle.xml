@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 11:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴가 계획 세우기 전에 구독해야 할 유튜브 채널]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66778</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66778</guid>
+            <pubDate>Tue, 31 May 2022 11:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/4b365d1b-4048-4ef6-8e7a-caa2519aa370.jpg');">
+                                <a href="/article/66778">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66778">
+                                        휴가 계획 세우기 전에 구독해야 할 유튜브 채널                                    </a>
+                                </em>
+                                <p class="excerpt">알아 두면 피가 되고 살이 되는 여행 유튜브 채널들.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/4b365d1b-4048-4ef6-8e7a-caa2519aa370.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직도 안먹어봤니? 공구, 펀딩으로 사먹는다는 신품종 과일들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66776</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66692</link>
             <guid>https://www.harpersbazaar.co.kr/article/66692</guid>
             <pubDate>Fri, 27 May 2022 12:29:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/a7ad35e6-8102-48f1-8fa0-536692f857a0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/a7ad35e6-8102-48f1-8fa0-536692f857a0.jpg');">
                                 <a href="/article/66692">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66692">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">비건 요거트, 비건 제육볶음밥 등 더 쉽게 실천하는 비건 생활!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/ea8e96bf-35ee-4ef8-ad6c-7e79d5bc0d55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외여행 준비하고 있다면? 반드시 알아야할 입/출국 절차!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66647</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66647</guid>
-            <pubDate>Thu, 26 May 2022 11:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/72008420-6f87-4cb7-8acd-bc7a84619d27.jpg');">
-                                <a href="/article/66647">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66647">
-                                        해외여행 준비하고 있다면? 반드시 알아야할 입/출국 절차!                                    </a>
-                                </em>
-                                <p class="excerpt">여름 휴가를 더욱 즐겁게 보내기 위해선 꼼꼼히 체크해야 한다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/72008420-6f87-4cb7-8acd-bc7a84619d27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

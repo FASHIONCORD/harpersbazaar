@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 11:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올 2022 패션쇼 백스테이지 메이크업은 어떻게 탄생했을까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66658</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66658</guid>
+            <pubDate>Tue, 31 May 2022 11:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/62a1fa77-ecf3-4650-a244-6e80b63a8f92.jpg');">
+                                <a href="/article/66658">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66658">
+                                        디올 2022 패션쇼 백스테이지 메이크업은 어떻게 탄생했을까?                                    </a>
+                                </em>
+                                <p class="excerpt">디올 메이크업 크리에이티브 &amp; 이미지 디렉터 피터 필립스가 들려주는 비하인드 스토리. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/62a1fa77-ecf3-4650-a244-6e80b63a8f92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난자 냉동, 하루라도 빨리 하는 게 좋을까요?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66689</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66557</link>
             <guid>https://www.harpersbazaar.co.kr/article/66557</guid>
             <pubDate>Sat, 28 May 2022 01:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/042b84aa-b77c-416e-89c5-6edf90c166fd.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/042b84aa-b77c-416e-89c5-6edf90c166fd.jpg');">
                                 <a href="/article/66557">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66557">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">셀럽들의 다이어트 메이트 김신영의 식단부터 운동까지</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/b78ddc86-a670-40b9-ab99-3d0cb1a691d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 선물의 달, 리브르와 함께!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66393</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66393</guid>
-            <pubDate>Tue, 24 May 2022 03:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/343c2ea9-ed16-41cb-befc-d4ccf6957a08.jpg');">
-                                <a href="/article/66393">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66393">
-                                        5월 선물의 달, 리브르와 함께!                                     </a>
-                                </em>
-                                <p class="excerpt">사랑하는 사람은 물론 나에게도 선물하기 좋은 향수 추천 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/15/343c2ea9-ed16-41cb-befc-d4ccf6957a08.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
