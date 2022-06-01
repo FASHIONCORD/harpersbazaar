@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 18:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 19:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정은지의 티 없는 마음]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66714</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66714</guid>
+            <pubDate>Wed, 01 Jun 2022 19:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0aef5f82-c810-404d-a8f7-05e4c416ce68.jpg');">
+                                <a href="/article/66714">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66714">
+                                        정은지의 티 없는 마음                                    </a>
+                                </em>
+                                <p class="excerpt">고민하고 걱정하고 그런 자신을 인정하며 기꺼이 앞으로 나아가는 사람. 있는 그대로를 비추는 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0aef5f82-c810-404d-a8f7-05e4c416ce68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혜리와 함께 떠나는 제주도 여행 #인_스타_플레이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66842</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66795</link>
             <guid>https://www.harpersbazaar.co.kr/article/66795</guid>
             <pubDate>Tue, 31 May 2022 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg');">
                                 <a href="/article/66795">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66795">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">셀럽들의 #마이폴로셔츠스토리 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/335ddc37-6714-470c-b835-b152b60efb7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<브로커>로 칸 영화제 레드카펫 밟은 아이유.jpg]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66749</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66749</guid>
-            <pubDate>Sun, 29 May 2022 15:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/1329bc3b-ee60-40f1-a6bc-5689d82cfacd.jpg');">
-                                <a href="/article/66749">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66749">
-                                        &lt;브로커&gt;로 칸 영화제 레드카펫 밟은 아이유.jpg                                    </a>
-                                </em>
-                                <p class="excerpt">K팝도, K무비도, 아이유가 뜨겁게 달궜다🔥</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/1329bc3b-ee60-40f1-a6bc-5689d82cfacd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
