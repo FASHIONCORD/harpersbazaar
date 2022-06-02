@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 08:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 09:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자발적 고립을 부르는 #숲캉스숙소]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66886</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66886</guid>
+            <pubDate>Thu, 02 Jun 2022 09:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/61175125-7fa5-481c-ab41-043f771bf5c7.jpg');">
+                                <a href="/article/66886">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66886">
+                                        자발적 고립을 부르는 #숲캉스숙소                                     </a>
+                                </em>
+                                <p class="excerpt">자연 그대로를 온전히 느끼고 싶다면 추천! 국내 숲캉스 인기 숙소들.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/61175125-7fa5-481c-ab41-043f771bf5c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에서 1시간이면 도착, 남양주 리버뷰 카페 4]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66870</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66780</link>
             <guid>https://www.harpersbazaar.co.kr/article/66780</guid>
             <pubDate>Tue, 31 May 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/55cdf1bd-e9bf-4959-9147-d14f9aeabf49.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/55cdf1bd-e9bf-4959-9147-d14f9aeabf49.jpg');">
                                 <a href="/article/66780">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66780">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">키와노 멜론부터 만년설, 블랙 보스 수박까지.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/46cc0566-4b98-4a53-8629-096db7306003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜브에서 최재천 교수님 강의 듣기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66748</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66748</guid>
-            <pubDate>Mon, 30 May 2022 10:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/9162d136-9f6e-4fa3-9731-24614c19ec8a.jpg');">
-                                <a href="/article/66748">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66748">
-                                        유튜브에서 최재천 교수님 강의 듣기                                    </a>
-                                </em>
-                                <p class="excerpt">오늘부터 최애 유튜브! 이렇게 재미있는데 왜 폐강됐을까? 26만 구독자를 보유한 최재천 교수의 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/9162d136-9f6e-4fa3-9731-24614c19ec8a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

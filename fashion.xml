@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 08:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 09:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 20주년 보아의 일본 베스트 송 6]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66858</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66858</guid>
+            <pubDate>Thu, 02 Jun 2022 09:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a967f7c-5126-42d4-b224-ddde21e79782.jpg');">
+                                <a href="/article/66858">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66858">
+                                        데뷔 20주년 보아의 일본 베스트 송 6                                    </a>
+                                </em>
+                                <p class="excerpt">한류 열풍의 시작. 일본 데뷔 20주년을 맞은 보아의 특별한 순간들과 노래</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a967f7c-5126-42d4-b224-ddde21e79782.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀럽들이 사랑하는 브랜드 '자크뮈스'에 대해 알아야 할 다섯 가지 키워드]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66843</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66690</link>
             <guid>https://www.harpersbazaar.co.kr/article/66690</guid>
             <pubDate>Tue, 31 May 2022 03:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/a4878f9a-fc9a-47e8-b162-1b4d936e4db1.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/a4878f9a-fc9a-47e8-b162-1b4d936e4db1.jpg');">
                                 <a href="/article/66690">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66690">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">셀럽들의 #마이폴로셔츠스토리 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/335ddc37-6714-470c-b835-b152b60efb7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털로 명품 시계와 주얼리를 즐기는 방법이 있다?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66754</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66754</guid>
-            <pubDate>Sun, 29 May 2022 15:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/04b595c8-ca48-40e6-9b21-4e4014ce64f6.jpg');">
-                                <a href="/article/66754">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66754">
-                                        디지털로 명품 시계와 주얼리를 즐기는 방법이 있다?                                    </a>
-                                </em>
-                                <p class="excerpt">증강현실로 쇼핑이 가능한 가상 피팅 서비스 '스타일AR'은 무엇? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/04b595c8-ca48-40e6-9b21-4e4014ce64f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
