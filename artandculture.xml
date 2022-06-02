@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 07:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:32:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['韓 최초 칸 남우주연상' 송강호 천만영화 4편]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66848</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66848</guid>
+            <pubDate>Thu, 02 Jun 2022 08:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/646a564e-602e-46a7-b33f-a9525c00ac5e.jpg');">
+                                <a href="/article/66848">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66848">
+                                        '韓 최초 칸 남우주연상' 송강호 천만영화 4편                                    </a>
+                                </em>
+                                <p class="excerpt">&lt;브로커&gt; 전에 챙겨보면 좋을 '국보급 배우' 송강호의 전작들</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/646a564e-602e-46a7-b33f-a9525c00ac5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강하늘의 삭발+죄수복? 강렬한 <인사이더> 온다!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66847</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66753</link>
             <guid>https://www.harpersbazaar.co.kr/article/66753</guid>
             <pubDate>Tue, 31 May 2022 11:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/48967993-bb3f-4645-9292-c120324ce5d5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/48967993-bb3f-4645-9292-c120324ce5d5.jpg');">
                                 <a href="/article/66753">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66753">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">서현진 주연 드라마와 영화 6월 개봉박두!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/7586d158-215b-4353-8f39-0f9f48d6ef99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말엔 동네별 전시투어 어때? 사진 찍기 좋은 이색 전시 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66692</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66692</guid>
-            <pubDate>Fri, 27 May 2022 07:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/a7ad35e6-8102-48f1-8fa0-536692f857a0.jpg');">
-                                <a href="/article/66692">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66692">
-                                        주말엔 동네별 전시투어 어때? 사진 찍기 좋은 이색 전시 3                                    </a>
-                                </em>
-                                <p class="excerpt">얼마 남지 않았다. 더 늦기 전에 캘린더에 적어두자!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/a7ad35e6-8102-48f1-8fa0-536692f857a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

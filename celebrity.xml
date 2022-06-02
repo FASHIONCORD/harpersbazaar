@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 07:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:32:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인간 ENFP' 전소미의 잡학사전은 어떤 모습일까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66850</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66850</guid>
+            <pubDate>Thu, 02 Jun 2022 08:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a7f6b04-a3b3-4561-851f-a0dcf5876632.jpg');">
+                                <a href="/article/66850">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66850">
+                                        '인간 ENFP' 전소미의 잡학사전은 어떤 모습일까?                                    </a>
+                                </em>
+                                <p class="excerpt">쿨한 매력의 화보와는 정반대의 '댕댕미' 잔뜩 발산한 전소미의 TMI 인터뷰</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a7f6b04-a3b3-4561-851f-a0dcf5876632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정은지의 티 없는 마음]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66714</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66700</link>
             <guid>https://www.harpersbazaar.co.kr/article/66700</guid>
             <pubDate>Tue, 31 May 2022 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ffaa365d-4b02-4ab3-b5ec-f3baed76ac04.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ffaa365d-4b02-4ab3-b5ec-f3baed76ac04.jpg');">
                                 <a href="/article/66700">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66700">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">오메가의 글로벌 앰배서더로 발탁된 배우 한소희의 모든 순간, 그리고 시간 속으로.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/4b94afa4-145b-4581-9a2c-1fdbcfda3ab6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특급 셀럽 배우 김혜수, 비, 류준열, 최시원이 모인 이유는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66759</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66759</guid>
-            <pubDate>Mon, 30 May 2022 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/335ddc37-6714-470c-b835-b152b60efb7d.jpg');">
-                                <a href="/article/66759">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66759">
-                                        특급 셀럽 배우 김혜수, 비, 류준열, 최시원이 모인 이유는?                                    </a>
-                                </em>
-                                <p class="excerpt">셀럽들의 #마이폴로셔츠스토리 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/335ddc37-6714-470c-b835-b152b60efb7d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
