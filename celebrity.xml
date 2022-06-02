@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 15:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 16:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그저 랩을 했을 뿐인데!  SNS를 가득 채운 ‘Jiggle Jiggle’ 챌린지는 무엇?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66879</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66879</guid>
+            <pubDate>Thu, 02 Jun 2022 16:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/9e10baa0-00ea-4fbd-88d6-0962c947d585.jpg');">
+                                <a href="/article/66879">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66879">
+                                        그저 랩을 했을 뿐인데!  SNS를 가득 채운 ‘Jiggle Jiggle’ 챌린지는 무엇?                                    </a>
+                                </em>
+                                <p class="excerpt">블랙핑크도 참여했다고? 요즘 유행에 뒤처질 수 없지!  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/9e10baa0-00ea-4fbd-88d6-0962c947d585.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 20주년 보아의 일본 베스트 송 6]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66858</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66842</link>
             <guid>https://www.harpersbazaar.co.kr/article/66842</guid>
             <pubDate>Tue, 31 May 2022 19:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg');">
                                 <a href="/article/66842">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66842">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">칸에서 '또' 일냈다! '韓 영화 최초 2관왕' 쾌거</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손연재, 9살 연상 회사원과 결혼! '8월의 신부💕']]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66790</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66790</guid>
-            <pubDate>Mon, 30 May 2022 21:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/c11f5aaf-353d-40c0-968b-4014de99d031.jpg');">
-                                <a href="/article/66790">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66790">
-                                        손연재, 9살 연상 회사원과 결혼! '8월의 신부💕'                                    </a>
-                                </em>
-                                <p class="excerpt">열애 발표 한 달만에 결혼 발표! 초고속🤵👰</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/c11f5aaf-353d-40c0-968b-4014de99d031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
