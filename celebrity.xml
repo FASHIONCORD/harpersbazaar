@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드세터 김나영이 애정 하는 압구정의 맛집 멋집은 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66887</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66887</guid>
+            <pubDate>Fri, 03 Jun 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg');">
+                                <a href="/article/66887">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66887">
+                                        트렌드세터 김나영이 애정 하는 압구정의 맛집 멋집은 어디?                                     </a>
+                                </em>
+                                <p class="excerpt">김나영이 '마음의 고향'이라는 압구정! 그녀가 애정 하는 압구정 속 맛집멋집들! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그저 랩을 했을 뿐인데!  SNS를 가득 채운 ‘Jiggle Jiggle’ 챌린지는 무엇?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66879</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66714</link>
             <guid>https://www.harpersbazaar.co.kr/article/66714</guid>
             <pubDate>Wed, 01 Jun 2022 19:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0aef5f82-c810-404d-a8f7-05e4c416ce68.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0aef5f82-c810-404d-a8f7-05e4c416ce68.jpg');">
                                 <a href="/article/66714">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66714">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">우리가 꿈꾸는 보통의 여름날, 박규영과 보카바카 컬렉션의 만남. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ffaa365d-4b02-4ab3-b5ec-f3baed76ac04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 감독상×송강호 남우주연상 "칸 영화제 K-무비 겹경사!"]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66795</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66795</guid>
-            <pubDate>Tue, 31 May 2022 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg');">
-                                <a href="/article/66795">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66795">
-                                        박찬욱 감독상×송강호 남우주연상 "칸 영화제 K-무비 겹경사!"                                    </a>
-                                </em>
-                                <p class="excerpt">칸에서 '또' 일냈다! '韓 영화 최초 2관왕' 쾌거</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
