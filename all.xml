@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 15:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 16:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,6 +1045,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/4b94afa4-145b-4581-9a2c-1fdbcfda3ab6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차가운 물로 샤워하면 저절로 살이 빠진다고? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66884</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66884</guid>
+            <pubDate>Sat, 04 Jun 2022 16:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0d930e71-abe6-4ac5-bdf0-1fa7b3e0d142.jpg');">
+                                <a href="/article/66884">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66884">
+                                        차가운 물로 샤워하면 저절로 살이 빠진다고?                                    </a>
+                                </em>
+                                <p class="excerpt"> 여름 다이어트 꿀팁, 찬물로 샤워해야하는 이유 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0d930e71-abe6-4ac5-bdf0-1fa7b3e0d142.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[몰라보게 예뻐진 효연의 9킬로 감량 비결, 바로 이거 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66840</link>
             <guid>https://www.harpersbazaar.co.kr/article/66840</guid>
@@ -1124,17 +1149,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66787</link>
             <guid>https://www.harpersbazaar.co.kr/article/66787</guid>
             <pubDate>Tue, 31 May 2022 17:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/4e53040b-c5d6-491f-89f9-601654ec95dc.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/4e53040b-c5d6-491f-89f9-601654ec95dc.jpg');">
                                 <a href="/article/66787">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66787">
@@ -1215,30 +1239,6 @@
                                 <p class="excerpt">집에서도 이렇게 본격적으로 운동한다고!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/22c7db1d-bf1d-4ada-b6f3-5b28aafb4700.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘네 살냄새 뭐야?’ 질문받는 보디워시&크림 짝꿍템? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66562</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66562</guid>
-            <pubDate>Sat, 28 May 2022 17:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/22/2a75e5d4-f63d-4053-a126-7297e8eb90c6.jpg');">
-                                <a href="/article/66562">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66562">
-                                        ‘네 살냄새 뭐야?’ 질문받는 보디워시&amp;크림 짝꿍템?                                    </a>
-                                </em>
-                                <p class="excerpt">일상 속 힐링을 선사하는 보디 제품을 찾는다면?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/22/2a75e5d4-f63d-4053-a126-7297e8eb90c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트렌드세터 김나영이 애정 하는 압구정의 맛집 멋집은 어디? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
