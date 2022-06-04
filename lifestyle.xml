@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 09:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 10:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강대로 땡땡거리 가봤니? #용산땡땡거리핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66890</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66890</guid>
+            <pubDate>Sat, 04 Jun 2022 10:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0039af94-5082-4cdb-a081-b89b798c62b8.jpg');">
+                                <a href="/article/66890">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66890">
+                                        한강대로 땡땡거리 가봤니? #용산땡땡거리핫플                                    </a>
+                                </em>
+                                <p class="excerpt">북적이는 삼각지, 용리단길이 싫다면? 호젓하게 데이트하기 좋은 땡땡거리로!  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0039af94-5082-4cdb-a081-b89b798c62b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흑돼지, 다금바리 말고 뭐 더 없어? #제주파인다이닝]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66889</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66870</link>
             <guid>https://www.harpersbazaar.co.kr/article/66870</guid>
             <pubDate>Tue, 31 May 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/714618da-2860-4859-8c51-9a1db3394494.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/714618da-2860-4859-8c51-9a1db3394494.jpg');">
                                 <a href="/article/66870">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66870">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">포크 들기 전에 카메라부터 꺼내! 미친 비주얼의 신상 디저트들. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/55cdf1bd-e9bf-4959-9147-d14f9aeabf49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속 시끄러운가요? 도심 속 사색공간]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66779</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66779</guid>
-            <pubDate>Tue, 31 May 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/0881146f-5933-4fff-a62e-9168a776dd8e.jpg');">
-                                <a href="/article/66779">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66779">
-                                        속 시끄러운가요? 도심 속 사색공간                                     </a>
-                                </em>
-                                <p class="excerpt">마음이 시끄러울 때, 비상구가 되어 줄 도심 속 사색공간들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/0881146f-5933-4fff-a62e-9168a776dd8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
