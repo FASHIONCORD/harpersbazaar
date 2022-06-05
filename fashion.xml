@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 15:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 16:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칸을 사로잡은 이주영의 사복 패션 탐구!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66888</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66888</guid>
+            <pubDate>Sun, 05 Jun 2022 16:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/846d430e-d524-46da-b237-726c983c1ef7.jpg');">
+                                <a href="/article/66888">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66888">
+                                        칸을 사로잡은 이주영의 사복 패션 탐구!                                    </a>
+                                </em>
+                                <p class="excerpt">칸 영화제를 휩쓴 배우 이주영의 반전 매력 넘치는 사복 패션을 모았다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/846d430e-d524-46da-b237-726c983c1ef7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌드세터 김나영이 애정 하는 압구정의 맛집 멋집은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66887</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66843</link>
             <guid>https://www.harpersbazaar.co.kr/article/66843</guid>
             <pubDate>Tue, 31 May 2022 17:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e7b05022-8f18-48ba-870c-62bbb75a345b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e7b05022-8f18-48ba-870c-62bbb75a345b.jpg');">
                                 <a href="/article/66843">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66843">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">RHYTHMICALLY!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/a4878f9a-fc9a-47e8-b162-1b4d936e4db1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Current Mood]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66662</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66662</guid>
-            <pubDate>Tue, 31 May 2022 03:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/4b94afa4-145b-4581-9a2c-1fdbcfda3ab6.jpg');">
-                                <a href="/article/66662">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66662">
-                                        Current Mood                                    </a>
-                                </em>
-                                <p class="excerpt">오메가의 글로벌 앰배서더로 발탁된 배우 한소희의 모든 순간, 그리고 시간 속으로.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/4b94afa4-145b-4581-9a2c-1fdbcfda3ab6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
