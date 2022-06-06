@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 15:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 16:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 관찰의 즐거움]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66920</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66920</guid>
+            <pubDate>Mon, 06 Jun 2022 16:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/6336e1d8-9db9-4d10-bda7-56a40b832982.jpg');">
+                                <a href="/article/66920">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66920">
+                                        새 관찰의 즐거움                                    </a>
+                                </em>
+                                <p class="excerpt">배우 김태리, 소설가 정세랑이 푹 빠져있는 취미, 버드 워칭 시작하기</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/6336e1d8-9db9-4d10-bda7-56a40b832982.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<우리들의 블루스> 시청자라면 필독! 알아두면 쓸데있는 ‘제주 방언’ 사전]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66891</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66887</link>
             <guid>https://www.harpersbazaar.co.kr/article/66887</guid>
             <pubDate>Fri, 03 Jun 2022 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg');">
                                 <a href="/article/66887">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66887">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">로컬 맛집부터 꼭 가봐야 할 특별한 장소까지! 혜리의 발자취를 따라 제주도 여행을 떠나보자.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영은 집에서 뭘 먹을까? 올여름 추천 레시피 4]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66838</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66838</guid>
-            <pubDate>Tue, 31 May 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/b8bfab1b-087f-4a7b-81ee-bfec08d6b3d4.jpg');">
-                                <a href="/article/66838">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66838">
-                                        김나영은 집에서 뭘 먹을까? 올여름 추천 레시피 4                                    </a>
-                                </em>
-                                <p class="excerpt">날씬하고 건강한 맛, 여기가 바로 집밥 맛집</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/b8bfab1b-087f-4a7b-81ee-bfec08d6b3d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
