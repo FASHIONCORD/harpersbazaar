@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 08:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 09:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유연한 매일을 바라는 심은경]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66730</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66730</guid>
+            <pubDate>Mon, 06 Jun 2022 09:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/ab2b8129-be85-4016-8337-33aab8aede9a.jpg');">
+                                <a href="/article/66730">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66730">
+                                        유연한 매일을 바라는 심은경                                    </a>
+                                </em>
+                                <p class="excerpt">심은경은 지난 2년 동안 서울과 떨어져 보냈다. 시원한 소낙비가 내려 거리가 구석구석 씻겨 내...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/ab2b8129-be85-4016-8337-33aab8aede9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌드세터 김나영이 애정 하는 압구정의 맛집 멋집은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66887</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66850</link>
             <guid>https://www.harpersbazaar.co.kr/article/66850</guid>
             <pubDate>Thu, 02 Jun 2022 08:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a7f6b04-a3b3-4561-851f-a0dcf5876632.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a7f6b04-a3b3-4561-851f-a0dcf5876632.jpg');">
                                 <a href="/article/66850">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66850">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;하퍼스 바자&gt; 6월호 디지털 커버를 장식한 부첼라티와 전소미</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/2b160d3f-2634-4787-963c-8ec802243877.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱그러운 매력이 돋보이는 박규영의 썸머룩]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66700</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66700</guid>
-            <pubDate>Tue, 31 May 2022 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ffaa365d-4b02-4ab3-b5ec-f3baed76ac04.jpg');">
-                                <a href="/article/66700">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66700">
-                                        싱그러운 매력이 돋보이는 박규영의 썸머룩                                    </a>
-                                </em>
-                                <p class="excerpt">우리가 꿈꾸는 보통의 여름날, 박규영과 보카바카 컬렉션의 만남. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ffaa365d-4b02-4ab3-b5ec-f3baed76ac04.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
