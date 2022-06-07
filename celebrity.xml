@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반전 그 자체! 당신이 몰랐던 배우 공효진의 모든 것]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66915</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66915</guid>
+            <pubDate>Tue, 07 Jun 2022 10:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/61746141-1c89-4e7c-9f7c-07ab942f4ca0.jpg');">
+                                <a href="/article/66915">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66915">
+                                        반전 그 자체! 당신이 몰랐던 배우 공효진의 모든 것                                    </a>
+                                </em>
+                                <p class="excerpt">매력 부자 공효진의 TMI 인터뷰</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/61746141-1c89-4e7c-9f7c-07ab942f4ca0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유연한 매일을 바라는 심은경]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66730</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66858</link>
             <guid>https://www.harpersbazaar.co.kr/article/66858</guid>
             <pubDate>Thu, 02 Jun 2022 15:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a967f7c-5126-42d4-b224-ddde21e79782.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a967f7c-5126-42d4-b224-ddde21e79782.jpg');">
                                 <a href="/article/66858">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66858">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">로컬 맛집부터 꼭 가봐야 할 특별한 장소까지! 혜리의 발자취를 따라 제주도 여행을 떠나보자.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매료되는 전소미의 금빛 화보]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66800</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66800</guid>
-            <pubDate>Tue, 31 May 2022 19:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/2b160d3f-2634-4787-963c-8ec802243877.jpg');">
-                                <a href="/article/66800">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66800">
-                                        매료되는 전소미의 금빛 화보                                    </a>
-                                </em>
-                                <p class="excerpt">&lt;하퍼스 바자&gt; 6월호 디지털 커버를 장식한 부첼라티와 전소미</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/2b160d3f-2634-4787-963c-8ec802243877.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
