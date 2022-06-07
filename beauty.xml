@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 12:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 13:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피터 필립스에게 배우는 노 마스크 대비하기]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66659</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66659</guid>
+            <pubDate>Tue, 07 Jun 2022 13:32:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ad2d194b-116d-45ed-a749-ff41b8c8fa52.jpg');">
+                                <a href="/article/66659">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66659">
+                                        피터 필립스에게 배우는 노 마스크 대비하기                                    </a>
+                                </em>
+                                <p class="excerpt">노 마스크 메이크업부터 세계적인 메이크업 아티스트가 된 사연까지!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ad2d194b-116d-45ed-a749-ff41b8c8fa52.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차가운 물로 샤워하면 저절로 살이 빠진다고?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66884</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66696</link>
             <guid>https://www.harpersbazaar.co.kr/article/66696</guid>
             <pubDate>Tue, 31 May 2022 17:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/204121c0-b2c6-4605-9148-4218e8d6665e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/204121c0-b2c6-4605-9148-4218e8d6665e.jpg');">
                                 <a href="/article/66696">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66696">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">난자 채취부터 이식 과정까지. 난자 냉동이 고민된다면 알아두어야 할 Q&amp;A.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/38275cb1-62a0-45b1-b04c-8d5d5ef47100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비수기에도 44kg? 전소연의 홈트 루틴 파헤치기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66669</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66669</guid>
-            <pubDate>Tue, 31 May 2022 03:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/22c7db1d-bf1d-4ada-b6f3-5b28aafb4700.jpg');">
-                                <a href="/article/66669">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66669">
-                                         비수기에도 44kg? 전소연의 홈트 루틴 파헤치기                                     </a>
-                                </em>
-                                <p class="excerpt">집에서도 이렇게 본격적으로 운동한다고!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/22c7db1d-bf1d-4ada-b6f3-5b28aafb4700.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
