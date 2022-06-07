@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 15:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 16:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,6 +1045,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/a3262112-b2f9-4b47-aa50-2b445d758164.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10만원 넘는 고가 쿠션, 정말 제값 할까? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66722</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66722</guid>
+            <pubDate>Tue, 07 Jun 2022 16:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/c2acac8d-b09a-4a03-a546-c0f28d063a0a.jpg');">
+                                <a href="/article/66722">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66722">
+                                        10만원 넘는 고가 쿠션, 정말 제값 할까?                                    </a>
+                                </em>
+                                <p class="excerpt">고급 스킨케어 제품 못지않은 고가 쿠션이 남다른 피부 표현과 기능으로 쿠션 시장에 강력한 승...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/c2acac8d-b09a-4a03-a546-c0f28d063a0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피터 필립스에게 배우는 노 마스크 대비하기 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66659</link>
             <guid>https://www.harpersbazaar.co.kr/article/66659</guid>
@@ -1124,17 +1149,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66839</link>
             <guid>https://www.harpersbazaar.co.kr/article/66839</guid>
             <pubDate>Fri, 03 Jun 2022 14:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/0f8e0071-7dac-458b-b3c7-3aff52541b85.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/0f8e0071-7dac-458b-b3c7-3aff52541b85.jpg');">
                                 <a href="/article/66839">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66839">
@@ -1215,30 +1239,6 @@
                                 <p class="excerpt">디올 메이크업 크리에이티브 &amp; 이미지 디렉터 피터 필립스가 들려주는 비하인드 스토리. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/62a1fa77-ecf3-4650-a244-6e80b63a8f92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난자 냉동, 하루라도 빨리 하는 게 좋을까요? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66689</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66689</guid>
-            <pubDate>Tue, 31 May 2022 03:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/38275cb1-62a0-45b1-b04c-8d5d5ef47100.jpg');">
-                                <a href="/article/66689">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66689">
-                                        난자 냉동, 하루라도 빨리 하는 게 좋을까요?                                     </a>
-                                </em>
-                                <p class="excerpt">난자 채취부터 이식 과정까지. 난자 냉동이 고민된다면 알아두어야 할 Q&amp;A.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/38275cb1-62a0-45b1-b04c-8d5d5ef47100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[반전 그 자체! 당신이 몰랐던 배우 공효진의 모든 것 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/0be1ca91-1625-4361-b12f-a86dda02f2b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤리적인 다이아몬드 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66756</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66756</guid>
+            <pubDate>Tue, 07 Jun 2022 16:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg');">
+                                <a href="/article/66756">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66756">
+                                        윤리적인 다이아몬드                                    </a>
+                                </em>
+                                <p class="excerpt">진정으로 윤리적인 다이아몬드가 존재할까?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[초코는 항상 옳다! #신상 #일산맛집 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66947</link>
             <guid>https://www.harpersbazaar.co.kr/article/66947</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66890</link>
             <guid>https://www.harpersbazaar.co.kr/article/66890</guid>
             <pubDate>Sat, 04 Jun 2022 10:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0039af94-5082-4cdb-a081-b89b798c62b8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0039af94-5082-4cdb-a081-b89b798c62b8.jpg');">
                                 <a href="/article/66890">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66890">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">자연 그대로를 온전히 느끼고 싶다면 추천! 국내 숲캉스 인기 숙소들.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/61175125-7fa5-481c-ab41-043f771bf5c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 1시간이면 도착, 남양주 리버뷰 카페 4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66870</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66870</guid>
-            <pubDate>Tue, 31 May 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/714618da-2860-4859-8c51-9a1db3394494.jpg');">
-                                <a href="/article/66870">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66870">
-                                        서울에서 1시간이면 도착, 남양주 리버뷰 카페 4                                    </a>
-                                </em>
-                                <p class="excerpt">한강 보며 물멍하기 좋은 곳</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/714618da-2860-4859-8c51-9a1db3394494.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 무심코 하는 검색이 지구를 망가뜨린다? (하퍼스바자 코리아 ─ 지속가능성)]]></title>

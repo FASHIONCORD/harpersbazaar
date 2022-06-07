@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 15:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 16:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤리적인 다이아몬드]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66756</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66756</guid>
+            <pubDate>Tue, 07 Jun 2022 16:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg');">
+                                <a href="/article/66756">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66756">
+                                        윤리적인 다이아몬드                                    </a>
+                                </em>
+                                <p class="excerpt">진정으로 윤리적인 다이아몬드가 존재할까?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초코는 항상 옳다! #신상 #일산맛집]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66947</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66890</link>
             <guid>https://www.harpersbazaar.co.kr/article/66890</guid>
             <pubDate>Sat, 04 Jun 2022 10:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0039af94-5082-4cdb-a081-b89b798c62b8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0039af94-5082-4cdb-a081-b89b798c62b8.jpg');">
                                 <a href="/article/66890">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66890">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">자연 그대로를 온전히 느끼고 싶다면 추천! 국내 숲캉스 인기 숙소들.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/61175125-7fa5-481c-ab41-043f771bf5c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 1시간이면 도착, 남양주 리버뷰 카페 4]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66870</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66870</guid>
-            <pubDate>Tue, 31 May 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/714618da-2860-4859-8c51-9a1db3394494.jpg');">
-                                <a href="/article/66870">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66870">
-                                        서울에서 1시간이면 도착, 남양주 리버뷰 카페 4                                    </a>
-                                </em>
-                                <p class="excerpt">한강 보며 물멍하기 좋은 곳</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/714618da-2860-4859-8c51-9a1db3394494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
