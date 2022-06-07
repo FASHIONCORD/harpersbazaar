@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 04:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초코는 항상 옳다! #신상 #일산맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66947</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66947</guid>
+            <pubDate>Tue, 07 Jun 2022 04:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/5babdbf6-828d-40df-9ee5-8ecd071c79bd.jpg');">
+                                <a href="/article/66947">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66947">
+                                        초코는 항상 옳다! #신상 #일산맛집                                    </a>
+                                </em>
+                                <p class="excerpt">매달 새롭고 더 핫해지는 일산에서 찾은 당 충전소, 초콜릿 맛집을 소개한다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/5babdbf6-828d-40df-9ee5-8ecd071c79bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 관찰의 즐거움]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66920</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66889</link>
             <guid>https://www.harpersbazaar.co.kr/article/66889</guid>
             <pubDate>Fri, 03 Jun 2022 16:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/c4751f91-2ed7-4df3-b9b0-1ff4c426bf94.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/c4751f91-2ed7-4df3-b9b0-1ff4c426bf94.jpg');">
                                 <a href="/article/66889">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66889">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한강 보며 물멍하기 좋은 곳</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/714618da-2860-4859-8c51-9a1db3394494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜리와 함께 떠나는 제주도 여행 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66842</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66842</guid>
-            <pubDate>Tue, 31 May 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg');">
-                                <a href="/article/66842">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66842">
-                                        혜리와 함께 떠나는 제주도 여행 #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">로컬 맛집부터 꼭 가봐야 할 특별한 장소까지! 혜리의 발자취를 따라 제주도 여행을 떠나보자.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
