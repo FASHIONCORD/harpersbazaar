@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 16:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해변으로의 여름휴가를 계획하고 있다면?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66755</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66755</guid>
+            <pubDate>Tue, 07 Jun 2022 17:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/16dde446-8565-45e0-a51b-7596adefdf01.jpg');">
+                                <a href="/article/66755">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66755">
+                                        해변으로의 여름휴가를 계획하고 있다면?                                    </a>
+                                </em>
+                                <p class="excerpt">PINK BEAM</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/16dde446-8565-45e0-a51b-7596adefdf01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름엔 쇼츠! 스타들이 고른 쇼츠 스타일은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66918</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66887</link>
             <guid>https://www.harpersbazaar.co.kr/article/66887</guid>
             <pubDate>Sat, 04 Jun 2022 15:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg');">
                                 <a href="/article/66887">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66887">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">시몽 포르테 자크뮈스가 패션계의 음유시인으로 불리는 이유는?  #비하인드더네임</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e7b05022-8f18-48ba-870c-62bbb75a345b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 강동원이 칸 영화제에서 입은 룩]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66841</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66841</guid>
-            <pubDate>Tue, 31 May 2022 17:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/a3262112-b2f9-4b47-aa50-2b445d758164.jpg');">
-                                <a href="/article/66841">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66841">
-                                        아이유, 강동원이 칸 영화제에서 입은 룩                                     </a>
-                                </em>
-                                <p class="excerpt">칸영화제를 빛낸 영화인들</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/a3262112-b2f9-4b47-aa50-2b445d758164.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
