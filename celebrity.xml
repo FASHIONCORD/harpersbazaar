@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 04:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 05:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[악카펠라, 천사들의 합창]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66733</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66733</guid>
+            <pubDate>Wed, 08 Jun 2022 05:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/bdb99bd5-b05f-4ee1-90e3-dce0f280f92b.jpg');">
+                                <a href="/article/66733">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66733">
+                                        악카펠라, 천사들의 합창                                    </a>
+                                </em>
+                                <p class="excerpt">&lt;무한도전&gt;과 &lt;놀면 뭐하니?&gt; 등 흥행 예능을 만들었던 PD들이 새 프로그램 &lt;악카펠라&gt;로 뭉쳤다...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/bdb99bd5-b05f-4ee1-90e3-dce0f280f92b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반전 그 자체! 당신이 몰랐던 배우 공효진의 모든 것]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66915</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66879</link>
             <guid>https://www.harpersbazaar.co.kr/article/66879</guid>
             <pubDate>Thu, 02 Jun 2022 16:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/9e10baa0-00ea-4fbd-88d6-0962c947d585.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/9e10baa0-00ea-4fbd-88d6-0962c947d585.jpg');">
                                 <a href="/article/66879">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66879">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">고민하고 걱정하고 그런 자신을 인정하며 기꺼이 앞으로 나아가는 사람. 있는 그대로를 비추는 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0aef5f82-c810-404d-a8f7-05e4c416ce68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혜리와 함께 떠나는 제주도 여행 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66842</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66842</guid>
-            <pubDate>Tue, 31 May 2022 19:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg');">
-                                <a href="/article/66842">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66842">
-                                        혜리와 함께 떠나는 제주도 여행 #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">로컬 맛집부터 꼭 가봐야 할 특별한 장소까지! 혜리의 발자취를 따라 제주도 여행을 떠나보자.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e95f9803-71f2-45b3-965e-57b81a78bcda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
