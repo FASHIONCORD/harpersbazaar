@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 01:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 04:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시계와 주얼리, '찐'마니아들은 어떤 제품을 착용할까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66757</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66757</guid>
+            <pubDate>Wed, 08 Jun 2022 04:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/9ee0d360-bf91-418a-9c8b-33df952fbb98.jpg');">
+                                <a href="/article/66757">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66757">
+                                        시계와 주얼리, '찐'마니아들은 어떤 제품을 착용할까?                                    </a>
+                                </em>
+                                <p class="excerpt">작지만 아름다운 존재, 시계와 주얼리. 그 세계에 누구보다 진심인 이들에게 물었다. “당신이 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/9ee0d360-bf91-418a-9c8b-33df952fbb98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해변으로의 여름휴가를 계획하고 있다면?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66755</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66888</link>
             <guid>https://www.harpersbazaar.co.kr/article/66888</guid>
             <pubDate>Sun, 05 Jun 2022 16:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/846d430e-d524-46da-b237-726c983c1ef7.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/846d430e-d524-46da-b237-726c983c1ef7.jpg');">
                                 <a href="/article/66888">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66888">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한류 열풍의 시작. 일본 데뷔 20주년을 맞은 보아의 특별한 순간들과 노래</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a967f7c-5126-42d4-b224-ddde21e79782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들이 사랑하는 브랜드 '자크뮈스'에 대해 알아야 할 다섯 가지 키워드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66843</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66843</guid>
-            <pubDate>Tue, 31 May 2022 17:26:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e7b05022-8f18-48ba-870c-62bbb75a345b.jpg');">
-                                <a href="/article/66843">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66843">
-                                        셀럽들이 사랑하는 브랜드 '자크뮈스'에 대해 알아야 할 다섯 가지 키워드                                    </a>
-                                </em>
-                                <p class="excerpt">시몽 포르테 자크뮈스가 패션계의 음유시인으로 불리는 이유는?  #비하인드더네임</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e7b05022-8f18-48ba-870c-62bbb75a345b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
