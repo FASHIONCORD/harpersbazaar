@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 06:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 08:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 깜빡 놓친 6월의 신상 드라마 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67017</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67017</guid>
+            <pubDate>Thu, 09 Jun 2022 08:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/52c1ec9f-70db-498c-a377-3cf63db24fa3.jpg');">
+                                <a href="/article/67017">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67017">
+                                        당신이 깜빡 놓친 6월의 신상 드라마 5                                    </a>
+                                </em>
+                                <p class="excerpt">뭘 봐야할지 고민인 당신께 선물합니다🎁</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/52c1ec9f-70db-498c-a377-3cf63db24fa3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['핫한' 서예지가 돌아왔다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66917</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66864</link>
             <guid>https://www.harpersbazaar.co.kr/article/66864</guid>
             <pubDate>Wed, 08 Jun 2022 04:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/25f64450-09c2-4f52-9d06-750966ffa74a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/25f64450-09c2-4f52-9d06-750966ffa74a.jpg');">
                                 <a href="/article/66864">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66864">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">무려 카메오가 '대륙여신' 판빙빙!! 역대급 클라쓰~</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/b2e825f6-89ed-4ec0-860f-b80a08c9c1ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 감독상×송강호 남우주연상 "칸 영화제 K-무비 겹경사!"]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66795</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66795</guid>
-            <pubDate>Tue, 31 May 2022 11:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg');">
-                                <a href="/article/66795">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66795">
-                                        박찬욱 감독상×송강호 남우주연상 "칸 영화제 K-무비 겹경사!"                                    </a>
-                                </em>
-                                <p class="excerpt">칸에서 '또' 일냈다! '韓 영화 최초 2관왕' 쾌거</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
