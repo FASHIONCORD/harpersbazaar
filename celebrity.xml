@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 01:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부첼라티와 만난 '인간 비타민' 전소미]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66732</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66732</guid>
+            <pubDate>Thu, 09 Jun 2022 03:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/a4e66b0c-ef02-47d8-8aca-dc8a883fecda.jpg');">
+                                <a href="/article/66732">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66732">
+                                        부첼라티와 만난 '인간 비타민' 전소미                                    </a>
+                                </em>
+                                <p class="excerpt">1919년 탄생한 부첼라티의 시대를 초월한 아름다움, 그리고 대체불가한 매력을 지닌 스물두 살 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/a4e66b0c-ef02-47d8-8aca-dc8a883fecda.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[악카펠라, 천사들의 합창]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66733</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66887</link>
             <guid>https://www.harpersbazaar.co.kr/article/66887</guid>
             <pubDate>Fri, 03 Jun 2022 09:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8d49b639-b300-4fd0-96a8-1e51cff60730.jpg');">
                                 <a href="/article/66887">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66887">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">쿨한 매력의 화보와는 정반대의 '댕댕미' 잔뜩 발산한 전소미의 TMI 인터뷰</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a7f6b04-a3b3-4561-851f-a0dcf5876632.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정은지의 티 없는 마음]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66714</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66714</guid>
-            <pubDate>Wed, 01 Jun 2022 19:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0aef5f82-c810-404d-a8f7-05e4c416ce68.jpg');">
-                                <a href="/article/66714">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66714">
-                                        정은지의 티 없는 마음                                    </a>
-                                </em>
-                                <p class="excerpt">고민하고 걱정하고 그런 자신을 인정하며 기꺼이 앞으로 나아가는 사람. 있는 그대로를 비추는 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0aef5f82-c810-404d-a8f7-05e4c416ce68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

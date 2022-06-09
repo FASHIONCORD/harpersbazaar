@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 01:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['핫한' 서예지가 돌아왔다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66917</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66917</guid>
+            <pubDate>Thu, 09 Jun 2022 03:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/1ebde404-06fa-4cb7-9a26-b01f754684fa.jpg');">
+                                <a href="/article/66917">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66917">
+                                        '핫한' 서예지가 돌아왔다                                    </a>
+                                </em>
+                                <p class="excerpt">19금 격정멜로 복수극 &lt;이브&gt;로 복귀한 서예지</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/1ebde404-06fa-4cb7-9a26-b01f754684fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트렌드세터 김나영이 애정 하는 압구정의 맛집 멋집은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66887</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66859</link>
             <guid>https://www.harpersbazaar.co.kr/article/66859</guid>
             <pubDate>Tue, 07 Jun 2022 07:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/e217120a-2f8e-40de-91c9-c465e036ea79.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/e217120a-2f8e-40de-91c9-c465e036ea79.jpg');">
                                 <a href="/article/66859">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66859">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">칸에서 '또' 일냈다! '韓 영화 최초 2관왕' 쾌거</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/c973bf81-1172-4529-841f-389fad9f5640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["오늘이 그날!" 역대급 스케일 <기묘한 이야기 4> 공개]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66761</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66761</guid>
-            <pubDate>Tue, 31 May 2022 11:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/63d9b155-d998-45ba-9e28-d2bdb826d50f.jpg');">
-                                <a href="/article/66761">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66761">
-                                        "오늘이 그날!" 역대급 스케일 &lt;기묘한 이야기 4&gt; 공개                                    </a>
-                                </em>
-                                <p class="excerpt">캘리포니아로 떠난 일레븐이 궁금하다면👀</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/63d9b155-d998-45ba-9e28-d2bdb826d50f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
