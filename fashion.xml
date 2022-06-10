@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 13:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 15:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50주년 랄프 로렌 폴로 셔츠의 히스토리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67015</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67015</guid>
+            <pubDate>Fri, 10 Jun 2022 15:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/8102e663-7c31-4719-a28c-866087829432.jpg');">
+                                <a href="/article/67015">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67015">
+                                         50주년 랄프 로렌 폴로 셔츠의 히스토리                                     </a>
+                                </em>
+                                <p class="excerpt">50년 동안 겹겹이 쌓여온 랄프 로렌 폴로 셔츠만의 시대정신</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/8102e663-7c31-4719-a28c-866087829432.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알아두면 쓸데 있는 시계상식 1]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67010</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66997</link>
             <guid>https://www.harpersbazaar.co.kr/article/66997</guid>
             <pubDate>Fri, 10 Jun 2022 08:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/fc750df3-2db6-49fc-8e27-f574393973e4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/fc750df3-2db6-49fc-8e27-f574393973e4.jpg');">
                                 <a href="/article/66997">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66997">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">월급이 있었는데...없었습니다. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/f5cd1120-a019-4b05-9c84-8d5b1cb304d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지 시계를 사고 싶다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66758</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66758</guid>
-            <pubDate>Wed, 08 Jun 2022 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/fcd29e9e-df39-4958-84ab-51497451fde8.jpg');">
-                                <a href="/article/66758">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66758">
-                                        빈티지 시계를 사고 싶다면?                                    </a>
-                                </em>
-                                <p class="excerpt">작지만 아름다운 존재, 시계와 주얼리. 그 세계에 누구보다 진심인 이들에게 물었다. “당신이 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/fcd29e9e-df39-4958-84ab-51497451fde8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

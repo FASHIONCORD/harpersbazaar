@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 13:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 15:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 백신 미접종자도 입국 때 '7일 격리' 안해도 됩니다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67099</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67099</guid>
+            <pubDate>Fri, 10 Jun 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/ac1a7be2-bc15-415a-b139-947cc832f28f.jpg');">
+                                <a href="/article/67099">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67099">
+                                        이제 백신 미접종자도 입국 때 '7일 격리' 안해도 됩니다                                    </a>
+                                </em>
+                                <p class="excerpt">여전히 입국 전후 PCR은 필수 #이슈있슈</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/ac1a7be2-bc15-415a-b139-947cc832f28f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 신상 와인바 '해방촌' 일지 #주말엔뉴플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67098</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66943</link>
             <guid>https://www.harpersbazaar.co.kr/article/66943</guid>
             <pubDate>Thu, 09 Jun 2022 15:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/bae19a77-c69c-49ba-959b-aae9d44c5df8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/bae19a77-c69c-49ba-959b-aae9d44c5df8.jpg');">
                                 <a href="/article/66943">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66943">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">‘도파민 중독’이라는 밈이 SNS를 휩쓴 건 꼭 그만큼의 공감대 덕분일 것이다. OTT는 당신을...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/ab941c1c-d330-422e-a8a1-b727edd7dda5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비건 아니어도 반할 #비건아이스크림맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66965</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66965</guid>
-            <pubDate>Wed, 08 Jun 2022 14:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/373d3736-4cb5-47d8-b829-4babc7dad7dc.jpg');">
-                                <a href="/article/66965">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66965">
-                                        비건 아니어도 반할 #비건아이스크림맛집                                     </a>
-                                </em>
-                                <p class="excerpt">우유, 생크림, 계란 없이도 이렇게나 맛있다고? 다채로운 비건 아이스크림의 세계!  </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/373d3736-4cb5-47d8-b829-4babc7dad7dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
