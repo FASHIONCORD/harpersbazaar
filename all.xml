@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 16:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 17:19:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,6 +1045,56 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/f5cd1120-a019-4b05-9c84-8d5b1cb304d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마스크 벗은 낯 부끄럽지 않으려면 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66941</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66941</guid>
+            <pubDate>Fri, 10 Jun 2022 17:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/d54c4a88-c177-4097-bd7b-8649d559c139.jpg');">
+                                <a href="/article/66941">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66941">
+                                        마스크 벗은 낯 부끄럽지 않으려면                                    </a>
+                                </em>
+                                <p class="excerpt">마음의 화(火)와 얼굴의 화(禍)를 마스크 속에 감추며 살아온 우리. 이제는 까마득해진 마스크 없...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/d54c4a88-c177-4097-bd7b-8649d559c139.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미스 디올 로즈 에쌍스 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66034</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66034</guid>
+            <pubDate>Fri, 10 Jun 2022 17:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/dcc9cd09-1fff-4d9f-a2b5-3d68c51040c2.jpg');">
+                                <a href="/article/66034">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66034">
+                                        미스 디올 로즈 에쌍스                                    </a>
+                                </em>
+                                <p class="excerpt">장미 향의 대표 주자인 미스 디올에서 첫 번째 빈티지 향수를 선보인다. 2021년에 수확한 그라...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/dcc9cd09-1fff-4d9f-a2b5-3d68c51040c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 여름에 주목해야 할 헤어 트렌드 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66762</link>
             <guid>https://www.harpersbazaar.co.kr/article/66762</guid>
@@ -1099,17 +1149,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66953</link>
             <guid>https://www.harpersbazaar.co.kr/article/66953</guid>
             <pubDate>Wed, 08 Jun 2022 15:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/eef41fb7-031f-432f-9be1-696f1c743b28.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/eef41fb7-031f-432f-9be1-696f1c743b28.jpg');">
                                 <a href="/article/66953">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66953">
@@ -1124,17 +1173,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66722</link>
             <guid>https://www.harpersbazaar.co.kr/article/66722</guid>
             <pubDate>Tue, 07 Jun 2022 16:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/c2acac8d-b09a-4a03-a546-c0f28d063a0a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/c2acac8d-b09a-4a03-a546-c0f28d063a0a.jpg');">
                                 <a href="/article/66722">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66722">
@@ -1191,54 +1239,6 @@
                                 <p class="excerpt"> 여름 다이어트 꿀팁, 찬물로 샤워해야하는 이유 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0d930e71-abe6-4ac5-bdf0-1fa7b3e0d142.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몰라보게 예뻐진 효연의 9킬로 감량 비결, 바로 이거 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66840</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66840</guid>
-            <pubDate>Fri, 03 Jun 2022 14:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fab5492b-a8f5-410f-bd78-dbafb1cc03e9.jpg');">
-                                <a href="/article/66840">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66840">
-                                        몰라보게 예뻐진 효연의 9킬로 감량 비결, 바로 이거                                     </a>
-                                </em>
-                                <p class="excerpt">16시간 공복 생각보다 쉬워!  </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/fab5492b-a8f5-410f-bd78-dbafb1cc03e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭식증 극복한 수현의 일주일 치 다이어트 식단 + 입터짐 방지템 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66839</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66839</guid>
-            <pubDate>Fri, 03 Jun 2022 14:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/0f8e0071-7dac-458b-b3c7-3aff52541b85.jpg');">
-                                <a href="/article/66839">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66839">
-                                        폭식증 극복한 수현의 일주일 치 다이어트 식단 + 입터짐 방지템                                    </a>
-                                </em>
-                                <p class="excerpt">맛있게 먹고 건강하게 빼자!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/0f8e0071-7dac-458b-b3c7-3aff52541b85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최고의 악역 배우 악카펠라 7인방 #인사이드백 하러 왔습니다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
