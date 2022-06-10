@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 06:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 08:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리 사진전? 사진 마니아라면 놓칠 수 없는 전시 4]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67068</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67068</guid>
+            <pubDate>Fri, 10 Jun 2022 08:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg');">
+                                <a href="/article/67068">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67068">
+                                        이효리 사진전? 사진 마니아라면 놓칠 수 없는 전시 4                                     </a>
+                                </em>
+                                <p class="excerpt">놓치지 말아야 할 6월의 사진전 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정은이란 이름으로]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66943</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66763</link>
             <guid>https://www.harpersbazaar.co.kr/article/66763</guid>
             <pubDate>Thu, 09 Jun 2022 13:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/ab941c1c-d330-422e-a8a1-b727edd7dda5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/ab941c1c-d330-422e-a8a1-b727edd7dda5.jpg');">
                                 <a href="/article/66763">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66763">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">매달 새롭고 더 핫해지는 일산에서 찾은 당 충전소, 초콜릿 맛집을 소개한다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/5babdbf6-828d-40df-9ee5-8ecd071c79bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 관찰의 즐거움]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66920</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66920</guid>
-            <pubDate>Mon, 06 Jun 2022 16:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/6336e1d8-9db9-4d10-bda7-56a40b832982.jpg');">
-                                <a href="/article/66920">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66920">
-                                        새 관찰의 즐거움                                    </a>
-                                </em>
-                                <p class="excerpt">배우 김태리, 소설가 정세랑이 푹 빠져있는 취미, 버드 워칭 시작하기</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/6336e1d8-9db9-4d10-bda7-56a40b832982.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
