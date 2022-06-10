@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 10:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 11:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장나라, 깜짝 결혼발표! 6살 연하 남편은 누구?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/66946</link>
+            <guid>https://www.harpersbazaar.co.kr/article/66946</guid>
+            <pubDate>Fri, 10 Jun 2022 11:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60295fa0-25fb-4f0d-85ce-926c6425240e.jpg');">
+                                <a href="/article/66946">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/66946">
+                                        장나라, 깜짝 결혼발표! 6살 연하 남편은 누구?                                    </a>
+                                </em>
+                                <p class="excerpt">드라마 <vip> 훈남 촬영감독과 6월 말 결혼하는 장나라</vip></p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60295fa0-25fb-4f0d-85ce-926c6425240e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부첼라티와 만난 '인간 비타민' 전소미]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66732</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66730</link>
             <guid>https://www.harpersbazaar.co.kr/article/66730</guid>
             <pubDate>Mon, 06 Jun 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/ab2b8129-be85-4016-8337-33aab8aede9a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/ab2b8129-be85-4016-8337-33aab8aede9a.jpg');">
                                 <a href="/article/66730">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66730">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한류 열풍의 시작. 일본 데뷔 20주년을 맞은 보아의 특별한 순간들과 노래</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a967f7c-5126-42d4-b224-ddde21e79782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인간 ENFP' 전소미의 잡학사전은 어떤 모습일까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66850</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66850</guid>
-            <pubDate>Thu, 02 Jun 2022 08:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a7f6b04-a3b3-4561-851f-a0dcf5876632.jpg');">
-                                <a href="/article/66850">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66850">
-                                        '인간 ENFP' 전소미의 잡학사전은 어떤 모습일까?                                    </a>
-                                </em>
-                                <p class="excerpt">쿨한 매력의 화보와는 정반대의 '댕댕미' 잔뜩 발산한 전소미의 TMI 인터뷰</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0a7f6b04-a3b3-4561-851f-a0dcf5876632.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
