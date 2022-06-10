@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 23:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 01:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름엔 쇼츠! 스타들이 고른 쇼츠 스타일은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33927989&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33927989&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 10 Jun 2022 01:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDhfMjQ3/MDAxNjU0NjgwNjAzNTcy.gjC7vmnKZfGDLsozU_9H3m8FBfCjFv9eiv4GnLRMZ1Ig.0y39vcBv6zpHE9n6BTVCGlEweZuywKpXPPW0_UlSNa8g.JPEG/IpanxBQkowQMv5ORcxZwYjC-p6Lg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유, 강동원이 칸 영화제에서 입은 룩]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33886634&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 03:52:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDVfMTY4/MDAxNjQ5MTU4MzU1NzU5.yaksNKzXzE7SAW5z-P22dTHzf_01TGDxyCnUjOk8SkYg.aBEuA9gT-nae2vz7Q0q47XJ7NlehSqckVS-QIcI7ukMg.JPEG/IM1KaWmLSx4lCqTdq7JoUQmuVIyE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현빈♥손예진, 예신들 사이 난리난 손예진이 입은 #웨딩드레스 어디 거?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33565574&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33565574&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 03:52:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDRfMTA3/MDAxNjQ5MDMxODg5MzE0.EwcXgJZKCFyUArLoU95B0bg_VpQbPgkdgroGVM2inSog.NLry-sZoSwxj2Lf1xuNy_12019J4yMoKvm3oGvDtxHwg.JPEG/Is3hPQvOwEame1DZhfrQdVSbs-BQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
