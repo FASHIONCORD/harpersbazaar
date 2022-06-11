@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 15:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,6 +1045,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/f5cd1120-a019-4b05-9c84-8d5b1cb304d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연봉 100억, ‘일타강사’이지영의 일타 다이어트 방법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67067</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67067</guid>
+            <pubDate>Sat, 11 Jun 2022 15:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a5a9d4d6-d9a0-4535-b59b-5de87223b6ae.jpg');">
+                                <a href="/article/67067">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67067">
+                                         연봉 100억, ‘일타강사’이지영의 일타 다이어트 방법                                     </a>
+                                </em>
+                                <p class="excerpt">확찐자 탈출, 3개월 만에 14킬로 감량한 이지영의 조언</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a5a9d4d6-d9a0-4535-b59b-5de87223b6ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마스크 벗은 낯 부끄럽지 않으려면 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66941</link>
             <guid>https://www.harpersbazaar.co.kr/article/66941</guid>
@@ -1124,17 +1149,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66954</link>
             <guid>https://www.harpersbazaar.co.kr/article/66954</guid>
             <pubDate>Wed, 08 Jun 2022 15:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/d2a5f1d3-d536-44b4-b59b-7dc2e5f55737.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/d2a5f1d3-d536-44b4-b59b-7dc2e5f55737.jpg');">
                                 <a href="/article/66954">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66954">
@@ -1215,30 +1239,6 @@
                                 <p class="excerpt">노 마스크 메이크업부터 세계적인 메이크업 아티스트가 된 사연까지!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/ad2d194b-116d-45ed-a749-ff41b8c8fa52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차가운 물로 샤워하면 저절로 살이 빠진다고? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66884</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66884</guid>
-            <pubDate>Sat, 04 Jun 2022 16:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0d930e71-abe6-4ac5-bdf0-1fa7b3e0d142.jpg');">
-                                <a href="/article/66884">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66884">
-                                        차가운 물로 샤워하면 저절로 살이 빠진다고?                                    </a>
-                                </em>
-                                <p class="excerpt"> 여름 다이어트 꿀팁, 찬물로 샤워해야하는 이유 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/0d930e71-abe6-4ac5-bdf0-1fa7b3e0d142.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최고의 악역 배우 악카펠라 7인방 #인사이드백 하러 왔습니다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
