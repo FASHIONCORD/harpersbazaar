@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 18:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 19:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구를 지키는 비건 클렌저]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/65593</link>
+            <guid>https://www.harpersbazaar.co.kr/article/65593</guid>
+            <pubDate>Sun, 12 Jun 2022 19:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/9c09cd21-fe05-48a2-8e62-b8393c1569d1.jpg');">
+                                <a href="/article/65593">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/65593">
+                                        지구를 지키는 비건 클렌저                                    </a>
+                                </em>
+                                <p class="excerpt">깨끗한 피부, 더 깨끗한 환경을 위하는 쥬스투클렌즈의 진심. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/9c09cd21-fe05-48a2-8e62-b8393c1569d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 무심코 하는 검색이 지구를 망가뜨린다?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/65163</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65360</link>
             <guid>https://www.harpersbazaar.co.kr/article/65360</guid>
             <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/a0d10d98-ae13-4079-b544-8aed05bc6e10.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/a0d10d98-ae13-4079-b544-8aed05bc6e10.jpg');">
                                 <a href="/article/65360">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65360">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">必환경 시대에 걸맞는 록시땅의 진정성 있는 행보. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/7d90bb7b-d164-49f3-8478-d15b30c39580.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IN YOUR CLOSET]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65078</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65078</guid>
-            <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/9deb8c35-f96b-4e97-b826-607967a2007b.jpg');">
-                                <a href="/article/65078">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65078">
-                                        IN YOUR CLOSET                                    </a>
-                                </em>
-                                <p class="excerpt">패션에서의 지속가능성은 다름 아닌 당신의 옷장에 있다는 사실. 옷장 안에서 발견한 2022 S/S...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/9deb8c35-f96b-4e97-b826-607967a2007b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
