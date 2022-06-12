@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 14:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 16:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아디다스와 구찌가 만났을 때]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67112</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67112</guid>
+            <pubDate>Sun, 12 Jun 2022 16:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/a28d261e-8dd8-4ac9-a6f3-fb0881485a1b.jpg');">
+                                <a href="/article/67112">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67112">
+                                        아디다스와 구찌가 만났을 때                                     </a>
+                                </em>
+                                <p class="excerpt">지금 가장 뜨거운 만남, 아디다스 x 구찌 컬렉션이 공개됐다. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/a28d261e-8dd8-4ac9-a6f3-fb0881485a1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50주년 랄프 로렌 폴로 셔츠의 히스토리]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67015</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67070</link>
             <guid>https://www.harpersbazaar.co.kr/article/67070</guid>
             <pubDate>Fri, 10 Jun 2022 10:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a1228646-af28-455a-9dbc-295f76175c28.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a1228646-af28-455a-9dbc-295f76175c28.jpg');">
                                 <a href="/article/67070">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67070">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">예쁘게 입고 운동하면 기분이 조크든요</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/6973655b-b6a3-47fd-a88f-c1a2e1fc54b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텅장을 부르는 역대급 컬래버레이션 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67024</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67024</guid>
-            <pubDate>Thu, 09 Jun 2022 11:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/f5cd1120-a019-4b05-9c84-8d5b1cb304d8.jpg');">
-                                <a href="/article/67024">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67024">
-                                        텅장을 부르는 역대급 컬래버레이션 3                                    </a>
-                                </em>
-                                <p class="excerpt">월급이 있었는데...없었습니다. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/f5cd1120-a019-4b05-9c84-8d5b1cb304d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

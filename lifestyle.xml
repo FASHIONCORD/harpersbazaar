@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 14:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 16:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트부산 2022 방문기.]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67016</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67016</guid>
+            <pubDate>Sun, 12 Jun 2022 16:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/715520bf-cea9-424f-9644-2f3eefae63c8.jpg');">
+                                <a href="/article/67016">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67016">
+                                        아트부산 2022 방문기.                                    </a>
+                                </em>
+                                <p class="excerpt">지난해보다 한층 풍성해진 아트부산은 올해 21개국에서 1백33개의 갤러리가 참여했다. 아트부산 2...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/715520bf-cea9-424f-9644-2f3eefae63c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 백신 미접종자도 입국 때 '7일 격리' 안해도 됩니다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67099</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67068</link>
             <guid>https://www.harpersbazaar.co.kr/article/67068</guid>
             <pubDate>Fri, 10 Jun 2022 08:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg');">
                                 <a href="/article/67068">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67068">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">평생 묶여 자랄 마당개를 구출해 새로운 가족을 찾아주고, 사람이 떠난 재개발지구에 버려진 식...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/06803d6c-1720-4dc3-a042-fc1dbe6b4eb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신도 혹시 도파민 중독?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66763</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66763</guid>
-            <pubDate>Thu, 09 Jun 2022 13:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/ab941c1c-d330-422e-a8a1-b727edd7dda5.jpg');">
-                                <a href="/article/66763">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66763">
-                                        당신도 혹시 도파민 중독?                                    </a>
-                                </em>
-                                <p class="excerpt">‘도파민 중독’이라는 밈이 SNS를 휩쓴 건 꼭 그만큼의 공감대 덕분일 것이다. OTT는 당신을...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/ab941c1c-d330-422e-a8a1-b727edd7dda5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
