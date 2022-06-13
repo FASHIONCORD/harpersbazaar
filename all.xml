@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 10:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 11:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/9e10baa0-00ea-4fbd-88d6-0962c947d585.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름 휴가, 아직도 안 정했다면? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67133</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67133</guid>
+            <pubDate>Mon, 13 Jun 2022 11:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/ca34a923-677c-4955-89b3-43da15a35d88.jpg');">
+                                <a href="/article/67133">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67133">
+                                        여름 휴가, 아직도 안 정했다면?                                     </a>
+                                </em>
+                                <p class="excerpt">조심스럽게 해외 여행을 준비하는 모험가 정신으로 가득한 당신을 위한 여행법</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/ca34a923-677c-4955-89b3-43da15a35d88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[집에서도 의자도 팔고, 작품도 구경할 수 있어요 #홈터뷰 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67129</link>
             <guid>https://www.harpersbazaar.co.kr/article/67129</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67098</link>
             <guid>https://www.harpersbazaar.co.kr/article/67098</guid>
             <pubDate>Fri, 10 Jun 2022 11:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/01af7fb1-42f2-4a11-b60e-db475f03143d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/01af7fb1-42f2-4a11-b60e-db475f03143d.jpg');">
                                 <a href="/article/67098">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67098">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">영화 &lt;오마주&gt;로 데뷔 31년 만에 첫 단독 주연을 맡은 배우 이정은에 대하여.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/bae19a77-c69c-49ba-959b-aae9d44c5df8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이걸 다 내놓는다고요? #옷찾사 캠페인 패션 유튜버 소소가 기부한 아이템은? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67004</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67004</guid>
-            <pubDate>Thu, 09 Jun 2022 15:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/43e035f4-14ef-4f4c-8faf-c4c4c644d653.jpg');">
-                                <a href="/article/67004">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67004">
-                                        이걸 다 내놓는다고요? #옷찾사 캠페인 패션 유튜버 소소가 기부한 아이템은?                                    </a>
-                                </em>
-                                <p class="excerpt">나이키 덩크로우부터 꾸레쥬 티셔츠까지 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/43e035f4-14ef-4f4c-8faf-c4c4c644d653.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지구를 지키는 비건 클렌저 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
