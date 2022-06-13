@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집에서도 의자도 팔고, 작품도 구경할 수 있어요 #홈터뷰]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67129</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67129</guid>
+            <pubDate>Mon, 13 Jun 2022 08:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/b73b93b5-951e-4f5e-b4a6-40fcd2ca876c.jpg');">
+                                <a href="/article/67129">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67129">
+                                        집에서도 의자도 팔고, 작품도 구경할 수 있어요 #홈터뷰                                      </a>
+                                </em>
+                                <p class="excerpt">뉴노멀시대의 하우스2.0</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/b73b93b5-951e-4f5e-b4a6-40fcd2ca876c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트부산 2022 방문기.]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67016</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67097</link>
             <guid>https://www.harpersbazaar.co.kr/article/67097</guid>
             <pubDate>Fri, 10 Jun 2022 11:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/859c436f-27c7-4453-8c15-ccaffde0448f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/859c436f-27c7-4453-8c15-ccaffde0448f.jpg');">
                                 <a href="/article/67097">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67097">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">나이키 덩크로우부터 꾸레쥬 티셔츠까지 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/43e035f4-14ef-4f4c-8faf-c4c4c644d653.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귤엔터 '만다린즈' 전원 데뷔 절대 지켜!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66936</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66936</guid>
-            <pubDate>Thu, 09 Jun 2022 13:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/06803d6c-1720-4dc3-a042-fc1dbe6b4eb3.jpg');">
-                                <a href="/article/66936">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66936">
-                                        귤엔터 '만다린즈' 전원 데뷔 절대 지켜!                                    </a>
-                                </em>
-                                <p class="excerpt">평생 묶여 자랄 마당개를 구출해 새로운 가족을 찾아주고, 사람이 떠난 재개발지구에 버려진 식...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/06803d6c-1720-4dc3-a042-fc1dbe6b4eb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

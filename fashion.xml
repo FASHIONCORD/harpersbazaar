@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 잘 입는 스타들의 여름철 티셔츠 입는 법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67130</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67130</guid>
+            <pubDate>Mon, 13 Jun 2022 08:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/77c32c4d-2af2-4dba-ac2a-8f5cb396f2b7.jpg');">
+                                <a href="/article/67130">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67130">
+                                        옷 잘 입는 스타들의 여름철 티셔츠 입는 법                                     </a>
+                                </em>
+                                <p class="excerpt">리사, 설현, 예림, 이유비 등의 티셔츠 스타일링 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/77c32c4d-2af2-4dba-ac2a-8f5cb396f2b7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스와 구찌가 만났을 때]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67112</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67095</link>
             <guid>https://www.harpersbazaar.co.kr/article/67095</guid>
             <pubDate>Fri, 10 Jun 2022 10:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/e68074fc-4749-4fb3-847b-f790854f09b3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/e68074fc-4749-4fb3-847b-f790854f09b3.jpg');">
                                 <a href="/article/67095">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67095">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">입술에 끼우는 마우스피스, 콧등을 장식하는 액세서리 등 독특하고 관능적인 무드의 주얼리를 선...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/50320f3a-c64d-4769-a52e-23c4d7e2fcbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편하면서도 세련된, 예쁘다고 소문난 클로브 신상 22 S/S 궁금하다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67027</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67027</guid>
-            <pubDate>Thu, 09 Jun 2022 15:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/6973655b-b6a3-47fd-a88f-c1a2e1fc54b0.jpg');">
-                                <a href="/article/67027">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67027">
-                                        편하면서도 세련된, 예쁘다고 소문난 클로브 신상 22 S/S 궁금하다면?                                    </a>
-                                </em>
-                                <p class="excerpt">예쁘게 입고 운동하면 기분이 조크든요</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/6973655b-b6a3-47fd-a88f-c1a2e1fc54b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
