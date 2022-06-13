@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 05:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 07:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리 사진전? 사진 마니아라면 놓칠 수 없는 전시 4]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67068</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67068</guid>
+            <pubDate>Mon, 13 Jun 2022 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg');">
+                                <a href="/article/67068">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67068">
+                                        이효리 사진전? 사진 마니아라면 놓칠 수 없는 전시 4                                     </a>
+                                </em>
+                                <p class="excerpt">놓치지 말아야 할 6월의 사진전 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["미쳐보자고~" BTS 제이홉, '롤라팔루자' 헤드라이너 출격]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67052</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66917</link>
             <guid>https://www.harpersbazaar.co.kr/article/66917</guid>
             <pubDate>Thu, 09 Jun 2022 03:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/1ebde404-06fa-4cb7-9a26-b01f754684fa.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/1ebde404-06fa-4cb7-9a26-b01f754684fa.jpg');">
                                 <a href="/article/66917">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66917">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">수지를 보고 싶어하는 당신께 드리는 빅선물!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/25f64450-09c2-4f52-9d06-750966ffa74a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구씨' 군대로.. 정해인×구교환×손석구 <디피 2> 커밍쑨!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66859</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66859</guid>
-            <pubDate>Tue, 07 Jun 2022 07:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/e217120a-2f8e-40de-91c9-c465e036ea79.jpg');">
-                                <a href="/article/66859">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66859">
-                                        '구씨' 군대로.. 정해인×구교환×손석구 &lt;디피 2&gt; 커밍쑨!                                    </a>
-                                </em>
-                                <p class="excerpt">아니, 이 라인업이면 좀 반칙이죠...🤔</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/e217120a-2f8e-40de-91c9-c465e036ea79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
