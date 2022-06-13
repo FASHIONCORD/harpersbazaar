@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 10:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1437,6 +1437,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/ab2b8129-be85-4016-8337-33aab8aede9a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보고 싶던 이종석, <마녀2>와 <빅마우스>로 만나요 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67080</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67080</guid>
+            <pubDate>Mon, 13 Jun 2022 10:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/60bad043-da67-4d78-8789-0a57ee7fed87.jpg');">
+                                <a href="/article/67080">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67080">
+                                        보고 싶던 이종석, &lt;마녀2&gt;와 &lt;빅마우스&gt;로 만나요                                    </a>
+                                </em>
+                                <p class="excerpt">우리는 이종석이 언제나 목마르다😢</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/60bad043-da67-4d78-8789-0a57ee7fed87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이효리 사진전? 사진 마니아라면 놓칠 수 없는 전시 4 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67068</link>
             <guid>https://www.harpersbazaar.co.kr/article/67068</guid>
@@ -1516,17 +1541,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67017</link>
             <guid>https://www.harpersbazaar.co.kr/article/67017</guid>
             <pubDate>Thu, 09 Jun 2022 08:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/52c1ec9f-70db-498c-a377-3cf63db24fa3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/52c1ec9f-70db-498c-a377-3cf63db24fa3.jpg');">
                                 <a href="/article/67017">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67017">
@@ -1607,30 +1631,6 @@
                                 <p class="excerpt">블랙핑크도 참여했다고? 요즘 유행에 뒤처질 수 없지!  </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/9e10baa0-00ea-4fbd-88d6-0962c947d585.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수지, 첫 단독 주연작 <안나>에 쏠린 관심 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66864</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66864</guid>
-            <pubDate>Wed, 08 Jun 2022 04:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/25f64450-09c2-4f52-9d06-750966ffa74a.jpg');">
-                                <a href="/article/66864">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66864">
-                                        수지, 첫 단독 주연작 &lt;안나&gt;에 쏠린 관심                                    </a>
-                                </em>
-                                <p class="excerpt">수지를 보고 싶어하는 당신께 드리는 빅선물!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/25f64450-09c2-4f52-9d06-750966ffa74a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[집에서도 의자도 팔고, 작품도 구경할 수 있어요 #홈터뷰 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
