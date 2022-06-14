@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 14:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 16:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼭 알아야할 시계용어사전]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67012</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67012</guid>
+            <pubDate>Tue, 14 Jun 2022 16:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/67e98a84-87f1-4258-aa99-ecca05366098.jpg');">
+                                <a href="/article/67012">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67012">
+                                        꼭 알아야할 시계용어사전                                    </a>
+                                </em>
+                                <p class="excerpt">시계를 사는 건 보통 복잡한 쇼핑이 아니다. 때때로 사람들은 시계를 통해 시간이 아니라 그 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/67e98a84-87f1-4258-aa99-ecca05366098.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시계 이것만 알면 무사통과!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67011</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67130</link>
             <guid>https://www.harpersbazaar.co.kr/article/67130</guid>
             <pubDate>Mon, 13 Jun 2022 08:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/77c32c4d-2af2-4dba-ac2a-8f5cb396f2b7.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/77c32c4d-2af2-4dba-ac2a-8f5cb396f2b7.jpg');">
                                 <a href="/article/67130">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67130">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">시계를 사는 건 보통 복잡한 쇼핑이 아니다. 때때로 사람들은 시계를 통해 시간이 아니라 그 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/9c9b6d5d-4bba-4669-8c31-c86c818dc98b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니가 샤넬 공방 컬렉션에 방문한 이유]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67095</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67095</guid>
-            <pubDate>Fri, 10 Jun 2022 10:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/e68074fc-4749-4fb3-847b-f790854f09b3.jpg');">
-                                <a href="/article/67095">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67095">
-                                        제니가 샤넬 공방 컬렉션에 방문한 이유                                     </a>
-                                </em>
-                                <p class="excerpt">인간샤넬.jpg</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/e68074fc-4749-4fb3-847b-f790854f09b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
