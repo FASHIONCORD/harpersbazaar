@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 10:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 11:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임>시즌 2 제작 확정!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67173</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67173</guid>
+            <pubDate>Tue, 14 Jun 2022 11:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/a84fc472-962e-4213-9e5b-2bd321ac0af0.jpg');">
+                                <a href="/article/67173">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67173">
+                                        &lt;오징어 게임&gt;시즌 2 제작 확정!                                     </a>
+                                </em>
+                                <p class="excerpt">게임에 다시 참여하시게습니까? 네!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/a84fc472-962e-4213-9e5b-2bd321ac0af0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<겟아웃>×<어스> 감독 신작! 파격 예고편]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67110</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67080</link>
             <guid>https://www.harpersbazaar.co.kr/article/67080</guid>
             <pubDate>Mon, 13 Jun 2022 10:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/60bad043-da67-4d78-8789-0a57ee7fed87.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/60bad043-da67-4d78-8789-0a57ee7fed87.jpg');">
                                 <a href="/article/67080">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67080">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">시즌1 주역 박지후, 윤찬영, 조이현, 로몬이 직접 전했다!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/2f127a2e-44a5-47c8-bd2d-ef5931d1258c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 깜빡 놓친 6월의 신상 드라마 5]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67017</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67017</guid>
-            <pubDate>Thu, 09 Jun 2022 08:26:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/52c1ec9f-70db-498c-a377-3cf63db24fa3.jpg');">
-                                <a href="/article/67017">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67017">
-                                        당신이 깜빡 놓친 6월의 신상 드라마 5                                    </a>
-                                </em>
-                                <p class="excerpt">뭘 봐야할지 고민인 당신께 선물합니다🎁</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/52c1ec9f-70db-498c-a377-3cf63db24fa3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

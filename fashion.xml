@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 10:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 11:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시계 이것만 알면 무사통과!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67011</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67011</guid>
+            <pubDate>Tue, 14 Jun 2022 11:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/8fc481e6-7195-4ba6-b27b-dec7d2095e87.jpg');">
+                                <a href="/article/67011">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67011">
+                                        시계 이것만 알면 무사통과!                                    </a>
+                                </em>
+                                <p class="excerpt">시계를 사는 건 보통 복잡한 쇼핑이 아니다. 때때로 사람들은 시계를 통해 시간이 아니라 그 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/8fc481e6-7195-4ba6-b27b-dec7d2095e87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈뜻밖의 여정〉 속 #윤여정어록]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67134</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67112</link>
             <guid>https://www.harpersbazaar.co.kr/article/67112</guid>
             <pubDate>Sun, 12 Jun 2022 16:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/a28d261e-8dd8-4ac9-a6f3-fb0881485a1b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/a28d261e-8dd8-4ac9-a6f3-fb0881485a1b.jpg');">
                                 <a href="/article/67112">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67112">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">인간샤넬.jpg</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/e68074fc-4749-4fb3-847b-f790854f09b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 난리난 공유 남친짤 패션 모음.zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67070</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67070</guid>
-            <pubDate>Fri, 10 Jun 2022 10:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a1228646-af28-455a-9dbc-295f76175c28.jpg');">
-                                <a href="/article/67070">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67070">
-                                        최근 난리난 공유 남친짤 패션 모음.zip                                    </a>
-                                </em>
-                                <p class="excerpt">더 공개해주세요! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/a1228646-af28-455a-9dbc-295f76175c28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
