@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 11:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 12:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한예리, 올초 비연예인과 결혼.. "예식 생략"]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67078</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67078</guid>
+            <pubDate>Tue, 14 Jun 2022 12:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/1e52abdf-a335-4ca1-b9f7-155a147a37c8.jpg');">
+                                <a href="/article/67078">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67078">
+                                        한예리, 올초 비연예인과 결혼.. "예식 생략"                                    </a>
+                                </em>
+                                <p class="excerpt">한예리가 결혼식을 과감하게 생략한 이유는..</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/1e52abdf-a335-4ca1-b9f7-155a147a37c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["미쳐보자고~" BTS 제이홉, '롤라팔루자' 헤드라이너 출격]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67052</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66946</link>
             <guid>https://www.harpersbazaar.co.kr/article/66946</guid>
             <pubDate>Fri, 10 Jun 2022 11:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60295fa0-25fb-4f0d-85ce-926c6425240e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60295fa0-25fb-4f0d-85ce-926c6425240e.jpg');">
                                 <a href="/article/66946">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66946">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">매력 부자 공효진의 TMI 인터뷰</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/61746141-1c89-4e7c-9f7c-07ab942f4ca0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유연한 매일을 바라는 심은경]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66730</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66730</guid>
-            <pubDate>Mon, 06 Jun 2022 09:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/ab2b8129-be85-4016-8337-33aab8aede9a.jpg');">
-                                <a href="/article/66730">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66730">
-                                        유연한 매일을 바라는 심은경                                    </a>
-                                </em>
-                                <p class="excerpt">심은경은 지난 2년 동안 서울과 떨어져 보냈다. 시원한 소낙비가 내려 거리가 구석구석 씻겨 내...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/ab2b8129-be85-4016-8337-33aab8aede9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
