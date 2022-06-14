@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 16:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 17:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1437,6 +1437,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/61746141-1c89-4e7c-9f7c-07ab942f4ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울의 여성 DJ 5인이 추천하는 여름 음악은? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67183</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67183</guid>
+            <pubDate>Tue, 14 Jun 2022 17:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917451b-7039-4a4d-a492-5fdce876e3ea.jpg');">
+                                <a href="/article/67183">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67183">
+                                        서울의 여성 DJ 5인이 추천하는 여름 음악은?                                     </a>
+                                </em>
+                                <p class="excerpt">무더운 여름, CHILLING 하기 좋은 음악 모음.zip</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917451b-7039-4a4d-a492-5fdce876e3ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<오징어 게임>시즌 2 제작 확정! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67173</link>
             <guid>https://www.harpersbazaar.co.kr/article/67173</guid>
@@ -1516,17 +1541,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67089</link>
             <guid>https://www.harpersbazaar.co.kr/article/67089</guid>
             <pubDate>Mon, 13 Jun 2022 16:30:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67846b0b-dee8-4641-8fb2-12866ddc8875.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67846b0b-dee8-4641-8fb2-12866ddc8875.jpg');">
                                 <a href="/article/67089">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67089">
@@ -1607,30 +1631,6 @@
                                 <p class="excerpt">제이홉의 외침 : Get ready to get crazyyyyyy!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/ca8ef612-ba2a-47f9-9e13-41a93e77ff4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-좀비떼 다시 온다' <지우학> 시즌2 확정 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67048</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67048</guid>
-            <pubDate>Thu, 09 Jun 2022 14:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/2f127a2e-44a5-47c8-bd2d-ef5931d1258c.jpg');">
-                                <a href="/article/67048">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67048">
-                                        'K-좀비떼 다시 온다' &lt;지우학&gt; 시즌2 확정                                    </a>
-                                </em>
-                                <p class="excerpt">시즌1 주역 박지후, 윤찬영, 조이현, 로몬이 직접 전했다!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/2f127a2e-44a5-47c8-bd2d-ef5931d1258c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여기 한국 맞아? 유럽 바이브 넘치는 샵 4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
