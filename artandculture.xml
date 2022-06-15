@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 03:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트 입문자를 위한 베니스 비엔날레 안내서]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67081</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67081</guid>
+            <pubDate>Wed, 15 Jun 2022 04:31:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/f7a2f217-904b-49cd-8dc0-db59374b22ca.jpg');">
+                                <a href="/article/67081">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67081">
+                                        아트 입문자를 위한 베니스 비엔날레 안내서                                    </a>
+                                </em>
+                                <p class="excerpt">제59회 베니스 비엔날레가 &lt;꿈의 우유&gt;라는 주제로 문을 열었다. 여성주의와 초현실주의라는 키워...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/f7a2f217-904b-49cd-8dc0-db59374b22ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울의 여성 DJ 5인이 추천하는 여름 음악은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67183</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67097</link>
             <guid>https://www.harpersbazaar.co.kr/article/67097</guid>
             <pubDate>Tue, 14 Jun 2022 04:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/859c436f-27c7-4453-8c15-ccaffde0448f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/859c436f-27c7-4453-8c15-ccaffde0448f.jpg');">
                                 <a href="/article/67097">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67097">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">놓치지 말아야 할 6월의 사진전 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["미쳐보자고~" BTS 제이홉, '롤라팔루자' 헤드라이너 출격]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67052</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67052</guid>
-            <pubDate>Fri, 10 Jun 2022 08:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/ca8ef612-ba2a-47f9-9e13-41a93e77ff4a.jpg');">
-                                <a href="/article/67052">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67052">
-                                        "미쳐보자고~" BTS 제이홉, '롤라팔루자' 헤드라이너 출격                                    </a>
-                                </em>
-                                <p class="excerpt">제이홉의 외침 : Get ready to get crazyyyyyy!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/ca8ef612-ba2a-47f9-9e13-41a93e77ff4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
