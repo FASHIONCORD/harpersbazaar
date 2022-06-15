@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 10:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 12:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<마녀2>, 신시아 외 주목할 3인.. 서은수×진구×이종석]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67206</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67206</guid>
+            <pubDate>Wed, 15 Jun 2022 12:26:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0890a90e-328d-46d7-9c73-a128e9c23d7c.jpg');">
+                                <a href="/article/67206">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67206">
+                                        &lt;마녀2&gt;, 신시아 외 주목할 3인.. 서은수×진구×이종석                                    </a>
+                                </em>
+                                <p class="excerpt">박훈정 표 '마녀 유니버스'에 탑승할 준비 되셨나요?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0890a90e-328d-46d7-9c73-a128e9c23d7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['미친 연기력' 이병헌, <우블스> 배우들과 호흡한 전작들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67196</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67173</link>
             <guid>https://www.harpersbazaar.co.kr/article/67173</guid>
             <pubDate>Tue, 14 Jun 2022 11:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/a84fc472-962e-4213-9e5b-2bd321ac0af0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/a84fc472-962e-4213-9e5b-2bd321ac0af0.jpg');">
                                 <a href="/article/67173">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67173">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">캐리커처 작가 은혜씨의 위로와 힐링 돋는 일상🎨</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67846b0b-dee8-4641-8fb2-12866ddc8875.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보고 싶던 이종석, <마녀2>와 <빅마우스>로 만나요]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67080</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67080</guid>
-            <pubDate>Mon, 13 Jun 2022 10:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/60bad043-da67-4d78-8789-0a57ee7fed87.jpg');">
-                                <a href="/article/67080">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67080">
-                                        보고 싶던 이종석, &lt;마녀2&gt;와 &lt;빅마우스&gt;로 만나요                                    </a>
-                                </em>
-                                <p class="excerpt">우리는 이종석이 언제나 목마르다😢</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/60bad043-da67-4d78-8789-0a57ee7fed87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

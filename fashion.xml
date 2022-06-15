@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 10:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 12:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들이 핑크 팬츠를 쿨하게 입는 법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67209</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67209</guid>
+            <pubDate>Wed, 15 Jun 2022 12:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/25c6aad2-fac8-45a8-9208-35f6ea840f11.jpg');">
+                                <a href="/article/67209">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67209">
+                                        셀럽들이 핑크 팬츠를 쿨하게 입는 법                                    </a>
+                                </em>
+                                <p class="excerpt">예리, 장원영, 한효주의 핑크 팬츠 스타일링 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/25c6aad2-fac8-45a8-9208-35f6ea840f11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화이트 탱크톱을 입자]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67079</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67011</link>
             <guid>https://www.harpersbazaar.co.kr/article/67011</guid>
             <pubDate>Tue, 14 Jun 2022 11:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/8fc481e6-7195-4ba6-b27b-dec7d2095e87.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/8fc481e6-7195-4ba6-b27b-dec7d2095e87.jpg');">
                                 <a href="/article/67011">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67011">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">리사, 설현, 손나은, 이유비 등의 티셔츠 스타일링 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/77c32c4d-2af2-4dba-ac2a-8f5cb396f2b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스와 구찌가 만났을 때]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67112</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67112</guid>
-            <pubDate>Sun, 12 Jun 2022 16:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/a28d261e-8dd8-4ac9-a6f3-fb0881485a1b.jpg');">
-                                <a href="/article/67112">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67112">
-                                        아디다스와 구찌가 만났을 때                                     </a>
-                                </em>
-                                <p class="excerpt">지금 가장 뜨거운 만남, 아디다스 x 구찌 컬렉션이 공개됐다. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/a28d261e-8dd8-4ac9-a6f3-fb0881485a1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
