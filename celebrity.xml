@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 01:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈뜻밖의 여정〉 속 #윤여정어록]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67134</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67134</guid>
+            <pubDate>Wed, 15 Jun 2022 01:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg');">
+                                <a href="/article/67134">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67134">
+                                        〈뜻밖의 여정〉 속 #윤여정어록                                    </a>
+                                </em>
+                                <p class="excerpt">인생을 살아가는 데 도움이 되는, 윤여정과 윤여정의 친구들이 남긴 명언들. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한예리, 올초 비연예인과 결혼.. "예식 생략"]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67078</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66989</link>
             <guid>https://www.harpersbazaar.co.kr/article/66989</guid>
             <pubDate>Fri, 10 Jun 2022 15:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/93f75100-a1f5-4860-8ecc-d3b5a8d59139.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/93f75100-a1f5-4860-8ecc-d3b5a8d59139.jpg');">
                                 <a href="/article/66989">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66989">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;무한도전&gt;과 &lt;놀면 뭐하니?&gt; 등 흥행 예능을 만들었던 PD들이 새 프로그램 &lt;악카펠라&gt;로 뭉쳤다...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/bdb99bd5-b05f-4ee1-90e3-dce0f280f92b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반전 그 자체! 당신이 몰랐던 배우 공효진의 모든 것]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66915</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66915</guid>
-            <pubDate>Tue, 07 Jun 2022 10:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/61746141-1c89-4e7c-9f7c-07ab942f4ca0.jpg');">
-                                <a href="/article/66915">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66915">
-                                        반전 그 자체! 당신이 몰랐던 배우 공효진의 모든 것                                    </a>
-                                </em>
-                                <p class="excerpt">매력 부자 공효진의 TMI 인터뷰</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/61746141-1c89-4e7c-9f7c-07ab942f4ca0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
