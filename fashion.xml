@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 09:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화이트 탱크톱을 입자]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67079</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67079</guid>
+            <pubDate>Wed, 15 Jun 2022 10:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/477c8714-c57b-4a25-ae77-60e222c85f92.jpg');">
+                                <a href="/article/67079">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67079">
+                                        화이트 탱크톱을 입자                                    </a>
+                                </em>
+                                <p class="excerpt">겸손한 화이트 탱크톱이 독보적인 존재감으로 2022 F/W 시즌의 중심에 우뚝 섰다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/477c8714-c57b-4a25-ae77-60e222c85f92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<왜 오수재인가> 속 서현진 오피스룩 어디거?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67182</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67134</link>
             <guid>https://www.harpersbazaar.co.kr/article/67134</guid>
             <pubDate>Tue, 14 Jun 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg');">
                                 <a href="/article/67134">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67134">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지금 가장 뜨거운 만남, 아디다스 x 구찌 컬렉션이 공개됐다. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/a28d261e-8dd8-4ac9-a6f3-fb0881485a1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50주년 랄프 로렌 폴로 셔츠의 히스토리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67015</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67015</guid>
-            <pubDate>Fri, 10 Jun 2022 15:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/8102e663-7c31-4719-a28c-866087829432.jpg');">
-                                <a href="/article/67015">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67015">
-                                         50주년 랄프 로렌 폴로 셔츠의 히스토리                                     </a>
-                                </em>
-                                <p class="excerpt">50년 동안 겹겹이 쌓여온 랄프 로렌 폴로 셔츠만의 시대정신</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/8102e663-7c31-4719-a28c-866087829432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

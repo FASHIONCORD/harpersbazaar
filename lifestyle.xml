@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 09:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 10:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크러쉬가 1등한 그 대회, 이번엔 제주도에서 '멍때리기'?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67201</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67201</guid>
+            <pubDate>Wed, 15 Jun 2022 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/cf9dae8c-945a-4e1a-8c3e-07a8896ec273.jpg');">
+                                <a href="/article/67201">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67201">
+                                        크러쉬가 1등한 그 대회, 이번엔 제주도에서 '멍때리기'?                                    </a>
+                                </em>
+                                <p class="excerpt">1등에게 주어지는 상품은 #이슈있슈</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/cf9dae8c-945a-4e1a-8c3e-07a8896ec273.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스 니스 찍고 미국 LA 당일치기 가능 #서울근교핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67190</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67178</link>
             <guid>https://www.harpersbazaar.co.kr/article/67178</guid>
             <pubDate>Tue, 14 Jun 2022 09:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg');">
                                 <a href="/article/67178">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67178">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이국적이면서도 향토적인 매력을 동시에 지닌 여행지! 남해의 핫플레이스.  </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/b14460f7-348c-43e9-a7d9-944d9825b94e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가, 아직도 안 정했다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67133</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67133</guid>
-            <pubDate>Mon, 13 Jun 2022 11:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/ca34a923-677c-4955-89b3-43da15a35d88.jpg');">
-                                <a href="/article/67133">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67133">
-                                        여름 휴가, 아직도 안 정했다면?                                     </a>
-                                </em>
-                                <p class="excerpt">조심스럽게 해외 여행을 준비하는 모험가 정신으로 가득한 당신을 위한 여행법</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/ca34a923-677c-4955-89b3-43da15a35d88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
