@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 01:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 03:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<왜 오수재인가> 속 서현진 오피스룩 어디거?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67182</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67182</guid>
+            <pubDate>Wed, 15 Jun 2022 03:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg');">
+                                <a href="/article/67182">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67182">
+                                         &lt;왜 오수재인가&gt; 속 서현진 오피스룩 어디거?                                    </a>
+                                </em>
+                                <p class="excerpt">‘커리어 우먼'의 정석이라 불릴 오수재, 따라 입고 싶은 원피스부터 수트 셋업까지. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼭 알아야할 시계용어사전]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67012</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67132</link>
             <guid>https://www.harpersbazaar.co.kr/article/67132</guid>
             <pubDate>Mon, 13 Jun 2022 15:29:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/d1e2554e-13f9-4e6d-bbcf-e52571387d4b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/d1e2554e-13f9-4e6d-bbcf-e52571387d4b.jpg');">
                                 <a href="/article/67132">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67132">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">50년 동안 겹겹이 쌓여온 랄프 로렌 폴로 셔츠만의 시대정신</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/8102e663-7c31-4719-a28c-866087829432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알아두면 쓸데 있는 시계상식 1]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67010</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67010</guid>
-            <pubDate>Fri, 10 Jun 2022 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/9c9b6d5d-4bba-4669-8c31-c86c818dc98b.jpg');">
-                                <a href="/article/67010">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67010">
-                                        알아두면 쓸데 있는 시계상식 1                                     </a>
-                                </em>
-                                <p class="excerpt">시계를 사는 건 보통 복잡한 쇼핑이 아니다. 때때로 사람들은 시계를 통해 시간이 아니라 그 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/9c9b6d5d-4bba-4669-8c31-c86c818dc98b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
