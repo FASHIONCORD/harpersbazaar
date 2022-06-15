@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 05:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미친 연기력' 이병헌, <우블스> 배우들과 호흡한 전작들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67196</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67196</guid>
+            <pubDate>Wed, 15 Jun 2022 06:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/da682c65-a0a4-45ae-bf86-47c3e3f715df.jpg');">
+                                <a href="/article/67196">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67196">
+                                        '미친 연기력' 이병헌, &lt;우블스&gt; 배우들과 호흡한 전작들                                    </a>
+                                </em>
+                                <p class="excerpt">이병헌은 도무지 연기로 깔 수가 없구만🧄</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/da682c65-a0a4-45ae-bf86-47c3e3f715df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아트 입문자를 위한 베니스 비엔날레 안내서]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67081</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67110</link>
             <guid>https://www.harpersbazaar.co.kr/article/67110</guid>
             <pubDate>Tue, 14 Jun 2022 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/9d823087-41fa-4ec7-aaec-fc7793551954.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/9d823087-41fa-4ec7-aaec-fc7793551954.jpg');">
                                 <a href="/article/67110">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67110">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">우리는 이종석이 언제나 목마르다😢</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/60bad043-da67-4d78-8789-0a57ee7fed87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리 사진전? 사진 마니아라면 놓칠 수 없는 전시 4]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67068</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67068</guid>
-            <pubDate>Mon, 13 Jun 2022 07:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg');">
-                                <a href="/article/67068">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67068">
-                                        이효리 사진전? 사진 마니아라면 놓칠 수 없는 전시 4                                     </a>
-                                </em>
-                                <p class="excerpt">놓치지 말아야 할 6월의 사진전 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/7972ddc3-2771-4652-87d8-09d4ab30919e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
