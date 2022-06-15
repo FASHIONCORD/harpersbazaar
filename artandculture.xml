@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67212</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
+            <pubDate>Wed, 15 Jun 2022 15:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
+                                <a href="/article/67212">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67212">
+                                        채정안이 애정 하는 부산 찐 맛집은 어디?                                    </a>
+                                </em>
+                                <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<마녀2>, 신시아 외 주목할 3인.. 서은수×진구×이종석]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67206</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67183</link>
             <guid>https://www.harpersbazaar.co.kr/article/67183</guid>
             <pubDate>Tue, 14 Jun 2022 17:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917451b-7039-4a4d-a492-5fdce876e3ea.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917451b-7039-4a4d-a492-5fdce876e3ea.jpg');">
                                 <a href="/article/67183">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67183">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">물 한 방울 없이 오직 무 즙으로 맛을 낸다. 집에서 만드는 부산 명물 무떡볶이!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/859c436f-27c7-4453-8c15-ccaffde0448f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우블> '영희'가 궁금해? 그럼 <니얼굴> 추천함!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67089</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67089</guid>
-            <pubDate>Mon, 13 Jun 2022 16:30:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67846b0b-dee8-4641-8fb2-12866ddc8875.jpg');">
-                                <a href="/article/67089">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67089">
-                                        &lt;우블&gt; '영희'가 궁금해? 그럼 &lt;니얼굴&gt; 추천함!                                    </a>
-                                </em>
-                                <p class="excerpt">캐리커처 작가 은혜씨의 위로와 힐링 돋는 일상🎨</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/67846b0b-dee8-4641-8fb2-12866ddc8875.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

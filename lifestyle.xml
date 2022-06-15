@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 코로나 걸려도 출근해야 하나요?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67225</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67225</guid>
+            <pubDate>Wed, 15 Jun 2022 15:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/9fb89cb9-3cf7-4d07-aea7-21f077a6622d.jpg');">
+                                <a href="/article/67225">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67225">
+                                        이제 코로나 걸려도 출근해야 하나요?                                    </a>
+                                </em>
+                                <p class="excerpt">17일 '격리 의무' 해제 여부가 결정된다 #이슈있슈</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/9fb89cb9-3cf7-4d07-aea7-21f077a6622d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67212</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67190</link>
             <guid>https://www.harpersbazaar.co.kr/article/67190</guid>
             <pubDate>Wed, 15 Jun 2022 04:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/6fefcd4f-6582-4926-aa13-cc6d4b509ea4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/6fefcd4f-6582-4926-aa13-cc6d4b509ea4.jpg');">
                                 <a href="/article/67190">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67190">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">사진 맛집? 커피도 맛집! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필환경 시대의 지속가능한 시계]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67062</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67062</guid>
-            <pubDate>Tue, 14 Jun 2022 09:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg');">
-                                <a href="/article/67062">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67062">
-                                        필환경 시대의 지속가능한 시계                                     </a>
-                                </em>
-                                <p class="excerpt">시계 업계에서의 지속가능성은 워치메이킹의 모든 공정과 단계에 적용되고 있다. 그뿐이 아니다. ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
