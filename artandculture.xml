@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 14:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 15:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베니스 비엔날레 2022 최고의 국가관 7]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67083</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67083</guid>
+            <pubDate>Thu, 16 Jun 2022 15:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/40496f1f-dc14-4a85-a091-abaa511465f8.jpg');">
+                                <a href="/article/67083">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67083">
+                                        베니스 비엔날레 2022 최고의 국가관 7                                    </a>
+                                </em>
+                                <p class="excerpt">베니스 비엔날레가 ‘미술 올림픽’으로 불리는 이유는 국가별로 독립된 전시공간인 국가관을 운영...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/40496f1f-dc14-4a85-a091-abaa511465f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67212</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67081</link>
             <guid>https://www.harpersbazaar.co.kr/article/67081</guid>
             <pubDate>Wed, 15 Jun 2022 04:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/f7a2f217-904b-49cd-8dc0-db59374b22ca.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/f7a2f217-904b-49cd-8dc0-db59374b22ca.jpg');">
                                 <a href="/article/67081">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67081">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">단 한번도 기대를 저버리지 않는 조건 필 감독🎃</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/9d823087-41fa-4ec7-aaec-fc7793551954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리도 반한 부산 명물 #무떡볶이 레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67097</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67097</guid>
-            <pubDate>Tue, 14 Jun 2022 04:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/859c436f-27c7-4453-8c15-ccaffde0448f.jpg');">
-                                <a href="/article/67097">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67097">
-                                        이효리도 반한 부산 명물 #무떡볶이 레시피                                    </a>
-                                </em>
-                                <p class="excerpt">물 한 방울 없이 오직 무 즙으로 맛을 낸다. 집에서 만드는 부산 명물 무떡볶이!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/859c436f-27c7-4453-8c15-ccaffde0448f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
