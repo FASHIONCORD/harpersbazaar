@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 03:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<왜 오수재인가> 속 서현진 오피스룩 어디거?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67182</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67182</guid>
+            <pubDate>Thu, 16 Jun 2022 03:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg');">
+                                <a href="/article/67182">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67182">
+                                         &lt;왜 오수재인가&gt; 속 서현진 오피스룩 어디거?                                    </a>
+                                </em>
+                                <p class="excerpt">‘커리어 우먼'의 정석이라 불릴 오수재, 따라 입고 싶은 원피스부터 수트 셋업까지. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['HOT'! 세븐틴 정한, 조슈아의 감성 사진 맛집 스폿 2 #인_스타_플레이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67178</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67078</link>
             <guid>https://www.harpersbazaar.co.kr/article/67078</guid>
             <pubDate>Tue, 14 Jun 2022 12:31:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/1e52abdf-a335-4ca1-b9f7-155a147a37c8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/1e52abdf-a335-4ca1-b9f7-155a147a37c8.jpg');">
                                 <a href="/article/67078">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67078">
@@ -178,30 +202,6 @@
                                 <p class="excerpt"></p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/93f75100-a1f5-4860-8ecc-d3b5a8d59139.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장나라, 깜짝 결혼발표! 6살 연하 남편은 누구?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66946</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66946</guid>
-            <pubDate>Fri, 10 Jun 2022 11:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60295fa0-25fb-4f0d-85ce-926c6425240e.jpg');">
-                                <a href="/article/66946">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66946">
-                                        장나라, 깜짝 결혼발표! 6살 연하 남편은 누구?                                    </a>
-                                </em>
-                                <p class="excerpt">드라마 <vip> 훈남 촬영감독과 6월 말 결혼하는 장나라</vip></p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/60295fa0-25fb-4f0d-85ce-926c6425240e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
