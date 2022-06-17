@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 15:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 16:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문구 덕후라면 이 책은 꼭 봐야한다!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67088</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67088</guid>
+            <pubDate>Fri, 17 Jun 2022 16:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/38e25a08-517c-4149-b34e-fa7211abe1b9.jpg');">
+                                <a href="/article/67088">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67088">
+                                        문구 덕후라면 이 책은 꼭 봐야한다!                                    </a>
+                                </em>
+                                <p class="excerpt">태국에서 그래픽 디자이너이자 블로거로 활동하고 있는 이현경은 문구에 진심인 덕후 ‘문덕’이다...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/38e25a08-517c-4149-b34e-fa7211abe1b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집안 가득 퍼지는 커피의 맛]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67087</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67246</link>
             <guid>https://www.harpersbazaar.co.kr/article/67246</guid>
             <pubDate>Thu, 16 Jun 2022 15:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2df84f32-ea69-4435-b12d-57a30351535d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2df84f32-ea69-4435-b12d-57a30351535d.jpg');">
                                 <a href="/article/67246">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67246">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빙수가 된 육회, 곰치, 짜장면, 이색 빙수 모음.zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67205</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67205</guid>
-            <pubDate>Wed, 15 Jun 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b89182ff-e410-4950-9b00-2be318b2d335.jpg');">
-                                <a href="/article/67205">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67205">
-                                        빙수가 된 육회, 곰치, 짜장면, 이색 빙수 모음.zip                                    </a>
-                                </em>
-                                <p class="excerpt">눈으로 먼저 먹어보자</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b89182ff-e410-4950-9b00-2be318b2d335.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
