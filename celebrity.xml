@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67212</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
+            <pubDate>Fri, 17 Jun 2022 07:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
+                                <a href="/article/67212">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67212">
+                                        채정안이 애정 하는 부산 찐 맛집은 어디?                                    </a>
+                                </em>
+                                <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<왜 오수재인가> 속 서현진 오피스룩 어디거?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67182</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67134</link>
             <guid>https://www.harpersbazaar.co.kr/article/67134</guid>
             <pubDate>Wed, 15 Jun 2022 01:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg');">
                                 <a href="/article/67134">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67134">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">군대에서... 보고있나? </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/8c2f51a5-0f0c-4d50-8eaf-1efcb8211147.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고의 악역 배우 악카펠라 7인방 #인사이드백 하러 왔습니다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66989</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66989</guid>
-            <pubDate>Fri, 10 Jun 2022 15:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/93f75100-a1f5-4860-8ecc-d3b5a8d59139.jpg');">
-                                <a href="/article/66989">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66989">
-                                        최고의 악역 배우 악카펠라 7인방 #인사이드백 하러 왔습니다                                    </a>
-                                </em>
-                                <p class="excerpt"></p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/93f75100-a1f5-4860-8ecc-d3b5a8d59139.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
