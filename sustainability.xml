@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버려지는 음식들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/65670</link>
+            <guid>https://www.harpersbazaar.co.kr/article/65670</guid>
+            <pubDate>Fri, 17 Jun 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg');">
+                                <a href="/article/65670">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/65670">
+                                        버려지는 음식들                                    </a>
+                                </em>
+                                <p class="excerpt">매년 버려지는 음식 약 14억 톤. 당신은 오늘 얼마나 많은 음식을 버렸나요?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지구를 지키는 비건 클렌저]]></title>
             <link>https://www.harpersbazaar.co.kr/article/65593</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65311</link>
             <guid>https://www.harpersbazaar.co.kr/article/65311</guid>
             <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/4e58eafd-0f19-4f14-a6c8-a7fa0b1f56d8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/4e58eafd-0f19-4f14-a6c8-a7fa0b1f56d8.jpg');">
                                 <a href="/article/65311">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65311">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">제주의 오래된 흙집을 사랑하는 건축 전문 기자는 말한다. 친환경 건축은 애초에 불가능하다고. ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/3994ee8c-20ac-498c-821b-29aaa3045a30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경에 진심인 록시땅]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65275</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65275</guid>
-            <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/7d90bb7b-d164-49f3-8478-d15b30c39580.jpg');">
-                                <a href="/article/65275">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65275">
-                                        친환경에 진심인 록시땅                                     </a>
-                                </em>
-                                <p class="excerpt">必환경 시대에 걸맞는 록시땅의 진정성 있는 행보. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/7d90bb7b-d164-49f3-8478-d15b30c39580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

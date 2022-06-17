@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917451b-7039-4a4d-a492-5fdce876e3ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[집안 가득 퍼지는 커피의 맛 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67087</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67087</guid>
+            <pubDate>Fri, 17 Jun 2022 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/fb34b10d-be5e-41f8-93c6-7d7a5db42868.jpg');">
+                                <a href="/article/67087">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67087">
+                                        집안 가득 퍼지는 커피의 맛                                    </a>
+                                </em>
+                                <p class="excerpt">보글보글 황금빛 크레마가 떠오르는 쌉싸래한 시간.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/fb34b10d-be5e-41f8-93c6-7d7a5db42868.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아직도 안 먹어 본 사람 있음? #초당옥수수 레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67249</link>
             <guid>https://www.harpersbazaar.co.kr/article/67249</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67226</link>
             <guid>https://www.harpersbazaar.co.kr/article/67226</guid>
             <pubDate>Thu, 16 Jun 2022 15:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/7bd5f8dc-b931-4c44-ac9c-65049979d280.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/7bd5f8dc-b931-4c44-ac9c-65049979d280.jpg');">
                                 <a href="/article/67226">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67226">
@@ -1805,28 +1829,29 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b89182ff-e410-4950-9b00-2be318b2d335.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크러쉬가 1등한 그 대회, 이번엔 제주도에서 '멍때리기'? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67201</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67201</guid>
-            <pubDate>Wed, 15 Jun 2022 10:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/cf9dae8c-945a-4e1a-8c3e-07a8896ec273.jpg');">
-                                <a href="/article/67201">
+            <title><![CDATA[버려지는 음식들 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/65670</link>
+            <guid>https://www.harpersbazaar.co.kr/article/65670</guid>
+            <pubDate>Fri, 17 Jun 2022 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg');">
+                                <a href="/article/65670">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/67201">
-                                        크러쉬가 1등한 그 대회, 이번엔 제주도에서 '멍때리기'?                                    </a>
+                                    <a href="/article/65670">
+                                        버려지는 음식들                                    </a>
                                 </em>
-                                <p class="excerpt">1등에게 주어지는 상품은 #이슈있슈</p>
+                                <p class="excerpt">매년 버려지는 음식 약 14억 톤. 당신은 오늘 얼마나 많은 음식을 버렸나요?</p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/cf9dae8c-945a-4e1a-8c3e-07a8896ec273.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지구를 지키는 비건 클렌저 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
@@ -1908,17 +1933,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65311</link>
             <guid>https://www.harpersbazaar.co.kr/article/65311</guid>
             <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/4e58eafd-0f19-4f14-a6c8-a7fa0b1f56d8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/4e58eafd-0f19-4f14-a6c8-a7fa0b1f56d8.jpg');">
                                 <a href="/article/65311">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65311">
@@ -1999,30 +2023,6 @@
                                 <p class="excerpt">제주의 오래된 흙집을 사랑하는 건축 전문 기자는 말한다. 친환경 건축은 애초에 불가능하다고. ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/3994ee8c-20ac-498c-821b-29aaa3045a30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경에 진심인 록시땅 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65275</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65275</guid>
-            <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/7d90bb7b-d164-49f3-8478-d15b30c39580.jpg');">
-                                <a href="/article/65275">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65275">
-                                        친환경에 진심인 록시땅                                     </a>
-                                </em>
-                                <p class="excerpt">必환경 시대에 걸맞는 록시땅의 진정성 있는 행보. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/07/7d90bb7b-d164-49f3-8478-d15b30c39580.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

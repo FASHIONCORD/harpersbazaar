@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집안 가득 퍼지는 커피의 맛]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67087</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67087</guid>
+            <pubDate>Fri, 17 Jun 2022 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/fb34b10d-be5e-41f8-93c6-7d7a5db42868.jpg');">
+                                <a href="/article/67087">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67087">
+                                        집안 가득 퍼지는 커피의 맛                                    </a>
+                                </em>
+                                <p class="excerpt">보글보글 황금빛 크레마가 떠오르는 쌉싸래한 시간.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/fb34b10d-be5e-41f8-93c6-7d7a5db42868.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직도 안 먹어 본 사람 있음? #초당옥수수 레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67249</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67226</link>
             <guid>https://www.harpersbazaar.co.kr/article/67226</guid>
             <pubDate>Thu, 16 Jun 2022 15:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/7bd5f8dc-b931-4c44-ac9c-65049979d280.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/7bd5f8dc-b931-4c44-ac9c-65049979d280.jpg');">
                                 <a href="/article/67226">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67226">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">눈으로 먼저 먹어보자</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b89182ff-e410-4950-9b00-2be318b2d335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크러쉬가 1등한 그 대회, 이번엔 제주도에서 '멍때리기'?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67201</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67201</guid>
-            <pubDate>Wed, 15 Jun 2022 10:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/cf9dae8c-945a-4e1a-8c3e-07a8896ec273.jpg');">
-                                <a href="/article/67201">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67201">
-                                        크러쉬가 1등한 그 대회, 이번엔 제주도에서 '멍때리기'?                                    </a>
-                                </em>
-                                <p class="excerpt">1등에게 주어지는 상품은 #이슈있슈</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/cf9dae8c-945a-4e1a-8c3e-07a8896ec273.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
