@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히토 슈타이얼 전시가 그렇게 핫하다고?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67090</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67090</guid>
+            <pubDate>Mon, 20 Jun 2022 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg');">
+                                <a href="/article/67090">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67090">
+                                        히토 슈타이얼 전시가 그렇게 핫하다고?                                    </a>
+                                </em>
+                                <p class="excerpt">오늘날 가장 중요하고 영향력 있는 현대미술가 중 한 사람인 히토 슈타이얼(Hito Steyerl)의 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문구 덕후라면 이 책은 꼭 봐야한다!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67088</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67248</link>
             <guid>https://www.harpersbazaar.co.kr/article/67248</guid>
             <pubDate>Fri, 17 Jun 2022 04:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg');">
                                 <a href="/article/67248">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67248">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">17일 '격리 의무' 해제 여부가 결정된다 #이슈있슈</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/9fb89cb9-3cf7-4d07-aea7-21f077a6622d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67212</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
-            <pubDate>Wed, 15 Jun 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
-                                <a href="/article/67212">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67212">
-                                        채정안이 애정 하는 부산 찐 맛집은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

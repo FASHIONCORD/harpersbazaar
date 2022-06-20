@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 03:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1437,6 +1437,56 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/8c2f51a5-0f0c-4d50-8eaf-1efcb8211147.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올 여름, 베니스에서 꼭 봐야하는 전시 5 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67084</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67084</guid>
+            <pubDate>Mon, 20 Jun 2022 03:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f274542-b9fb-473b-9054-a2c6b2aa06e7.jpg');">
+                                <a href="/article/67084">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67084">
+                                        올 여름, 베니스에서 꼭 봐야하는 전시 5                                    </a>
+                                </em>
+                                <p class="excerpt">베니스 비엔날레 기간 동안 도시 곳곳에서 열리는 위성 전시도 결코 빼놓을 수 없다. 이 시기...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f274542-b9fb-473b-9054-a2c6b2aa06e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술의 도시 의정부에 가야 할 이유! #서울근교핫플 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67248</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67248</guid>
+            <pubDate>Fri, 17 Jun 2022 04:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg');">
+                                <a href="/article/67248">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67248">
+                                        예술의 도시 의정부에 가야 할 이유! #서울근교핫플                                     </a>
+                                </em>
+                                <p class="excerpt">음악도서관부터 미술도서관, 아트캠프까지. 문화 혜택이 가득한 의정부의 핫플레이스! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서인국, 박수무당 변신! <미남당> 오연서×곽시양 호흡 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67228</link>
             <guid>https://www.harpersbazaar.co.kr/article/67228</guid>
@@ -1491,17 +1541,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67083</link>
             <guid>https://www.harpersbazaar.co.kr/article/67083</guid>
             <pubDate>Thu, 16 Jun 2022 15:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/40496f1f-dc14-4a85-a091-abaa511465f8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/40496f1f-dc14-4a85-a091-abaa511465f8.jpg');">
                                 <a href="/article/67083">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67083">
@@ -1516,17 +1565,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67212</link>
             <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
             <pubDate>Wed, 15 Jun 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
                                 <a href="/article/67212">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67212">
@@ -1585,52 +1633,29 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/da682c65-a0a4-45ae-bf86-47c3e3f715df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아트 입문자를 위한 베니스 비엔날레 안내서 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67081</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67081</guid>
-            <pubDate>Wed, 15 Jun 2022 04:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/f7a2f217-904b-49cd-8dc0-db59374b22ca.jpg');">
-                                <a href="/article/67081">
+            <title><![CDATA[히토 슈타이얼 전시가 그렇게 핫하다고? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67090</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67090</guid>
+            <pubDate>Mon, 20 Jun 2022 03:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg');">
+                                <a href="/article/67090">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67081">
-                                        아트 입문자를 위한 베니스 비엔날레 안내서                                    </a>
-                                </em>
-                                <p class="excerpt">제59회 베니스 비엔날레가 &lt;꿈의 우유&gt;라는 주제로 문을 열었다. 여성주의와 초현실주의라는 키워...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/f7a2f217-904b-49cd-8dc0-db59374b22ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 여성 DJ 5인이 추천하는 여름 음악은? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67183</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67183</guid>
-            <pubDate>Tue, 14 Jun 2022 17:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917451b-7039-4a4d-a492-5fdce876e3ea.jpg');">
-                                <a href="/article/67183">
-                                    <img alt="" src="">
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
                                 </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/67183">
-                                        서울의 여성 DJ 5인이 추천하는 여름 음악은?                                     </a>
+                                    <a href="/article/67090">
+                                        히토 슈타이얼 전시가 그렇게 핫하다고?                                    </a>
                                 </em>
-                                <p class="excerpt">무더운 여름, CHILLING 하기 좋은 음악 모음.zip</p>
+                                <p class="excerpt">오늘날 가장 중요하고 영향력 있는 현대미술가 중 한 사람인 히토 슈타이얼(Hito Steyerl)의 ...</p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/c917451b-7039-4a4d-a492-5fdce876e3ea.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문구 덕후라면 이 책은 꼭 봐야한다! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67248</link>
             <guid>https://www.harpersbazaar.co.kr/article/67248</guid>
             <pubDate>Fri, 17 Jun 2022 04:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg');">
                                 <a href="/article/67248">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67248">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">17일 '격리 의무' 해제 여부가 결정된다 #이슈있슈</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/9fb89cb9-3cf7-4d07-aea7-21f077a6622d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67212</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
-            <pubDate>Wed, 15 Jun 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
-                                <a href="/article/67212">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67212">
-                                        채정안이 애정 하는 부산 찐 맛집은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버려지는 음식들 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
