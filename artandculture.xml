@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히토 슈타이얼 전시가 그렇게 핫하다고?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67090</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67090</guid>
+            <pubDate>Mon, 20 Jun 2022 07:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg');">
+                                <a href="/article/67090">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67090">
+                                        히토 슈타이얼 전시가 그렇게 핫하다고?                                    </a>
+                                </em>
+                                <p class="excerpt">오늘날 가장 중요하고 영향력 있는 현대미술가 중 한 사람인 히토 슈타이얼(Hito Steyerl)의 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 여름, 베니스에서 꼭 봐야하는 전시 5]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67084</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67221</link>
             <guid>https://www.harpersbazaar.co.kr/article/67221</guid>
             <pubDate>Fri, 17 Jun 2022 06:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg');">
                                 <a href="/article/67221">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67221">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">박훈정 표 '마녀 유니버스'에 탑승할 준비 되셨나요?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0890a90e-328d-46d7-9c73-a128e9c23d7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미친 연기력' 이병헌, <우블스> 배우들과 호흡한 전작들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67196</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67196</guid>
-            <pubDate>Wed, 15 Jun 2022 06:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/da682c65-a0a4-45ae-bf86-47c3e3f715df.jpg');">
-                                <a href="/article/67196">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67196">
-                                        '미친 연기력' 이병헌, &lt;우블스&gt; 배우들과 호흡한 전작들                                    </a>
-                                </em>
-                                <p class="excerpt">이병헌은 도무지 연기로 깔 수가 없구만🧄</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/da682c65-a0a4-45ae-bf86-47c3e3f715df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
