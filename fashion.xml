@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 11:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 13:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도 안 먹어 본 사람 있음? #초당옥수수 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67249</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67249</guid>
+            <pubDate>Mon, 20 Jun 2022 13:38:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/44eb7576-dbeb-4bc9-8694-a17735a93d23.jpg');">
+                                <a href="/article/67249">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67249">
+                                        아직도 안 먹어 본 사람 있음? #초당옥수수 레시피                                    </a>
+                                </em>
+                                <p class="excerpt">일반 옥수수보다 칼로리는 절반, 맛은 두 배! 초당 옥수수 더 맛있게 먹는 법! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/44eb7576-dbeb-4bc9-8694-a17735a93d23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[축구장 갈 때 뭐 입지? 설현, 배우 한지은, 소연의 직관 룩!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67243</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67212</link>
             <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
             <pubDate>Fri, 17 Jun 2022 11:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
                                 <a href="/article/67212">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67212">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">‘커리어 우먼'의 정석이라 불릴 오수재, 따라 입고 싶은 원피스부터 수트 셋업까지. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼭 알아야할 시계용어사전]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67012</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67012</guid>
-            <pubDate>Tue, 14 Jun 2022 16:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/67e98a84-87f1-4258-aa99-ecca05366098.jpg');">
-                                <a href="/article/67012">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67012">
-                                        꼭 알아야할 시계용어사전                                    </a>
-                                </em>
-                                <p class="excerpt">시계를 사는 건 보통 복잡한 쇼핑이 아니다. 때때로 사람들은 시계를 통해 시간이 아니라 그 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/67e98a84-87f1-4258-aa99-ecca05366098.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
