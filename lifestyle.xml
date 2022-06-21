@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 17:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 19:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에는 없는 신도시만의 느낌 #하남핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67348</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67348</guid>
+            <pubDate>Tue, 21 Jun 2022 19:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/1a870749-05f0-4bb1-a7f1-a6dfd664fd6e.jpg');">
+                                <a href="/article/67348">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67348">
+                                        서울에는 없는 신도시만의 느낌 #하남핫플                                    </a>
+                                </em>
+                                <p class="excerpt">이번 주말 나들이 가기 좋은 하남의 힙한 공간들. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/1a870749-05f0-4bb1-a7f1-a6dfd664fd6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덥다고 다이어트 식단 포기하기 있기?  #쿠스쿠스레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67347</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67319</link>
             <guid>https://www.harpersbazaar.co.kr/article/67319</guid>
             <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f24cf304-91d9-4e04-abb5-9d9e2994477c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f24cf304-91d9-4e04-abb5-9d9e2994477c.jpg');">
                                 <a href="/article/67319">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67319">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">홍제천 인근 거주민의 지도 앱 맛집 리스트를 털었다. 홍제천 따라 맛집 나들이.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/29295373-2918-46b6-98f3-c643ce1f1c59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 하반기 드라마 총정리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67276</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67276</guid>
-            <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c0a159d2-95e7-46b8-b0ea-b761a732b82f.jpg');">
-                                <a href="/article/67276">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67276">
-                                        2022 하반기 드라마 총정리                                    </a>
-                                </em>
-                                <p class="excerpt">남은 한 해, 어떤 드라마가 우리에게 〈그 해 우리는〉, 〈나의 해방일지〉, 〈스물다섯, 스물하...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c0a159d2-95e7-46b8-b0ea-b761a732b82f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
