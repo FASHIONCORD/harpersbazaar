@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 23:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 01:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WE ARE ONE, WINNER]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67218</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67218</guid>
+            <pubDate>Tue, 21 Jun 2022 01:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg');">
+                                <a href="/article/67218">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67218">
+                                        WE ARE ONE, WINNER                                    </a>
+                                </em>
+                                <p class="excerpt">완전체 컴백 앞둔, 위너(WINNER). 파워풀하고 존재감 넘치는 모습이 담긴 <harper’s bazaa...<="" p="">
+                            </harper’s></p></div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67212</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67138</link>
             <guid>https://www.harpersbazaar.co.kr/article/67138</guid>
             <pubDate>Wed, 15 Jun 2022 03:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/7b9dee58-7032-4394-9f0b-38cb47e274df.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/7b9dee58-7032-4394-9f0b-38cb47e274df.jpg');">
                                 <a href="/article/67138">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67138">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">제이홉의 외침 : Get ready to get crazyyyyyy!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/ca8ef612-ba2a-47f9-9e13-41a93e77ff4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군대간 멤버들을 그리며 온앤오프 '유'가 그린 형님들의 얼굴은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67025</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67025</guid>
-            <pubDate>Mon, 13 Jun 2022 07:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/8c2f51a5-0f0c-4d50-8eaf-1efcb8211147.jpg');">
-                                <a href="/article/67025">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67025">
-                                        군대간 멤버들을 그리며 온앤오프 '유'가 그린 형님들의 얼굴은?                                    </a>
-                                </em>
-                                <p class="excerpt">군대에서... 보고있나? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/8c2f51a5-0f0c-4d50-8eaf-1efcb8211147.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
