@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:32:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/0890a90e-328d-46d7-9c73-a128e9c23d7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[숲멍하기 좋은 서울 도심 속 숲카페 2 #주말엔뉴플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67342</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67342</guid>
+            <pubDate>Tue, 21 Jun 2022 08:31:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/331906ab-2289-42bd-bccc-42a8acbb075a.jpg');">
+                                <a href="/article/67342">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67342">
+                                        숲멍하기 좋은 서울 도심 속 숲카페 2 #주말엔뉴플                                    </a>
+                                </em>
+                                <p class="excerpt">비가 오나 눈이 오나 자연 속에서 커피 한 잔 즐기는 방법은? </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/331906ab-2289-42bd-bccc-42a8acbb075a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[환경스페셜 PD가 말하는 내 옷장에서 지구 지키는 법은? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67338</link>
             <guid>https://www.harpersbazaar.co.kr/article/67338</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67287</link>
             <guid>https://www.harpersbazaar.co.kr/article/67287</guid>
             <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg');">
                                 <a href="/article/67287">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67287">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">오늘날 가장 중요하고 영향력 있는 현대미술가 중 한 사람인 히토 슈타이얼(Hito Steyerl)의 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문구 덕후라면 이 책은 꼭 봐야한다! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67088</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67088</guid>
-            <pubDate>Fri, 17 Jun 2022 16:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/38e25a08-517c-4149-b34e-fa7211abe1b9.jpg');">
-                                <a href="/article/67088">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67088">
-                                        문구 덕후라면 이 책은 꼭 봐야한다!                                    </a>
-                                </em>
-                                <p class="excerpt">태국에서 그래픽 디자이너이자 블로거로 활동하고 있는 이현경은 문구에 진심인 덕후 ‘문덕’이다...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/38e25a08-517c-4149-b34e-fa7211abe1b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버려지는 음식들 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
