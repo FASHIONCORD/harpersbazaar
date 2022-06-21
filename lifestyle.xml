@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 15:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 16:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덥다고 다이어트 식단 포기하기 있기?  #쿠스쿠스레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67347</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67347</guid>
+            <pubDate>Tue, 21 Jun 2022 16:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e13f0a85-e10f-4c35-8b8e-f1334b31ac5d.jpg');">
+                                <a href="/article/67347">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67347">
+                                        덥다고 다이어트 식단 포기하기 있기?  #쿠스쿠스레시피                                    </a>
+                                </em>
+                                <p class="excerpt">뜨거운 물만 부으면 알아서 익는다. 간편하고 맛있는 쿠스쿠스 요리! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e13f0a85-e10f-4c35-8b8e-f1334b31ac5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숲멍하기 좋은 서울 도심 속 숲카페 2 #주말엔뉴플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67342</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67114</link>
             <guid>https://www.harpersbazaar.co.kr/article/67114</guid>
             <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/dba42c71-78ce-4d7e-b492-c58b0a92c5d3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/dba42c71-78ce-4d7e-b492-c58b0a92c5d3.jpg');">
                                 <a href="/article/67114">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67114">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">남은 한 해, 어떤 드라마가 우리에게 〈그 해 우리는〉, 〈나의 해방일지〉, 〈스물다섯, 스물하...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c0a159d2-95e7-46b8-b0ea-b761a732b82f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히토 슈타이얼 전시가 그렇게 핫하다고?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67090</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67090</guid>
-            <pubDate>Mon, 20 Jun 2022 03:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg');">
-                                <a href="/article/67090">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67090">
-                                        히토 슈타이얼 전시가 그렇게 핫하다고?                                    </a>
-                                </em>
-                                <p class="excerpt">오늘날 가장 중요하고 영향력 있는 현대미술가 중 한 사람인 히토 슈타이얼(Hito Steyerl)의 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
