@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 09:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 10:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조승우, 변호사 변신! <신성한 이혼> 출연 확정]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67275</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67275</guid>
+            <pubDate>Wed, 22 Jun 2022 10:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/63b440c3-1fcf-4c54-8ece-726a2bb91940.jpg');">
+                                <a href="/article/67275">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67275">
+                                        조승우, 변호사 변신! &lt;신성한 이혼&gt; 출연 확정                                    </a>
+                                </em>
+                                <p class="excerpt">무슨 배역을 맡아도 찰떡! 조승우가 '조승우' 하겠지👑</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/63b440c3-1fcf-4c54-8ece-726a2bb91940.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['뉴이스트 활동 종료' 황민현, <환혼>으로 배우 컴백]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67271</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67248</link>
             <guid>https://www.harpersbazaar.co.kr/article/67248</guid>
             <pubDate>Mon, 20 Jun 2022 03:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/c967f246-77a0-47bb-a54f-397a3a47488e.jpg');">
                                 <a href="/article/67248">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67248">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">베니스 비엔날레가 ‘미술 올림픽’으로 불리는 이유는 국가별로 독립된 전시공간인 국가관을 운영...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/40496f1f-dc14-4a85-a091-abaa511465f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67212</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
-            <pubDate>Wed, 15 Jun 2022 15:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
-                                <a href="/article/67212">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67212">
-                                        채정안이 애정 하는 부산 찐 맛집은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

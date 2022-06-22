@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 09:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 10:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름을 책임질 플랫폼&웨지 힐 9]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67116</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67116</guid>
+            <pubDate>Wed, 22 Jun 2022 10:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/c7167b94-dfb5-4e57-9a1b-7cf8e7685f23.jpg');">
+                                <a href="/article/67116">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67116">
+                                        올여름을 책임질 플랫폼&amp;웨지 힐 9                                    </a>
+                                </em>
+                                <p class="excerpt">휴양지와 도심을 넘나드는 다채로운 플랫폼 &amp; 웨지 힐.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/19/c7167b94-dfb5-4e57-9a1b-7cf8e7685f23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예쁜 옷 옆에 예쁜 옷. '텅장' 부르는 아모멘토 신상룩 구경하기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67293</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67224</link>
             <guid>https://www.harpersbazaar.co.kr/article/67224</guid>
             <pubDate>Sun, 19 Jun 2022 16:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2dd16ee1-37b6-44f8-8804-28d2e6c3c66c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2dd16ee1-37b6-44f8-8804-28d2e6c3c66c.jpg');">
                                 <a href="/article/67224">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67224">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">예리, 장원영, 한효주의 핑크 팬츠 스타일링 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/25c6aad2-fac8-45a8-9208-35f6ea840f11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화이트 탱크톱을 입자]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67079</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67079</guid>
-            <pubDate>Wed, 15 Jun 2022 10:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/477c8714-c57b-4a25-ae77-60e222c85f92.jpg');">
-                                <a href="/article/67079">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67079">
-                                        화이트 탱크톱을 입자                                    </a>
-                                </em>
-                                <p class="excerpt">겸손한 화이트 탱크톱이 독보적인 존재감으로 2022 F/W 시즌의 중심에 우뚝 섰다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/477c8714-c57b-4a25-ae77-60e222c85f92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 09:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 10:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사이더가 되고 싶다면 다녀오세요 #팝업스토어]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67349</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67349</guid>
+            <pubDate>Wed, 22 Jun 2022 10:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/d2914a7a-a9c0-4b34-aa1c-a04563141939.jpg');">
+                                <a href="/article/67349">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67349">
+                                        인사이더가 되고 싶다면 다녀오세요 #팝업스토어                                      </a>
+                                </em>
+                                <p class="excerpt">독특한 콘셉트로 핫한 인기를 얻고 있는 요즘 팝업 스토어들. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/d2914a7a-a9c0-4b34-aa1c-a04563141939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에는 없는 신도시만의 느낌 #하남핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67348</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67338</link>
             <guid>https://www.harpersbazaar.co.kr/article/67338</guid>
             <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/50c92287-12fb-4eac-9452-b229512f792f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/50c92287-12fb-4eac-9452-b229512f792f.jpg');">
                                 <a href="/article/67338">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67338">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지구와 미래의 우리를 위해 숙지해야 할 친환경 여행 가이드를 소개한다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#연희동 #성산동 맛집 사이엔 홍제천이 흐른다.]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67278</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67278</guid>
-            <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/29295373-2918-46b6-98f3-c643ce1f1c59.jpg');">
-                                <a href="/article/67278">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67278">
-                                        #연희동 #성산동 맛집 사이엔 홍제천이 흐른다.                                    </a>
-                                </em>
-                                <p class="excerpt">홍제천 인근 거주민의 지도 앱 맛집 리스트를 털었다. 홍제천 따라 맛집 나들이.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/29295373-2918-46b6-98f3-c643ce1f1c59.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
