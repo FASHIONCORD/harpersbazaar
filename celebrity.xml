@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 01:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS, 개별활동 본격화.. "첫 주자=제이홉"]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67221</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67221</guid>
+            <pubDate>Wed, 22 Jun 2022 01:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg');">
+                                <a href="/article/67221">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67221">
+                                        BTS, 개별활동 본격화.. "첫 주자=제이홉"                                    </a>
+                                </em>
+                                <p class="excerpt">방탄소년단 가는 길, 아미가 항상 응원합니다💜</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WE ARE ONE, WINNER]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67218</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67178</link>
             <guid>https://www.harpersbazaar.co.kr/article/67178</guid>
             <pubDate>Wed, 15 Jun 2022 10:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg');">
                                 <a href="/article/67178">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67178">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한예리가 결혼식을 과감하게 생략한 이유는..</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/1e52abdf-a335-4ca1-b9f7-155a147a37c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["미쳐보자고~" BTS 제이홉, '롤라팔루자' 헤드라이너 출격]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67052</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67052</guid>
-            <pubDate>Mon, 13 Jun 2022 08:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/ca8ef612-ba2a-47f9-9e13-41a93e77ff4a.jpg');">
-                                <a href="/article/67052">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67052">
-                                        "미쳐보자고~" BTS 제이홉, '롤라팔루자' 헤드라이너 출격                                    </a>
-                                </em>
-                                <p class="excerpt">제이홉의 외침 : Get ready to get crazyyyyyy!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/ca8ef612-ba2a-47f9-9e13-41a93e77ff4a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
