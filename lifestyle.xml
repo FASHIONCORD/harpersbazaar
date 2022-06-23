@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 10:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 11:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SNS에서 유행인 손뜨개 개구리 만들기]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67372</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67372</guid>
+            <pubDate>Thu, 23 Jun 2022 11:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/10905f28-3054-474a-951f-8ffaf624ea0f.jpg');">
+                                <a href="/article/67372">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67372">
+                                        SNS에서 유행인 손뜨개 개구리 만들기                                    </a>
+                                </em>
+                                <p class="excerpt">내 손으로 만드는 동물 친구!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/10905f28-3054-474a-951f-8ffaf624ea0f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퇴근 후 혼술 하기 좋은 심야 공간들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67350</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67347</link>
             <guid>https://www.harpersbazaar.co.kr/article/67347</guid>
             <pubDate>Tue, 21 Jun 2022 16:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e13f0a85-e10f-4c35-8b8e-f1334b31ac5d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e13f0a85-e10f-4c35-8b8e-f1334b31ac5d.jpg');">
                                 <a href="/article/67347">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67347">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">‘도리토스’와 ‘새우깡’, ‘알새우칩’의 변신은 무죄! 여름밤 술을 부르는 백종원표 과자 안주...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f24cf304-91d9-4e04-abb5-9d9e2994477c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저주토끼 신드롬, 부커상이 뭐길래?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67114</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67114</guid>
-            <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/dba42c71-78ce-4d7e-b492-c58b0a92c5d3.jpg');">
-                                <a href="/article/67114">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67114">
-                                        저주토끼 신드롬, 부커상이 뭐길래?                                    </a>
-                                </em>
-                                <p class="excerpt">이달 &lt;바자&gt;가 서점에 깔릴 즈음이면 영국의 문학상인 더 인터내셔널 부커 프라이즈 수상작이 발...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/dba42c71-78ce-4d7e-b492-c58b0a92c5d3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
