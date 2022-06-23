@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 17:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 18:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린아이와 같은 새로움으로, 던의 화보 공개]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67383</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67383</guid>
+            <pubDate>Thu, 23 Jun 2022 18:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/3c3ba95c-3f84-484d-91c6-2e9ae3a86c7d.jpg');">
+                                <a href="/article/67383">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67383">
+                                        어린아이와 같은 새로움으로, 던의 화보 공개                                    </a>
+                                </em>
+                                <p class="excerpt">새 싱글 'Stupid Cool'로 돌아온 던과 바자의 만남</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/3c3ba95c-3f84-484d-91c6-2e9ae3a86c7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전종서의 눈빛이 말하는 연기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67356</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67243</link>
             <guid>https://www.harpersbazaar.co.kr/article/67243</guid>
             <pubDate>Wed, 22 Jun 2022 10:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/866aab8f-3fca-4079-ae58-8155a988e412.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/866aab8f-3fca-4079-ae58-8155a988e412.jpg');">
                                 <a href="/article/67243">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67243">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<왜 오수재인가> 속 서현진 오피스룩 어디거?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67182</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67182</guid>
-            <pubDate>Thu, 16 Jun 2022 03:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg');">
-                                <a href="/article/67182">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67182">
-                                         &lt;왜 오수재인가&gt; 속 서현진 오피스룩 어디거?                                    </a>
-                                </em>
-                                <p class="excerpt">‘커리어 우먼'의 정석이라 불릴 오수재, 따라 입고 싶은 원피스부터 수트 셋업까지. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
