@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 12:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CONSTELLATION]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67120</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67120</guid>
+            <pubDate>Thu, 23 Jun 2022 12:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/47f08d9c-606c-40c4-8e3b-15f8aa2d94ba.jpg');">
+                                <a href="/article/67120">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67120">
+                                        CONSTELLATION                                    </a>
+                                </em>
+                                <p class="excerpt">오메가 여성 워치 메이킹의 오랜 역사를 대변하는 보석 같은 존재들을 소개한다.  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/47f08d9c-606c-40c4-8e3b-15f8aa2d94ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올여름을 책임질 플랫폼&웨지 힐 9]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67116</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67243</link>
             <guid>https://www.harpersbazaar.co.kr/article/67243</guid>
             <pubDate>Sun, 19 Jun 2022 16:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/866aab8f-3fca-4079-ae58-8155a988e412.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/866aab8f-3fca-4079-ae58-8155a988e412.jpg');">
                                 <a href="/article/67243">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67243">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들이 핑크 팬츠를 쿨하게 입는 법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67209</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67209</guid>
-            <pubDate>Wed, 15 Jun 2022 12:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/25c6aad2-fac8-45a8-9208-35f6ea840f11.jpg');">
-                                <a href="/article/67209">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67209">
-                                        셀럽들이 핑크 팬츠를 쿨하게 입는 법                                    </a>
-                                </em>
-                                <p class="excerpt">예리, 장원영, 한효주의 핑크 팬츠 스타일링 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/25c6aad2-fac8-45a8-9208-35f6ea840f11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

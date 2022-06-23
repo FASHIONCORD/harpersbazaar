@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 12:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전종서의 눈빛이 말하는 연기]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67356</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67356</guid>
+            <pubDate>Thu, 23 Jun 2022 12:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e3497481-2a07-4612-ac7b-d5737ee00830.jpg');">
+                                <a href="/article/67356">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67356">
+                                        전종서의 눈빛이 말하는 연기                                    </a>
+                                </em>
+                                <p class="excerpt">넷플릭스 &lt;종이의 집&gt;으로 돌아온 전종서와 바자의 화보 공개</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e3497481-2a07-4612-ac7b-d5737ee00830.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이것’만 있으면 블랙핑크 로제 스타일 완성?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67283</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67221</link>
             <guid>https://www.harpersbazaar.co.kr/article/67221</guid>
             <pubDate>Wed, 22 Jun 2022 01:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg');">
                                 <a href="/article/67221">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67221">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">‘커리어 우먼'의 정석이라 불릴 오수재, 따라 입고 싶은 원피스부터 수트 셋업까지. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['HOT'! 세븐틴 정한, 조슈아의 감성 사진 맛집 스폿 2 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67178</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67178</guid>
-            <pubDate>Wed, 15 Jun 2022 10:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg');">
-                                <a href="/article/67178">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67178">
-                                        'HOT'! 세븐틴 정한, 조슈아의 감성 사진 맛집 스폿 2 #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">사진 맛집? 커피도 맛집! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

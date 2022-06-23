@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 12:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자꾸 생각나는 슴슴한 맛, 전국 평양냉면 맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67380</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67380</guid>
+            <pubDate>Thu, 23 Jun 2022 12:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/54bc60a7-1a4a-4623-8cc1-8b8361516a3e.jpg');">
+                                <a href="/article/67380">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67380">
+                                        자꾸 생각나는 슴슴한 맛, 전국 평양냉면 맛집                                    </a>
+                                </em>
+                                <p class="excerpt">올여름 피서는 평냉집으로?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/54bc60a7-1a4a-4623-8cc1-8b8361516a3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SNS에서 유행인 손뜨개 개구리 만들기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67372</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67348</link>
             <guid>https://www.harpersbazaar.co.kr/article/67348</guid>
             <pubDate>Tue, 21 Jun 2022 19:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/1a870749-05f0-4bb1-a7f1-a6dfd664fd6e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/1a870749-05f0-4bb1-a7f1-a6dfd664fd6e.jpg');">
                                 <a href="/article/67348">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67348">
@@ -178,30 +202,6 @@
                                 <p class="excerpt"></p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/50c92287-12fb-4eac-9452-b229512f792f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초간단 과자 안주 레시피 #백종원레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67319</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67319</guid>
-            <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f24cf304-91d9-4e04-abb5-9d9e2994477c.jpg');">
-                                <a href="/article/67319">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67319">
-                                        초간단 과자 안주 레시피 #백종원레시피                                    </a>
-                                </em>
-                                <p class="excerpt">‘도리토스’와 ‘새우깡’, ‘알새우칩’의 변신은 무죄! 여름밤 술을 부르는 백종원표 과자 안주...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f24cf304-91d9-4e04-abb5-9d9e2994477c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
