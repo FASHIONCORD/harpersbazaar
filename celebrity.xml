@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 23:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔믹스의 거침없는 질주]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67254</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67254</guid>
+            <pubDate>Thu, 23 Jun 2022 01:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/e75e18b0-8a92-42b1-a8bc-fd98c9ed98c7.jpg');">
+                                <a href="/article/67254">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67254">
+                                        엔믹스의 거침없는 질주                                    </a>
+                                </em>
+                                <p class="excerpt">하퍼스 바자 7월호, 커버걸 엔믹스</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/e75e18b0-8a92-42b1-a8bc-fd98c9ed98c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[축구장 갈 때 뭐 입지? 설현, 배우 한지은, 소연의 직관 룩!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67243</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67212</link>
             <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
             <pubDate>Fri, 17 Jun 2022 07:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
                                 <a href="/article/67212">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67212">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">제니도 이렇게 부지런히 관리한다! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/7b9dee58-7032-4394-9f0b-38cb47e274df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈뜻밖의 여정〉 속 #윤여정어록]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67134</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67134</guid>
-            <pubDate>Wed, 15 Jun 2022 01:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg');">
-                                <a href="/article/67134">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67134">
-                                        〈뜻밖의 여정〉 속 #윤여정어록                                    </a>
-                                </em>
-                                <p class="excerpt">인생을 살아가는 데 도움이 되는, 윤여정과 윤여정의 친구들이 남긴 명언들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
