@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 10:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퇴근 후 혼술 하기 좋은 심야 공간들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67350</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67350</guid>
+            <pubDate>Thu, 23 Jun 2022 10:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/863f558b-0738-4db0-947d-0bd5f017e8fc.jpg');">
+                                <a href="/article/67350">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67350">
+                                        퇴근 후 혼술 하기 좋은 심야 공간들                                    </a>
+                                </em>
+                                <p class="excerpt">오후 느즈막히 영업을 시작해서 새벽까지 문을 열어둔다. 혼술하기 좋은 심야 공간들.  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/863f558b-0738-4db0-947d-0bd5f017e8fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인사이더가 되고 싶다면 다녀오세요 #팝업스토어]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67349</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67342</link>
             <guid>https://www.harpersbazaar.co.kr/article/67342</guid>
             <pubDate>Tue, 21 Jun 2022 08:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/331906ab-2289-42bd-bccc-42a8acbb075a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/331906ab-2289-42bd-bccc-42a8acbb075a.jpg');">
                                 <a href="/article/67342">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67342">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이달 &lt;바자&gt;가 서점에 깔릴 즈음이면 영국의 문학상인 더 인터내셔널 부커 프라이즈 수상작이 발...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/dba42c71-78ce-4d7e-b492-c58b0a92c5d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 여행은 지속가능한가요?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67287</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67287</guid>
-            <pubDate>Mon, 20 Jun 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg');">
-                                <a href="/article/67287">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67287">
-                                        당신의 여행은 지속가능한가요?                                    </a>
-                                </em>
-                                <p class="excerpt">지구와 미래의 우리를 위해 숙지해야 할 친환경 여행 가이드를 소개한다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

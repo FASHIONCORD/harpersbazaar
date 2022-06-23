@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 08:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 10:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이것’만 있으면 블랙핑크 로제 스타일 완성?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67283</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67283</guid>
+            <pubDate>Thu, 23 Jun 2022 10:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/54089bf4-a696-485b-89f3-ae19fb65e6af.jpg');">
+                                <a href="/article/67283">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67283">
+                                        ‘이것’만 있으면 블랙핑크 로제 스타일 완성?                                     </a>
+                                </em>
+                                <p class="excerpt"> 화보 촬영, 해외 일정 등 바쁜 스케줄에 항상 가지고 다니는 데일리 아이템은 무엇? </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/54089bf4-a696-485b-89f3-ae19fb65e6af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔믹스의 거침없는 질주]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67254</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67218</link>
             <guid>https://www.harpersbazaar.co.kr/article/67218</guid>
             <pubDate>Tue, 21 Jun 2022 01:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg');">
                                 <a href="/article/67218">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67218">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">사진 맛집? 커피도 맛집! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘손민수’ 각! 제니가 브이로그에서 밝힌 셀프 케어템은 무엇?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67138</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67138</guid>
-            <pubDate>Wed, 15 Jun 2022 03:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/7b9dee58-7032-4394-9f0b-38cb47e274df.jpg');">
-                                <a href="/article/67138">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67138">
-                                        ‘손민수’ 각! 제니가 브이로그에서 밝힌 셀프 케어템은 무엇?                                     </a>
-                                </em>
-                                <p class="excerpt">제니도 이렇게 부지런히 관리한다! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/7b9dee58-7032-4394-9f0b-38cb47e274df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
