@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 04:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 05:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번엔 눈썹 펌이다! 요즘엔 이런 눈썹이 대세]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67061</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67061</guid>
+            <pubDate>Fri, 24 Jun 2022 05:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/ee206e1e-aa1d-409c-83a7-a3c65ec62be5.jpg');">
+                                <a href="/article/67061">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67061">
+                                        이번엔 눈썹 펌이다! 요즘엔 이런 눈썹이 대세                                    </a>
+                                </em>
+                                <p class="excerpt">숱이 많고 까만 눈썹이 미인의 조건이라는 건 이제 ‘라떼’ 발언이다. 아주 얇게 다듬거나 아...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/ee206e1e-aa1d-409c-83a7-a3c65ec62be5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음껏 퍼가세요! 남자 네일 시안을 드립니다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67019</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66944</link>
             <guid>https://www.harpersbazaar.co.kr/article/66944</guid>
             <pubDate>Wed, 15 Jun 2022 10:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/7bb851e9-624b-4721-8fe8-b3ffa4066b71.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/7bb851e9-624b-4721-8fe8-b3ffa4066b71.jpg');">
                                 <a href="/article/66944">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66944">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">장미 향의 대표 주자인 미스 디올에서 첫 번째 빈티지 향수를 선보인다. 2021년에 수확한 그라...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/dcc9cd09-1fff-4d9f-a2b5-3d68c51040c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 여름에 주목해야 할 헤어 트렌드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66762</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66762</guid>
-            <pubDate>Fri, 10 Jun 2022 11:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/1148da64-a187-4483-9b33-6e160fda17e8.jpg');">
-                                <a href="/article/66762">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66762">
-                                        2022 여름에 주목해야 할 헤어 트렌드                                    </a>
-                                </em>
-                                <p class="excerpt">트렌드를 전달하는 건 과정일 뿐. 자신에게 맞는 스타일로 재해석해 적용하는 것은 스스로의 몫...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/1148da64-a187-4483-9b33-6e160fda17e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
