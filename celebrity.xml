@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[18살 천재 피아니스트 임윤찬은 누구?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67409</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67409</guid>
+            <pubDate>Fri, 24 Jun 2022 06:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg');">
+                                <a href="/article/67409">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67409">
+                                        18살 천재 피아니스트 임윤찬은 누구?                                    </a>
+                                </em>
+                                <p class="excerpt">임동혁, 조성진에 이어 천재 피아니스트의 계보를 이어갈 열여덟 소년, 임윤찬! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린아이와 같은 새로움으로, 던의 화보 공개]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67383</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67254</link>
             <guid>https://www.harpersbazaar.co.kr/article/67254</guid>
             <pubDate>Thu, 23 Jun 2022 01:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/e75e18b0-8a92-42b1-a8bc-fd98c9ed98c7.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/e75e18b0-8a92-42b1-a8bc-fd98c9ed98c7.jpg');">
                                 <a href="/article/67254">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67254">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">완전체 컴백 앞둔, 위너(WINNER). 파워풀하고 존재감 넘치는 모습이 담긴 <harper’s bazaa...<="" p="">
                             </harper’s></p></div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67212</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
-            <pubDate>Fri, 17 Jun 2022 07:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
-                                <a href="/article/67212">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67212">
-                                        채정안이 애정 하는 부산 찐 맛집은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
