@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 13:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 14:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서현진이 만들어내는 미지의 세계]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67413</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67413</guid>
+            <pubDate>Fri, 24 Jun 2022 14:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/074edead-0baa-4e77-b184-3062dc47c50d.jpg');">
+                                <a href="/article/67413">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67413">
+                                        서현진이 만들어내는 미지의 세계                                    </a>
+                                </em>
+                                <p class="excerpt">'믿고 보는 배우'로 자리잡으며 다양한 배역을 소화해내는 서현진, 그녀와 바자의 만남.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/074edead-0baa-4e77-b184-3062dc47c50d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[18살 천재 피아니스트 임윤찬은 누구?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67409</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67283</link>
             <guid>https://www.harpersbazaar.co.kr/article/67283</guid>
             <pubDate>Thu, 23 Jun 2022 10:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/54089bf4-a696-485b-89f3-ae19fb65e6af.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/54089bf4-a696-485b-89f3-ae19fb65e6af.jpg');">
                                 <a href="/article/67283">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67283">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">방탄소년단 가는 길, 아미가 항상 응원합니다💜</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WE ARE ONE, WINNER]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67218</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67218</guid>
-            <pubDate>Tue, 21 Jun 2022 01:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg');">
-                                <a href="/article/67218">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67218">
-                                        WE ARE ONE, WINNER                                    </a>
-                                </em>
-                                <p class="excerpt">완전체 컴백 앞둔, 위너(WINNER). 파워풀하고 존재감 넘치는 모습이 담긴 <harper’s bazaa...<="" p="">
-                            </harper’s></p></div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
