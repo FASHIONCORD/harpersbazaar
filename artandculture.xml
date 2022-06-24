@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 12:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 13:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[18살 천재 피아니스트 임윤찬은 누구?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67409</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67409</guid>
+            <pubDate>Fri, 24 Jun 2022 13:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg');">
+                                <a href="/article/67409">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67409">
+                                        18살 천재 피아니스트 임윤찬은 누구?                                    </a>
+                                </em>
+                                <p class="excerpt">임동혁, 조성진에 이어 천재 피아니스트의 계보를 이어갈 열여덟 소년, 임윤찬! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김태리·류준열·김우빈→소지섭·염정아... '안 볼 수가 없네!']]></title>
             <link>https://www.harpersbazaar.co.kr/article/67389</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67309</link>
             <guid>https://www.harpersbazaar.co.kr/article/67309</guid>
             <pubDate>Thu, 23 Jun 2022 03:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e5ab1e4a-4cb6-4c83-8c4f-f0833cb35505.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e5ab1e4a-4cb6-4c83-8c4f-f0833cb35505.jpg');">
                                 <a href="/article/67309">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67309">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">오늘날 가장 중요하고 영향력 있는 현대미술가 중 한 사람인 히토 슈타이얼(Hito Steyerl)의 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름, 베니스에서 꼭 봐야하는 전시 5]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67084</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67084</guid>
-            <pubDate>Mon, 20 Jun 2022 03:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f274542-b9fb-473b-9054-a2c6b2aa06e7.jpg');">
-                                <a href="/article/67084">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67084">
-                                        올 여름, 베니스에서 꼭 봐야하는 전시 5                                    </a>
-                                </em>
-                                <p class="excerpt">베니스 비엔날레 기간 동안 도시 곳곳에서 열리는 위성 전시도 결코 빼놓을 수 없다. 이 시기...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/3f274542-b9fb-473b-9054-a2c6b2aa06e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
