@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 01:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:33:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<안나>로 흑화된 수지에 빠질 시간]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67417</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67417</guid>
+            <pubDate>Sat, 25 Jun 2022 03:32:37 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e99569df-1de3-48b7-9f85-a80e143a75b3.jpg');">
+                                <a href="/article/67417">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67417">
+                                        &lt;안나&gt;로 흑화된 수지에 빠질 시간                                    </a>
+                                </em>
+                                <p class="excerpt">수지, 쿠팡플레이 시리즈 &lt;안나&gt;로 강렬한 변신!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e99569df-1de3-48b7-9f85-a80e143a75b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[18살 천재 피아니스트 임윤찬은 누구?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67409</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67314</link>
             <guid>https://www.harpersbazaar.co.kr/article/67314</guid>
             <pubDate>Thu, 23 Jun 2022 06:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/fad12233-45c6-4e1e-95cf-841c65f944f2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/fad12233-45c6-4e1e-95cf-841c65f944f2.jpg');">
                                 <a href="/article/67314">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67314">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">'서율' 역, 황민현의 홀로서기를 응원해요🎊</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/a91ced4e-a37a-44b9-90ac-f0784b51b023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히토 슈타이얼 전시가 그렇게 핫하다고?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67090</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67090</guid>
-            <pubDate>Mon, 20 Jun 2022 07:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg');">
-                                <a href="/article/67090">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67090">
-                                        히토 슈타이얼 전시가 그렇게 핫하다고?                                    </a>
-                                </em>
-                                <p class="excerpt">오늘날 가장 중요하고 영향력 있는 현대미술가 중 한 사람인 히토 슈타이얼(Hito Steyerl)의 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/133514a6-a5b6-48dc-895d-38c012590043.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
