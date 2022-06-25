@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 17:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 18:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현대 패션 사진의 흐름을 이해하다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67420</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67420</guid>
+            <pubDate>Sat, 25 Jun 2022 18:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/dfba9484-aee8-4a01-871c-2950dfd864e7.jpg');">
+                                <a href="/article/67420">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67420">
+                                        현대 패션 사진의 흐름을 이해하다                                     </a>
+                                </em>
+                                <p class="excerpt">핫한 포토그래퍼는 여기 다 모였다! 패션 사진작가 48인의 국내 최초 대규모 기획전.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/dfba9484-aee8-4a01-871c-2950dfd864e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<안나>로 흑화된 수지에 빠질 시간]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67417</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67331</link>
             <guid>https://www.harpersbazaar.co.kr/article/67331</guid>
             <pubDate>Thu, 23 Jun 2022 07:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/87113544-575c-4233-afb8-7faf7af498bc.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/87113544-575c-4233-afb8-7faf7af498bc.jpg');">
                                 <a href="/article/67331">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67331">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">무슨 배역을 맡아도 찰떡! 조승우가 '조승우' 하겠지👑</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/63b440c3-1fcf-4c54-8ece-726a2bb91940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴이스트 활동 종료' 황민현, <환혼>으로 배우 컴백]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67271</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67271</guid>
-            <pubDate>Wed, 22 Jun 2022 03:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/a91ced4e-a37a-44b9-90ac-f0784b51b023.jpg');">
-                                <a href="/article/67271">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67271">
-                                        '뉴이스트 활동 종료' 황민현, &lt;환혼&gt;으로 배우 컴백                                    </a>
-                                </em>
-                                <p class="excerpt">'서율' 역, 황민현의 홀로서기를 응원해요🎊</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/a91ced4e-a37a-44b9-90ac-f0784b51b023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
