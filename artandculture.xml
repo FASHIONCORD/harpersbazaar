@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 16:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 17:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트리밍으로는 절대 느낄 수 없는 즐거움! LP 레코드 숍]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67429</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67429</guid>
+            <pubDate>Sun, 26 Jun 2022 17:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg');">
+                                <a href="/article/67429">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67429">
+                                        스트리밍으로는 절대 느낄 수 없는 즐거움! LP 레코드 숍                                     </a>
+                                </em>
+                                <p class="excerpt">한번 빠지면 출구 없는 개미 지옥! LP 레코드 숍.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리×이찬혁부터 비아이×츄까지.. ★콜라보]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67421</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67409</link>
             <guid>https://www.harpersbazaar.co.kr/article/67409</guid>
             <pubDate>Fri, 24 Jun 2022 13:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg');">
                                 <a href="/article/67409">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67409">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;범죄도시2&gt;, &lt;마녀2&gt; 이어 이번에는 &lt;독전2&gt; 온다</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/fad12233-45c6-4e1e-95cf-841c65f944f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<환혼>, 특별출연에도 시선강탈한 그녀는 누구?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67309</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67309</guid>
-            <pubDate>Thu, 23 Jun 2022 03:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e5ab1e4a-4cb6-4c83-8c4f-f0833cb35505.jpg');">
-                                <a href="/article/67309">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67309">
-                                        &lt;환혼&gt;, 특별출연에도 시선강탈한 그녀는 누구?                                    </a>
-                                </em>
-                                <p class="excerpt">미모가 대폭발한 '낙수' 역 고윤정.. 시청자 관심↑</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/e5ab1e4a-4cb6-4c83-8c4f-f0833cb35505.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
