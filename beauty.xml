@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 06:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 07:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카리스마 여배우 진서연의 -28kg 다이어트법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67423</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67423</guid>
+            <pubDate>Mon, 27 Jun 2022 07:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff00f1fe-505a-40c8-b8c2-710d8b1ee972.jpg');">
+                                <a href="/article/67423">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67423">
+                                        카리스마 여배우 진서연의 -28kg 다이어트법                                    </a>
+                                </em>
+                                <p class="excerpt">78kg에서 50kg까지? 이건 찐이야.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff00f1fe-505a-40c8-b8c2-710d8b1ee972.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일주일만에 3kg 감량, 해쭈의 건강한 다이어트 브이로그]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67285</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67061</link>
             <guid>https://www.harpersbazaar.co.kr/article/67061</guid>
             <pubDate>Fri, 24 Jun 2022 05:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/ee206e1e-aa1d-409c-83a7-a3c65ec62be5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/ee206e1e-aa1d-409c-83a7-a3c65ec62be5.jpg');">
                                 <a href="/article/67061">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67061">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">365일 다이어트하는 뷰티 유튜버의 식단 추천</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/37cf2a01-d694-4532-95e5-a23f248099af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1시간 만에 몸짱 되는 보디 시술]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66944</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66944</guid>
-            <pubDate>Wed, 15 Jun 2022 10:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/7bb851e9-624b-4721-8fe8-b3ffa4066b71.jpg');">
-                                <a href="/article/66944">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66944">
-                                        1시간 만에 몸짱 되는 보디 시술                                    </a>
-                                </em>
-                                <p class="excerpt">옷차림이 가벼워질수록 보디라인이 존재감을 드러낸다. 다이어트와 운동만으론 부족한 2%를 채워주...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/7bb851e9-624b-4721-8fe8-b3ffa4066b71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
