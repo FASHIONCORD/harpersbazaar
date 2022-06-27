@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 11:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 12:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1241,6 +1241,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/2e6d09e9-2db7-4afb-a8bf-2783bc2bc72c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지금 가장 트렌디한 소파 슈크르 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67437</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67437</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg');">
+                                <a href="/article/67437">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67437">
+                                        지금 가장 트렌디한 소파 슈크르                                    </a>
+                                </em>
+                                <p class="excerpt">이찬혁과 임재린의 세이투셰와 소파 전문 브랜드 자코모와의 협업으로 먹고 싶고 보고 싶고 갖고...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남산타워 최고의 뷰를 자랑하는 헤어몬의 70평대 집 대공개! (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67477</link>
             <guid>https://www.harpersbazaar.co.kr/article/67477</guid>
@@ -1320,17 +1345,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67428</link>
             <guid>https://www.harpersbazaar.co.kr/article/67428</guid>
             <pubDate>Mon, 27 Jun 2022 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/66655ad8-fc85-43fa-9a44-3fe3f3bb7e21.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/66655ad8-fc85-43fa-9a44-3fe3f3bb7e21.jpg');">
                                 <a href="/article/67428">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67428">
@@ -1418,23 +1442,311 @@
             <guid>https://www.harpersbazaar.co.kr/article/67409</guid>
             <pubDate>Fri, 24 Jun 2022 06:19:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg');">
-                                <a href="/article/67409">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67409">
-                                        18살 천재 피아니스트 임윤찬은 누구?                                    </a>
-                                </em>
-                                <p class="excerpt">임동혁, 조성진에 이어 천재 피아니스트의 계보를 이어갈 열여덟 소년, 임윤찬! </p>
-                            </div>]]></content:encoded>
+            <a href="/article/67409">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/67409">
+                    18살 천재 피아니스트 임윤찬은 누구?                </a>
+            </em>
+            <p class="excerpt">임동혁, 조성진에 이어 천재 피아니스트의 계보를 이어갈 열여덟 소년, 임윤찬! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/c6735f32-1d38-4a1e-895f-01ac0631e5d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린아이와 같은 새로움으로, 던의 화보 공개 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67383</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67383</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/3c3ba95c-3f84-484d-91c6-2e9ae3a86c7d.jpg');">
+            <a href="/article/67383">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/67383">
+                    어린아이와 같은 새로움으로, 던의 화보 공개                </a>
+            </em>
+            <p class="excerpt">새 싱글 'Stupid Cool'로 돌아온 던과 바자의 만남</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/3c3ba95c-3f84-484d-91c6-2e9ae3a86c7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전종서의 눈빛이 말하는 연기 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67356</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67356</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e3497481-2a07-4612-ac7b-d5737ee00830.jpg');">
+            <a href="/article/67356">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/67356">
+                    전종서의 눈빛이 말하는 연기                </a>
+            </em>
+            <p class="excerpt">넷플릭스 &lt;종이의 집&gt;으로 돌아온 전종서와 바자의 화보 공개</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e3497481-2a07-4612-ac7b-d5737ee00830.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이것’만 있으면 블랙핑크 로제 스타일 완성? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67283</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67283</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/54089bf4-a696-485b-89f3-ae19fb65e6af.jpg');">
+            <a href="/article/67283">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/67283">
+                    ‘이것’만 있으면 블랙핑크 로제 스타일 완성?                 </a>
+            </em>
+            <p class="excerpt"> 화보 촬영, 해외 일정 등 바쁜 스케줄에 항상 가지고 다니는 데일리 아이템은 무엇? </p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/54089bf4-a696-485b-89f3-ae19fb65e6af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔믹스의 거침없는 질주 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67254</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67254</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/e75e18b0-8a92-42b1-a8bc-fd98c9ed98c7.jpg');">
+            <a href="/article/67254">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/67254">
+                    엔믹스의 거침없는 질주                </a>
+            </em>
+            <p class="excerpt">하퍼스 바자 7월호, 커버걸 엔믹스</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/e75e18b0-8a92-42b1-a8bc-fd98c9ed98c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[축구장 갈 때 뭐 입지? 설현, 배우 한지은, 소연의 직관 룩! (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67243</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67243</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/866aab8f-3fca-4079-ae58-8155a988e412.jpg');">
+            <a href="/article/67243">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/67243">
+                    축구장 갈 때 뭐 입지? 설현, 배우 한지은, 소연의 직관 룩!                </a>
+            </em>
+            <p class="excerpt">카타르 월드컵아, 기다려!</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/866aab8f-3fca-4079-ae58-8155a988e412.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 개별활동 본격화.. "첫 주자=제이홉" (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67221</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67221</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg');">
+            <a href="/article/67221">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/67221">
+                    BTS, 개별활동 본격화.. "첫 주자=제이홉"                </a>
+            </em>
+            <p class="excerpt">방탄소년단 가는 길, 아미가 항상 응원합니다💜</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/2c147737-a992-4d20-a02d-2b7f671d3812.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WE ARE ONE, WINNER (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67218</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67218</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg');">
+                <a href="/article/67218">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/67218">
+                        WE ARE ONE, WINNER                    </a>
+                </em>
+                <p class="excerpt">완전체 컴백 앞둔, 위너(WINNER). 파워풀하고 존재감 넘치는 모습이 담긴 <harper’s bazaa...<="" p="">
+            </harper’s></p></div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/168ecbb9-36c2-49be-b88d-c580cb5c117b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채정안이 애정 하는 부산 찐 맛집은 어디? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67212</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67212</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg');">
+                <a href="/article/67212">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/67212">
+                        채정안이 애정 하는 부산 찐 맛집은 어디?                    </a>
+                </em>
+                <p class="excerpt">취향 좋기로 소문난 그녀! 배우 채정안이 추천하는 부산의 찐 맛집들! </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/c209b14e-a122-4fcb-a5cf-3a3fd955993a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<왜 오수재인가> 속 서현진 오피스룩 어디거? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67182</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67182</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg');">
+                <a href="/article/67182">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/67182">
+                         &lt;왜 오수재인가&gt; 속 서현진 오피스룩 어디거?                    </a>
+                </em>
+                <p class="excerpt">‘커리어 우먼'의 정석이라 불릴 오수재, 따라 입고 싶은 원피스부터 수트 셋업까지. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fd40223c-9b29-42d6-bf97-fbb427257839.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['HOT'! 세븐틴 정한, 조슈아의 감성 사진 맛집 스폿 2 #인_스타_플레이스 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67178</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67178</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg');">
+                <a href="/article/67178">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/67178">
+                        'HOT'! 세븐틴 정한, 조슈아의 감성 사진 맛집 스폿 2 #인_스타_플레이스                    </a>
+                </em>
+                <p class="excerpt">사진 맛집? 커피도 맛집! </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/0e8f5541-0d70-407c-9bce-3bcc9ba9e8c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘손민수’ 각! 제니가 브이로그에서 밝힌 셀프 케어템은 무엇? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67138</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67138</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/7b9dee58-7032-4394-9f0b-38cb47e274df.jpg');">
+                <a href="/article/67138">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/67138">
+                        ‘손민수’ 각! 제니가 브이로그에서 밝힌 셀프 케어템은 무엇?                     </a>
+                </em>
+                <p class="excerpt">제니도 이렇게 부지런히 관리한다! </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/7b9dee58-7032-4394-9f0b-38cb47e274df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈뜻밖의 여정〉 속 #윤여정어록 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67134</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67134</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg');">
+                <a href="/article/67134">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/67134">
+                        〈뜻밖의 여정〉 속 #윤여정어록                    </a>
+                </em>
+                <p class="excerpt">인생을 살아가는 데 도움이 되는, 윤여정과 윤여정의 친구들이 남긴 명언들. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/cb39a5b8-f14a-4270-9ecf-6785d0d562ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정은채부터 김준한까지.. 수지와 호흡한 <안나> 배우들 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
