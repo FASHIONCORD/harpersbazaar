@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 10:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 12:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 <종이의집>으로 돌아온 전종서]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67505</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67505</guid>
+            <pubDate>Tue, 28 Jun 2022 12:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/676ba1ec-76a8-4810-b2d5-2811b38032e0.jpg');">
+                                <a href="/article/67505">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67505">
+                                        넷플릭스 &lt;종이의집&gt;으로 돌아온 전종서                                     </a>
+                                </em>
+                                <p class="excerpt">겨울이 묵직한 금속 같다면, 여름은 어디로 날아갈지 모르는 종잇장 같다. 여기 여름처럼 움직이...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/676ba1ec-76a8-4810-b2d5-2811b38032e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[던의 음악을 형상화 한다면 어떤 모습일까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67520</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67454</link>
             <guid>https://www.harpersbazaar.co.kr/article/67454</guid>
             <pubDate>Mon, 27 Jun 2022 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4cff57df-1826-4193-80f9-367df18c9810.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4cff57df-1826-4193-80f9-367df18c9810.jpg');">
                                 <a href="/article/67454">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67454">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">트렌드세터 유튜버 오눅도 인정한 최신 디저트 맛집들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff55b53b-bb50-4cd4-84ba-acf50fc1bf16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강김송이', 컴백 앞둔 위너와 로에베가 함께한 축하의 세레머니!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67425</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67425</guid>
-            <pubDate>Mon, 27 Jun 2022 01:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/fdbef54e-338b-49e7-96e5-6fb705228adf.jpg');">
-                                <a href="/article/67425">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67425">
-                                        '강김송이', 컴백 앞둔 위너와 로에베가 함께한 축하의 세레머니!                                     </a>
-                                </em>
-                                <p class="excerpt">과거의 치열함을 뒤로한 채 더욱더 행복해지고 싶다는 네 명의 청춘들. 강승윤, 김진우, 송민호...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/fdbef54e-338b-49e7-96e5-6fb705228adf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
