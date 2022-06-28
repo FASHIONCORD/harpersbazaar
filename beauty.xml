@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 15:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 16:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RM부터 김혜수까지, #오운완 인증!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67446</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67446</guid>
+            <pubDate>Tue, 28 Jun 2022 16:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/f1a92db6-aea4-4754-874b-2f1f8ed945c5.jpg');">
+                                <a href="/article/67446">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67446">
+                                        RM부터 김혜수까지, #오운완 인증!                                     </a>
+                                </em>
+                                <p class="excerpt">톱스타들도 하는데, 왜 못 해? 바쁘단 핑계는 이제 그만~</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/f1a92db6-aea4-4754-874b-2f1f8ed945c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주힙스터! 메이크업 아티스트 최민석의 페스티벌 메이크업 추천]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67440</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67285</link>
             <guid>https://www.harpersbazaar.co.kr/article/67285</guid>
             <pubDate>Fri, 24 Jun 2022 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/5e9ad06a-cfe5-49cd-aad7-0183ea84e09f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/5e9ad06a-cfe5-49cd-aad7-0183ea84e09f.jpg');">
                                 <a href="/article/67285">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67285">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">숱이 많고 까만 눈썹이 미인의 조건이라는 건 이제 ‘라떼’ 발언이다. 아주 얇게 다듬거나 아...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/ee206e1e-aa1d-409c-83a7-a3c65ec62be5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음껏 퍼가세요! 남자 네일 시안을 드립니다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67019</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67019</guid>
-            <pubDate>Thu, 23 Jun 2022 07:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/2e6d09e9-2db7-4afb-a8bf-2783bc2bc72c.jpg');">
-                                <a href="/article/67019">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67019">
-                                        마음껏 퍼가세요! 남자 네일 시안을 드립니다                                    </a>
-                                </em>
-                                <p class="excerpt">성별보다는 취향과 개성에 맞춘 스타일을 즐기는 젠더리스 트렌드가 지배적이다. 손끝을 꾸미는 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/2e6d09e9-2db7-4afb-a8bf-2783bc2bc72c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
