@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 09:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[던의 음악을 형상화 한다면 어떤 모습일까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67520</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67520</guid>
+            <pubDate>Tue, 28 Jun 2022 09:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/208ce1a1-fe4f-4387-a6da-d692680bb6f6.jpg');">
+                                <a href="/article/67520">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67520">
+                                        던의 음악을 형상화 한다면 어떤 모습일까?                                    </a>
+                                </em>
+                                <p class="excerpt">던의 기다리고 기다리던 그때, 바로 지금.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/208ce1a1-fe4f-4387-a6da-d692680bb6f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 가장 트렌디한 소파 슈크르]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67437</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67442</link>
             <guid>https://www.harpersbazaar.co.kr/article/67442</guid>
             <pubDate>Mon, 27 Jun 2022 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/13edf264-1cb8-49ab-90e5-89aa6cf136f2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/13edf264-1cb8-49ab-90e5-89aa6cf136f2.jpg');">
                                 <a href="/article/67442">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67442">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">과거의 치열함을 뒤로한 채 더욱더 행복해지고 싶다는 네 명의 청춘들. 강승윤, 김진우, 송민호...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/fdbef54e-338b-49e7-96e5-6fb705228adf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서현진이 만들어내는 미지의 세계]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67413</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67413</guid>
-            <pubDate>Fri, 24 Jun 2022 14:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/074edead-0baa-4e77-b184-3062dc47c50d.jpg');">
-                                <a href="/article/67413">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67413">
-                                        서현진이 만들어내는 미지의 세계                                    </a>
-                                </em>
-                                <p class="excerpt">'믿고 보는 배우'로 자리잡으며 다양한 배역을 소화해내는 서현진, 그녀와 바자의 만남.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/074edead-0baa-4e77-b184-3062dc47c50d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
