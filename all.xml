@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 06:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 07:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/ac681b82-5729-4d3f-874a-c6c92e78d173.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나폴리 디저트 맛보러 갈래? #신상핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67455</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67455</guid>
+            <pubDate>Tue, 28 Jun 2022 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/c93bda32-5775-4430-8237-781ae68580e7.jpg');">
+                                <a href="/article/67455">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67455">
+                                        나폴리 디저트 맛보러 갈래? #신상핫플                                    </a>
+                                </em>
+                                <p class="excerpt">색다른 커피를 찾는다면 여기! 독특한 콘셉트의 신상 핫플 소식.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/c93bda32-5775-4430-8237-781ae68580e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김나영이 찜한 제주 공간들은 어디? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67454</link>
             <guid>https://www.harpersbazaar.co.kr/article/67454</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67427</link>
             <guid>https://www.harpersbazaar.co.kr/article/67427</guid>
             <pubDate>Fri, 24 Jun 2022 16:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/43e8b72e-b203-48bc-ac63-04dae0b57001.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/43e8b72e-b203-48bc-ac63-04dae0b57001.jpg');">
                                 <a href="/article/67427">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67427">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">올여름 피서는 평냉집으로?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/54bc60a7-1a4a-4623-8cc1-8b8361516a3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS에서 유행인 손뜨개 개구리 만들기 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67372</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67372</guid>
-            <pubDate>Thu, 23 Jun 2022 11:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/10905f28-3054-474a-951f-8ffaf624ea0f.jpg');">
-                                <a href="/article/67372">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67372">
-                                        SNS에서 유행인 손뜨개 개구리 만들기                                    </a>
-                                </em>
-                                <p class="excerpt">내 손으로 만드는 동물 친구!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/10905f28-3054-474a-951f-8ffaf624ea0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버려지는 음식들 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
