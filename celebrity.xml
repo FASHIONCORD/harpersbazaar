@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 01:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 04:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Y2K 알고 싶거든, <뿅뿅 지구 오락실>로!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67527</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67527</guid>
+            <pubDate>Wed, 29 Jun 2022 04:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg');">
+                                <a href="/article/67527">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67527">
+                                        Y2K 알고 싶거든, &lt;뿅뿅 지구 오락실&gt;로!                                    </a>
+                                </em>
+                                <p class="excerpt">신 ‘예능캐’들이 완벽 재현한 이효리부터 송혜교, 반윤희 패션까지.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 <종이의집>으로 돌아온 전종서]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67505</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67477</link>
             <guid>https://www.harpersbazaar.co.kr/article/67477</guid>
             <pubDate>Mon, 27 Jun 2022 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/11341b61-b2b9-485f-8ab0-fbdff69a5859.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/11341b61-b2b9-485f-8ab0-fbdff69a5859.jpg');">
                                 <a href="/article/67477">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67477">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">압도적인 존재감을 뽐내며 출발을 알린 엔믹스(NMIXX). 데뷔 직후 각종 기록을 갈아치웠지만 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/66655ad8-fc85-43fa-9a44-3fe3f3bb7e21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫플 예감! 유튜버 오눅이 찜한 세련된 디저트 맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67430</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67430</guid>
-            <pubDate>Mon, 27 Jun 2022 01:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff55b53b-bb50-4cd4-84ba-acf50fc1bf16.jpg');">
-                                <a href="/article/67430">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67430">
-                                        핫플 예감! 유튜버 오눅이 찜한 세련된 디저트 맛집                                    </a>
-                                </em>
-                                <p class="excerpt">트렌드세터 유튜버 오눅도 인정한 최신 디저트 맛집들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff55b53b-bb50-4cd4-84ba-acf50fc1bf16.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
