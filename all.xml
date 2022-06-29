@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 14:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 15:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,56 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/dfba9484-aee8-4a01-871c-2950dfd864e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<바자> 산책 메이트와 함께 떠나는 '장-미셸 오토니엘'의 예술 세계 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67610</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67610</guid>
+            <pubDate>Wed, 29 Jun 2022 15:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/24b7311d-9c5a-4197-b942-6afb2072f079.jpg');">
+                                <a href="/article/67610">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67610">
+                                        &lt;바자&gt; 산책 메이트와 함께 떠나는 '장-미셸 오토니엘'의 예술 세계                                    </a>
+                                </em>
+                                <p class="excerpt">오직 &lt;바자&gt; 독자들을 위해 준비했어! ‘바자 예술 산책’의 두 번째 오프라인 이벤트</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/24b7311d-9c5a-4197-b942-6afb2072f079.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름을 재밌게 즐기는 아이디어 10 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67591</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67591</guid>
+            <pubDate>Wed, 29 Jun 2022 15:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/4ec3cf0e-7a98-47f7-8009-79a0c9c721fe.jpg');">
+                                <a href="/article/67591">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67591">
+                                        여름을 재밌게 즐기는 아이디어 10                                    </a>
+                                </em>
+                                <p class="excerpt">자칭 여름 덕후가 여름을 맞이하는 법과 여름을 즐기는 법 대해 이야기한다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/4ec3cf0e-7a98-47f7-8009-79a0c9c721fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['맛잘알' 강민경의 여름 음식 레시피 모음.zip (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67587</link>
             <guid>https://www.harpersbazaar.co.kr/article/67587</guid>
@@ -1687,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67575</link>
             <guid>https://www.harpersbazaar.co.kr/article/67575</guid>
             <pubDate>Wed, 29 Jun 2022 13:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/e8f713ed-f178-4958-91d3-b2809cac9d99.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/e8f713ed-f178-4958-91d3-b2809cac9d99.jpg');">
                                 <a href="/article/67575">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67575">
@@ -1712,17 +1761,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67555</link>
             <guid>https://www.harpersbazaar.co.kr/article/67555</guid>
             <pubDate>Wed, 29 Jun 2022 10:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/991d4d06-e4d3-4404-a014-f114ccb24ca3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/991d4d06-e4d3-4404-a014-f114ccb24ca3.jpg');">
                                 <a href="/article/67555">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67555">
@@ -1779,54 +1827,6 @@
                                 <p class="excerpt">이찬혁과 임재린의 세이투셰와 소파 전문 브랜드 자코모와의 협업으로 먹고 싶고 보고 싶고 갖고...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남산타워 최고의 뷰를 자랑하는 헤어몬의 70평대 집 대공개! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67477</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67477</guid>
-            <pubDate>Mon, 27 Jun 2022 10:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/11341b61-b2b9-485f-8ab0-fbdff69a5859.jpg');">
-                                <a href="/article/67477">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67477">
-                                        남산타워 최고의 뷰를 자랑하는 헤어몬의 70평대 집 대공개!                                    </a>
-                                </em>
-                                <p class="excerpt">헤롱이들 잘 봐, 난…가끔..내 집이 너무 좋다..?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/11341b61-b2b9-485f-8ab0-fbdff69a5859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이진욱도 오픈런 했다는 #베이글맛집 은 어디? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67456</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67456</guid>
-            <pubDate>Mon, 27 Jun 2022 11:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/168e9a2b-abd4-4268-9901-90483cc3985a.jpg');">
-                                <a href="/article/67456">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67456">
-                                        이진욱도 오픈런 했다는 #베이글맛집 은 어디?                                     </a>
-                                </em>
-                                <p class="excerpt">지금은 베이글 전성시대! 오픈런은 필수라는 신상 베이글 맛집들.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/168e9a2b-abd4-4268-9901-90483cc3985a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버려지는 음식들 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
