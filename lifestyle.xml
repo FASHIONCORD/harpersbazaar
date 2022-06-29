@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['발견하면 구매각!' 콜키지 프리 레스토랑에 챙겨가야 할 와인 7]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67555</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67555</guid>
+            <pubDate>Wed, 29 Jun 2022 10:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/991d4d06-e4d3-4404-a014-f114ccb24ca3.jpg');">
+                                <a href="/article/67555">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67555">
+                                        '발견하면 구매각!' 콜키지 프리 레스토랑에 챙겨가야 할 와인 7                                    </a>
+                                </em>
+                                <p class="excerpt">에디터가 직접 마시고 적은 와인 노트</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/991d4d06-e4d3-4404-a014-f114ccb24ca3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춘천의 자연을 제대로 느끼는 법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67517</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67456</link>
             <guid>https://www.harpersbazaar.co.kr/article/67456</guid>
             <pubDate>Tue, 28 Jun 2022 13:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/168e9a2b-abd4-4268-9901-90483cc3985a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/168e9a2b-abd4-4268-9901-90483cc3985a.jpg');">
                                 <a href="/article/67456">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67456">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">트렌드세터 유튜버 오눅도 인정한 최신 디저트 맛집들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff55b53b-bb50-4cd4-84ba-acf50fc1bf16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트리밍으로는 절대 느낄 수 없는 즐거움! LP 레코드 숍]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67429</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67429</guid>
-            <pubDate>Mon, 27 Jun 2022 01:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg');">
-                                <a href="/article/67429">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67429">
-                                        스트리밍으로는 절대 느낄 수 없는 즐거움! LP 레코드 숍                                     </a>
-                                </em>
-                                <p class="excerpt">한번 빠지면 출구 없는 개미 지옥! LP 레코드 숍.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
