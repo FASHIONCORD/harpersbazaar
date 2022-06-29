@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 11:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서인국→박은빈→탕웨이, 금주 신상 드라마 & 영화 업데이트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67476</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67476</guid>
+            <pubDate>Wed, 29 Jun 2022 13:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/66e8211f-6116-46f6-94fb-dc65eae6fc10.jpg');">
+                                <a href="/article/67476">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67476">
+                                        서인국→박은빈→탕웨이, 금주 신상 드라마 &amp; 영화 업데이트                                    </a>
+                                </em>
+                                <p class="excerpt">신상이 무조건 좋은 당신에게 살짝 알려드림💌</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/66e8211f-6116-46f6-94fb-dc65eae6fc10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<탑건> 100만, <마녀2> 200만.. 개봉영화 뭐가 핫해?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67470</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67454</link>
             <guid>https://www.harpersbazaar.co.kr/article/67454</guid>
             <pubDate>Mon, 27 Jun 2022 01:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4cff57df-1826-4193-80f9-367df18c9810.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4cff57df-1826-4193-80f9-367df18c9810.jpg');">
                                 <a href="/article/67454">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67454">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">핫한 포토그래퍼는 여기 다 모였다! 패션 사진작가 48인의 국내 최초 대규모 기획전.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/dfba9484-aee8-4a01-871c-2950dfd864e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<안나>로 흑화된 수지에 빠질 시간]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67417</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67417</guid>
-            <pubDate>Sat, 25 Jun 2022 03:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e99569df-1de3-48b7-9f85-a80e143a75b3.jpg');">
-                                <a href="/article/67417">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67417">
-                                        &lt;안나&gt;로 흑화된 수지에 빠질 시간                                    </a>
-                                </em>
-                                <p class="excerpt">수지, 쿠팡플레이 시리즈 &lt;안나&gt;로 강렬한 변신!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/e99569df-1de3-48b7-9f85-a80e143a75b3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
