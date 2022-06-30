@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 13:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 14:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대세 K-클래식이 궁금해?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67529</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67529</guid>
+            <pubDate>Thu, 30 Jun 2022 14:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/df0c9dd9-4f60-4a93-8b59-d55c665966f1.jpg');">
+                                <a href="/article/67529">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67529">
+                                        대세 K-클래식이 궁금해?                                    </a>
+                                </em>
+                                <p class="excerpt">임윤찬, 양인모, 최하영. 일단, 최근 콩쿠르를 휩쓴 이 세 사람의 이름과 연주를 알아두자.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/df0c9dd9-4f60-4a93-8b59-d55c665966f1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 가장 트렌디한 소파 슈크르]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67437</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67467</link>
             <guid>https://www.harpersbazaar.co.kr/article/67467</guid>
             <pubDate>Tue, 28 Jun 2022 12:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/bce9e2dc-c47d-44bd-8293-dd9df99bc5c8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/bce9e2dc-c47d-44bd-8293-dd9df99bc5c8.jpg');">
                                 <a href="/article/67467">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67467">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한번 빠지면 출구 없는 개미 지옥! LP 레코드 숍.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리×이찬혁부터 비아이×츄까지.. ★콜라보]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67421</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67421</guid>
-            <pubDate>Sun, 26 Jun 2022 06:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/75ab71bc-4256-4c1c-ad2b-8e66e0361904.jpg');">
-                                <a href="/article/67421">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67421">
-                                        이효리×이찬혁부터 비아이×츄까지.. ★콜라보                                    </a>
-                                </em>
-                                <p class="excerpt">음악도 꼭 새로운 맛을 추구하는 당신에게</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/75ab71bc-4256-4c1c-ad2b-8e66e0361904.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

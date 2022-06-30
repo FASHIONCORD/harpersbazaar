@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 13:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 14:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댕댕이도 갈 수 있는 영화관이 있다? 이색 영화관 모음.zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67678</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67678</guid>
+            <pubDate>Thu, 30 Jun 2022 14:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/a43dfec1-e9d1-4173-8bd2-76da3405080c.jpg');">
+                                <a href="/article/67678">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67678">
+                                        댕댕이도 갈 수 있는 영화관이 있다? 이색 영화관 모음.zip                                    </a>
+                                </em>
+                                <p class="excerpt">달빛 아래서 보는 인생영화 한 편!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/a43dfec1-e9d1-4173-8bd2-76da3405080c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장마와 함께 피는 꽃, 전국 능소화 명소]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67625</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67619</link>
             <guid>https://www.harpersbazaar.co.kr/article/67619</guid>
             <pubDate>Thu, 30 Jun 2022 08:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/0f2cae73-fc8a-4553-ab60-723982785ca3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/0f2cae73-fc8a-4553-ab60-723982785ca3.jpg');">
                                 <a href="/article/67619">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67619">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">자칭 여름 덕후가 여름을 맞이하는 법과 여름을 즐기는 법 대해 이야기한다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/4ec3cf0e-7a98-47f7-8009-79a0c9c721fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['맛잘알' 강민경의 여름 음식 레시피 모음.zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67587</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67587</guid>
-            <pubDate>Wed, 29 Jun 2022 13:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/74cce513-b996-4d73-8358-02f9ce1333de.jpg');">
-                                <a href="/article/67587">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67587">
-                                        '맛잘알' 강민경의 여름 음식 레시피 모음.zip                                    </a>
-                                </em>
-                                <p class="excerpt">자취 10년차의 비밀 레시피 대공개 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/74cce513-b996-4d73-8358-02f9ce1333de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
