@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 12:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 13:38:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1437,6 +1437,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4cff57df-1826-4193-80f9-367df18c9810.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지금 가장 트렌디한 소파 슈크르 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67437</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67437</guid>
+            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg');">
+                                <a href="/article/67437">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67437">
+                                        지금 가장 트렌디한 소파 슈크르                                    </a>
+                                </em>
+                                <p class="excerpt">이찬혁과 임재린의 세이투셰와 소파 전문 브랜드 자코모와의 협업으로 먹고 싶고 보고 싶고 갖고...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서인국→박은빈→탕웨이, 금주 신상 드라마 & 영화 업데이트 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67476</link>
             <guid>https://www.harpersbazaar.co.kr/article/67476</guid>
@@ -1516,17 +1541,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67462</link>
             <guid>https://www.harpersbazaar.co.kr/article/67462</guid>
             <pubDate>Mon, 27 Jun 2022 11:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/ca4d0d0b-51f7-46eb-85b3-ef64ea1e9df0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/ca4d0d0b-51f7-46eb-85b3-ef64ea1e9df0.jpg');">
                                 <a href="/article/67462">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67462">
@@ -1607,30 +1631,6 @@
                                 <p class="excerpt">음악도 꼭 새로운 맛을 추구하는 당신에게</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/75ab71bc-4256-4c1c-ad2b-8e66e0361904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대 패션 사진의 흐름을 이해하다 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67420</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67420</guid>
-            <pubDate>Sat, 25 Jun 2022 18:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/dfba9484-aee8-4a01-871c-2950dfd864e7.jpg');">
-                                <a href="/article/67420">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67420">
-                                        현대 패션 사진의 흐름을 이해하다                                     </a>
-                                </em>
-                                <p class="excerpt">핫한 포토그래퍼는 여기 다 모였다! 패션 사진작가 48인의 국내 최초 대규모 기획전.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/dfba9484-aee8-4a01-871c-2950dfd864e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장마와 함께 피는 꽃, 전국 능소화 명소 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
