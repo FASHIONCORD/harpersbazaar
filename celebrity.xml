@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 11:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 12:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손예진❤현빈, 부모 된다! "새 생명 찾아와"]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67530</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67530</guid>
+            <pubDate>Thu, 30 Jun 2022 12:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d53b2bc3-fd17-46ef-991a-fd4a3e6c7592.jpg');">
+                                <a href="/article/67530">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67530">
+                                        손예진❤현빈, 부모 된다! "새 생명 찾아와"                                    </a>
+                                </em>
+                                <p class="excerpt">결혼 3개월 만에 SNS 통해 임신 사실 전했다</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d53b2bc3-fd17-46ef-991a-fd4a3e6c7592.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 서현진인가! 본캐 소환 서현진의 모든 것. 딕션이 뛰어난 이유?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67528</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67520</link>
             <guid>https://www.harpersbazaar.co.kr/article/67520</guid>
             <pubDate>Tue, 28 Jun 2022 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/208ce1a1-fe4f-4387-a6da-d692680bb6f6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/208ce1a1-fe4f-4387-a6da-d692680bb6f6.jpg');">
                                 <a href="/article/67520">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67520">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">본격 제주살이 로망을 자극하는 김나영의 제주 공간들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4cff57df-1826-4193-80f9-367df18c9810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예린이의 무대 의상 새주인을 찾습니다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67442</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67442</guid>
-            <pubDate>Mon, 27 Jun 2022 09:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/13edf264-1cb8-49ab-90e5-89aa6cf136f2.jpg');">
-                                <a href="/article/67442">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67442">
-                                        예린이의 무대 의상 새주인을 찾습니다                                     </a>
-                                </em>
-                                <p class="excerpt">옷의 새주인을 찾는 사람들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/13edf264-1cb8-49ab-90e5-89aa6cf136f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
