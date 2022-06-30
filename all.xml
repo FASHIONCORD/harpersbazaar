@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 15:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디지털 크리에이터 리나와 <바자>의 특별한 만남! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67484</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67484</guid>
+            <pubDate>Thu, 30 Jun 2022 15:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg');">
+                                <a href="/article/67484">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67484">
+                                        디지털 크리에이터 리나와 &lt;바자&gt;의 특별한 만남!                                     </a>
+                                </em>
+                                <p class="excerpt">시작을 어려워 하는 사람들을 위해 리나가 준비한 옷의 새 주인 찾기 #옷찾사</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[댕댕이도 갈 수 있는 영화관이 있다? 이색 영화관 모음.zip (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67678</link>
             <guid>https://www.harpersbazaar.co.kr/article/67678</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67620</link>
             <guid>https://www.harpersbazaar.co.kr/article/67620</guid>
             <pubDate>Thu, 30 Jun 2022 08:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg');">
                                 <a href="/article/67620">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67620">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">오직 &lt;바자&gt; 독자들을 위해 준비했어! ‘바자 예술 산책’의 두 번째 오프라인 이벤트</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/24b7311d-9c5a-4197-b942-6afb2072f079.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 재밌게 즐기는 아이디어 10 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67591</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67591</guid>
-            <pubDate>Wed, 29 Jun 2022 15:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/4ec3cf0e-7a98-47f7-8009-79a0c9c721fe.jpg');">
-                                <a href="/article/67591">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67591">
-                                        여름을 재밌게 즐기는 아이디어 10                                    </a>
-                                </em>
-                                <p class="excerpt">자칭 여름 덕후가 여름을 맞이하는 법과 여름을 즐기는 법 대해 이야기한다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/4ec3cf0e-7a98-47f7-8009-79a0c9c721fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나 걸린 후 폐기물을 버려보았다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
