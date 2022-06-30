@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나 걸린 후 폐기물을 버려보았다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/65870</link>
+            <guid>https://www.harpersbazaar.co.kr/article/65870</guid>
+            <pubDate>Thu, 30 Jun 2022 08:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/e51b8bb1-2172-438a-a5f5-1674cc9ca4e4.jpg');">
+                                <a href="/article/65870">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/65870">
+                                        코로나 걸린 후 폐기물을 버려보았다                                    </a>
+                                </em>
+                                <p class="excerpt">‘이겨 버리는’ 법 따위의 말장난이 아니다. ‘눈만 마주쳐도 옮는다’는 얘기가 전혀 과장으로...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/e51b8bb1-2172-438a-a5f5-1674cc9ca4e4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버려지는 음식들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/65670</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65152</link>
             <guid>https://www.harpersbazaar.co.kr/article/65152</guid>
             <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/93cb9bcb-6ff5-4121-8a5f-e62198299a5e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/93cb9bcb-6ff5-4121-8a5f-e62198299a5e.jpg');">
                                 <a href="/article/65152">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65152">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">기후위기 탈출 안내부터 일상에서 지켜야 할 생활습관까지, 지구에 사는 우리가 읽어야 할 책 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/85ecfa7a-5e46-455e-9687-5712089b64f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 건축을 위한 나라는 없다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65112</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65112</guid>
-            <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/3994ee8c-20ac-498c-821b-29aaa3045a30.jpg');">
-                                <a href="/article/65112">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65112">
-                                        친환경 건축을 위한 나라는 없다                                    </a>
-                                </em>
-                                <p class="excerpt">제주의 오래된 흙집을 사랑하는 건축 전문 기자는 말한다. 친환경 건축은 애초에 불가능하다고. ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/11/3994ee8c-20ac-498c-821b-29aaa3045a30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
