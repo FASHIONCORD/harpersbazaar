@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탐나는 걸? 여름 휴가를 위한 신상 준비물]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67525</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67525</guid>
+            <pubDate>Fri, 01 Jul 2022 09:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/3196a605-e0e7-4f26-b94b-6af2cda63536.jpg');">
+                                <a href="/article/67525">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67525">
+                                        탐나는 걸? 여름 휴가를 위한 신상 준비물                                     </a>
+                                </em>
+                                <p class="excerpt">여름을 위해 특별히 뭉친 컬래버레이션 브랜드들 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/3196a605-e0e7-4f26-b94b-6af2cda63536.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성시경의 다이어트식, 단백질 폭탄 스테이크 덮밥]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67506</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67440</link>
             <guid>https://www.harpersbazaar.co.kr/article/67440</guid>
             <pubDate>Mon, 27 Jun 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/78296220-717e-4ed6-a492-0e6837925b4e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/78296220-717e-4ed6-a492-0e6837925b4e.jpg');">
                                 <a href="/article/67440">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67440">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">요요가 와도 포기는 없다. 살크업하고 회개하는 60만 유튜버 해쭈의 일상</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/5e9ad06a-cfe5-49cd-aad7-0183ea84e09f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매출 1000억, 여에스더의 다이어트 10계명]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67241</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67241</guid>
-            <pubDate>Fri, 24 Jun 2022 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/20c7475e-4aec-4192-951a-3844b9f87239.jpg');">
-                                <a href="/article/67241">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67241">
-                                        매출 1000억, 여에스더의 다이어트 10계명                                     </a>
-                                </em>
-                                <p class="excerpt">50대에도 날씬한 몸매를 유지하는 비법!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/20c7475e-4aec-4192-951a-3844b9f87239.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

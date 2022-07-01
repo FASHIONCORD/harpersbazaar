@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니도 다녀간 그 복합문화공간은 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67576</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67576</guid>
+            <pubDate>Fri, 01 Jul 2022 09:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg');">
+                                <a href="/article/67576">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67576">
+                                        제니도 다녀간 그 복합문화공간은 어디?                                    </a>
+                                </em>
+                                <p class="excerpt">발 빠르게 접수해야 할 서울의 새로운 복합문화공간들. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대세 K-클래식이 궁금해?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67529</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67470</link>
             <guid>https://www.harpersbazaar.co.kr/article/67470</guid>
             <pubDate>Wed, 29 Jun 2022 11:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/039f04ea-6dd9-49f8-8c8e-778dc8c79110.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/039f04ea-6dd9-49f8-8c8e-778dc8c79110.jpg');">
                                 <a href="/article/67470">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67470">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">본격 제주살이 로망을 자극하는 김나영의 제주 공간들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/4cff57df-1826-4193-80f9-367df18c9810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트리밍으로는 절대 느낄 수 없는 즐거움! LP 레코드 숍]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67429</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67429</guid>
-            <pubDate>Sun, 26 Jun 2022 17:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg');">
-                                <a href="/article/67429">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67429">
-                                        스트리밍으로는 절대 느낄 수 없는 즐거움! LP 레코드 숍                                     </a>
-                                </em>
-                                <p class="excerpt">한번 빠지면 출구 없는 개미 지옥! LP 레코드 숍.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/1c294fed-5eb5-4c3b-9cdb-a93f70335112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
