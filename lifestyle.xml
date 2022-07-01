@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 13:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 16:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딱 지금이 제일 맛있다고 하지? #하지감자레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67688</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67688</guid>
+            <pubDate>Fri, 01 Jul 2022 16:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/73e9c822-3b86-4d8b-8ba1-ddd99957bd37.jpg');">
+                                <a href="/article/67688">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67688">
+                                        딱 지금이 제일 맛있다고 하지? #하지감자레시피                                    </a>
+                                </em>
+                                <p class="excerpt">이것은 감자의 혁명! 초여름, 제대로 맛 오른 하지감자는 이렇게 먹어요.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/73e9c822-3b86-4d8b-8ba1-ddd99957bd37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고흥에서 '자연'으로 치유하라.]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67682</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67625</link>
             <guid>https://www.harpersbazaar.co.kr/article/67625</guid>
             <pubDate>Thu, 30 Jun 2022 12:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/2d5d168b-c7a3-4672-992d-02b1a34eb13a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/2d5d168b-c7a3-4672-992d-02b1a34eb13a.jpg');">
                                 <a href="/article/67625">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67625">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">가오픈하자마자 인기 폭주 중인 성수동의 새로운 핫플들.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/0f2cae73-fc8a-4553-ab60-723982785ca3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 소울푸드! 걸쭉~한 콩국수 맛집 5]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67618</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67618</guid>
-            <pubDate>Thu, 30 Jun 2022 08:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/38b1267b-07d9-4d23-a064-0d1bb976d233.jpg');">
-                                <a href="/article/67618">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67618">
-                                        여름 소울푸드! 걸쭉~한 콩국수 맛집 5                                    </a>
-                                </em>
-                                <p class="excerpt">달달 vs 슴슴, 내 콩국수 취향은 무엇?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/38b1267b-07d9-4d23-a064-0d1bb976d233.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
