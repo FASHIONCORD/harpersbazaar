@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 13:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 15:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 휴가지에 챙겨가면 좋은 향수]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67511</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67511</guid>
+            <pubDate>Sat, 02 Jul 2022 15:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/e4cb5fb0-eb4f-44d6-818e-7f49ae31acac.jpg');">
+                                <a href="/article/67511">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67511">
+                                        여름 휴가지에 챙겨가면 좋은 향수                                    </a>
+                                </em>
+                                <p class="excerpt">“향은 수천 마일 밖과 그동안 살아온 모든 세월을 가로질러 당신을 실어 나르는 강력한 마법사...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/e4cb5fb0-eb4f-44d6-818e-7f49ae31acac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탐나는 걸? 여름 휴가를 위한 신상 준비물]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67525</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67446</link>
             <guid>https://www.harpersbazaar.co.kr/article/67446</guid>
             <pubDate>Tue, 28 Jun 2022 16:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/f1a92db6-aea4-4754-874b-2f1f8ed945c5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/f1a92db6-aea4-4754-874b-2f1f8ed945c5.jpg');">
                                 <a href="/article/67446">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67446">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">78kg에서 50kg까지? 이건 찐이야.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff00f1fe-505a-40c8-b8c2-710d8b1ee972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일주일만에 3kg 감량, 해쭈의 건강한 다이어트 브이로그]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67285</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67285</guid>
-            <pubDate>Fri, 24 Jun 2022 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/5e9ad06a-cfe5-49cd-aad7-0183ea84e09f.jpg');">
-                                <a href="/article/67285">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67285">
-                                        일주일만에 3kg 감량, 해쭈의 건강한 다이어트 브이로그                                    </a>
-                                </em>
-                                <p class="excerpt">요요가 와도 포기는 없다. 살크업하고 회개하는 60만 유튜버 해쭈의 일상</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/5e9ad06a-cfe5-49cd-aad7-0183ea84e09f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
