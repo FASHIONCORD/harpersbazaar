@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 13:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 15:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1633,6 +1633,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/ca4d0d0b-51f7-46eb-85b3-ef64ea1e9df0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10분컷! 설거지 귀찮을 땐 세상 쉬운 #원팬요리레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67689</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67689</guid>
+            <pubDate>Sun, 03 Jul 2022 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/6f95ea4f-1454-4d87-a649-d93ea49401f9.jpg');">
+                                <a href="/article/67689">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67689">
+                                        10분컷! 설거지 귀찮을 땐 세상 쉬운 #원팬요리레시피                                    </a>
+                                </em>
+                                <p class="excerpt">이것저것 필요 없이 프라이팬 하나면 해결되는 초간단 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/6f95ea4f-1454-4d87-a649-d93ea49401f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[딱 지금이 제일 맛있다고 하지? #하지감자레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67688</link>
             <guid>https://www.harpersbazaar.co.kr/article/67688</guid>
@@ -1712,17 +1737,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67678</link>
             <guid>https://www.harpersbazaar.co.kr/article/67678</guid>
             <pubDate>Thu, 30 Jun 2022 14:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/a43dfec1-e9d1-4173-8bd2-76da3405080c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/a43dfec1-e9d1-4173-8bd2-76da3405080c.jpg');">
                                 <a href="/article/67678">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67678">
@@ -1803,30 +1827,6 @@
                                 <p class="excerpt">초여름이 가기 전에 맛봐야 할 별미! 완두콩을 활용한 근사한 쿠킹 레시피. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 성수동은 어디가 핫해? #성수동신상핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67619</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67619</guid>
-            <pubDate>Thu, 30 Jun 2022 08:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/0f2cae73-fc8a-4553-ab60-723982785ca3.jpg');">
-                                <a href="/article/67619">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67619">
-                                        요즘 성수동은 어디가 핫해? #성수동신상핫플                                    </a>
-                                </em>
-                                <p class="excerpt">가오픈하자마자 인기 폭주 중인 성수동의 새로운 핫플들.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/0f2cae73-fc8a-4553-ab60-723982785ca3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나 걸린 후 폐기물을 버려보았다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
