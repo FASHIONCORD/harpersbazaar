@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 15:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 17:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 탑건 매버릭, 도대체 왜 이렇게 인기 있는 걸까? 스포일러 주의!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67691</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67691</guid>
+            <pubDate>Mon, 04 Jul 2022 17:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg');">
+                                <a href="/article/67691">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67691">
+                                        영화 탑건 매버릭, 도대체 왜 이렇게 인기 있는 걸까? 스포일러 주의!                                     </a>
+                                </em>
+                                <p class="excerpt">영화 &lt;탑건:매버릭&gt;의 흥행 배경을 분석하는 각 분야 전문가들의 흥미로운 뷰포인트! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10분컷! 설거지 귀찮을 땐 세상 쉬운 #원팬요리레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67689</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67484</link>
             <guid>https://www.harpersbazaar.co.kr/article/67484</guid>
             <pubDate>Thu, 30 Jun 2022 15:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg');">
                                 <a href="/article/67484">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67484">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">부산 해녀들의 바다, 해산물, 그리고 마을</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/3a83e466-e7ee-45cd-aeae-5e2f0251c648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 SNS에서 난리 난 와인 안주! #완두콩부라타샐러드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67620</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67620</guid>
-            <pubDate>Thu, 30 Jun 2022 08:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg');">
-                                <a href="/article/67620">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67620">
-                                        요즘 SNS에서 난리 난 와인 안주! #완두콩부라타샐러드                                     </a>
-                                </em>
-                                <p class="excerpt">초여름이 가기 전에 맛봐야 할 별미! 완두콩을 활용한 근사한 쿠킹 레시피. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
