@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 18:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 20:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1045,6 +1045,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/3196a605-e0e7-4f26-b94b-6af2cda63536.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에이핑크 남주의 여름맞이 다이어트 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67676</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67676</guid>
+            <pubDate>Mon, 04 Jul 2022 20:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d508da82-f52d-4e7d-a5dd-3c5e6fdbb523.jpg');">
+                                <a href="/article/67676">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67676">
+                                        에이핑크 남주의 여름맞이 다이어트                                     </a>
+                                </em>
+                                <p class="excerpt">운동부터 부기빼기까지 활동기 관리법</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d508da82-f52d-4e7d-a5dd-3c5e6fdbb523.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꼭 따라해봐! 여행지에서 더욱 빛을 발하는 바캉스 메이크업 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67544</link>
             <guid>https://www.harpersbazaar.co.kr/article/67544</guid>
@@ -1124,17 +1149,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67506</link>
             <guid>https://www.harpersbazaar.co.kr/article/67506</guid>
             <pubDate>Thu, 30 Jun 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2d5f804e-8148-4402-b503-fe457e8839b8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2d5f804e-8148-4402-b503-fe457e8839b8.jpg');">
                                 <a href="/article/67506">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67506">
@@ -1215,30 +1239,6 @@
                                 <p class="excerpt">메이크업 빌드업이다! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/78296220-717e-4ed6-a492-0e6837925b4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기관리의 끝판왕, 강민경이 재구매하는 영양제 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67438</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67438</guid>
-            <pubDate>Mon, 27 Jun 2022 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/bac55a88-f7cc-4b13-8e75-d32f56cfd24d.jpg');">
-                                <a href="/article/67438">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67438">
-                                        자기관리의 끝판왕, 강민경이 재구매하는 영양제                                    </a>
-                                </em>
-                                <p class="excerpt">'걍민경'유튜브 채널에서 아이허브와 함께 공개한 건강백점 영양제 5</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/bac55a88-f7cc-4b13-8e75-d32f56cfd24d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니도 다녀간 그 복합문화공간은 어디? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
