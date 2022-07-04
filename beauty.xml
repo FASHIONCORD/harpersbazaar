@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꼭 따라해봐! 여행지에서 더욱 빛을 발하는 바캉스 메이크업]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67544</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67544</guid>
+            <pubDate>Mon, 04 Jul 2022 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/6bda9ff5-fd07-4691-80cb-7b1f33e56a12.jpg');">
+                                <a href="/article/67544">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67544">
+                                        꼭 따라해봐! 여행지에서 더욱 빛을 발하는 바캉스 메이크업                                     </a>
+                                </em>
+                                <p class="excerpt">성난 마음은 파도에 실어 보내고 낭만과 추억을 채우는 계절. 여름이 깃든 얼굴.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/6bda9ff5-fd07-4691-80cb-7b1f33e56a12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 휴가지에 챙겨가면 좋은 향수]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67511</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67447</link>
             <guid>https://www.harpersbazaar.co.kr/article/67447</guid>
             <pubDate>Thu, 30 Jun 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/dec0880d-5cd7-485d-9460-e6782861789b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/dec0880d-5cd7-485d-9460-e6782861789b.jpg');">
                                 <a href="/article/67447">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67447">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">'걍민경'유튜브 채널에서 아이허브와 함께 공개한 건강백점 영양제 5</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/bac55a88-f7cc-4b13-8e75-d32f56cfd24d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카리스마 여배우 진서연의 -28kg 다이어트법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67423</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67423</guid>
-            <pubDate>Mon, 27 Jun 2022 07:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff00f1fe-505a-40c8-b8c2-710d8b1ee972.jpg');">
-                                <a href="/article/67423">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67423">
-                                        카리스마 여배우 진서연의 -28kg 다이어트법                                    </a>
-                                </em>
-                                <p class="excerpt">78kg에서 50kg까지? 이건 찐이야.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/23/ff00f1fe-505a-40c8-b8c2-710d8b1ee972.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
