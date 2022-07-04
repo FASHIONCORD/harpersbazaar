@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니도 다녀간 그 복합문화공간은 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67576</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67576</guid>
+            <pubDate>Mon, 04 Jul 2022 08:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg');">
+                                <a href="/article/67576">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67576">
+                                        제니도 다녀간 그 복합문화공간은 어디?                                    </a>
+                                </em>
+                                <p class="excerpt">발 빠르게 접수해야 할 서울의 새로운 복합문화공간들. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델 박희정과 디올 파인주얼리의 뜨거운 만남]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67540</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67509</link>
             <guid>https://www.harpersbazaar.co.kr/article/67509</guid>
             <pubDate>Thu, 30 Jun 2022 09:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ad5f4806-ed3c-47a1-80eb-2fe4840390e4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ad5f4806-ed3c-47a1-80eb-2fe4840390e4.jpg');">
                                 <a href="/article/67509">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67509">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">여름을 위해 특별히 뭉친 컬래버레이션 브랜드들 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/3196a605-e0e7-4f26-b94b-6af2cda63536.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이진욱도 오픈런 했다는 #베이글맛집 은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67456</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67456</guid>
-            <pubDate>Mon, 27 Jun 2022 11:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/168e9a2b-abd4-4268-9901-90483cc3985a.jpg');">
-                                <a href="/article/67456">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67456">
-                                        이진욱도 오픈런 했다는 #베이글맛집 은 어디?                                     </a>
-                                </em>
-                                <p class="excerpt">지금은 베이글 전성시대! 오픈런은 필수라는 신상 베이글 맛집들.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/168e9a2b-abd4-4268-9901-90483cc3985a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
