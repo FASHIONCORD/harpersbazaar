@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 03:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 SNS에서 난리 난 와인 안주! #완두콩부라타샐러드]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67620</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67620</guid>
+            <pubDate>Tue, 05 Jul 2022 03:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg');">
+                                <a href="/article/67620">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67620">
+                                        요즘 SNS에서 난리 난 와인 안주! #완두콩부라타샐러드                                     </a>
+                                </em>
+                                <p class="excerpt">초여름이 가기 전에 맛봐야 할 별미! 완두콩을 활용한 근사한 쿠킹 레시피. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<바자> 산책 메이트와 함께 떠나는 '장-미셸 오토니엘'의 예술 세계]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67610</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67437</link>
             <guid>https://www.harpersbazaar.co.kr/article/67437</guid>
             <pubDate>Thu, 30 Jun 2022 13:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg');">
                                 <a href="/article/67437">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67437">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;종이의 집&gt; 강도단, 본캐는 열혈 홍보중입니다~</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/bce9e2dc-c47d-44bd-8293-dd9df99bc5c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정은채부터 김준한까지.. 수지와 호흡한 <안나> 배우들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67462</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67462</guid>
-            <pubDate>Mon, 27 Jun 2022 11:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/ca4d0d0b-51f7-46eb-85b3-ef64ea1e9df0.jpg');">
-                                <a href="/article/67462">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67462">
-                                        정은채부터 김준한까지.. 수지와 호흡한 &lt;안나&gt; 배우들                                    </a>
-                                </em>
-                                <p class="excerpt">'수지 인생작'에 함께 출연, '인생 연기' 펼쳤다</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/ca4d0d0b-51f7-46eb-85b3-ef64ea1e9df0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
