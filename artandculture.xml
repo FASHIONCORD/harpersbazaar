@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10분컷! 설거지 귀찮을 땐 세상 쉬운 #원팬요리레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67689</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67689</guid>
+            <pubDate>Tue, 05 Jul 2022 05:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/6f95ea4f-1454-4d87-a649-d93ea49401f9.jpg');">
+                                <a href="/article/67689">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67689">
+                                        10분컷! 설거지 귀찮을 땐 세상 쉬운 #원팬요리레시피                                    </a>
+                                </em>
+                                <p class="excerpt">이것저것 필요 없이 프라이팬 하나면 해결되는 초간단 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/6f95ea4f-1454-4d87-a649-d93ea49401f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 SNS에서 난리 난 와인 안주! #완두콩부라타샐러드]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67620</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67529</link>
             <guid>https://www.harpersbazaar.co.kr/article/67529</guid>
             <pubDate>Thu, 30 Jun 2022 14:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/df0c9dd9-4f60-4a93-8b59-d55c665966f1.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/df0c9dd9-4f60-4a93-8b59-d55c665966f1.jpg');">
                                 <a href="/article/67529">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67529">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">조만간 &lt;범죄도시2&gt;는 1200만명을 넘을 예정!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/039f04ea-6dd9-49f8-8c8e-778dc8c79110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국판 <종이의 집> 배우들, 작품 밖에서 찐-우정]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67467</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67467</guid>
-            <pubDate>Tue, 28 Jun 2022 12:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/bce9e2dc-c47d-44bd-8293-dd9df99bc5c8.jpg');">
-                                <a href="/article/67467">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67467">
-                                        한국판 &lt;종이의 집&gt; 배우들, 작품 밖에서 찐-우정                                    </a>
-                                </em>
-                                <p class="excerpt">&lt;종이의 집&gt; 강도단, 본캐는 열혈 홍보중입니다~</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/bce9e2dc-c47d-44bd-8293-dd9df99bc5c8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
