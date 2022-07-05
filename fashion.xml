@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 12:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화사부터 선미까지 수영복 더 스타일리시하게 입는 법 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67675</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67675</guid>
+            <pubDate>Tue, 05 Jul 2022 12:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/4a33c544-b971-4e8e-a107-55f2eafddcf9.jpg');">
+                                <a href="/article/67675">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67675">
+                                        화사부터 선미까지 수영복 더 스타일리시하게 입는 법 5                                     </a>
+                                </em>
+                                <p class="excerpt">다가오는 바캉스 시즌 참고해봐!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/4a33c544-b971-4e8e-a107-55f2eafddcf9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니도 다녀간 그 복합문화공간은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67576</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67527</link>
             <guid>https://www.harpersbazaar.co.kr/article/67527</guid>
             <pubDate>Fri, 01 Jul 2022 10:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg');">
                                 <a href="/article/67527">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67527">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">여행를 떠나는 즐거운 상상과 함께.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/4a01af39-9a58-43c4-9635-a6b39a78fcc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탐나는 걸? 여름 휴가를 위한 신상 준비물]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67525</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67525</guid>
-            <pubDate>Tue, 28 Jun 2022 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/3196a605-e0e7-4f26-b94b-6af2cda63536.jpg');">
-                                <a href="/article/67525">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67525">
-                                        탐나는 걸? 여름 휴가를 위한 신상 준비물                                     </a>
-                                </em>
-                                <p class="excerpt">여름을 위해 특별히 뭉친 컬래버레이션 브랜드들 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/3196a605-e0e7-4f26-b94b-6af2cda63536.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

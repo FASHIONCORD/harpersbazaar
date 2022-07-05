@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 12:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김희선, <블랙의 신부>로 컴백.. "결혼은 비즈니스"]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67710</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67710</guid>
+            <pubDate>Tue, 05 Jul 2022 12:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/4b278580-ea08-4eaa-86e9-decdeecf21ae.jpg');">
+                                <a href="/article/67710">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67710">
+                                        김희선, &lt;블랙의 신부&gt;로 컴백.. "결혼은 비즈니스"                                    </a>
+                                </em>
+                                <p class="excerpt">#복수 #상류사회 #야망 김희선×정유진×차지연 3色 매력</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/4b278580-ea08-4eaa-86e9-decdeecf21ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 탑건 매버릭, 도대체 왜 이렇게 인기 있는 걸까? 스포일러 주의!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67691</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67610</link>
             <guid>https://www.harpersbazaar.co.kr/article/67610</guid>
             <pubDate>Fri, 01 Jul 2022 10:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/24b7311d-9c5a-4197-b942-6afb2072f079.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/24b7311d-9c5a-4197-b942-6afb2072f079.jpg');">
                                 <a href="/article/67610">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67610">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이찬혁과 임재린의 세이투셰와 소파 전문 브랜드 자코모와의 협업으로 먹고 싶고 보고 싶고 갖고...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서인국→박은빈→탕웨이, 금주 신상 드라마 & 영화 업데이트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67476</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67476</guid>
-            <pubDate>Wed, 29 Jun 2022 13:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/66e8211f-6116-46f6-94fb-dc65eae6fc10.jpg');">
-                                <a href="/article/67476">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67476">
-                                        서인국→박은빈→탕웨이, 금주 신상 드라마 &amp; 영화 업데이트                                    </a>
-                                </em>
-                                <p class="excerpt">신상이 무조건 좋은 당신에게 살짝 알려드림💌</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/66e8211f-6116-46f6-94fb-dc65eae6fc10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

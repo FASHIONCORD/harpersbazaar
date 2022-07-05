@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 12:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['맛잘알' 강민경의 여름 음식 레시피 모음.zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67587</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67587</guid>
+            <pubDate>Tue, 05 Jul 2022 12:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/74cce513-b996-4d73-8358-02f9ce1333de.jpg');">
+                                <a href="/article/67587">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67587">
+                                        '맛잘알' 강민경의 여름 음식 레시피 모음.zip                                    </a>
+                                </em>
+                                <p class="excerpt">자취 10년차의 비밀 레시피 대공개 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/74cce513-b996-4d73-8358-02f9ce1333de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니도 다녀간 그 복합문화공간은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67576</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67528</link>
             <guid>https://www.harpersbazaar.co.kr/article/67528</guid>
             <pubDate>Wed, 29 Jun 2022 13:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/c6d13aa8-8cd2-4dea-a58c-6274e1cda5ae.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/c6d13aa8-8cd2-4dea-a58c-6274e1cda5ae.jpg');">
                                 <a href="/article/67528">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67528">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">던의 기다리고 기다리던 그때, 바로 지금.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/208ce1a1-fe4f-4387-a6da-d692680bb6f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 트렌디한 소파 슈크르]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67437</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67437</guid>
-            <pubDate>Mon, 27 Jun 2022 12:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg');">
-                                <a href="/article/67437">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67437">
-                                        지금 가장 트렌디한 소파 슈크르                                    </a>
-                                </em>
-                                <p class="excerpt">이찬혁과 임재린의 세이투셰와 소파 전문 브랜드 자코모와의 협업으로 먹고 싶고 보고 싶고 갖고...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/6464bcd5-b480-4271-bac5-f75ef263bbaf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
