@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 08:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 09:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상순 카페, 롱플레이. 이제는 기다리지 마세요.]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67787</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67787</guid>
+            <pubDate>Wed, 06 Jul 2022 09:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/f249a995-333c-4dcc-b712-2fb1df7651b2.jpg');">
+                                <a href="/article/67787">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67787">
+                                        이상순 카페, 롱플레이. 이제는 기다리지 마세요.                                    </a>
+                                </em>
+                                <p class="excerpt">7월 7일 낮 12시에 예약이 가능하다. 어디에서? </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/f249a995-333c-4dcc-b712-2fb1df7651b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카페인 수혈이 필요할 땐? 성수 신상 카페 투어 #주말엔뉴플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67780</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67596</link>
             <guid>https://www.harpersbazaar.co.kr/article/67596</guid>
             <pubDate>Tue, 05 Jul 2022 14:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/a3e94ab5-8117-470a-95f5-62b281717e61.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/a3e94ab5-8117-470a-95f5-62b281717e61.jpg');">
                                 <a href="/article/67596">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67596">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">가평의 자연과 한 몸이 되다</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/b7a27727-c7fb-4f87-bbc6-05179261e335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 탑건 매버릭, 도대체 왜 이렇게 인기 있는 걸까? 스포일러 주의!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67691</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67691</guid>
-            <pubDate>Mon, 04 Jul 2022 17:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg');">
-                                <a href="/article/67691">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67691">
-                                        영화 탑건 매버릭, 도대체 왜 이렇게 인기 있는 걸까? 스포일러 주의!                                     </a>
-                                </em>
-                                <p class="excerpt">영화 &lt;탑건:매버릭&gt;의 흥행 배경을 분석하는 각 분야 전문가들의 흥미로운 뷰포인트! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
