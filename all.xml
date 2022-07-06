@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1241,6 +1241,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/78296220-717e-4ed6-a492-0e6837925b4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[엔믹스의 생애 첫! 매거진 커버 촬영장에서는 무슨 일이? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67599</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67599</guid>
+            <pubDate>Wed, 06 Jul 2022 08:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/af0abb23-f9bd-4f84-85a0-24260e0cd1fe.jpg');">
+                                <a href="/article/67599">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67599">
+                                        엔믹스의 생애 첫! 매거진 커버 촬영장에서는 무슨 일이?                                    </a>
+                                </em>
+                                <p class="excerpt">멤버들의 케미가 돋보이는 화보 촬영 비하인드 인터뷰 공개!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/af0abb23-f9bd-4f84-85a0-24260e0cd1fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['맛잘알' 강민경의 여름 음식 레시피 모음.zip (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67587</link>
             <guid>https://www.harpersbazaar.co.kr/article/67587</guid>
@@ -1320,17 +1345,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67530</link>
             <guid>https://www.harpersbazaar.co.kr/article/67530</guid>
             <pubDate>Thu, 30 Jun 2022 12:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d53b2bc3-fd17-46ef-991a-fd4a3e6c7592.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/d53b2bc3-fd17-46ef-991a-fd4a3e6c7592.jpg');">
                                 <a href="/article/67530">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67530">
@@ -1411,30 +1435,6 @@
                                 <p class="excerpt">겨울이 묵직한 금속 같다면, 여름은 어디로 날아갈지 모르는 종잇장 같다. 여기 여름처럼 움직이...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/676ba1ec-76a8-4810-b2d5-2811b38032e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[던의 음악을 형상화 한다면 어떤 모습일까? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67520</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67520</guid>
-            <pubDate>Tue, 28 Jun 2022 09:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/208ce1a1-fe4f-4387-a6da-d692680bb6f6.jpg');">
-                                <a href="/article/67520">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67520">
-                                        던의 음악을 형상화 한다면 어떤 모습일까?                                    </a>
-                                </em>
-                                <p class="excerpt">던의 기다리고 기다리던 그때, 바로 지금.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/208ce1a1-fe4f-4387-a6da-d692680bb6f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김희선, <블랙의 신부>로 컴백.. "결혼은 비즈니스" (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
