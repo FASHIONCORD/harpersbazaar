@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 08:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 11:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채정안 PICK! 놓치면 후회할 2022 상반기 결산템은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67793</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67793</guid>
+            <pubDate>Thu, 07 Jul 2022 11:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg');">
+                                <a href="/article/67793">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67793">
+                                        채정안 PICK! 놓치면 후회할 2022 상반기 결산템은?                                    </a>
+                                </em>
+                                <p class="excerpt">삶의 질이 수직 상승! 알아두면 유용한 채정안의 찐 추천템! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제는 말할 수 있다📢 <헤어질 결심> 씬스틸러]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67779</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67718</link>
             <guid>https://www.harpersbazaar.co.kr/article/67718</guid>
             <pubDate>Thu, 07 Jul 2022 03:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg');">
                                 <a href="/article/67718">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67718">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이것저것 필요 없이 프라이팬 하나면 해결되는 초간단 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/6f95ea4f-1454-4d87-a649-d93ea49401f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 SNS에서 난리 난 와인 안주! #완두콩부라타샐러드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67620</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67620</guid>
-            <pubDate>Tue, 05 Jul 2022 03:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg');">
-                                <a href="/article/67620">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67620">
-                                        요즘 SNS에서 난리 난 와인 안주! #완두콩부라타샐러드                                     </a>
-                                </em>
-                                <p class="excerpt">초여름이 가기 전에 맛봐야 할 별미! 완두콩을 활용한 근사한 쿠킹 레시피. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
