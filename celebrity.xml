@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[춤도 췄거던! 꽤 생기있는 모습의 던 인터뷰]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67690</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67690</guid>
+            <pubDate>Thu, 07 Jul 2022 07:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/39fe62e0-3dd5-42d6-b675-45e6cbf08b34.jpg');">
+                                <a href="/article/67690">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67690">
+                                        춤도 췄거던! 꽤 생기있는 모습의 던 인터뷰                                     </a>
+                                </em>
+                                <p class="excerpt">김나영 슨배님께도 한 마디! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/39fe62e0-3dd5-42d6-b675-45e6cbf08b34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔믹스의 생애 첫! 매거진 커버 촬영장에서는 무슨 일이?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67599</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67541</link>
             <guid>https://www.harpersbazaar.co.kr/article/67541</guid>
             <pubDate>Fri, 01 Jul 2022 11:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d3da1542-6199-4cd7-be15-f59e232dbf6c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d3da1542-6199-4cd7-be15-f59e232dbf6c.jpg');">
                                 <a href="/article/67541">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67541">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">신 ‘예능캐’들이 완벽 재현한 이효리부터 송혜교, 반윤희 패션까지.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 <종이의집>으로 돌아온 전종서]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67505</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67505</guid>
-            <pubDate>Tue, 28 Jun 2022 12:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/676ba1ec-76a8-4810-b2d5-2811b38032e0.jpg');">
-                                <a href="/article/67505">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67505">
-                                        넷플릭스 &lt;종이의집&gt;으로 돌아온 전종서                                     </a>
-                                </em>
-                                <p class="excerpt">겨울이 묵직한 금속 같다면, 여름은 어디로 날아갈지 모르는 종잇장 같다. 여기 여름처럼 움직이...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/676ba1ec-76a8-4810-b2d5-2811b38032e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -849,6 +849,56 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTFfNTMg/MDAxNTg5MTYwMjYxMTQx.w7GQ0Moca36iSYV0jN7nm5B-2pbYnGXUvnMxg4Yh53Ig.sIdEyUHmASnHyAl7wzpzlveyRaXzS-YRuQ5nE2zHhn4g.JPEG/Icj1bDrs4GAw2KTqWqbHBmw0BaIY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여름 준비, 수영복 가이드 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67602</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67602</guid>
+            <pubDate>Thu, 07 Jul 2022 07:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/89aafc09-9938-4d1a-8630-924ab2e6deab.jpg');">
+                                <a href="/article/67602">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67602">
+                                        여름 준비, 수영복 가이드                                    </a>
+                                </em>
+                                <p class="excerpt">목적지가 어디든, 떠날 준비를 시작한 이들을 위한 비치웨어 가이드.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/89aafc09-9938-4d1a-8630-924ab2e6deab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애 끝, 결혼 임박! 테일러 스위프트&조 알윈 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67718</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67718</guid>
+            <pubDate>Thu, 07 Jul 2022 03:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg');">
+                                <a href="/article/67718">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67718">
+                                        연애 끝, 결혼 임박! 테일러 스위프트&amp;조 알윈                                    </a>
+                                </em>
+                                <p class="excerpt">테일러 스위프트와 조 알윈의 깜짝 약혼 소식!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[휴가지에서 유용한 셀럽들의 원피스 스타일링 팁 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67717</link>
             <guid>https://www.harpersbazaar.co.kr/article/67717</guid>
@@ -903,17 +953,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67576</link>
             <guid>https://www.harpersbazaar.co.kr/article/67576</guid>
             <pubDate>Fri, 01 Jul 2022 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg');">
                                 <a href="/article/67576">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67576">
@@ -928,17 +977,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67540</link>
             <guid>https://www.harpersbazaar.co.kr/article/67540</guid>
             <pubDate>Fri, 01 Jul 2022 16:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/f3a1f7dc-bc2d-47e0-8fde-d3afc3fdf44e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/f3a1f7dc-bc2d-47e0-8fde-d3afc3fdf44e.jpg');">
                                 <a href="/article/67540">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67540">
@@ -995,54 +1043,6 @@
                                 <p class="excerpt">신 ‘예능캐’들이 완벽 재현한 이효리부터 송혜교, 반윤희 패션까지.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 핫한 패션 소식 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67509</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67509</guid>
-            <pubDate>Thu, 30 Jun 2022 09:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ad5f4806-ed3c-47a1-80eb-2fe4840390e4.jpg');">
-                                <a href="/article/67509">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67509">
-                                        지금 가장 핫한 패션 소식                                     </a>
-                                </em>
-                                <p class="excerpt">여름날, &lt;바자&gt;가 주목한 10가지.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ad5f4806-ed3c-47a1-80eb-2fe4840390e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름의 낮과 밤을 관능적으로 만들어줄 시어 룩 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67507</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67507</guid>
-            <pubDate>Tue, 28 Jun 2022 12:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/1740f9f9-2cfa-494a-b966-81b2325d9d1c.jpg');">
-                                <a href="/article/67507">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67507">
-                                        여름의 낮과 밤을 관능적으로 만들어줄 시어 룩                                    </a>
-                                </em>
-                                <p class="excerpt">여름의 뜨거운 낮과 밤을 관능적으로 만들어줄, 시어 룩의 무한 매력.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/1740f9f9-2cfa-494a-b966-81b2325d9d1c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에이핑크 남주의 여름맞이 다이어트 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1241,6 +1241,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/78296220-717e-4ed6-a492-0e6837925b4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[춤도 췄거던! 꽤 생기있는 모습의 던 인터뷰 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67690</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67690</guid>
+            <pubDate>Thu, 07 Jul 2022 07:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/39fe62e0-3dd5-42d6-b675-45e6cbf08b34.jpg');">
+                                <a href="/article/67690">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67690">
+                                        춤도 췄거던! 꽤 생기있는 모습의 던 인터뷰                                     </a>
+                                </em>
+                                <p class="excerpt">김나영 슨배님께도 한 마디! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/39fe62e0-3dd5-42d6-b675-45e6cbf08b34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엔믹스의 생애 첫! 매거진 커버 촬영장에서는 무슨 일이? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67599</link>
             <guid>https://www.harpersbazaar.co.kr/article/67599</guid>
@@ -1320,17 +1345,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67541</link>
             <guid>https://www.harpersbazaar.co.kr/article/67541</guid>
             <pubDate>Fri, 01 Jul 2022 11:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d3da1542-6199-4cd7-be15-f59e232dbf6c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d3da1542-6199-4cd7-be15-f59e232dbf6c.jpg');">
                                 <a href="/article/67541">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67541">
@@ -1413,28 +1437,54 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 <종이의집>으로 돌아온 전종서 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67505</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67505</guid>
-            <pubDate>Tue, 28 Jun 2022 12:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/676ba1ec-76a8-4810-b2d5-2811b38032e0.jpg');">
-                                <a href="/article/67505">
+            <title><![CDATA[이제는 말할 수 있다📢 <헤어질 결심> 씬스틸러 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67779</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67779</guid>
+            <pubDate>Thu, 07 Jul 2022 07:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/15a9c54f-7779-4df6-8eb6-13f4f35c0969.jpg');">
+                                <a href="/article/67779">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/67505">
-                                        넷플릭스 &lt;종이의집&gt;으로 돌아온 전종서                                     </a>
+                                    <a href="/article/67779">
+                                        이제는 말할 수 있다📢 &lt;헤어질 결심&gt; 씬스틸러                                    </a>
                                 </em>
-                                <p class="excerpt">겨울이 묵직한 금속 같다면, 여름은 어디로 날아갈지 모르는 종잇장 같다. 여기 여름처럼 움직이...</p>
+                                <p class="excerpt">영화 보다가 '응?!' 하게 만드는 배우들 모음.zip</p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/676ba1ec-76a8-4810-b2d5-2811b38032e0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/15a9c54f-7779-4df6-8eb6-13f4f35c0969.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다큐멘터리 사진가가 포착한 부산의 매력 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67776</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67776</guid>
+            <pubDate>Tue, 05 Jul 2022 15:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ab76c226-f9d2-46b6-8fee-a50a6531610c.jpg');">
+                                <a href="/article/67776">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67776">
+                                        다큐멘터리 사진가가 포착한 부산의 매력                                    </a>
+                                </em>
+                                <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ab76c226-f9d2-46b6-8fee-a50a6531610c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<이상한 변호사 우영우>가 인기 있는 이유 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -1491,17 +1541,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67710</link>
             <guid>https://www.harpersbazaar.co.kr/article/67710</guid>
             <pubDate>Tue, 05 Jul 2022 12:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/4b278580-ea08-4eaa-86e9-decdeecf21ae.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/4b278580-ea08-4eaa-86e9-decdeecf21ae.jpg');">
                                 <a href="/article/67710">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67710">
@@ -1516,17 +1565,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67691</link>
             <guid>https://www.harpersbazaar.co.kr/article/67691</guid>
             <pubDate>Mon, 04 Jul 2022 17:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg');">
                                 <a href="/article/67691">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67691">
@@ -1583,54 +1631,6 @@
                                 <p class="excerpt">초여름이 가기 전에 맛봐야 할 별미! 완두콩을 활용한 근사한 쿠킹 레시피. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e49f53e0-841e-4427-9474-e5f5c45f5a37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<바자> 산책 메이트와 함께 떠나는 '장-미셸 오토니엘'의 예술 세계 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67610</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67610</guid>
-            <pubDate>Wed, 29 Jun 2022 15:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/24b7311d-9c5a-4197-b942-6afb2072f079.jpg');">
-                                <a href="/article/67610">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67610">
-                                        &lt;바자&gt; 산책 메이트와 함께 떠나는 '장-미셸 오토니엘'의 예술 세계                                    </a>
-                                </em>
-                                <p class="excerpt">오직 &lt;바자&gt; 독자들을 위해 준비했어! ‘바자 예술 산책’의 두 번째 오프라인 이벤트</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/24b7311d-9c5a-4197-b942-6afb2072f079.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니도 다녀간 그 복합문화공간은 어디? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67576</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67576</guid>
-            <pubDate>Fri, 01 Jul 2022 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg');">
-                                <a href="/article/67576">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67576">
-                                        제니도 다녀간 그 복합문화공간은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">발 빠르게 접수해야 할 서울의 새로운 복합문화공간들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 가장 핫한 국내 휴가지 울릉도 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
