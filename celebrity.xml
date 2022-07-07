@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 11:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 13:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연애 끝, 결혼 임박! 테일러 스위프트&조 알윈]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67718</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67718</guid>
+            <pubDate>Thu, 07 Jul 2022 13:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg');">
+                                <a href="/article/67718">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67718">
+                                        연애 끝, 결혼 임박! 테일러 스위프트&amp;조 알윈                                    </a>
+                                </em>
+                                <p class="excerpt">테일러 스위프트와 조 알윈의 깜짝 약혼 소식!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춤도 췄거던! 꽤 생기있는 모습의 던 인터뷰]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67690</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67576</link>
             <guid>https://www.harpersbazaar.co.kr/article/67576</guid>
             <pubDate>Fri, 01 Jul 2022 11:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg');">
                                 <a href="/article/67576">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67576">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">배우 서현진의 일상, 취향부터 뛰어난 딕션의 비법까지! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/c6d13aa8-8cd2-4dea-a58c-6274e1cda5ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Y2K 알고 싶거든, <뿅뿅 지구 오락실>로!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67527</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67527</guid>
-            <pubDate>Wed, 29 Jun 2022 04:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg');">
-                                <a href="/article/67527">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67527">
-                                        Y2K 알고 싶거든, &lt;뿅뿅 지구 오락실&gt;로!                                    </a>
-                                </em>
-                                <p class="excerpt">신 ‘예능캐’들이 완벽 재현한 이효리부터 송혜교, 반윤희 패션까지.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/61c13ca5-b7d9-4f3e-bc7b-d451432699f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

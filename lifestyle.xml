@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 11:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 13:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가지로 가지가지 하지! 가지 레시피 모음zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67812</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67812</guid>
+            <pubDate>Thu, 07 Jul 2022 13:49:16 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/cb144b4a-294e-4bca-8ef7-f104aa4a7d91.jpg');">
+                                <a href="/article/67812">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67812">
+                                        가지로 가지가지 하지! 가지 레시피 모음zip                                    </a>
+                                </em>
+                                <p class="excerpt">칼로리가 낮고 식이섬유가 풍부한 가지는 다이어트에 좋은 채소다. 여름, 제철을 맞은 가지를 더...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/cb144b4a-294e-4bca-8ef7-f104aa4a7d91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일과 휴양을 함께 즐기는 워케이션이 대세라는데?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67701</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67790</link>
             <guid>https://www.harpersbazaar.co.kr/article/67790</guid>
             <pubDate>Wed, 06 Jul 2022 12:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/cb8e9b54-9cab-47dd-9e1e-a152fcc4d94f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/cb8e9b54-9cab-47dd-9e1e-a152fcc4d94f.jpg');">
                                 <a href="/article/67790">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67790">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ab76c226-f9d2-46b6-8fee-a50a6531610c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흑돼지 말고 이색제주]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67597</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67597</guid>
-            <pubDate>Tue, 05 Jul 2022 14:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/70c71bb2-872e-4d5c-94b2-75e354799a1f.jpg');">
-                                <a href="/article/67597">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67597">
-                                        흑돼지 말고 이색제주                                    </a>
-                                </em>
-                                <p class="excerpt">흑돼지 말고 이색제주</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/70c71bb2-872e-4d5c-94b2-75e354799a1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
