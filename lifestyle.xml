@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 07:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 08:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일과 휴양을 함께 즐기는 워케이션이 대세라는데?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67701</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67701</guid>
+            <pubDate>Thu, 07 Jul 2022 08:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/db539340-baed-4ca2-b35e-a2bcde02fda5.jpg');">
+                                <a href="/article/67701">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67701">
+                                        일과 휴양을 함께 즐기는 워케이션이 대세라는데?                                    </a>
+                                </em>
+                                <p class="excerpt">쉼표와 마침표</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/db539340-baed-4ca2-b35e-a2bcde02fda5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 가장 핫한 국내 휴가지 울릉도]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67600</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67787</link>
             <guid>https://www.harpersbazaar.co.kr/article/67787</guid>
             <pubDate>Wed, 06 Jul 2022 09:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/f249a995-333c-4dcc-b712-2fb1df7651b2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/f249a995-333c-4dcc-b712-2fb1df7651b2.jpg');">
                                 <a href="/article/67787">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67787">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">흑돼지 말고 이색제주</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/70c71bb2-872e-4d5c-94b2-75e354799a1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근사한 제주 즐기기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67596</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67596</guid>
-            <pubDate>Tue, 05 Jul 2022 14:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/a3e94ab5-8117-470a-95f5-62b281717e61.jpg');">
-                                <a href="/article/67596">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67596">
-                                        근사한 제주 즐기기                                    </a>
-                                </em>
-                                <p class="excerpt">근사한 제주 즐기기</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/a3e94ab5-8117-470a-95f5-62b281717e61.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
