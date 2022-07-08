@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 09:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 10:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<탑건>에 <토르>까지.. <미니언즈> 커밍쑨!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67825</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67825</guid>
+            <pubDate>Fri, 08 Jul 2022 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/e0d41fb3-160b-4b52-8647-44aa6fbcd434.jpg');">
+                                <a href="/article/67825">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67825">
+                                        &lt;탑건&gt;에 &lt;토르&gt;까지.. &lt;미니언즈&gt; 커밍쑨!                                    </a>
+                                </em>
+                                <p class="excerpt">한국 영화시장=글로벌 흥행 척도 아닙니까🎬</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/e0d41fb3-160b-4b52-8647-44aa6fbcd434.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안 PICK! 놓치면 후회할 2022 상반기 결산템은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67793</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67772</link>
             <guid>https://www.harpersbazaar.co.kr/article/67772</guid>
             <pubDate>Thu, 07 Jul 2022 03:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/dffe69b7-8d5e-40ac-9867-0abdb9b2a6d6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/dffe69b7-8d5e-40ac-9867-0abdb9b2a6d6.jpg');">
                                 <a href="/article/67772">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67772">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">영화 &lt;탑건:매버릭&gt;의 흥행 배경을 분석하는 각 분야 전문가들의 흥미로운 뷰포인트! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10분컷! 설거지 귀찮을 땐 세상 쉬운 #원팬요리레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67689</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67689</guid>
-            <pubDate>Tue, 05 Jul 2022 05:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/6f95ea4f-1454-4d87-a649-d93ea49401f9.jpg');">
-                                <a href="/article/67689">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67689">
-                                        10분컷! 설거지 귀찮을 땐 세상 쉬운 #원팬요리레시피                                    </a>
-                                </em>
-                                <p class="excerpt">이것저것 필요 없이 프라이팬 하나면 해결되는 초간단 레시피! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/6f95ea4f-1454-4d87-a649-d93ea49401f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
