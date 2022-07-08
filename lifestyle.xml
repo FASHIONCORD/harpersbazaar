@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 03:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스 걸그룹 '에스파'가 전하는 지속가능성의 중요성]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67830</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67830</guid>
+            <pubDate>Fri, 08 Jul 2022 04:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9a3ea91-2207-4857-94d1-31c1feee0d81.jpg');">
+                                <a href="/article/67830">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67830">
+                                        메타버스 걸그룹 '에스파'가 전하는 지속가능성의 중요성                                    </a>
+                                </em>
+                                <p class="excerpt">지속가능한 지구 없이는 가상 세계도 없다! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9a3ea91-2207-4857-94d1-31c1feee0d81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼭 먹어야 하는 울릉도 로컬음식]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67601</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67701</link>
             <guid>https://www.harpersbazaar.co.kr/article/67701</guid>
             <pubDate>Thu, 07 Jul 2022 08:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/db539340-baed-4ca2-b35e-a2bcde02fda5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/db539340-baed-4ca2-b35e-a2bcde02fda5.jpg');">
                                 <a href="/article/67701">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67701">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">2022년이 벌써 반이나 지났다. 혹시 새해에 한 다짐들이 작심삼일로 그치지는 않았나. 하지만 아...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/cb8e9b54-9cab-47dd-9e1e-a152fcc4d94f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상순 카페, 롱플레이. 이제는 기다리지 마세요.]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67787</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67787</guid>
-            <pubDate>Wed, 06 Jul 2022 09:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/f249a995-333c-4dcc-b712-2fb1df7651b2.jpg');">
-                                <a href="/article/67787">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67787">
-                                        이상순 카페, 롱플레이. 이제는 기다리지 마세요.                                    </a>
-                                </em>
-                                <p class="excerpt">7월 7일 낮 12시에 예약이 가능하다. 어디에서? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/f249a995-333c-4dcc-b712-2fb1df7651b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

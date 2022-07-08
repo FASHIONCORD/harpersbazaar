@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 03:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 첫번째 하이엔드 립스틱 루쥬 알뤼르 렉스트레 출시]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67273</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67273</guid>
+            <pubDate>Fri, 08 Jul 2022 04:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8b43df4c-63ef-45be-b1b8-553abacc39bc.jpg');">
+                                <a href="/article/67273">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67273">
+                                        샤넬 첫번째 하이엔드 립스틱 루쥬 알뤼르 렉스트레 출시                                    </a>
+                                </em>
+                                <p class="excerpt">한 번의 제스처로 감각적이고 풍부한 립 컬러가 완성된다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8b43df4c-63ef-45be-b1b8-553abacc39bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소스 팍팍인데 다이어트 음식이라고? 든든한 다이어트 오므라이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67677</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67511</link>
             <guid>https://www.harpersbazaar.co.kr/article/67511</guid>
             <pubDate>Sat, 02 Jul 2022 15:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/e4cb5fb0-eb4f-44d6-818e-7f49ae31acac.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/e4cb5fb0-eb4f-44d6-818e-7f49ae31acac.jpg');">
                                 <a href="/article/67511">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67511">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">스포티부터 매니시까지, 1인 3색 분위기. 나는 어떻게 찍을까?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/dec0880d-5cd7-485d-9460-e6782861789b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RM부터 김혜수까지, #오운완 인증!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67446</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67446</guid>
-            <pubDate>Tue, 28 Jun 2022 16:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/f1a92db6-aea4-4754-874b-2f1f8ed945c5.jpg');">
-                                <a href="/article/67446">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67446">
-                                        RM부터 김혜수까지, #오운완 인증!                                     </a>
-                                </em>
-                                <p class="excerpt">톱스타들도 하는데, 왜 못 해? 바쁘단 핑계는 이제 그만~</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/f1a92db6-aea4-4754-874b-2f1f8ed945c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
