@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매운맛 제대로! 드라마 <안나> 속 명대사]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67838</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67838</guid>
+            <pubDate>Fri, 08 Jul 2022 06:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg');">
+                                <a href="/article/67838">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67838">
+                                        매운맛 제대로! 드라마 &lt;안나&gt; 속 명대사                                    </a>
+                                </em>
+                                <p class="excerpt">화제의 드라마 &lt;안나&gt; 속 뼈 때리는 명대사 모음! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타버스 걸그룹 '에스파'가 전하는 지속가능성의 중요성]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67830</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67812</link>
             <guid>https://www.harpersbazaar.co.kr/article/67812</guid>
             <pubDate>Thu, 07 Jul 2022 13:49:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/cb144b4a-294e-4bca-8ef7-f104aa4a7d91.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/cb144b4a-294e-4bca-8ef7-f104aa4a7d91.jpg');">
                                 <a href="/article/67812">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67812">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">삶의 질이 수직 상승! 알아두면 유용한 채정안의 찐 추천템! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남은 한 해, 실패하지 않는 계획 세우기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67790</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67790</guid>
-            <pubDate>Wed, 06 Jul 2022 12:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/cb8e9b54-9cab-47dd-9e1e-a152fcc4d94f.jpg');">
-                                <a href="/article/67790">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67790">
-                                        남은 한 해, 실패하지 않는 계획 세우기                                    </a>
-                                </em>
-                                <p class="excerpt">2022년이 벌써 반이나 지났다. 혹시 새해에 한 다짐들이 작심삼일로 그치지는 않았나. 하지만 아...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/cb8e9b54-9cab-47dd-9e1e-a152fcc4d94f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
