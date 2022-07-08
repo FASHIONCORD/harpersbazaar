@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 07:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 08:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다를 위한다면 선(善)크림을 챙기세요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67594</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67594</guid>
+            <pubDate>Fri, 08 Jul 2022 08:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/93df8368-b225-464b-a81c-4d1cc58f0f94.jpg');">
+                                <a href="/article/67594">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67594">
+                                        바다를 위한다면 선(善)크림을 챙기세요                                     </a>
+                                </em>
+                                <p class="excerpt">“우리가 하는 행동이 바다에 붓는 한 방울의 물보다 하찮게 느껴질 수도 있다. 하지만 그 한...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/93df8368-b225-464b-a81c-4d1cc58f0f94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 첫번째 하이엔드 립스틱 루쥬 알뤼르 렉스트레 출시]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67273</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67544</link>
             <guid>https://www.harpersbazaar.co.kr/article/67544</guid>
             <pubDate>Mon, 04 Jul 2022 09:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/6bda9ff5-fd07-4691-80cb-7b1f33e56a12.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/6bda9ff5-fd07-4691-80cb-7b1f33e56a12.jpg');">
                                 <a href="/article/67544">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67544">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">맛있고 든든하게 다이어트 시작!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2d5f804e-8148-4402-b503-fe457e8839b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바프 준비중이라면 참고! 유이가 찍은 세 가지 바디프로필]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67447</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67447</guid>
-            <pubDate>Thu, 30 Jun 2022 08:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/dec0880d-5cd7-485d-9460-e6782861789b.jpg');">
-                                <a href="/article/67447">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67447">
-                                        바프 준비중이라면 참고! 유이가 찍은 세 가지 바디프로필                                    </a>
-                                </em>
-                                <p class="excerpt">스포티부터 매니시까지, 1인 3색 분위기. 나는 어떻게 찍을까?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/dec0880d-5cd7-485d-9460-e6782861789b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
