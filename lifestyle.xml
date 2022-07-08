@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도 아이스크림 사 먹니? 해외에서 유행 중인 #프로즌요거트바크]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67843</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67843</guid>
+            <pubDate>Fri, 08 Jul 2022 07:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d806028d-340d-492e-a7fc-bda53d4024a9.jpg');">
+                                <a href="/article/67843">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67843">
+                                        아직도 아이스크림 사 먹니? 해외에서 유행 중인 #프로즌요거트바크                                    </a>
+                                </em>
+                                <p class="excerpt">쉬어도 너무 쉽다! 요거트만 있으면 건강한 홈메이드 아이스크림 완성! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d806028d-340d-492e-a7fc-bda53d4024a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매운맛 제대로! 드라마 <안나> 속 명대사]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67838</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67818</link>
             <guid>https://www.harpersbazaar.co.kr/article/67818</guid>
             <pubDate>Thu, 07 Jul 2022 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/2128951d-3336-4af3-b754-274562503b21.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/2128951d-3336-4af3-b754-274562503b21.jpg');">
                                 <a href="/article/67818">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67818">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지나온 길이 아름답다</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/12057e95-ca62-40f9-bcf0-c4288a7be762.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채정안 PICK! 놓치면 후회할 2022 상반기 결산템은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67793</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67793</guid>
-            <pubDate>Wed, 06 Jul 2022 15:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg');">
-                                <a href="/article/67793">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67793">
-                                        채정안 PICK! 놓치면 후회할 2022 상반기 결산템은?                                    </a>
-                                </em>
-                                <p class="excerpt">삶의 질이 수직 상승! 알아두면 유용한 채정안의 찐 추천템! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
