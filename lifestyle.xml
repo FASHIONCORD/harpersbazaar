@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 08:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 09:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[군위, 사유의 정원]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67670</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67670</guid>
+            <pubDate>Fri, 08 Jul 2022 09:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ae38b35f-c13a-470c-b022-9b1983570501.jpg');">
+                                <a href="/article/67670">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67670">
+                                        군위, 사유의 정원                                    </a>
+                                </em>
+                                <p class="excerpt">사유의 정원</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ae38b35f-c13a-470c-b022-9b1983570501.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직도 아이스크림 사 먹니? 해외에서 유행 중인 #프로즌요거트바크]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67843</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67601</link>
             <guid>https://www.harpersbazaar.co.kr/article/67601</guid>
             <pubDate>Thu, 07 Jul 2022 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d7adb531-83ab-4a04-9ca6-9519165ddfa5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d7adb531-83ab-4a04-9ca6-9519165ddfa5.jpg');">
                                 <a href="/article/67601">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67601">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">쉼표와 마침표</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/db539340-baed-4ca2-b35e-a2bcde02fda5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 핫한 국내 휴가지 울릉도]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67600</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67600</guid>
-            <pubDate>Thu, 07 Jul 2022 03:52:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/12057e95-ca62-40f9-bcf0-c4288a7be762.jpg');">
-                                <a href="/article/67600">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67600">
-                                        지금 가장 핫한 국내 휴가지 울릉도                                    </a>
-                                </em>
-                                <p class="excerpt">지나온 길이 아름답다</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/12057e95-ca62-40f9-bcf0-c4288a7be762.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
