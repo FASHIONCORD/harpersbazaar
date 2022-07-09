@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 17:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 18:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옆집보다 에어컨 적게 틀면 '에너지 캐시백' 받는다고? #이슈있슈]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67866</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67866</guid>
+            <pubDate>Sat, 09 Jul 2022 18:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/99dba30c-22e3-4517-94dc-50176e5507e1.jpg');">
+                                <a href="/article/67866">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67866">
+                                        옆집보다 에어컨 적게 틀면 '에너지 캐시백' 받는다고? #이슈있슈                                    </a>
+                                </em>
+                                <p class="excerpt">누가 누가 전기 덜 쓰나</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/99dba30c-22e3-4517-94dc-50176e5507e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초면인 사람과 '택시 합승'이 가능해졌다 #이슈있슈]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67864</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67843</link>
             <guid>https://www.harpersbazaar.co.kr/article/67843</guid>
             <pubDate>Fri, 08 Jul 2022 07:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d806028d-340d-492e-a7fc-bda53d4024a9.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d806028d-340d-492e-a7fc-bda53d4024a9.jpg');">
                                 <a href="/article/67843">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67843">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">꼭 먹어야 하는 울릉도 로컬음식</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d7adb531-83ab-4a04-9ca6-9519165ddfa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더울 땐 뭐다? #냉국수레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67818</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67818</guid>
-            <pubDate>Thu, 07 Jul 2022 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/2128951d-3336-4af3-b754-274562503b21.jpg');">
-                                <a href="/article/67818">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67818">
-                                        더울 땐 뭐다? #냉국수레시피                                    </a>
-                                </em>
-                                <p class="excerpt">더위에 집 나간 입맛을 찾아드립니다. 젓가락을 멈출 수 없는 냉국수 레시피!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/2128951d-3336-4af3-b754-274562503b21.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
