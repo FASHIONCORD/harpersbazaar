@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 14:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 15:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쫀득 탱글, 냉우동 맛집 4]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67869</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67869</guid>
+            <pubDate>Sun, 10 Jul 2022 15:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/bc41ba38-4853-4399-9dbf-a98fd64298a4.jpg');">
+                                <a href="/article/67869">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67869">
+                                        쫀득 탱글, 냉우동 맛집 4                                    </a>
+                                </em>
+                                <p class="excerpt">찍어 먹을까, 비벼 먹을까</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/bc41ba38-4853-4399-9dbf-a98fd64298a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옆집보다 에어컨 적게 틀면 '에너지 캐시백' 받는다고? #이슈있슈]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67866</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67670</link>
             <guid>https://www.harpersbazaar.co.kr/article/67670</guid>
             <pubDate>Fri, 08 Jul 2022 09:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ae38b35f-c13a-470c-b022-9b1983570501.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ae38b35f-c13a-470c-b022-9b1983570501.jpg');">
                                 <a href="/article/67670">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67670">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지속가능한 지구 없이는 가상 세계도 없다! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9a3ea91-2207-4857-94d1-31c1feee0d81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼭 먹어야 하는 울릉도 로컬음식]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67601</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67601</guid>
-            <pubDate>Thu, 07 Jul 2022 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d7adb531-83ab-4a04-9ca6-9519165ddfa5.jpg');">
-                                <a href="/article/67601">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67601">
-                                        꼭 먹어야 하는 울릉도 로컬음식                                    </a>
-                                </em>
-                                <p class="excerpt">꼭 먹어야 하는 울릉도 로컬음식</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d7adb531-83ab-4a04-9ca6-9519165ddfa5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
