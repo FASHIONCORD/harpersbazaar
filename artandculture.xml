@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베니스의 전통과 장인정신을 입은 파스티치노 백]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67781</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67781</guid>
+            <pubDate>Mon, 11 Jul 2022 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d858328c-ce11-46c8-a51e-1a6a8bb6c712.jpg');">
+                                <a href="/article/67781">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67781">
+                                        베니스의 전통과 장인정신을 입은 파스티치노 백                                    </a>
+                                </em>
+                                <p class="excerpt"></p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d858328c-ce11-46c8-a51e-1a6a8bb6c712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<탑건>에 <토르>까지.. <미니언즈> 커밍쑨!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67825</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67776</link>
             <guid>https://www.harpersbazaar.co.kr/article/67776</guid>
             <pubDate>Thu, 07 Jul 2022 07:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ab76c226-f9d2-46b6-8fee-a50a6531610c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ab76c226-f9d2-46b6-8fee-a50a6531610c.jpg');">
                                 <a href="/article/67776">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67776">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">#복수 #상류사회 #야망 김희선×정유진×차지연 3色 매력</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/4b278580-ea08-4eaa-86e9-decdeecf21ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 탑건 매버릭, 도대체 왜 이렇게 인기 있는 걸까? 스포일러 주의!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67691</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67691</guid>
-            <pubDate>Tue, 05 Jul 2022 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg');">
-                                <a href="/article/67691">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67691">
-                                        영화 탑건 매버릭, 도대체 왜 이렇게 인기 있는 걸까? 스포일러 주의!                                     </a>
-                                </em>
-                                <p class="excerpt">영화 &lt;탑건:매버릭&gt;의 흥행 배경을 분석하는 각 분야 전문가들의 흥미로운 뷰포인트! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/eef7a766-70d6-4bba-af2d-f55dd53279b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
