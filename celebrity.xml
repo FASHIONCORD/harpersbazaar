@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 12:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 13:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타버스 걸그룹 '에스파'가 전하는 지속가능성의 중요성]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67830</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67830</guid>
+            <pubDate>Mon, 11 Jul 2022 13:38:51 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9a3ea91-2207-4857-94d1-31c1feee0d81.jpg');">
+                                <a href="/article/67830">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67830">
+                                        메타버스 걸그룹 '에스파'가 전하는 지속가능성의 중요성                                    </a>
+                                </em>
+                                <p class="excerpt">지속가능한 지구 없이는 가상 세계도 없다! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d9a3ea91-2207-4857-94d1-31c1feee0d81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채정안 PICK! 놓치면 후회할 2022 상반기 결산템은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67793</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67690</link>
             <guid>https://www.harpersbazaar.co.kr/article/67690</guid>
             <pubDate>Thu, 07 Jul 2022 07:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/39fe62e0-3dd5-42d6-b675-45e6cbf08b34.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/39fe62e0-3dd5-42d6-b675-45e6cbf08b34.jpg');">
                                 <a href="/article/67690">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67690">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">발 빠르게 접수해야 할 서울의 새로운 복합문화공간들. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/22c43fff-90ad-477a-9387-c6b1cbab2444.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 서현진인가]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67541</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67541</guid>
-            <pubDate>Fri, 01 Jul 2022 11:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d3da1542-6199-4cd7-be15-f59e232dbf6c.jpg');">
-                                <a href="/article/67541">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67541">
-                                        왜 서현진인가                                    </a>
-                                </em>
-                                <p class="excerpt">항상 확신에 찬 모습을 한 서현진.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/d3da1542-6199-4cd7-be15-f59e232dbf6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
