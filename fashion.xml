@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 14:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 15:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인간 샤넬 마리옹 꼬띠아르가 택한 ‘1932’ 하이 주얼리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67846</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67846</guid>
+            <pubDate>Tue, 12 Jul 2022 15:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/28b0c7dc-4b5f-4a06-ad35-6b7050948d45.jpg');">
+                                <a href="/article/67846">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67846">
+                                        인간 샤넬 마리옹 꼬띠아르가 택한 ‘1932’ 하이 주얼리                                    </a>
+                                </em>
+                                <p class="excerpt">샤넬 1932 하이 주얼리 컬렉션 출시 만찬에서 마리옹 꼬띠아르를 빛나게 한 것.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/28b0c7dc-4b5f-4a06-ad35-6b7050948d45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리사부터 윤아까지 스타들의 운동복 패션]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67871</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67836</link>
             <guid>https://www.harpersbazaar.co.kr/article/67836</guid>
             <pubDate>Sat, 09 Jul 2022 16:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/89b22700-4c43-491f-8fce-d2c56bb7a47d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/89b22700-4c43-491f-8fce-d2c56bb7a47d.jpg');">
                                 <a href="/article/67836">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67836">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">새롭게 오픈할 데이즈데이즈 쇼룸에서 입어본 여름 신상 바캉스룩!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/40c2f3cd-59d6-4675-a088-1157768d878b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 준비, 수영복 가이드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67602</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67602</guid>
-            <pubDate>Thu, 07 Jul 2022 07:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/89aafc09-9938-4d1a-8630-924ab2e6deab.jpg');">
-                                <a href="/article/67602">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67602">
-                                        여름 준비, 수영복 가이드                                    </a>
-                                </em>
-                                <p class="excerpt">목적지가 어디든, 떠날 준비를 시작한 이들을 위한 비치웨어 가이드.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/89aafc09-9938-4d1a-8630-924ab2e6deab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
