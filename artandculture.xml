@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 01:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 03:57:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<우영우>에 빠졌다면.. 챙겨볼 박은빈 전작.zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67833</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67833</guid>
+            <pubDate>Tue, 12 Jul 2022 03:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/72b68798-3e02-45af-85f4-ef66e07207c1.jpg');">
+                                <a href="/article/67833">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67833">
+                                        &lt;우영우&gt;에 빠졌다면.. 챙겨볼 박은빈 전작.zip                                    </a>
+                                </em>
+                                <p class="excerpt">어휴, 요즘 '우영우' 모르면 소외됩니다~!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/72b68798-3e02-45af-85f4-ef66e07207c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베니스의 전통과 장인정신을 입은 파스티치노 백]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67781</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67779</link>
             <guid>https://www.harpersbazaar.co.kr/article/67779</guid>
             <pubDate>Thu, 07 Jul 2022 07:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/15a9c54f-7779-4df6-8eb6-13f4f35c0969.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/15a9c54f-7779-4df6-8eb6-13f4f35c0969.jpg');">
                                 <a href="/article/67779">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67779">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">테일러 스위프트와 조 알윈의 깜짝 약혼 소식!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김희선, <블랙의 신부>로 컴백. "결혼은 비즈니스"]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67710</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67710</guid>
-            <pubDate>Tue, 05 Jul 2022 12:33:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/4b278580-ea08-4eaa-86e9-decdeecf21ae.jpg');">
-                                <a href="/article/67710">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67710">
-                                        김희선, &lt;블랙의 신부&gt;로 컴백. "결혼은 비즈니스"                                    </a>
-                                </em>
-                                <p class="excerpt">#복수 #상류사회 #야망 김희선×정유진×차지연 3色 매력</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/4b278580-ea08-4eaa-86e9-decdeecf21ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
