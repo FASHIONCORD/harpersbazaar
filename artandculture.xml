@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 07:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 08:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매운맛 제대로! 드라마 <안나> 속 명대사]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67838</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67838</guid>
+            <pubDate>Tue, 12 Jul 2022 08:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg');">
+                                <a href="/article/67838">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67838">
+                                        매운맛 제대로! 드라마 &lt;안나&gt; 속 명대사                                    </a>
+                                </em>
+                                <p class="excerpt">화제의 드라마 &lt;안나&gt; 속 뼈 때리는 명대사 모음! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<우영우>에 빠졌다면.. 챙겨볼 박은빈 전작.zip]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67833</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67793</link>
             <guid>https://www.harpersbazaar.co.kr/article/67793</guid>
             <pubDate>Thu, 07 Jul 2022 11:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg');">
                                 <a href="/article/67793">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67793">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">꼭 챙겨봐야 할, 지금 최고 핫한 드라마 &lt;우영우&gt;</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/dffe69b7-8d5e-40ac-9867-0abdb9b2a6d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 끝, 결혼 임박! 테일러 스위프트&조 알윈]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67718</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67718</guid>
-            <pubDate>Thu, 07 Jul 2022 03:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg');">
-                                <a href="/article/67718">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67718">
-                                        연애 끝, 결혼 임박! 테일러 스위프트&amp;조 알윈                                    </a>
-                                </em>
-                                <p class="excerpt">테일러 스위프트와 조 알윈의 깜짝 약혼 소식!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
