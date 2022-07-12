@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리사부터 윤아까지 스타들의 운동복 패션]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67871</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67871</guid>
+            <pubDate>Tue, 12 Jul 2022 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/2fd9787a-86d2-40b9-a0cf-33f8627fc7b4.jpg');">
+                                <a href="/article/67871">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67871">
+                                        리사부터 윤아까지 스타들의 운동복 패션                                     </a>
+                                </em>
+                                <p class="excerpt">운동 중에도 스타일은 포기 못 하지</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/2fd9787a-86d2-40b9-a0cf-33f8627fc7b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[함부로 따라 할 수 없는, 이유리의 #마름탄탄 다이어트 방법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67844</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67558</link>
             <guid>https://www.harpersbazaar.co.kr/article/67558</guid>
             <pubDate>Fri, 08 Jul 2022 10:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/d87fce86-91af-4a7e-bc75-0331440a77ed.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/d87fce86-91af-4a7e-bc75-0331440a77ed.jpg');">
                                 <a href="/article/67558">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67558">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">목적지가 어디든, 떠날 준비를 시작한 이들을 위한 비치웨어 가이드.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/89aafc09-9938-4d1a-8630-924ab2e6deab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 끝, 결혼 임박! 테일러 스위프트&조 알윈]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67718</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67718</guid>
-            <pubDate>Thu, 07 Jul 2022 07:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg');">
-                                <a href="/article/67718">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67718">
-                                        연애 끝, 결혼 임박! 테일러 스위프트&amp;조 알윈                                    </a>
-                                </em>
-                                <p class="excerpt">테일러 스위프트와 조 알윈의 깜짝 약혼 소식!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/feb445d2-aecc-45e2-9719-3b2e73beefaa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
