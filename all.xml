@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 15:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 16:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1635,6 +1635,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/15a9c54f-7779-4df6-8eb6-13f4f35c0969.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['논-비건'의 입맛을 사로잡은 신상 비건 식당 2 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67955</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67955</guid>
+            <pubDate>Wed, 13 Jul 2022 16:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg');">
+                                <a href="/article/67955">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67955">
+                                        '논-비건'의 입맛을 사로잡은 신상 비건 식당 2                                    </a>
+                                </em>
+                                <p class="excerpt">맛있는 음식으로 지구를 위한 가치 소비를 실천해보자! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[목포로 떠나는 시간여행 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67773</link>
             <guid>https://www.harpersbazaar.co.kr/article/67773</guid>
@@ -1714,17 +1739,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67915</link>
             <guid>https://www.harpersbazaar.co.kr/article/67915</guid>
             <pubDate>Wed, 13 Jul 2022 07:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/d4e15b37-b0f2-46df-b853-185227b4b9b6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/d4e15b37-b0f2-46df-b853-185227b4b9b6.jpg');">
                                 <a href="/article/67915">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67915">
@@ -1805,30 +1829,6 @@
                                 <p class="excerpt">지루한 일상을 환기시켜 줄 산뜻한 신상 핫플! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/1b9e1804-f958-45a5-89c9-3558f9fde06d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 드라마 안나, 원작 소설이 따로 있다고? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67875</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67875</guid>
-            <pubDate>Mon, 11 Jul 2022 11:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/599e58d0-5584-42a8-b154-7c5787731eea.jpg');">
-                                <a href="/article/67875">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67875">
-                                        화제의 드라마 안나, 원작 소설이 따로 있다고?                                     </a>
-                                </em>
-                                <p class="excerpt">지금 서점가를 뜨겁게 달구고 있는 화제의 책들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/599e58d0-5584-42a8-b154-7c5787731eea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰레기 백과사전이 있다면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
