@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 04:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 05:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쓰레기 백과사전이 있다면?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/65886</link>
+            <guid>https://www.harpersbazaar.co.kr/article/65886</guid>
+            <pubDate>Wed, 13 Jul 2022 05:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg');">
+                                <a href="/article/65886">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/65886">
+                                        쓰레기 백과사전이 있다면?                                    </a>
+                                </em>
+                                <p class="excerpt">소량 남은 향수와 치약, 낡은 배드민턴 라켓, 택배 상자에 동봉된 아이스팩, 빈 프링글스 통은...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나 걸린 후 폐기물을 버려보았다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/65870</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65163</link>
             <guid>https://www.harpersbazaar.co.kr/article/65163</guid>
             <pubDate>Fri, 03 Jun 2022 16:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/bd623d18-b069-462a-87a1-f13efdc1016e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/bd623d18-b069-462a-87a1-f13efdc1016e.jpg');">
                                 <a href="/article/65163">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65163">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">좋은 건 나눠야 제 맛! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/26/a0d10d98-ae13-4079-b544-8aed05bc6e10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구에 사는 우리가 필수로 읽어야 할 책 16권]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65123</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65123</guid>
-            <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/85ecfa7a-5e46-455e-9687-5712089b64f3.jpg');">
-                                <a href="/article/65123">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65123">
-                                        지구에 사는 우리가 필수로 읽어야 할 책 16권                                    </a>
-                                </em>
-                                <p class="excerpt">기후위기 탈출 안내부터 일상에서 지켜야 할 생활습관까지, 지구에 사는 우리가 읽어야 할 책 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/12/85ecfa7a-5e46-455e-9687-5712089b64f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
