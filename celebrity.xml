@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 06:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[22fw 오트 쿠튀르에 참석한 셀러브리티 스타일 모음.zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67918</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67918</guid>
+            <pubDate>Wed, 13 Jul 2022 07:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/5ff16cd2-d260-4001-92e0-d45eac21e165.jpg');">
+                                <a href="/article/67918">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67918">
+                                        22fw 오트 쿠튀르에 참석한 셀러브리티 스타일 모음.zip                                     </a>
+                                </em>
+                                <p class="excerpt">런웨이 밖에서 펼쳐지는 화려한 룩의 향연</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/5ff16cd2-d260-4001-92e0-d45eac21e165.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리의 찐 뷰티템? 손민수 안 하고는 못 참아!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67811</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67793</link>
             <guid>https://www.harpersbazaar.co.kr/article/67793</guid>
             <pubDate>Mon, 11 Jul 2022 09:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg');">
                                 <a href="/article/67793">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67793">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">김나영 슨배님께도 한 마디! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/39fe62e0-3dd5-42d6-b675-45e6cbf08b34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔믹스의 생애 첫! 매거진 커버 촬영장에서는 무슨 일이?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67599</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67599</guid>
-            <pubDate>Wed, 06 Jul 2022 08:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/af0abb23-f9bd-4f84-85a0-24260e0cd1fe.jpg');">
-                                <a href="/article/67599">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67599">
-                                        엔믹스의 생애 첫! 매거진 커버 촬영장에서는 무슨 일이?                                    </a>
-                                </em>
-                                <p class="excerpt">멤버들의 케미가 돋보이는 화보 촬영 비하인드 인터뷰 공개!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/af0abb23-f9bd-4f84-85a0-24260e0cd1fe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
