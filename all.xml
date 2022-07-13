@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 12:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 13:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1635,6 +1635,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/dffe69b7-8d5e-40ac-9867-0abdb9b2a6d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[목포로 떠나는 시간여행 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67773</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67773</guid>
+            <pubDate>Wed, 13 Jul 2022 13:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e3f75e4a-2846-47b5-a4eb-d80ca49708f9.jpg');">
+                                <a href="/article/67773">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67773">
+                                        목포로 떠나는 시간여행                                    </a>
+                                </em>
+                                <p class="excerpt">1897년부터 2022년까지, 목포의 시간을 걷다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e3f75e4a-2846-47b5-a4eb-d80ca49708f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고성에서 워케이션 주간 보내기 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67707</link>
             <guid>https://www.harpersbazaar.co.kr/article/67707</guid>
@@ -1714,17 +1739,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67704</link>
             <guid>https://www.harpersbazaar.co.kr/article/67704</guid>
             <pubDate>Wed, 13 Jul 2022 07:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/4e9c8a39-b982-4e7d-8c43-2076ff56708e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/4e9c8a39-b982-4e7d-8c43-2076ff56708e.jpg');">
                                 <a href="/article/67704">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67704">
@@ -1805,30 +1829,6 @@
                                 <p class="excerpt">지금 서점가를 뜨겁게 달구고 있는 화제의 책들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/599e58d0-5584-42a8-b154-7c5787731eea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[썸머 홈 카페 개장 필수템! #후르츠청레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67873</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67873</guid>
-            <pubDate>Mon, 11 Jul 2022 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/769956bd-8df1-46c1-9cfc-97e5c8f897b8.jpg');">
-                                <a href="/article/67873">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67873">
-                                        썸머 홈 카페 개장 필수템! #후르츠청레시피                                    </a>
-                                </em>
-                                <p class="excerpt">이것만 있으면 카페 안 가도 된다. 여름 내 유용하게 활용할 과일청 레시피.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/769956bd-8df1-46c1-9cfc-97e5c8f897b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰레기 백과사전이 있다면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
