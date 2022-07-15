@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 01:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 03:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주 출신 사진가가 촬영한 제주 풍경]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67775</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67775</guid>
+            <pubDate>Fri, 15 Jul 2022 03:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg');">
+                                <a href="/article/67775">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67775">
+                                        제주 출신 사진가가 촬영한 제주 풍경                                    </a>
+                                </em>
+                                <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비빔국수가 지겨울 땐 모다? #냉파스타레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67984</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67919</link>
             <guid>https://www.harpersbazaar.co.kr/article/67919</guid>
             <pubDate>Thu, 14 Jul 2022 01:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8e33c964-c882-442c-8b5b-3e7eeeaa8ea9.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8e33c964-c882-442c-8b5b-3e7eeeaa8ea9.jpg');">
                                 <a href="/article/67919">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67919">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">화제의 드라마 &lt;안나&gt; 속 뼈 때리는 명대사 모음! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우영우>에 빠졌다면.. 챙겨볼 박은빈 전작.zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67833</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67833</guid>
-            <pubDate>Tue, 12 Jul 2022 03:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/72b68798-3e02-45af-85f4-ef66e07207c1.jpg');">
-                                <a href="/article/67833">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67833">
-                                        &lt;우영우&gt;에 빠졌다면.. 챙겨볼 박은빈 전작.zip                                    </a>
-                                </em>
-                                <p class="excerpt">어휴, 요즘 '우영우' 모르면 소외됩니다~!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/72b68798-3e02-45af-85f4-ef66e07207c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 01:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 03:55:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1440,6 +1440,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8793bb70-097d-475e-b794-b20c70fe8a14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제주 출신 사진가가 촬영한 제주 풍경 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67775</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67775</guid>
+            <pubDate>Fri, 15 Jul 2022 03:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg');">
+                                <a href="/article/67775">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67775">
+                                        제주 출신 사진가가 촬영한 제주 풍경                                    </a>
+                                </em>
+                                <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비빔국수가 지겨울 땐 모다? #냉파스타레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67984</link>
             <guid>https://www.harpersbazaar.co.kr/article/67984</guid>
@@ -1519,17 +1544,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67919</link>
             <guid>https://www.harpersbazaar.co.kr/article/67919</guid>
             <pubDate>Thu, 14 Jul 2022 01:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8e33c964-c882-442c-8b5b-3e7eeeaa8ea9.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8e33c964-c882-442c-8b5b-3e7eeeaa8ea9.jpg');">
                                 <a href="/article/67919">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67919">
@@ -1612,28 +1636,29 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<우영우>에 빠졌다면.. 챙겨볼 박은빈 전작.zip (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67833</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67833</guid>
-            <pubDate>Tue, 12 Jul 2022 03:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/72b68798-3e02-45af-85f4-ef66e07207c1.jpg');">
-                                <a href="/article/67833">
+            <title><![CDATA[비빔국수가 지겨울 땐 모다? #냉파스타레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67984</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67984</guid>
+            <pubDate>Thu, 14 Jul 2022 12:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/853d66a2-37c4-4a64-ac9b-5e42daa8887f.jpg');">
+                                <a href="/article/67984">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/67833">
-                                        &lt;우영우&gt;에 빠졌다면.. 챙겨볼 박은빈 전작.zip                                    </a>
+                                    <a href="/article/67984">
+                                        비빔국수가 지겨울 땐 모다? #냉파스타레시피                                    </a>
                                 </em>
-                                <p class="excerpt">어휴, 요즘 '우영우' 모르면 소외됩니다~!</p>
+                                <p class="excerpt">이렇게 더울 땐 뭐다? 차가울수록 더 맛있는 냉 파스타가 답! </p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/72b68798-3e02-45af-85f4-ef66e07207c1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/853d66a2-37c4-4a64-ac9b-5e42daa8887f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지각하면 못 봐요 #신상팝업 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -1715,17 +1740,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67955</link>
             <guid>https://www.harpersbazaar.co.kr/article/67955</guid>
             <pubDate>Wed, 13 Jul 2022 16:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg');">
                                 <a href="/article/67955">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67955">
@@ -1806,30 +1830,6 @@
                                 <p class="excerpt">하루 확진자 20만명 나올 수도</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/21e869cc-636d-4218-ba01-f7282ba8deb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년,  공항 완공 전에 울릉도를 꼭 가야하는 이유 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67915</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67915</guid>
-            <pubDate>Wed, 13 Jul 2022 07:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/d4e15b37-b0f2-46df-b853-185227b4b9b6.jpg');">
-                                <a href="/article/67915">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67915">
-                                        2025년,  공항 완공 전에 울릉도를 꼭 가야하는 이유                                    </a>
-                                </em>
-                                <p class="excerpt">어디서도 볼 수 없는 울릉도의 생생한 풍경과 맛집을 담다. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/d4e15b37-b0f2-46df-b853-185227b4b9b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰레기 백과사전이 있다면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
