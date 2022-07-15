@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['7kg 벌크업' 주원, 인간병기 변신.. <카터> 커밍쑨!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67990</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67990</guid>
+            <pubDate>Fri, 15 Jul 2022 10:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/2a163ebd-6937-4a05-baeb-4b80f0075cc2.jpg');">
+                                <a href="/article/67990">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67990">
+                                        '7kg 벌크업' 주원, 인간병기 변신.. &lt;카터&gt; 커밍쑨!                                    </a>
+                                </em>
+                                <p class="excerpt">주원의 필모그래피 사상 역대급 강.려.크.한 변신💪</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/2a163ebd-6937-4a05-baeb-4b80f0075cc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주 출신 사진가가 촬영한 제주 풍경]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67775</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67934</link>
             <guid>https://www.harpersbazaar.co.kr/article/67934</guid>
             <pubDate>Thu, 14 Jul 2022 12:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/01cdcddf-3e4f-4b02-a1c8-ff1fee4bba1a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/01cdcddf-3e4f-4b02-a1c8-ff1fee4bba1a.jpg');">
                                 <a href="/article/67934">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67934">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">쉬어도 너무 쉽다! 요거트만 있으면 건강한 홈메이드 아이스크림 완성! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/d806028d-340d-492e-a7fc-bda53d4024a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매운맛 제대로! 드라마 <안나> 속 명대사]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67838</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67838</guid>
-            <pubDate>Tue, 12 Jul 2022 08:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg');">
-                                <a href="/article/67838">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67838">
-                                        매운맛 제대로! 드라마 &lt;안나&gt; 속 명대사                                    </a>
-                                </em>
-                                <p class="excerpt">화제의 드라마 &lt;안나&gt; 속 뼈 때리는 명대사 모음! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

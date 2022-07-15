@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라마 안나의 빌런! 인생 캐릭터 만난 배우 #김준한]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68008</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68008</guid>
+            <pubDate>Fri, 15 Jul 2022 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a325ffd1-da2a-41e1-bc81-e04ad676b423.jpg');">
+                                <a href="/article/68008">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68008">
+                                        드라마 안나의 빌런! 인생 캐릭터 만난 배우 #김준한                                      </a>
+                                </em>
+                                <p class="excerpt">&lt;안나&gt;의 빌런! 카멜레온 같은 배우 김준한의 매력 탐구.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a325ffd1-da2a-41e1-bc81-e04ad676b423.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주 출신 사진가가 촬영한 제주 풍경]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67775</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67968</link>
             <guid>https://www.harpersbazaar.co.kr/article/67968</guid>
             <pubDate>Thu, 14 Jul 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/23f59a80-4deb-4ba3-b86b-ed69dc9af0ee.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/23f59a80-4deb-4ba3-b86b-ed69dc9af0ee.jpg');">
                                 <a href="/article/67968">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67968">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">1897년부터 2022년까지, 목포의 시간을 걷다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e3f75e4a-2846-47b5-a4eb-d80ca49708f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고성에서 워케이션 주간 보내기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67707</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67707</guid>
-            <pubDate>Wed, 13 Jul 2022 12:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/dd8ee14e-940f-4480-9c5d-006d0726180f.jpg');">
-                                <a href="/article/67707">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67707">
-                                        고성에서 워케이션 주간 보내기                                    </a>
-                                </em>
-                                <p class="excerpt">고성의 리듬 속으로</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/dd8ee14e-940f-4480-9c5d-006d0726180f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
