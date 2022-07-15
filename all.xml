@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1636,6 +1636,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3bf8d182-66a2-4a9f-974d-6eb671e87c9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제주 출신 사진가가 촬영한 제주 풍경 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67775</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67775</guid>
+            <pubDate>Fri, 15 Jul 2022 03:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg');">
+                                <a href="/article/67775">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67775">
+                                        제주 출신 사진가가 촬영한 제주 풍경                                    </a>
+                                </em>
+                                <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비빔국수가 지겨울 땐 모다? #냉파스타레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67984</link>
             <guid>https://www.harpersbazaar.co.kr/article/67984</guid>
@@ -1715,17 +1740,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67956</link>
             <guid>https://www.harpersbazaar.co.kr/article/67956</guid>
             <pubDate>Thu, 14 Jul 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/7a63c975-b738-4324-b81f-ea0416555b9c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/7a63c975-b738-4324-b81f-ea0416555b9c.jpg');">
                                 <a href="/article/67956">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67956">
@@ -1806,30 +1830,6 @@
                                 <p class="excerpt">고성의 리듬 속으로</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/dd8ee14e-940f-4480-9c5d-006d0726180f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나가 또… BA.5 변이로 재유행 본격화? #이슈있슈 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67917</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67917</guid>
-            <pubDate>Wed, 13 Jul 2022 09:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/21e869cc-636d-4218-ba01-f7282ba8deb7.jpg');">
-                                <a href="/article/67917">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67917">
-                                        코로나가 또… BA.5 변이로 재유행 본격화? #이슈있슈                                    </a>
-                                </em>
-                                <p class="excerpt">하루 확진자 20만명 나올 수도</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/21e869cc-636d-4218-ba01-f7282ba8deb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰레기 백과사전이 있다면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
