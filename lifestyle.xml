@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 14:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 15:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 먹어도 질리지 않는다는 윤승아의 찐식료품템!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68009</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68009</guid>
+            <pubDate>Fri, 15 Jul 2022 15:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/41ee92c3-8c12-4e2c-a6c0-b0609aa0d159.jpg');">
+                                <a href="/article/68009">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68009">
+                                        매일 먹어도 질리지 않는다는 윤승아의 찐식료품템!                                    </a>
+                                </em>
+                                <p class="excerpt">믿고 먹는 윤승아 PICK! 당장 장바구니에 쟁여야 할 식료품 리스트.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/41ee92c3-8c12-4e2c-a6c0-b0609aa0d159.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 안나의 빌런! 인생 캐릭터 만난 배우 #김준한]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68008</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67982</link>
             <guid>https://www.harpersbazaar.co.kr/article/67982</guid>
             <pubDate>Thu, 14 Jul 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/f22fbcf6-301b-4c30-bfda-216ff910ffba.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/f22fbcf6-301b-4c30-bfda-216ff910ffba.jpg');">
                                 <a href="/article/67982">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67982">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">맛있는 음식으로 지구를 위한 가치 소비를 실천해보자! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목포로 떠나는 시간여행]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67773</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67773</guid>
-            <pubDate>Wed, 13 Jul 2022 13:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e3f75e4a-2846-47b5-a4eb-d80ca49708f9.jpg');">
-                                <a href="/article/67773">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67773">
-                                        목포로 떠나는 시간여행                                    </a>
-                                </em>
-                                <p class="excerpt">1897년부터 2022년까지, 목포의 시간을 걷다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/e3f75e4a-2846-47b5-a4eb-d80ca49708f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
