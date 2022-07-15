@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<이상한 변호사 우영우> 동그라미, 패션 센스도 남달랐네?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67943</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67943</guid>
+            <pubDate>Fri, 15 Jul 2022 09:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8feb7939-9a0b-49fd-a2e2-e185288cfc09.jpg');">
+                                <a href="/article/67943">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67943">
+                                        &lt;이상한 변호사 우영우&gt; 동그라미, 패션 센스도 남달랐네?                                     </a>
+                                </em>
+                                <p class="excerpt">SNL의 그녀, 배우 주현영의 데일리룩은 어떨까?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8feb7939-9a0b-49fd-a2e2-e185288cfc09.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은퇴 암시한 브래드피트, '안면인식장애' 얼마나 심하길래 #이슈있슈]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67926</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67811</link>
             <guid>https://www.harpersbazaar.co.kr/article/67811</guid>
             <pubDate>Tue, 12 Jul 2022 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3b2845b0-7808-4115-b300-067762978abc.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3b2845b0-7808-4115-b300-067762978abc.jpg');">
                                 <a href="/article/67811">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67811">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">삶의 질이 수직 상승! 알아두면 유용한 채정안의 찐 추천템! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/ced5e001-e28e-4514-a270-65ae4fc2509d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I LOVE U' 완전체 컴백을 앞둔 위너 탐구 시간]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67720</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67720</guid>
-            <pubDate>Mon, 11 Jul 2022 09:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8793bb70-097d-475e-b794-b20c70fe8a14.jpg');">
-                                <a href="/article/67720">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67720">
-                                        'I LOVE U' 완전체 컴백을 앞둔 위너 탐구 시간                                    </a>
-                                </em>
-                                <p class="excerpt">팬들이 보낸 질문에 답한다! 알아두면 쓸데있는 잡학사전 위너 편</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/8793bb70-097d-475e-b794-b20c70fe8a14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
