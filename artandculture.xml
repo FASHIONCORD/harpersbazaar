@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 11:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 12:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더위에 아득해진 정신이 번쩍! #레몬레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68010</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68010</guid>
+            <pubDate>Sat, 16 Jul 2022 12:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg');">
+                                <a href="/article/68010">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68010">
+                                        더위에 아득해진 정신이 번쩍! #레몬레시피                                     </a>
+                                </em>
+                                <p class="excerpt">무더위에 지쳤나요? 그렇다면, 상큼한 레몬으로 몸도 마음도 프레시 업!  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 먹어도 질리지 않는다는 윤승아의 찐식료품템!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68009</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67775</link>
             <guid>https://www.harpersbazaar.co.kr/article/67775</guid>
             <pubDate>Fri, 15 Jul 2022 03:54:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg');">
                                 <a href="/article/67775">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67775">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">신하균 배우의 K-스타트업 창업 분투기!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/01cdcddf-3e4f-4b02-a1c8-ff1fee4bba1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 유튜브, 웨딩 브이로그의 최강자? 걍민경]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67919</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67919</guid>
-            <pubDate>Thu, 14 Jul 2022 01:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8e33c964-c882-442c-8b5b-3e7eeeaa8ea9.jpg');">
-                                <a href="/article/67919">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67919">
-                                        화제의 유튜브, 웨딩 브이로그의 최강자? 걍민경                                     </a>
-                                </em>
-                                <p class="excerpt">좋댓구알을 부르는 유튜브 추천 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8e33c964-c882-442c-8b5b-3e7eeeaa8ea9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
