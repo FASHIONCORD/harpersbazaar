@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 10:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 11:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더위에 아득해진 정신이 번쩍! #레몬레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68010</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68010</guid>
+            <pubDate>Sat, 16 Jul 2022 11:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg');">
+                                <a href="/article/68010">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68010">
+                                        더위에 아득해진 정신이 번쩍! #레몬레시피                                     </a>
+                                </em>
+                                <p class="excerpt">무더위에 지쳤나요? 그렇다면, 상큼한 레몬으로 몸도 마음도 프레시 업!  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 먹어도 질리지 않는다는 윤승아의 찐식료품템!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68009</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67984</link>
             <guid>https://www.harpersbazaar.co.kr/article/67984</guid>
             <pubDate>Fri, 15 Jul 2022 03:55:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/853d66a2-37c4-4a64-ac9b-5e42daa8887f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/853d66a2-37c4-4a64-ac9b-5e42daa8887f.jpg');">
                                 <a href="/article/67984">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67984">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">캠핑은 먹으러 가는 것 아닌가요? 한식, 양식 가리지 않고 모든 요리를 잘하는 배우 윤은혜가...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/7a63c975-b738-4324-b81f-ea0416555b9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['논-비건'의 입맛을 사로잡은 신상 비건 식당 2]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67955</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67955</guid>
-            <pubDate>Wed, 13 Jul 2022 16:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg');">
-                                <a href="/article/67955">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67955">
-                                        '논-비건'의 입맛을 사로잡은 신상 비건 식당 2                                    </a>
-                                </em>
-                                <p class="excerpt">맛있는 음식으로 지구를 위한 가치 소비를 실천해보자! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
