@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<이상한 변호사 우영우> 속 고래 사진의 정체가 궁금하다면?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68037</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68037</guid>
+            <pubDate>Mon, 18 Jul 2022 09:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/e3526066-3342-4bd2-88e9-c3ea014333d4.jpg');">
+                                <a href="/article/68037">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68037">
+                                        &lt;이상한 변호사 우영우&gt; 속 고래 사진의 정체가 궁금하다면?                                     </a>
+                                </em>
+                                <p class="excerpt">잠실 서울스카이에서 만날 수 있다! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/e3526066-3342-4bd2-88e9-c3ea014333d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몬테 카를로가 부럽지 않어 #테니스펜션]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68030</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68009</link>
             <guid>https://www.harpersbazaar.co.kr/article/68009</guid>
             <pubDate>Fri, 15 Jul 2022 15:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/41ee92c3-8c12-4e2c-a6c0-b0609aa0d159.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/41ee92c3-8c12-4e2c-a6c0-b0609aa0d159.jpg');">
                                 <a href="/article/68009">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68009">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이렇게 더울 땐 뭐다? 차가울수록 더 맛있는 냉 파스타가 답! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/853d66a2-37c4-4a64-ac9b-5e42daa8887f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지각하면 못 봐요 #신상팝업]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67982</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67982</guid>
-            <pubDate>Thu, 14 Jul 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/f22fbcf6-301b-4c30-bfda-216ff910ffba.jpg');">
-                                <a href="/article/67982">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67982">
-                                        지각하면 못 봐요 #신상팝업                                    </a>
-                                </em>
-                                <p class="excerpt">발 빠른 자만이 접수할 수 있다! 놓칠 수 없는 신상 팝업 스토어 소식. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/f22fbcf6-301b-4c30-bfda-216ff910ffba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
