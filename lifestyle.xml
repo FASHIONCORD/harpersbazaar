@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몬테 카를로가 부럽지 않어 #테니스펜션]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68030</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68030</guid>
+            <pubDate>Mon, 18 Jul 2022 06:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/cbb5f13b-4037-4384-a279-44eed7b8ecaf.jpg');">
+                                <a href="/article/68030">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68030">
+                                        몬테 카를로가 부럽지 않어 #테니스펜션                                     </a>
+                                </em>
+                                <p class="excerpt">테니스 피플들의 천국, 몬테 카를로도 부럽지 않다. 요즘 핫한 테니스 펜션들! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/cbb5f13b-4037-4384-a279-44eed7b8ecaf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘 기획한 매장, 열 광고 안 부럽다! '나이키 스타일 홍대'가 특별한 이유]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68019</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68008</link>
             <guid>https://www.harpersbazaar.co.kr/article/68008</guid>
             <pubDate>Fri, 15 Jul 2022 10:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a325ffd1-da2a-41e1-bc81-e04ad676b423.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a325ffd1-da2a-41e1-bc81-e04ad676b423.jpg');">
                                 <a href="/article/68008">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68008">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">발 빠른 자만이 접수할 수 있다! 놓칠 수 없는 신상 팝업 스토어 소식. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/f22fbcf6-301b-4c30-bfda-216ff910ffba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호캉스족이라면, 꼭 알아둬야 할 호이안 리조트는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67968</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67968</guid>
-            <pubDate>Thu, 14 Jul 2022 12:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/23f59a80-4deb-4ba3-b86b-ed69dc9af0ee.jpg');">
-                                <a href="/article/67968">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67968">
-                                        호캉스족이라면, 꼭 알아둬야 할 호이안 리조트는?                                     </a>
-                                </em>
-                                <p class="excerpt">베트남으로 팸투어를 다녀온 에디터의 4박5일 찐 리얼 리뷰 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/23f59a80-4deb-4ba3-b86b-ed69dc9af0ee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
