@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 11:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 12:28:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매일 먹어도 질리지 않는다는 윤승아의 찐식료품템!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68009</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68009</guid>
+            <pubDate>Tue, 19 Jul 2022 12:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/41ee92c3-8c12-4e2c-a6c0-b0609aa0d159.jpg');">
+                                <a href="/article/68009">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68009">
+                                        매일 먹어도 질리지 않는다는 윤승아의 찐식료품템!                                    </a>
+                                </em>
+                                <p class="excerpt">믿고 먹는 윤승아 PICK! 당장 장바구니에 쟁여야 할 식료품 리스트.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/41ee92c3-8c12-4e2c-a6c0-b0609aa0d159.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 안나의 빌런! 인생 캐릭터 만난 배우 #김준한]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68008</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67924</link>
             <guid>https://www.harpersbazaar.co.kr/article/67924</guid>
             <pubDate>Fri, 15 Jul 2022 10:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/3a249298-f4d4-43a3-b7ce-33b6ddc76a54.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/3a249298-f4d4-43a3-b7ce-33b6ddc76a54.jpg');">
                                 <a href="/article/67924">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67924">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">샤넬 1932 하이 주얼리 컬렉션 출시 만찬에서 마리옹 꼬띠아르를 빛나게 한 것.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/28b0c7dc-4b5f-4a06-ad35-6b7050948d45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리사부터 윤아까지 스타들의 운동복 패션]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67871</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67871</guid>
-            <pubDate>Tue, 12 Jul 2022 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/2fd9787a-86d2-40b9-a0cf-33f8627fc7b4.jpg');">
-                                <a href="/article/67871">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67871">
-                                        리사부터 윤아까지 스타들의 운동복 패션                                     </a>
-                                </em>
-                                <p class="excerpt">운동 중에도 스타일은 포기 못 하지</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/2fd9787a-86d2-40b9-a0cf-33f8627fc7b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
