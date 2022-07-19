@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 01:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 03:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혜리가 ‘입금’ 때문에 시작한 운동은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67872</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67872</guid>
+            <pubDate>Tue, 19 Jul 2022 03:56:31 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ff1a2da0-e453-4a15-9089-ce2bd79b633c.jpg');">
+                                <a href="/article/67872">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67872">
+                                        혜리가 ‘입금’ 때문에 시작한 운동은?                                     </a>
+                                </em>
+                                <p class="excerpt">생활체육인 혜리의 하루</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ff1a2da0-e453-4a15-9089-ce2bd79b633c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박나래 홈짐, 이렇게 꾸미려면 얼마 필요할까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67861</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67760</link>
             <guid>https://www.harpersbazaar.co.kr/article/67760</guid>
             <pubDate>Wed, 13 Jul 2022 10:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/310bcbd9-c7c9-4478-996b-5f91cd19415f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/310bcbd9-c7c9-4478-996b-5f91cd19415f.jpg');">
                                 <a href="/article/67760">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67760">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">김신영의 스트레스 타파! 다이어트 오므라이스 레시피</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e65fd5ad-0ac4-4966-b3f6-3f2673f18483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이핑크 남주의 여름맞이 다이어트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67676</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67676</guid>
-            <pubDate>Mon, 04 Jul 2022 20:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d508da82-f52d-4e7d-a5dd-3c5e6fdbb523.jpg');">
-                                <a href="/article/67676">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67676">
-                                        에이핑크 남주의 여름맞이 다이어트                                     </a>
-                                </em>
-                                <p class="excerpt">운동부터 부기빼기까지 활동기 관리법</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/d508da82-f52d-4e7d-a5dd-3c5e6fdbb523.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 01:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 03:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버터왕자 성시경도 인정한 #양송이스프라면]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68048</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68048</guid>
+            <pubDate>Tue, 19 Jul 2022 03:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
+                                <a href="/article/68048">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68048">
+                                        버터왕자 성시경도 인정한 #양송이스프라면                                    </a>
+                                </em>
+                                <p class="excerpt">호불호 극명하게 갈리는 화제의 신상 라면! 양송이 스프 라면을 맛있게 즐기는 꿀팁! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예술가의 눈으로 본 구미라는 도시]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67777</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68018</link>
             <guid>https://www.harpersbazaar.co.kr/article/68018</guid>
             <pubDate>Mon, 18 Jul 2022 03:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/8093ed3c-9bc2-4e92-b02d-923307f6cf1a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/8093ed3c-9bc2-4e92-b02d-923307f6cf1a.jpg');">
                                 <a href="/article/68018">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68018">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;안나&gt;의 빌런! 카멜레온 같은 배우 김준한의 매력 탐구.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a325ffd1-da2a-41e1-bc81-e04ad676b423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['7kg 벌크업' 주원, 인간병기 변신.. <카터> 커밍쑨!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67990</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67990</guid>
-            <pubDate>Fri, 15 Jul 2022 10:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/2a163ebd-6937-4a05-baeb-4b80f0075cc2.jpg');">
-                                <a href="/article/67990">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67990">
-                                        '7kg 벌크업' 주원, 인간병기 변신.. &lt;카터&gt; 커밍쑨!                                    </a>
-                                </em>
-                                <p class="excerpt">주원의 필모그래피 사상 역대급 강.려.크.한 변신💪</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/2a163ebd-6937-4a05-baeb-4b80f0075cc2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
