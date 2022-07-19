@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 07:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1636,6 +1636,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a325ffd1-da2a-41e1-bc81-e04ad676b423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예술가의 눈으로 본 구미라는 도시 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67777</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67777</guid>
+            <pubDate>Mon, 18 Jul 2022 09:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/5556b71b-5ec0-4d81-b36b-9b8bbd3b306d.jpg');">
+                                <a href="/article/67777">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67777">
+                                        예술가의 눈으로 본 구미라는 도시                                    </a>
+                                </em>
+                                <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/5556b71b-5ec0-4d81-b36b-9b8bbd3b306d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<이상한 변호사 우영우> 속 고래 사진의 정체가 궁금하다면? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68037</link>
             <guid>https://www.harpersbazaar.co.kr/article/68037</guid>
@@ -1715,17 +1740,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68010</link>
             <guid>https://www.harpersbazaar.co.kr/article/68010</guid>
             <pubDate>Sat, 16 Jul 2022 11:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg');">
                                 <a href="/article/68010">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68010">
@@ -1806,30 +1830,6 @@
                                 <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/50f8d9a5-f0d5-4204-86e1-1f5aa49c1afd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비빔국수가 지겨울 땐 모다? #냉파스타레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67984</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67984</guid>
-            <pubDate>Thu, 14 Jul 2022 12:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/853d66a2-37c4-4a64-ac9b-5e42daa8887f.jpg');">
-                                <a href="/article/67984">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67984">
-                                        비빔국수가 지겨울 땐 모다? #냉파스타레시피                                    </a>
-                                </em>
-                                <p class="excerpt">이렇게 더울 땐 뭐다? 차가울수록 더 맛있는 냉 파스타가 답! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/853d66a2-37c4-4a64-ac9b-5e42daa8887f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쓰레기 백과사전이 있다면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
