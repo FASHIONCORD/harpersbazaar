@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 23:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 01:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤이 엘비스의 대표곡을 부르면]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68086</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68086</guid>
+            <pubDate>Wed, 20 Jul 2022 01:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg');">
+                                <a href="/article/68086">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68086">
+                                        지드래곤이 엘비스의 대표곡을 부르면                                    </a>
+                                </em>
+                                <p class="excerpt">GD, &lt;엘비스&gt; 바즈 루어만 감독과 특급 콜라보</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 제이홉, 솔로곡 '방화' MV 뒷이야기 궁금해?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68057</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68033</link>
             <guid>https://www.harpersbazaar.co.kr/article/68033</guid>
             <pubDate>Mon, 18 Jul 2022 09:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/e9591548-8aa1-4a61-a9e4-c7010373f401.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/e9591548-8aa1-4a61-a9e4-c7010373f401.jpg');">
                                 <a href="/article/68033">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68033">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">다비치네 첫째 언니 시집보내기 프로젝트</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/fc985063-f861-44a4-b2d0-c36e3b9980fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 뷔의 인생 명언.zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67944</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67944</guid>
-            <pubDate>Sat, 16 Jul 2022 13:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/ea809c81-dc9a-4910-a2ba-bdf3c4ee9164.jpg');">
-                                <a href="/article/67944">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67944">
-                                        BTS 뷔의 인생 명언.zip                                    </a>
-                                </em>
-                                <p class="excerpt">‘태태어’의 소유자이자 ‘보라해’의 창시자, 그리고 예쁜 말 하기의 달인인 뷔의 힘이 나고 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/ea809c81-dc9a-4910-a2ba-bdf3c4ee9164.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
