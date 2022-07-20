@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 11:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 12:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고슴도치 감자 구이 먹어봤니? #이색감자요리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68112</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68112</guid>
+            <pubDate>Wed, 20 Jul 2022 12:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a4e78e9e-9085-4436-ae10-419167e19a70.jpg');">
+                                <a href="/article/68112">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68112">
+                                        고슴도치 감자 구이 먹어봤니? #이색감자요리                                    </a>
+                                </em>
+                                <p class="excerpt">만들기 쉽고 재밌는데, 맛까지 있다. 감자로 만드는 이색 레시피. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a4e78e9e-9085-4436-ae10-419167e19a70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리집 식물과 좀 더 친해지고 싶다면? #식물전시]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68109</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68048</link>
             <guid>https://www.harpersbazaar.co.kr/article/68048</guid>
             <pubDate>Tue, 19 Jul 2022 12:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
                                 <a href="/article/68048">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68048">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">잠실 서울스카이에서 만날 수 있다! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/e3526066-3342-4bd2-88e9-c3ea014333d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬테 카를로가 부럽지 않어 #테니스펜션]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68030</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68030</guid>
-            <pubDate>Mon, 18 Jul 2022 06:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/cbb5f13b-4037-4384-a279-44eed7b8ecaf.jpg');">
-                                <a href="/article/68030">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68030">
-                                        몬테 카를로가 부럽지 않어 #테니스펜션                                     </a>
-                                </em>
-                                <p class="excerpt">테니스 피플들의 천국, 몬테 카를로도 부럽지 않다. 요즘 핫한 테니스 펜션들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/cbb5f13b-4037-4384-a279-44eed7b8ecaf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
