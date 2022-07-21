@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[녹아도 맛있는 젤라토의 매력! #젤라토맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68114</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68114</guid>
+            <pubDate>Thu, 21 Jul 2022 10:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/2b9ebc7d-d6a3-4836-9aa0-4f6201f472be.jpg');">
+                                <a href="/article/68114">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68114">
+                                        녹아도 맛있는 젤라토의 매력! #젤라토맛집                                    </a>
+                                </em>
+                                <p class="excerpt">여름의 찐 행복! 잴라토 러버들이 강추하는 젤라토 맛집은 어디? </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/2b9ebc7d-d6a3-4836-9aa0-4f6201f472be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서교동에 나타난 마들렌 뮤지엄? #신상베이커리]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68113</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68087</link>
             <guid>https://www.harpersbazaar.co.kr/article/68087</guid>
             <pubDate>Wed, 20 Jul 2022 03:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/ea091864-6b57-49bf-9157-69351cba96fe.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/ea091864-6b57-49bf-9157-69351cba96fe.jpg');">
                                 <a href="/article/68087">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68087">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">단백질이 풍부해서 다이어트에 좋은 페타 치즈! 이렇게 먹으면 더 맛있어요.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/63cc902b-c135-4435-a22d-bd7edd76f500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술가의 눈으로 본 구미라는 도시]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67777</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67777</guid>
-            <pubDate>Tue, 19 Jul 2022 07:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/5556b71b-5ec0-4d81-b36b-9b8bbd3b306d.jpg');">
-                                <a href="/article/67777">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67777">
-                                        예술가의 눈으로 본 구미라는 도시                                    </a>
-                                </em>
-                                <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/5556b71b-5ec0-4d81-b36b-9b8bbd3b306d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

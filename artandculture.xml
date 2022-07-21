@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤이 엘비스의 대표곡을 부르면]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68086</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68086</guid>
+            <pubDate>Thu, 21 Jul 2022 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg');">
+                                <a href="/article/68086">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68086">
+                                        지드래곤이 엘비스의 대표곡을 부르면                                    </a>
+                                </em>
+                                <p class="excerpt">GD, &lt;엘비스&gt; 바즈 루어만 감독과 특급 콜라보</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸이 흠뻑쇼-서울에 참석한 게스트는 누구]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68067</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68048</link>
             <guid>https://www.harpersbazaar.co.kr/article/68048</guid>
             <pubDate>Tue, 19 Jul 2022 03:57:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
                                 <a href="/article/68048">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68048">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">잠실 서울스카이에서 만날 수 있다! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/e3526066-3342-4bd2-88e9-c3ea014333d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<우영우>가 소환한 주원×김향기×조승우]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68018</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68018</guid>
-            <pubDate>Mon, 18 Jul 2022 03:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/8093ed3c-9bc2-4e92-b02d-923307f6cf1a.jpg');">
-                                <a href="/article/68018">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68018">
-                                        &lt;우영우&gt;가 소환한 주원×김향기×조승우                                    </a>
-                                </em>
-                                <p class="excerpt">보셨나요? 연기로 펼치는 선한 영향력!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/8093ed3c-9bc2-4e92-b02d-923307f6cf1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
