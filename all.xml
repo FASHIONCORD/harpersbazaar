@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1440,6 +1440,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a325ffd1-da2a-41e1-bc81-e04ad676b423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[싸이 흠뻑쇼-서울에 참석한 게스트는 누구 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68067</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68067</guid>
+            <pubDate>Thu, 21 Jul 2022 09:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/fe9d460f-e183-4415-af75-596e4d7a49e9.jpg');">
+                                <a href="/article/68067">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68067">
+                                        싸이 흠뻑쇼-서울에 참석한 게스트는 누구                                    </a>
+                                </em>
+                                <p class="excerpt">마침내, 코로나19로 3년만에 재개된 흠뻑쇼. 모두 뛰어!  </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/fe9d460f-e183-4415-af75-596e4d7a49e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지성·김세정부터 이종석·임윤아까지.. 7월 막주 핫-라인업! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68064</link>
             <guid>https://www.harpersbazaar.co.kr/article/68064</guid>
@@ -1519,17 +1544,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67777</link>
             <guid>https://www.harpersbazaar.co.kr/article/67777</guid>
             <pubDate>Mon, 18 Jul 2022 09:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/5556b71b-5ec0-4d81-b36b-9b8bbd3b306d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/5556b71b-5ec0-4d81-b36b-9b8bbd3b306d.jpg');">
                                 <a href="/article/67777">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67777">
@@ -1610,30 +1634,6 @@
                                 <p class="excerpt">보셨나요? 연기로 펼치는 선한 영향력!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/8093ed3c-9bc2-4e92-b02d-923307f6cf1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더위에 아득해진 정신이 번쩍! #레몬레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68010</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68010</guid>
-            <pubDate>Sat, 16 Jul 2022 11:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg');">
-                                <a href="/article/68010">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68010">
-                                        더위에 아득해진 정신이 번쩍! #레몬레시피                                     </a>
-                                </em>
-                                <p class="excerpt">무더위에 지쳤나요? 그렇다면, 상큼한 레몬으로 몸도 마음도 프레시 업!  </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/4e0787e3-0fae-474e-99a3-8af184532456.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서교동에 나타난 마들렌 뮤지엄? #신상베이커리 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
