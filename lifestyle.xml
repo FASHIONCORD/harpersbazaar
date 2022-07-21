@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 12:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 13:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올여름 맛봐야 할 신상 아이스크림 7]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68122</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68122</guid>
+            <pubDate>Thu, 21 Jul 2022 13:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/cde2fa94-bb0d-4c97-9b26-833b2d2bcc99.jpg');">
+                                <a href="/article/68122">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68122">
+                                        올여름 맛봐야 할 신상 아이스크림 7                                    </a>
+                                </em>
+                                <p class="excerpt">무더위를 시원하게 날려줄 신상 아이스크림을 모았다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/cde2fa94-bb0d-4c97-9b26-833b2d2bcc99.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[녹아도 맛있는 젤라토의 매력! #젤라토맛집]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68114</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68109</link>
             <guid>https://www.harpersbazaar.co.kr/article/68109</guid>
             <pubDate>Wed, 20 Jul 2022 10:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/613ed207-bda9-4c94-9db7-e98028f2894b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/613ed207-bda9-4c94-9db7-e98028f2894b.jpg');">
                                 <a href="/article/68109">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68109">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">호불호 극명하게 갈리는 화제의 신상 라면! 양송이 스프 라면을 맛있게 즐기는 꿀팁! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실패 확률 제로! 다이어터를 위한 #페타치즈레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68047</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68047</guid>
-            <pubDate>Tue, 19 Jul 2022 12:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/63cc902b-c135-4435-a22d-bd7edd76f500.jpg');">
-                                <a href="/article/68047">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68047">
-                                        실패 확률 제로! 다이어터를 위한 #페타치즈레시피                                    </a>
-                                </em>
-                                <p class="excerpt">단백질이 풍부해서 다이어트에 좋은 페타 치즈! 이렇게 먹으면 더 맛있어요.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/63cc902b-c135-4435-a22d-bd7edd76f500.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
