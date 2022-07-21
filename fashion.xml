@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 01:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 03:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마이크로소프트'에서 옷을 판다고? 그림판 아이콘이 티셔츠에?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68036</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68036</guid>
+            <pubDate>Thu, 21 Jul 2022 03:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/f69c87c6-1bff-4b25-a19a-37c1b9fe721f.jpg');">
+                                <a href="/article/68036">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68036">
+                                        '마이크로소프트'에서 옷을 판다고? 그림판 아이콘이 티셔츠에?                                    </a>
+                                </em>
+                                <p class="excerpt">그럼 프로그램 제작을 중단합니까? 마이크로소프트의 첫 의류 컬렉션 'HARDWEAR'</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/f69c87c6-1bff-4b25-a19a-37c1b9fe721f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매일 먹어도 질리지 않는다는 윤승아의 찐식료품템!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68009</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67943</link>
             <guid>https://www.harpersbazaar.co.kr/article/67943</guid>
             <pubDate>Fri, 15 Jul 2022 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8feb7939-9a0b-49fd-a2e2-e185288cfc09.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8feb7939-9a0b-49fd-a2e2-e185288cfc09.jpg');">
                                 <a href="/article/67943">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67943">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">모던한 하이주얼리로 완성한 아이린의 서머 홀리데이 스타일.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/77203156-b499-4799-b21f-8899488ad2a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간 샤넬 마리옹 꼬띠아르가 택한 ‘1932’ 하이 주얼리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67846</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67846</guid>
-            <pubDate>Tue, 12 Jul 2022 15:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/28b0c7dc-4b5f-4a06-ad35-6b7050948d45.jpg');">
-                                <a href="/article/67846">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67846">
-                                        인간 샤넬 마리옹 꼬띠아르가 택한 ‘1932’ 하이 주얼리                                    </a>
-                                </em>
-                                <p class="excerpt">샤넬 1932 하이 주얼리 컬렉션 출시 만찬에서 마리옹 꼬띠아르를 빛나게 한 것.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/28b0c7dc-4b5f-4a06-ad35-6b7050948d45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
