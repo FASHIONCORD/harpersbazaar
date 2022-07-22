@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 13:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 14:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고슴도치 감자 구이 먹어봤니? #이색감자요리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68112</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68112</guid>
+            <pubDate>Fri, 22 Jul 2022 14:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a4e78e9e-9085-4436-ae10-419167e19a70.jpg');">
+                                <a href="/article/68112">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68112">
+                                        고슴도치 감자 구이 먹어봤니? #이색감자요리                                    </a>
+                                </em>
+                                <p class="excerpt">만들기 쉽고 재밌는데, 맛까지 있다. 감자로 만드는 이색 레시피. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a4e78e9e-9085-4436-ae10-419167e19a70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<환승연애 2> 최이현, 이나연, 이지연은 평소 스타일도 매력만점?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68091</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68036</link>
             <guid>https://www.harpersbazaar.co.kr/article/68036</guid>
             <pubDate>Thu, 21 Jul 2022 03:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/f69c87c6-1bff-4b25-a19a-37c1b9fe721f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/f69c87c6-1bff-4b25-a19a-37c1b9fe721f.jpg');">
                                 <a href="/article/68036">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68036">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">여행길에 오른 살바토레 페라가모의 2022 프리폴 컬렉션.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/71f5bb04-4649-4950-9f87-774e76278e62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<이상한 변호사 우영우> 동그라미, 패션 센스도 남달랐네?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67943</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67943</guid>
-            <pubDate>Fri, 15 Jul 2022 15:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8feb7939-9a0b-49fd-a2e2-e185288cfc09.jpg');">
-                                <a href="/article/67943">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67943">
-                                        &lt;이상한 변호사 우영우&gt; 동그라미, 패션 센스도 남달랐네?                                     </a>
-                                </em>
-                                <p class="excerpt">SNL의 그녀, 배우 주현영의 데일리룩은 어떨까?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/12/8feb7939-9a0b-49fd-a2e2-e185288cfc09.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

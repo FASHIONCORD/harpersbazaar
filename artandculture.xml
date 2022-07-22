@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 13:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 14:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리집 식물과 좀 더 친해지고 싶다면? #식물전시]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68109</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68109</guid>
+            <pubDate>Fri, 22 Jul 2022 14:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/613ed207-bda9-4c94-9db7-e98028f2894b.jpg');">
+                                <a href="/article/68109">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68109">
+                                        우리집 식물과 좀 더 친해지고 싶다면? #식물전시                                     </a>
+                                </em>
+                                <p class="excerpt">일상 속 꽃과 식물의 아름다움을 느낄 수 있는 전시 2 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/613ed207-bda9-4c94-9db7-e98028f2894b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 제니는 어떨까? <디 아이돌>로 연기 도전!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68098</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68064</link>
             <guid>https://www.harpersbazaar.co.kr/article/68064</guid>
             <pubDate>Wed, 20 Jul 2022 12:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/36c06679-4300-494a-a1e2-227b20e79e63.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/36c06679-4300-494a-a1e2-227b20e79e63.jpg');">
                                 <a href="/article/68064">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68064">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">예술가의 눈으로 포착한 지역의 풍취. 제주와 부산과 구미에서 찾은 낯선 아름다움에 관하여.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/5556b71b-5ec0-4d81-b36b-9b8bbd3b306d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<술꾼도시여자들>을 재밌게 봤다면 필독해야 할 도서?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68039</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68039</guid>
-            <pubDate>Mon, 18 Jul 2022 04:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/d099721a-b9a0-4116-aced-a9912f43414c.jpg');">
-                                <a href="/article/68039">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68039">
-                                        &lt;술꾼도시여자들&gt;을 재밌게 봤다면 필독해야 할 도서?                                    </a>
-                                </em>
-                                <p class="excerpt">웹툰&lt;술꾼도시처녀들&gt; 미깡 작가의 신작 &lt;거짓말들&gt;</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/d099721a-b9a0-4116-aced-a9912f43414c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

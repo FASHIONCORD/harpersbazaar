@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 13:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 14:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와인에 누구보다 진심인 샤이니 '키'의 맛집 탐방]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68193</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68193</guid>
+            <pubDate>Fri, 22 Jul 2022 14:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/0c43476e-086e-4190-a098-ce047637dc33.jpg');">
+                                <a href="/article/68193">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68193">
+                                        와인에 누구보다 진심인 샤이니 '키'의 맛집 탐방                                    </a>
+                                </em>
+                                <p class="excerpt">미식 세계의 문을 열어줄 샤이니 만능열쇠 '키'! #인_스타_플레이스</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/0c43476e-086e-4190-a098-ce047637dc33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아, 이래서 캐스팅했구나! 영화감독 박찬욱이 극찬한 연기 천재 김신영 모음.zip]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68192</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68166</link>
             <guid>https://www.harpersbazaar.co.kr/article/68166</guid>
             <pubDate>Fri, 22 Jul 2022 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c02238a-a7dd-457d-87ed-002206939c21.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c02238a-a7dd-457d-87ed-002206939c21.jpg');">
                                 <a href="/article/68166">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68166">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">무더위를 시원하게 날려줄 신상 아이스크림을 모았다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/cde2fa94-bb0d-4c97-9b26-833b2d2bcc99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[녹아도 맛있는 젤라토의 매력! #젤라토맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68114</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68114</guid>
-            <pubDate>Thu, 21 Jul 2022 10:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/2b9ebc7d-d6a3-4836-9aa0-4f6201f472be.jpg');">
-                                <a href="/article/68114">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68114">
-                                        녹아도 맛있는 젤라토의 매력! #젤라토맛집                                    </a>
-                                </em>
-                                <p class="excerpt">여름의 찐 행복! 잴라토 러버들이 강추하는 젤라토 맛집은 어디? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/2b9ebc7d-d6a3-4836-9aa0-4f6201f472be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
