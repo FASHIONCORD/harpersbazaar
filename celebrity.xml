@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 01:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베일 속에 가려진 욕망과 공허함에 대하여, 넷플릭스 시리즈 <블랙의 신부>]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68119</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68119</guid>
+            <pubDate>Fri, 22 Jul 2022 03:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/2c2f00a0-82dd-40cf-97de-4a7f8079e2e0.jpg');">
+                                <a href="/article/68119">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68119">
+                                        베일 속에 가려진 욕망과 공허함에 대하여, 넷플릭스 시리즈 &lt;블랙의 신부&gt;                                    </a>
+                                </em>
+                                <p class="excerpt">김희선, 이현욱, 정유진, 박훈, 차지연. 순백의 신부라는 관념을 바꿔 놓으려는 다섯 명의 배우...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/2c2f00a0-82dd-40cf-97de-4a7f8079e2e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 제니는 어떨까? <디 아이돌>로 연기 도전!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68098</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68088</link>
             <guid>https://www.harpersbazaar.co.kr/article/68088</guid>
             <pubDate>Thu, 21 Jul 2022 01:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/e42c6336-4734-4732-8e2b-9061c64fb728.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/e42c6336-4734-4732-8e2b-9061c64fb728.jpg');">
                                 <a href="/article/68088">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68088">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;하퍼스 바자&gt; 26주년 기념호의 얼굴로 발탁되어 화보 진행<br>패션 브랜드의 뮤즈로 ‘인간 미...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/d430dc83-ec22-44d8-bbd1-d92c087d2751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버터왕자 성시경도 인정한 #양송이스프라면]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68048</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68048</guid>
-            <pubDate>Mon, 18 Jul 2022 12:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
-                                <a href="/article/68048">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68048">
-                                        버터왕자 성시경도 인정한 #양송이스프라면                                    </a>
-                                </em>
-                                <p class="excerpt">호불호 극명하게 갈리는 화제의 신상 라면! 양송이 스프 라면을 맛있게 즐기는 꿀팁! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

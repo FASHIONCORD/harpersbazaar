@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 01:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021/22 샤넬 공방 컬렉션을 수놓은 Le19M 공방들의 장인정신과 예술성.]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67783</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67783</guid>
+            <pubDate>Fri, 22 Jul 2022 03:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/ee91c4c7-16be-4857-a0c7-32b5ab8d66f4.jpg');">
+                                <a href="/article/67783">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67783">
+                                        2021/22 샤넬 공방 컬렉션을 수놓은 Le19M 공방들의 장인정신과 예술성.                                     </a>
+                                </em>
+                                <p class="excerpt">2021/22 샤넬 공방 컬렉션을 수놓은 Le19M 공방들의 장인정신과 예술적 감성. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/ee91c4c7-16be-4857-a0c7-32b5ab8d66f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마이크로소프트'에서 옷을 판다고? 그림판 아이콘이 티셔츠에?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68036</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67774</link>
             <guid>https://www.harpersbazaar.co.kr/article/67774</guid>
             <pubDate>Mon, 18 Jul 2022 04:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/71f5bb04-4649-4950-9f87-774e76278e62.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/71f5bb04-4649-4950-9f87-774e76278e62.jpg');">
                                 <a href="/article/67774">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67774">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">런웨이 밖에서 펼쳐지는 화려한 룩의 향연</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/5ff16cd2-d260-4001-92e0-d45eac21e165.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이린이 함께한 서머 주얼리 스타일링.]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67703</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67703</guid>
-            <pubDate>Thu, 14 Jul 2022 12:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/77203156-b499-4799-b21f-8899488ad2a7.jpg');">
-                                <a href="/article/67703">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67703">
-                                        아이린이 함께한 서머 주얼리 스타일링.                                    </a>
-                                </em>
-                                <p class="excerpt">모던한 하이주얼리로 완성한 아이린의 서머 홀리데이 스타일.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/77203156-b499-4799-b21f-8899488ad2a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
