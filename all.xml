@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 16:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 17:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1048,6 +1048,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/799dde51-64f0-447e-ae3e-5ccfcd863e5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내 일상에 녹아든, 나의 배럴핏 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68074</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68074</guid>
+            <pubDate>Mon, 25 Jul 2022 17:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg');">
+                                <a href="/article/68074">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68074">
+                                        내 일상에 녹아든, 나의 배럴핏                                    </a>
+                                </em>
+                                <p class="excerpt">뮤즈 이미주가 전하는 스타일리시한 애슬레저 룩</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자칭 프로 다이어터 햄연지의 다이어트 비결 6가지 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68038</link>
             <guid>https://www.harpersbazaar.co.kr/article/68038</guid>
@@ -1127,17 +1152,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67977</link>
             <guid>https://www.harpersbazaar.co.kr/article/67977</guid>
             <pubDate>Fri, 22 Jul 2022 06:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/bd24c6cd-7574-49fe-b109-85fe69fbefdb.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/bd24c6cd-7574-49fe-b109-85fe69fbefdb.jpg');">
                                 <a href="/article/67977">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67977">
@@ -1218,30 +1242,6 @@
                                 <p class="excerpt">&lt;서울체크인&gt; 속 이효리 화장품을 찾았다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3b2845b0-7808-4115-b300-067762978abc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모르면 폭망! 여행가기 전 꼭 알아야 할 뷰티 케어 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67598</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67598</guid>
-            <pubDate>Wed, 13 Jul 2022 10:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/11263545-d48c-4c67-9ad7-f01fe245d252.jpg');">
-                                <a href="/article/67598">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67598">
-                                        모르면 폭망! 여행가기 전 꼭 알아야 할 뷰티 케어                                     </a>
-                                </em>
-                                <p class="excerpt">“여행은 돌아와 일상 속에서 더 잘 살기 위한 풍요로운 사치다.” ‐ 신문주의 &lt;어떤 하루&gt; ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/11263545-d48c-4c67-9ad7-f01fe245d252.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데뷔 30주년, 엄정화가 엄정화 자신을 오마주하다. (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
