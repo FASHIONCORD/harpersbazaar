@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 04:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미우미우와 조우한 미스테리 걸, 이유미]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68224</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68224</guid>
+            <pubDate>Mon, 25 Jul 2022 05:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/ae50e116-bfbb-4436-87aa-9b5916e8bc6b.jpg');">
+                                <a href="/article/68224">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68224">
+                                        미우미우와 조우한 미스테리 걸, 이유미                                    </a>
+                                </em>
+                                <p class="excerpt">“우리 모두는 별에서 온 아이들/ 네 안에는 별이 빛나고 있어”‐ 박노해 시인의 &lt;푸른 빛의 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/ae50e116-bfbb-4436-87aa-9b5916e8bc6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인터뷰하다가 집에 갈 뻔한 블랙의 신부의 비대면 인터뷰]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68194</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68185</link>
             <guid>https://www.harpersbazaar.co.kr/article/68185</guid>
             <pubDate>Sat, 23 Jul 2022 03:29:17 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/334dbc9f-6502-4851-b2ce-94c7e8224e9e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/334dbc9f-6502-4851-b2ce-94c7e8224e9e.jpg');">
                                 <a href="/article/68185">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68185">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">미차 예상 못 한 꿀맛 조합! 궁극의 이색 라면 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/cbb70606-41b2-475e-a4ee-4e08c1f616ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인간 샤넬 나가신다. 길을 비켜라!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68150</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68150</guid>
-            <pubDate>Fri, 22 Jul 2022 06:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/d9b6f233-ec5c-4f54-bfd0-49e804082964.jpg');">
-                                <a href="/article/68150">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68150">
-                                        인간 샤넬 나가신다. 길을 비켜라!                                    </a>
-                                </em>
-                                <p class="excerpt">멋진 스포츠카를 타고 도심을 누비는 그에게서 나는 향기</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/d9b6f233-ec5c-4f54-bfd0-49e804082964.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
