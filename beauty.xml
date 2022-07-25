@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 15:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 16:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자칭 프로 다이어터 햄연지의 다이어트 비결 6가지]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68038</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68038</guid>
+            <pubDate>Mon, 25 Jul 2022 16:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/65277753-3682-439b-852c-bb5eb5c955c6.jpg');">
+                                <a href="/article/68038">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68038">
+                                        자칭 프로 다이어터 햄연지의 다이어트 비결 6가지                                     </a>
+                                </em>
+                                <p class="excerpt">-7kg를 위한 셀프 다이어트 다짐</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/65277753-3682-439b-852c-bb5eb5c955c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[47kg->43.9kg, 일주일 만에 날씬에서 마름까지]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68035</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67872</link>
             <guid>https://www.harpersbazaar.co.kr/article/67872</guid>
             <pubDate>Tue, 19 Jul 2022 03:56:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ff1a2da0-e453-4a15-9089-ce2bd79b633c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ff1a2da0-e453-4a15-9089-ce2bd79b633c.jpg');">
                                 <a href="/article/67872">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67872">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">“여행은 돌아와 일상 속에서 더 잘 살기 위한 풍요로운 사치다.” ‐ 신문주의 &lt;어떤 하루&gt; ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/11263545-d48c-4c67-9ad7-f01fe245d252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<이브> 속 ‘이라엘', 흑화한 서예지 메이크업은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67760</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67760</guid>
-            <pubDate>Wed, 13 Jul 2022 10:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/310bcbd9-c7c9-4478-996b-5f91cd19415f.jpg');">
-                                <a href="/article/67760">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67760">
-                                        &lt;이브&gt; 속 ‘이라엘', 흑화한 서예지 메이크업은?                                    </a>
-                                </em>
-                                <p class="excerpt">서예지가 트레이드마크인 눈썹 메이크업을 포기했다고?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/310bcbd9-c7c9-4478-996b-5f91cd19415f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
