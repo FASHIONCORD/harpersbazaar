@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 15:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['브라 톱'의 과감한 일탈]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68225</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68225</guid>
+            <pubDate>Tue, 26 Jul 2022 15:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/87534129-f50c-4509-b57d-4c2ff8a5aa48.jpg');">
+                                <a href="/article/68225">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68225">
+                                        '브라 톱'의 과감한 일탈                                    </a>
+                                </em>
+                                <p class="excerpt">다양하게 변주된 브라 톱으로 폭염에 과감히 맞서볼 것.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/87534129-f50c-4509-b57d-4c2ff8a5aa48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 현대적이고, 생생하게 살아있는 동시대의 여성이란?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68222</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68206</link>
             <guid>https://www.harpersbazaar.co.kr/article/68206</guid>
             <pubDate>Sat, 23 Jul 2022 15:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/7331bcfd-f915-45e8-af4f-c1b0f1cdf166.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/7331bcfd-f915-45e8-af4f-c1b0f1cdf166.jpg');">
                                 <a href="/article/68206">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68206">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">만들기 쉽고 재밌는데, 맛까지 있다. 감자로 만드는 이색 레시피. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a4e78e9e-9085-4436-ae10-419167e19a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<환승연애 2> 최이현, 이나연, 이지연은 평소 스타일도 매력만점?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68091</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68091</guid>
-            <pubDate>Fri, 22 Jul 2022 09:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/c318da95-8e6e-4fe4-9ac1-b7de8a3cdb2b.jpg');">
-                                <a href="/article/68091">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68091">
-                                        &lt;환승연애 2&gt; 최이현, 이나연, 이지연은 평소 스타일도 매력만점?                                    </a>
-                                </em>
-                                <p class="excerpt">아직 X가 공개되지 않은, &lt;환승연애2&gt; 여성 출연진 3인의 각양각색 스타일링</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/c318da95-8e6e-4fe4-9ac1-b7de8a3cdb2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
