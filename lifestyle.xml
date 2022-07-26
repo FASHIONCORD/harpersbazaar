@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 04:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건축문화대상을 수상한 아름다운 스테이 공간들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68203</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68203</guid>
+            <pubDate>Tue, 26 Jul 2022 05:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/cfa7f826-0f3e-4978-9b91-91211eace0f9.jpg');">
+                                <a href="/article/68203">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68203">
+                                        건축문화대상을 수상한 아름다운 스테이 공간들                                     </a>
+                                </em>
+                                <p class="excerpt">부지런한 자만이 누릴 수 있다. 서둘러 예약해야 할 아름다운 스테이 공간들.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/cfa7f826-0f3e-4978-9b91-91211eace0f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동해 바다에서 플로깅하고 공짜로 과자 먹는 방법은? #씨낵]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68202</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68177</link>
             <guid>https://www.harpersbazaar.co.kr/article/68177</guid>
             <pubDate>Fri, 22 Jul 2022 12:28:52 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/229866ce-de55-43fb-a5ff-cf4c8b532f39.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/229866ce-de55-43fb-a5ff-cf4c8b532f39.jpg');">
                                 <a href="/article/68177">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68177">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이런 맥주 먹어봤니? 소맥보다 쉽고 간단한 이색 맥주 칵테일 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/66b23eb0-a576-473b-a04d-41e83f96ad63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 모두가 사랑하는 '소고기'에 관한 핫한 소식 두 가지!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68144</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68144</guid>
-            <pubDate>Fri, 22 Jul 2022 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/034e7b28-7d2a-4c50-98e9-00adfd687a1a.jpg');">
-                                <a href="/article/68144">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68144">
-                                        우리 모두가 사랑하는 '소고기'에 관한 핫한 소식 두 가지!                                    </a>
-                                </em>
-                                <p class="excerpt">오늘 저녁 메뉴, 소고기 어때요?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/034e7b28-7d2a-4c50-98e9-00adfd687a1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
