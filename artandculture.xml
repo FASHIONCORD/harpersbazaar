@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<바자> 26주년을 축하해!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68172</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68172</guid>
+            <pubDate>Tue, 26 Jul 2022 08:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c2ca34c-bc5a-43cf-a98d-0f5c53655be0.jpg');">
+                                <a href="/article/68172">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68172">
+                                        &lt;바자&gt; 26주년을 축하해!                                     </a>
+                                </em>
+                                <p class="excerpt">창간 26주년을 기념하는 스페셜 필름 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c2ca34c-bc5a-43cf-a98d-0f5c53655be0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그냥 마시면 재미없지, 소맥보다 쉬운 #맥주칵테일]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68145</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68086</link>
             <guid>https://www.harpersbazaar.co.kr/article/68086</guid>
             <pubDate>Thu, 21 Jul 2022 10:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg');">
                                 <a href="/article/68086">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68086">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">제이홉의 혼을 담아서 탄생한 'Arson' 뮤비🔥</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/12e596bb-2ead-4b68-a931-b8719c21247d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버터왕자 성시경도 인정한 #양송이스프라면]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68048</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68048</guid>
-            <pubDate>Tue, 19 Jul 2022 03:57:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
-                                <a href="/article/68048">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68048">
-                                        버터왕자 성시경도 인정한 #양송이스프라면                                    </a>
-                                </em>
-                                <p class="excerpt">호불호 극명하게 갈리는 화제의 신상 라면! 양송이 스프 라면을 맛있게 즐기는 꿀팁! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

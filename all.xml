@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1441,6 +1441,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/0c43476e-086e-4190-a098-ce047637dc33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<바자> 26주년을 축하해! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68172</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68172</guid>
+            <pubDate>Tue, 26 Jul 2022 08:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c2ca34c-bc5a-43cf-a98d-0f5c53655be0.jpg');">
+                                <a href="/article/68172">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68172">
+                                        &lt;바자&gt; 26주년을 축하해!                                     </a>
+                                </em>
+                                <p class="excerpt">창간 26주년을 기념하는 스페셜 필름 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c2ca34c-bc5a-43cf-a98d-0f5c53655be0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그냥 마시면 재미없지, 소맥보다 쉬운 #맥주칵테일 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68145</link>
             <guid>https://www.harpersbazaar.co.kr/article/68145</guid>
@@ -1520,17 +1545,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68086</link>
             <guid>https://www.harpersbazaar.co.kr/article/68086</guid>
             <pubDate>Wed, 20 Jul 2022 01:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg');">
                                 <a href="/article/68086">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68086">
@@ -1613,28 +1637,54 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/12e596bb-2ead-4b68-a931-b8719c21247d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[버터왕자 성시경도 인정한 #양송이스프라면 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68048</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68048</guid>
-            <pubDate>Mon, 18 Jul 2022 12:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg');">
-                                <a href="/article/68048">
+            <title><![CDATA[토마토로 만드는 초간단 아침 식사 #토마토레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68217</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68217</guid>
+            <pubDate>Tue, 26 Jul 2022 08:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/bf2d14b0-681e-47ee-89a0-a32dc8d1793c.jpg');">
+                                <a href="/article/68217">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/68048">
-                                        버터왕자 성시경도 인정한 #양송이스프라면                                    </a>
+                                    <a href="/article/68217">
+                                        토마토로 만드는 초간단 아침 식사 #토마토레시피                                     </a>
                                 </em>
-                                <p class="excerpt">호불호 극명하게 갈리는 화제의 신상 라면! 양송이 스프 라면을 맛있게 즐기는 꿀팁! </p>
+                                <p class="excerpt">매일 먹어도 안 질린다. 슈퍼푸드 토마토로 만드는 초간단  아침 식사!</p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/f3a3ebda-adde-44c0-8cad-3165a168e198.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/bf2d14b0-681e-47ee-89a0-a32dc8d1793c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우영우 김밥집이 여기였어? #수원행궁동핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68216</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68216</guid>
+            <pubDate>Tue, 26 Jul 2022 08:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/c70c2520-b884-4558-b964-d812efefe974.jpg');">
+                                <a href="/article/68216">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68216">
+                                        우영우 김밥집이 여기였어? #수원행궁동핫플                                    </a>
+                                </em>
+                                <p class="excerpt">자고 일어나면 새로운 곳이 생겨난다. 수원 행궁동의 핫플레이스! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/c70c2520-b884-4558-b964-d812efefe974.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[건축문화대상을 수상한 아름다운 스테이 공간들 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -1691,17 +1741,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68193</link>
             <guid>https://www.harpersbazaar.co.kr/article/68193</guid>
             <pubDate>Fri, 22 Jul 2022 14:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/0c43476e-086e-4190-a098-ce047637dc33.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/0c43476e-086e-4190-a098-ce047637dc33.jpg');">
                                 <a href="/article/68193">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68193">
@@ -1716,17 +1765,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68192</link>
             <guid>https://www.harpersbazaar.co.kr/article/68192</guid>
             <pubDate>Fri, 22 Jul 2022 12:28:52 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/c81da14d-d705-4b69-b28c-fecab5006cfe.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/c81da14d-d705-4b69-b28c-fecab5006cfe.jpg');">
                                 <a href="/article/68192">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68192">
@@ -1783,54 +1831,6 @@
                                 <p class="excerpt">미차 예상 못 한 꿀맛 조합! 궁극의 이색 라면 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/cbb70606-41b2-475e-a4ee-4e08c1f616ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치앙마이에 이런 곳이? 치앙마이 바깥 마을 여행 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68166</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68166</guid>
-            <pubDate>Fri, 22 Jul 2022 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c02238a-a7dd-457d-87ed-002206939c21.jpg');">
-                                <a href="/article/68166">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68166">
-                                        치앙마이에 이런 곳이? 치앙마이 바깥 마을 여행                                    </a>
-                                </em>
-                                <p class="excerpt">입국자 의무 격리가 사라지고, 저가항공사 운항이 시작되면서 태국 여행이 가까워졌다. <br>우리...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c02238a-a7dd-457d-87ed-002206939c21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 마시면 재미없지, 소맥보다 쉬운 #맥주칵테일 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68145</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68145</guid>
-            <pubDate>Fri, 22 Jul 2022 06:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/66b23eb0-a576-473b-a04d-41e83f96ad63.jpg');">
-                                <a href="/article/68145">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68145">
-                                        그냥 마시면 재미없지, 소맥보다 쉬운 #맥주칵테일                                    </a>
-                                </em>
-                                <p class="excerpt">이런 맥주 먹어봤니? 소맥보다 쉽고 간단한 이색 맥주 칵테일 레시피.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/66b23eb0-a576-473b-a04d-41e83f96ad63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤리적인 다이아몬드 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
