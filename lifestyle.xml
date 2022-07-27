@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 11:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 12:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿉꿉한 기분 빙수로 날려버려 #빙수맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68326</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68326</guid>
+            <pubDate>Wed, 27 Jul 2022 12:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/c7eb6a64-1298-421a-89a1-143eeee830f6.jpg');">
+                                <a href="/article/68326">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68326">
+                                        꿉꿉한 기분 빙수로 날려버려 #빙수맛집                                    </a>
+                                </em>
+                                <p class="excerpt">지긋한 무더위를 한방에 날려줄, 서울 대표 빙수 맛집들! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/c7eb6a64-1298-421a-89a1-143eeee830f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용리단길 한가운데 나타난 동굴? #신상핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68314</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68083</link>
             <guid>https://www.harpersbazaar.co.kr/article/68083</guid>
             <pubDate>Tue, 26 Jul 2022 11:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/886c37dc-e229-42e5-b837-cf54c6b3ef1d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/886c37dc-e229-42e5-b837-cf54c6b3ef1d.jpg');">
                                 <a href="/article/68083">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68083">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">자고 일어나면 새로운 곳이 생겨난다. 수원 행궁동의 핫플레이스! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/c70c2520-b884-4558-b964-d812efefe974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건축문화대상을 수상한 아름다운 스테이 공간들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68203</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68203</guid>
-            <pubDate>Tue, 26 Jul 2022 05:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/cfa7f826-0f3e-4978-9b91-91211eace0f9.jpg');">
-                                <a href="/article/68203">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68203">
-                                        건축문화대상을 수상한 아름다운 스테이 공간들                                     </a>
-                                </em>
-                                <p class="excerpt">부지런한 자만이 누릴 수 있다. 서둘러 예약해야 할 아름다운 스테이 공간들.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/cfa7f826-0f3e-4978-9b91-91211eace0f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
