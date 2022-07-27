@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 01:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 03:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계 열풍? 이승기도 놀란 로프 플로우]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68189</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68189</guid>
+            <pubDate>Wed, 27 Jul 2022 03:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/1265bbff-42a4-436c-a045-2123150d8dc7.jpg');">
+                                <a href="/article/68189">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68189">
+                                        전 세계 열풍? 이승기도 놀란 로프 플로우                                     </a>
+                                </em>
+                                <p class="excerpt">달리기, 자전거, 수영보다 훨씬 효과적인 다이어트 운동을 찾는다면</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/1265bbff-42a4-436c-a045-2123150d8dc7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 일상에 녹아든, 나의 배럴핏]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68074</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67979</link>
             <guid>https://www.harpersbazaar.co.kr/article/67979</guid>
             <pubDate>Fri, 22 Jul 2022 06:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/92382f1e-f257-4301-beb2-e78c9d782881.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/92382f1e-f257-4301-beb2-e78c9d782881.jpg');">
                                 <a href="/article/67979">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67979">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이렇게 나 혼자 운동한다</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/0fb0e3f6-9d65-4850-acda-2f2376da4549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이효리의 찐 뷰티템? 손민수 안 하고는 못 참아!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67811</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67811</guid>
-            <pubDate>Fri, 15 Jul 2022 10:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3b2845b0-7808-4115-b300-067762978abc.jpg');">
-                                <a href="/article/67811">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67811">
-                                        이효리의 찐 뷰티템? 손민수 안 하고는 못 참아!                                    </a>
-                                </em>
-                                <p class="excerpt">&lt;서울체크인&gt; 속 이효리 화장품을 찾았다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/3b2845b0-7808-4115-b300-067762978abc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
