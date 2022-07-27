@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 08:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿉꿉한 기분 빙수로 날려버려 #빙수맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68326</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68326</guid>
+            <pubDate>Wed, 27 Jul 2022 09:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/c7eb6a64-1298-421a-89a1-143eeee830f6.jpg');">
+                                <a href="/article/68326">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68326">
+                                        꿉꿉한 기분 빙수로 날려버려 #빙수맛집                                    </a>
+                                </em>
+                                <p class="excerpt">지긋한 무더위를 한방에 날려줄, 서울 대표 빙수 맛집들! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/c7eb6a64-1298-421a-89a1-143eeee830f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 채소를 활용한 초간단 별미 레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68313</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68216</link>
             <guid>https://www.harpersbazaar.co.kr/article/68216</guid>
             <pubDate>Tue, 26 Jul 2022 11:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/c70c2520-b884-4558-b964-d812efefe974.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/c70c2520-b884-4558-b964-d812efefe974.jpg');">
                                 <a href="/article/68216">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68216">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이런 맥주 먹어봤니? 소맥보다 쉽고 간단한 이색 맥주 칵테일 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/66b23eb0-a576-473b-a04d-41e83f96ad63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리집 식물과 좀 더 친해지고 싶다면? #식물전시]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68109</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68109</guid>
-            <pubDate>Fri, 22 Jul 2022 14:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/613ed207-bda9-4c94-9db7-e98028f2894b.jpg');">
-                                <a href="/article/68109">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68109">
-                                        우리집 식물과 좀 더 친해지고 싶다면? #식물전시                                     </a>
-                                </em>
-                                <p class="excerpt">일상 속 꽃과 식물의 아름다움을 느낄 수 있는 전시 2 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/613ed207-bda9-4c94-9db7-e98028f2894b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
