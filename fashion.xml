@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 09:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 10:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무심한듯 시크하게 탱크톱]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68227</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68227</guid>
+            <pubDate>Wed, 27 Jul 2022 10:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/cb32e4da-54dc-4301-a4e2-2e0ac840a5d4.jpg');">
+                                <a href="/article/68227">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68227">
+                                        무심한듯 시크하게 탱크톱                                    </a>
+                                </em>
+                                <p class="excerpt">담백한 멋을 지닌 탱크톱을 연출하는 몇 가지 방법.   </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/cb32e4da-54dc-4301-a4e2-2e0ac840a5d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['브라 톱'의 과감한 일탈]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68225</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68207</link>
             <guid>https://www.harpersbazaar.co.kr/article/68207</guid>
             <pubDate>Sun, 24 Jul 2022 15:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/a751bcf6-c8df-4149-a1fc-038e8bbc7727.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/a751bcf6-c8df-4149-a1fc-038e8bbc7727.jpg');">
                                 <a href="/article/68207">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68207">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">예술과 아름다움이라는 보편적 프리즘을 통해 자연을 바라보는 새로운 경험을 누려보길.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/ae7e8d76-d28c-4251-95e0-236f91b0cad4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고슴도치 감자 구이 먹어봤니? #이색감자요리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68112</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68112</guid>
-            <pubDate>Fri, 22 Jul 2022 14:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a4e78e9e-9085-4436-ae10-419167e19a70.jpg');">
-                                <a href="/article/68112">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68112">
-                                        고슴도치 감자 구이 먹어봤니? #이색감자요리                                    </a>
-                                </em>
-                                <p class="excerpt">만들기 쉽고 재밌는데, 맛까지 있다. 감자로 만드는 이색 레시피. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a4e78e9e-9085-4436-ae10-419167e19a70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
