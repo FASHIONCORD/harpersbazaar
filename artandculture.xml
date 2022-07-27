@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 03:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 04:53:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이하늬부터 전여빈까지.. 시선강탈 <외계+인> 씬스틸러]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68270</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68270</guid>
+            <pubDate>Wed, 27 Jul 2022 04:52:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/b233f889-2c91-4fa9-bafe-7972e608f378.jpg');">
+                                <a href="/article/68270">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68270">
+                                        이하늬부터 전여빈까지.. 시선강탈 &lt;외계+인&gt; 씬스틸러                                    </a>
+                                </em>
+                                <p class="excerpt">영화관에서 '응?' 하게 만든 깜짝 출연자 모음.zip</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/b233f889-2c91-4fa9-bafe-7972e608f378.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤승아도 먹는다는, 쌀 없는 #다이어트김밥레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68219</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68172</link>
             <guid>https://www.harpersbazaar.co.kr/article/68172</guid>
             <pubDate>Tue, 26 Jul 2022 08:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c2ca34c-bc5a-43cf-a98d-0f5c53655be0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/3c2ca34c-bc5a-43cf-a98d-0f5c53655be0.jpg');">
                                 <a href="/article/68172">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68172">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">미국 HBO 신작.. 팝스타 위켄드 제작 드라마🎬</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/fcba017b-08f4-4d5d-aa31-3b5398c89158.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤이 엘비스의 대표곡을 부르면]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68086</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68086</guid>
-            <pubDate>Thu, 21 Jul 2022 10:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg');">
-                                <a href="/article/68086">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68086">
-                                        지드래곤이 엘비스의 대표곡을 부르면                                    </a>
-                                </em>
-                                <p class="excerpt">GD, &lt;엘비스&gt; 바즈 루어만 감독과 특급 콜라보</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/adcd8710-2233-440b-95a7-f457e55f5f6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
