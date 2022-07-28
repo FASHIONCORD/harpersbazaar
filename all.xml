@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1441,6 +1441,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3a3dd99a-0163-45ab-97c5-2803bc4e934c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[10kg 감량한 유지어터가 먹는다는 바나나 간식 #바나나레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68364</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68364</guid>
+            <pubDate>Thu, 28 Jul 2022 10:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/934f0966-da4a-46bc-aaed-3f6affc6c6a6.jpg');">
+                                <a href="/article/68364">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68364">
+                                        10kg 감량한 유지어터가 먹는다는 바나나 간식 #바나나레시피                                    </a>
+                                </em>
+                                <p class="excerpt">속세의 맛은 바나나로 해결한다. 반하지 않을 수 없는 바나나 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/934f0966-da4a-46bc-aaed-3f6affc6c6a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소문난 미식가 강민경이 즐겨먹는 집밥 메뉴는? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68363</link>
             <guid>https://www.harpersbazaar.co.kr/article/68363</guid>
@@ -1520,17 +1545,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68346</link>
             <guid>https://www.harpersbazaar.co.kr/article/68346</guid>
             <pubDate>Thu, 28 Jul 2022 03:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/d13d87da-b789-4807-840b-fa6b3ba23e9e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/d13d87da-b789-4807-840b-fa6b3ba23e9e.jpg');">
                                 <a href="/article/68346">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68346">
@@ -1611,30 +1635,6 @@
                                 <p class="excerpt">지긋한 무더위를 한방에 날려줄, 서울 대표 빙수 맛집들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/c7eb6a64-1298-421a-89a1-143eeee830f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 채소를 활용한 초간단 별미 레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68313</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68313</guid>
-            <pubDate>Wed, 27 Jul 2022 07:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3f8ad040-1f86-4059-830c-7b2202585ad5.jpg');">
-                                <a href="/article/68313">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68313">
-                                        여름 채소를 활용한 초간단 별미 레시피                                     </a>
-                                </em>
-                                <p class="excerpt">신선한 여름 채소를 활용한 쉽고 맛있는 별미 요리! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3f8ad040-1f86-4059-830c-7b2202585ad5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
