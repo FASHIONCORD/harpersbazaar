@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 09:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68358</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68358</guid>
+            <pubDate>Thu, 28 Jul 2022 09:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
+                                <a href="/article/68358">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68358">
+                                        차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">성수, 한남, 송파에서 믿고 갈 수 있는 카페는 바로 여기!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감자칩으로 만든 알리고 치즈 감자 먹어봤니? #과자활용디저트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68327</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68313</link>
             <guid>https://www.harpersbazaar.co.kr/article/68313</guid>
             <pubDate>Wed, 27 Jul 2022 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3f8ad040-1f86-4059-830c-7b2202585ad5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3f8ad040-1f86-4059-830c-7b2202585ad5.jpg');">
                                 <a href="/article/68313">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68313">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">먹으면서 살 빠지는 저탄수 고단백 다이어트 김밥 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/d93de9f9-e7c8-4563-a8d0-707ee191314d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토마토로 만드는 초간단 아침 식사 #토마토레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68217</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68217</guid>
-            <pubDate>Tue, 26 Jul 2022 08:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/bf2d14b0-681e-47ee-89a0-a32dc8d1793c.jpg');">
-                                <a href="/article/68217">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68217">
-                                        토마토로 만드는 초간단 아침 식사 #토마토레시피                                     </a>
-                                </em>
-                                <p class="excerpt">매일 먹어도 안 질린다. 슈퍼푸드 토마토로 만드는 초간단  아침 식사!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/bf2d14b0-681e-47ee-89a0-a32dc8d1793c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
