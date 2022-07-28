@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 06:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 07:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평범한 전시는 거부한다! 올 8월 제주도에 오픈하는 신개념 체험 전시]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68359</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68359</guid>
+            <pubDate>Thu, 28 Jul 2022 07:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a1a828c7-8e20-4116-8d33-6feef6a6d9a3.jpg');">
+                                <a href="/article/68359">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68359">
+                                        평범한 전시는 거부한다! 올 8월 제주도에 오픈하는 신개념 체험 전시                                     </a>
+                                </em>
+                                <p class="excerpt">“쥬라기 월드에 오신 걸 환영합니다.” </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a1a828c7-8e20-4116-8d33-6feef6a6d9a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우영우'가 만든 거꾸로 열풍! 추천곡 모음.zip]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68351</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68327</link>
             <guid>https://www.harpersbazaar.co.kr/article/68327</guid>
             <pubDate>Wed, 27 Jul 2022 12:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e97a6898-372d-4d93-b39d-a00f666a5be4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e97a6898-372d-4d93-b39d-a00f666a5be4.jpg');">
                                 <a href="/article/68327">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68327">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">영화관에서 '응?' 하게 만든 깜짝 출연자 모음.zip</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/b233f889-2c91-4fa9-bafe-7972e608f378.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아도 먹는다는, 쌀 없는 #다이어트김밥레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68219</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68219</guid>
-            <pubDate>Wed, 27 Jul 2022 03:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/d93de9f9-e7c8-4563-a8d0-707ee191314d.jpg');">
-                                <a href="/article/68219">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68219">
-                                        윤승아도 먹는다는, 쌀 없는 #다이어트김밥레시피                                    </a>
-                                </em>
-                                <p class="excerpt">먹으면서 살 빠지는 저탄수 고단백 다이어트 김밥 레시피! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/d93de9f9-e7c8-4563-a8d0-707ee191314d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
