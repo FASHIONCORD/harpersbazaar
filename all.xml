@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 11:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 12:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1245,6 +1245,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/bd24c6cd-7574-49fe-b109-85fe69fbefdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68358</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68358</guid>
+            <pubDate>Thu, 28 Jul 2022 09:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
+                                <a href="/article/68358">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68358">
+                                        차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">성수, 한남, 송파에서 믿고 갈 수 있는 카페는 바로 여기!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀럽, 스태프, 직원 할 것 없이 물어봤습니다. <바자> 이십육퀴~즈? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68340</link>
             <guid>https://www.harpersbazaar.co.kr/article/68340</guid>
@@ -1324,17 +1349,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68307</link>
             <guid>https://www.harpersbazaar.co.kr/article/68307</guid>
             <pubDate>Wed, 27 Jul 2022 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/117ff5e5-bc6a-4512-aad6-e22f7c0451da.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/117ff5e5-bc6a-4512-aad6-e22f7c0451da.jpg');">
                                 <a href="/article/68307">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68307">
@@ -1415,30 +1439,6 @@
                                 <p class="excerpt">남성 향수의 표상 블루 드 샤넬과 인간 샤넬 박서준이 만났다 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/aebb85ff-ceb0-4356-bc18-18a267ee51f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 핫한 아이돌 뉴진스에 대해 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68280</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68280</guid>
-            <pubDate>Tue, 26 Jul 2022 15:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3a3dd99a-0163-45ab-97c5-2803bc4e934c.jpg');">
-                                <a href="/article/68280">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68280">
-                                        지금 가장 핫한 아이돌 뉴진스에 대해                                    </a>
-                                </em>
-                                <p class="excerpt">바로 그 #민희진걸그룹! 뉴진스의 쿨한 데뷔 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3a3dd99a-0163-45ab-97c5-2803bc4e934c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10kg 감량한 유지어터가 먹는다는 바나나 간식 #바나나레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
