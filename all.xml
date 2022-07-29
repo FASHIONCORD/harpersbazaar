@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 01:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 03:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1049,6 +1049,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/7331bcfd-f915-45e8-af4f-c1b0f1cdf166.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[촬영장에서 만난 박서준에게선 이런 향이 난다? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68231</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68231</guid>
+            <pubDate>Wed, 27 Jul 2022 06:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/aebb85ff-ceb0-4356-bc18-18a267ee51f8.jpg');">
+                                <a href="/article/68231">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68231">
+                                        촬영장에서 만난 박서준에게선 이런 향이 난다?                                    </a>
+                                </em>
+                                <p class="excerpt">남성 향수의 표상 블루 드 샤넬과 인간 샤넬 박서준이 만났다 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/aebb85ff-ceb0-4356-bc18-18a267ee51f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요즘은 여기가 셀카 맛집이라며? (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68226</link>
             <guid>https://www.harpersbazaar.co.kr/article/68226</guid>
@@ -1128,17 +1153,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68074</link>
             <guid>https://www.harpersbazaar.co.kr/article/68074</guid>
             <pubDate>Mon, 25 Jul 2022 17:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg');">
                                 <a href="/article/68074">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68074">
@@ -1219,30 +1243,6 @@
                                 <p class="excerpt">자유 시간에도 운동은 못참지</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/92382f1e-f257-4301-beb2-e78c9d782881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 결산, 소희의 건강 비결 찐템  7가지 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67977</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67977</guid>
-            <pubDate>Fri, 22 Jul 2022 06:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/bd24c6cd-7574-49fe-b109-85fe69fbefdb.jpg');">
-                                <a href="/article/67977">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67977">
-                                        상반기 결산, 소희의 건강 비결 찐템  7가지                                     </a>
-                                </em>
-                                <p class="excerpt">완판을 부르는 솧찐템 추천 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/bd24c6cd-7574-49fe-b109-85fe69fbefdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
