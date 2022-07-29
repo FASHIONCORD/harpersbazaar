@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 07:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송강호부터 이병헌까지.. '연기호흡王' 임시완]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68403</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68403</guid>
+            <pubDate>Fri, 29 Jul 2022 08:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5878740-d49b-420a-9091-def726a57280.jpg');">
+                                <a href="/article/68403">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68403">
+                                        송강호부터 이병헌까지.. '연기호흡王' 임시완                                    </a>
+                                </em>
+                                <p class="excerpt">임시완=대선배 호흡 전문! 미모와 연기력은 '덤'</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5878740-d49b-420a-9091-def726a57280.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['동동삼' 정석용→'방구뽕' 구교환.. 특출 맛집 <우영우>]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68396</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68363</link>
             <guid>https://www.harpersbazaar.co.kr/article/68363</guid>
             <pubDate>Thu, 28 Jul 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
                                 <a href="/article/68363">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68363">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">K팝 세계관 최강들의 격돌.. 가요 3사 자존심 대결!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/d13d87da-b789-4807-840b-fa6b3ba23e9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우영우'를 위협할 8월의 신상 드라마]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68341</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68341</guid>
-            <pubDate>Wed, 27 Jul 2022 12:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/58448d2e-97db-4060-9aac-148758ff14dc.jpg');">
-                                <a href="/article/68341">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68341">
-                                        '우영우'를 위협할 8월의 신상 드라마                                    </a>
-                                </em>
-                                <p class="excerpt">드라마도 신상만 찾는 당신을 위한 안내서🤞</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/58448d2e-97db-4060-9aac-148758ff14dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
