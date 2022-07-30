@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 10:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 11:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울의 #김밥 맛집 10]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68401</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68401</guid>
+            <pubDate>Sat, 30 Jul 2022 11:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ec1decea-aa09-4fad-89a9-551be6981173.jpg');">
+                                <a href="/article/68401">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68401">
+                                        서울의 #김밥 맛집 10                                    </a>
+                                </em>
+                                <p class="excerpt">우영우 아니어도 매일 김밥 먹기 완전 가능!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ec1decea-aa09-4fad-89a9-551be6981173.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그대의 눈동자에 치얼스! 서촌의 신상 술 공간들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68367</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68358</link>
             <guid>https://www.harpersbazaar.co.kr/article/68358</guid>
             <pubDate>Thu, 28 Jul 2022 09:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
                                 <a href="/article/68358">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68358">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이번 주말 데이트는 여기! 신상러들을 자극하는 이번 주 신상 핫플 소식. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/ab428354-c922-4617-aad4-1c193fb1844d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 채소를 활용한 초간단 별미 레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68313</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68313</guid>
-            <pubDate>Wed, 27 Jul 2022 10:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3f8ad040-1f86-4059-830c-7b2202585ad5.jpg');">
-                                <a href="/article/68313">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68313">
-                                        여름 채소를 활용한 초간단 별미 레시피                                     </a>
-                                </em>
-                                <p class="excerpt">신선한 여름 채소를 활용한 쉽고 맛있는 별미 요리! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3f8ad040-1f86-4059-830c-7b2202585ad5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
