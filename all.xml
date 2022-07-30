@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 11:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 12:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1441,6 +1441,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/117ff5e5-bc6a-4512-aad6-e22f7c0451da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68416</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68416</guid>
+            <pubDate>Sat, 30 Jul 2022 12:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg');">
+                                <a href="/article/68416">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68416">
+                                        요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니?                                    </a>
+                                </em>
+                                <p class="excerpt">올리브오일 보다 핫하다! 세계인들의 입맛을 홀린 들기름, 이렇게 먹으면 더 맛있어요.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뭘 좋아할지 몰라 다 준비했어! 바자 26주년 축하해 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68411</link>
             <guid>https://www.harpersbazaar.co.kr/article/68411</guid>
@@ -1520,17 +1545,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68393</link>
             <guid>https://www.harpersbazaar.co.kr/article/68393</guid>
             <pubDate>Fri, 29 Jul 2022 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg');">
                                 <a href="/article/68393">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68393">
@@ -1611,30 +1635,6 @@
                                 <p class="excerpt">“쥬라기 월드에 오신 걸 환영합니다.” </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a1a828c7-8e20-4116-8d33-6feef6a6d9a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우영우'가 만든 거꾸로 열풍! 추천곡 모음.zip (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68351</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68351</guid>
-            <pubDate>Thu, 28 Jul 2022 03:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/f99d9e9c-ccf2-466b-94f4-6371b207a584.jpg');">
-                                <a href="/article/68351">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68351">
-                                        '우영우'가 만든 거꾸로 열풍! 추천곡 모음.zip                                    </a>
-                                </em>
-                                <p class="excerpt">이효리부터 이하이까지... '나야나'도 '나타나'</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/f99d9e9c-ccf2-466b-94f4-6371b207a584.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울의 #김밥 맛집 10 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
