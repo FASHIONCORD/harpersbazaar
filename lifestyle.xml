@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 09:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 10:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그대의 눈동자에 치얼스! 서촌의 신상 술 공간들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68367</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68367</guid>
+            <pubDate>Sat, 30 Jul 2022 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/60b76ee3-aec1-4d53-b946-af8e2b3be7e0.jpg');">
+                                <a href="/article/68367">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68367">
+                                        그대의 눈동자에 치얼스! 서촌의 신상 술 공간들                                      </a>
+                                </em>
+                                <p class="excerpt">밤이 되면 애주가들로 북적인다. 요즘 핫한 서촌의 신상 술 공간들. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/60b76ee3-aec1-4d53-b946-af8e2b3be7e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10kg 감량한 유지어터가 먹는다는 바나나 간식 #바나나레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68364</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68327</link>
             <guid>https://www.harpersbazaar.co.kr/article/68327</guid>
             <pubDate>Thu, 28 Jul 2022 06:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e97a6898-372d-4d93-b39d-a00f666a5be4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e97a6898-372d-4d93-b39d-a00f666a5be4.jpg');">
                                 <a href="/article/68327">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68327">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">신선한 여름 채소를 활용한 쉽고 맛있는 별미 요리! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/3f8ad040-1f86-4059-830c-7b2202585ad5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나연과 모모가 다이어트식으로 해먹는다는 이것!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68301</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68301</guid>
-            <pubDate>Wed, 27 Jul 2022 08:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/602c6828-a87e-4ec5-8c19-746cbc7d2004.jpg');">
-                                <a href="/article/68301">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68301">
-                                        나연과 모모가 다이어트식으로 해먹는다는 이것!                                    </a>
-                                </em>
-                                <p class="excerpt">트와이스와 윤승아의 최애 솥밥 레시피와 솥밥 맛집 추천</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/602c6828-a87e-4ec5-8c19-746cbc7d2004.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

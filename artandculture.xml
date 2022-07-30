@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 09:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 10:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 좋아할지 몰라 다 준비했어! 바자 26주년 축하해]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68411</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68411</guid>
+            <pubDate>Sat, 30 Jul 2022 10:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/0a28a263-b1e6-492d-bf63-7a080e627286.jpg');">
+                                <a href="/article/68411">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68411">
+                                        뭘 좋아할지 몰라 다 준비했어! 바자 26주년 축하해                                     </a>
+                                </em>
+                                <p class="excerpt">하퍼스 바자 창간 26주년 기념 생일 파티</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/0a28a263-b1e6-492d-bf63-7a080e627286.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송강호부터 이병헌까지.. '연기호흡王' 임시완]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68403</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68364</link>
             <guid>https://www.harpersbazaar.co.kr/article/68364</guid>
             <pubDate>Thu, 28 Jul 2022 10:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/934f0966-da4a-46bc-aaed-3f6affc6c6a6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/934f0966-da4a-46bc-aaed-3f6affc6c6a6.jpg');">
                                 <a href="/article/68364">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68364">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이효리부터 이하이까지... '나야나'도 '나타나'</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/f99d9e9c-ccf2-466b-94f4-6371b207a584.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['섬머퀸 누구?'.. 블랙핑크·트와이스·소녀시대, 8월 컴백]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68346</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68346</guid>
-            <pubDate>Thu, 28 Jul 2022 03:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/d13d87da-b789-4807-840b-fa6b3ba23e9e.jpg');">
-                                <a href="/article/68346">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68346">
-                                        '섬머퀸 누구?'.. 블랙핑크·트와이스·소녀시대, 8월 컴백                                    </a>
-                                </em>
-                                <p class="excerpt">K팝 세계관 최강들의 격돌.. 가요 3사 자존심 대결!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/d13d87da-b789-4807-840b-fa6b3ba23e9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
