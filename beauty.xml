@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화사, 정혜성, 홍지민도 먹었다! 다이어트 최고봉, 두부 유부초밥 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68356</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68356</guid>
+            <pubDate>Sat, 30 Jul 2022 15:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/2f319433-4a86-4230-8416-7d9cb2723969.jpg');">
+                                <a href="/article/68356">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68356">
+                                        화사, 정혜성, 홍지민도 먹었다! 다이어트 최고봉, 두부 유부초밥 레시피                                     </a>
+                                </em>
+                                <p class="excerpt">스텝별로 즐기는 두부 유부초밥 레시피 3</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/2f319433-4a86-4230-8416-7d9cb2723969.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 N°1 DE CHANEL GARDEN 오픈]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68309</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68226</link>
             <guid>https://www.harpersbazaar.co.kr/article/68226</guid>
             <pubDate>Wed, 27 Jul 2022 09:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/d9ed9618-d018-43f2-880f-e0497c22f717.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/d9ed9618-d018-43f2-880f-e0497c22f717.jpg');">
                                 <a href="/article/68226">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68226">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">뮤즈 이미주가 전하는 스타일리시한 애슬레저 룩</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/4c159af8-7454-4c9d-96a5-090ee85759ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자칭 프로 다이어터 햄연지의 다이어트 비결 6가지]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68038</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68038</guid>
-            <pubDate>Mon, 25 Jul 2022 16:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/65277753-3682-439b-852c-bb5eb5c955c6.jpg');">
-                                <a href="/article/68038">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68038">
-                                        자칭 프로 다이어터 햄연지의 다이어트 비결 6가지                                     </a>
-                                </em>
-                                <p class="excerpt">-7kg를 위한 셀프 다이어트 다짐</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/65277753-3682-439b-852c-bb5eb5c955c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유, 본캐로 올림픽주경기장 콘서트! 韓여가수 최초]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68393</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68393</guid>
+            <pubDate>Sat, 30 Jul 2022 15:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg');">
+                                <a href="/article/68393">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68393">
+                                        아이유, 본캐로 올림픽주경기장 콘서트! 韓여가수 최초                                    </a>
+                                </em>
+                                <p class="excerpt">배우 이지은도 좋고, 가수 아이유도 좋아요❤</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 나영석 사단이 모였다  '지구오락실']]></title>
             <link>https://www.harpersbazaar.co.kr/article/68279</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68358</link>
             <guid>https://www.harpersbazaar.co.kr/article/68358</guid>
             <pubDate>Thu, 28 Jul 2022 12:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
                                 <a href="/article/68358">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68358">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">김희선, 이현욱, 정유진, 박훈, 차지연. 순백의 신부라는 관념을 바꿔놓으려는 다섯 명의 배우들...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/b4619527-cb8d-4038-8314-993cbcfa51bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈 같은 바캉스를 즐기는 패션 아이콘들의 여름 휴가지는 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68307</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68307</guid>
-            <pubDate>Wed, 27 Jul 2022 09:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/117ff5e5-bc6a-4512-aad6-e22f7c0451da.jpg');">
-                                <a href="/article/68307">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68307">
-                                        꿈 같은 바캉스를 즐기는 패션 아이콘들의 여름 휴가지는 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">여름아 부탁해! 환상적인 바캉스를 떠난 패션 아이콘들.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/117ff5e5-bc6a-4512-aad6-e22f7c0451da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
