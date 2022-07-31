@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 10:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 11:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수사샤의 코코 크러쉬 스타일링 팁!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68209</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68209</guid>
+            <pubDate>Sun, 31 Jul 2022 11:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/9676cf0b-ed61-4b51-92ad-a63f1defc6d0.jpg');">
+                                <a href="/article/68209">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68209">
+                                        수사샤의 코코 크러쉬 스타일링 팁!                                    </a>
+                                </em>
+                                <p class="excerpt">Z세대를 대표하는 래퍼 릴체리, 댄서이자 퍼포먼스 아티스트 아이반 그리고 유튜버 수사샤로 활...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/9676cf0b-ed61-4b51-92ad-a63f1defc6d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반 클리프 아펠의 우아한 여정]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68274</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68305</link>
             <guid>https://www.harpersbazaar.co.kr/article/68305</guid>
             <pubDate>Fri, 29 Jul 2022 08:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/0ef627ae-9cfe-47b9-ac1e-e4d6775ef80e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/0ef627ae-9cfe-47b9-ac1e-e4d6775ef80e.jpg');">
                                 <a href="/article/68305">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68305">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">담백한 멋을 지닌 탱크톱을 연출하는 몇 가지 방법.   </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/cb32e4da-54dc-4301-a4e2-2e0ac840a5d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['브라 톱'의 과감한 일탈]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68225</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68225</guid>
-            <pubDate>Tue, 26 Jul 2022 15:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/87534129-f50c-4509-b57d-4c2ff8a5aa48.jpg');">
-                                <a href="/article/68225">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68225">
-                                        '브라 톱'의 과감한 일탈                                    </a>
-                                </em>
-                                <p class="excerpt">다양하게 변주된 브라 톱으로 폭염에 과감히 맞서볼 것.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/87534129-f50c-4509-b57d-4c2ff8a5aa48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
