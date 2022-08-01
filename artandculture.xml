@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 11:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 12:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유×제이홉, 듀엣 무대.. 역대급 <팔레트> 탄생!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68447</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68447</guid>
+            <pubDate>Mon, 01 Aug 2022 12:28:51 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg');">
+                                <a href="/article/68447">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68447">
+                                        아이유×제이홉, 듀엣 무대.. 역대급 &lt;팔레트&gt; 탄생!                                    </a>
+                                </em>
+                                <p class="excerpt">서로에게 낯가리는 아이유와 제이홉 보세요~</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최민식→박해일→김윤석, '이순신 3부작' 궁금해?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68439</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68403</link>
             <guid>https://www.harpersbazaar.co.kr/article/68403</guid>
             <pubDate>Fri, 29 Jul 2022 08:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5878740-d49b-420a-9091-def726a57280.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5878740-d49b-420a-9091-def726a57280.jpg');">
                                 <a href="/article/68403">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68403">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">속세의 맛은 바나나로 해결한다. 반하지 않을 수 없는 바나나 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/934f0966-da4a-46bc-aaed-3f6affc6c6a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소문난 미식가 강민경이 즐겨먹는 집밥 메뉴는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68363</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68363</guid>
-            <pubDate>Thu, 28 Jul 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
-                                <a href="/article/68363">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68363">
-                                        소문난 미식가 강민경이 즐겨먹는 집밥 메뉴는?                                      </a>
-                                </em>
-                                <p class="excerpt">헛헛함은 포만감으로 달랜다는 고메, 강민경! 그녀가 공개한 맛있는 집 밥 레시피.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
