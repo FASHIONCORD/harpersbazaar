@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<우영우>가 즐겨 먹는 서울의 #김밥 맛집 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34235077&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34235077&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 01 Aug 2022 09:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDFfMTQ4/MDAxNjU5MzQ0NTUxODE5.rkjd5Q3NNOeJL_HlpvvwLYc7NgIs94mZJu1TBWF_xXog.Y5REoUaCxRj9oXuGpB8Yeff9RMHNxvo9sUB8dSHWVUcg.JPEG/IbG42vbZGMkmm3No2-zUFwq3I0aQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조권도 다녀갔다는 도산공원 브런치 핫플은 어디? #신상핫플]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34202195&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 03:52:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfMjc3/MDAxNjUxNjQ5Mzc0MDc3.adf1k_td4ruZK4KgC5LXaenEfUyhbd_C1NQFK5JL9OIg.e4PyAVw8-RlK2v0FavtTHYwSb0wHRIeEOurG_TXDFVMg.JPEG/I_1I4PYqzSeg2xKJi1F8boIFcYvo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 일상을 위한 머스트 해브 아이템]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33743854&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33743854&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 03:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDRfMTQz/MDAxNjUxNjQ5MzYxMDM4.JHQgZTZ9M87upO3Yl9mCVe0iaKMa4XU8cMz-bnzJXisg.pKtOftju3An0ns1xNOAr1KO2acB7iexewIunPfUpufQg.JPEG/ILT-mFGkWymfDo4_5Z8B2nbEqY8E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
