@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 16:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션의 시그니처 피스 알뤼르 셀레스테]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68338</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68338</guid>
+            <pubDate>Mon, 01 Aug 2022 16:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/9c2ced6b-1551-4f69-8624-9b3449a1eb5c.jpg');">
+                                <a href="/article/68338">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68338">
+                                        샤넬 1932 하이 주얼리 컬렉션의 시그니처 피스 알뤼르 셀레스테                                    </a>
+                                </em>
+                                <p class="excerpt">밤처럼 푸른 사파이어, 강렬한 푸른 빛의 다이아몬드.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/9c2ced6b-1551-4f69-8624-9b3449a1eb5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션 솔레이 19 웃트 네크리스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68382</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68363</link>
             <guid>https://www.harpersbazaar.co.kr/article/68363</guid>
             <pubDate>Fri, 29 Jul 2022 15:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
                                 <a href="/article/68363">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68363">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">아티스틱한 디테일이 담긴 골드 칵테일 워치가 당신의 이브닝 룩을 한 단계 업그레이드해준다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/876feb16-5c8a-4193-8de5-122ab025a482.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연을 탐미한 부쉐론의 하이주얼리]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68230</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68230</guid>
-            <pubDate>Wed, 27 Jul 2022 15:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/cd9befa2-0b53-460e-8b9d-47d58c68b032.jpg');">
-                                <a href="/article/68230">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68230">
-                                        자연을 탐미한 부쉐론의 하이주얼리                                    </a>
-                                </em>
-                                <p class="excerpt">원시 상태의 자연, 그 숭고함을 탐미한 부쉐론의 새로운 하이주얼리 컬렉션은 마치 하나의 예술...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/cd9befa2-0b53-460e-8b9d-47d58c68b032.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
