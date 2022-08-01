@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최민식→박해일→김윤석, '이순신 3부작' 궁금해?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68439</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68439</guid>
+            <pubDate>Mon, 01 Aug 2022 10:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg');">
+                                <a href="/article/68439">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68439">
+                                        최민식→박해일→김윤석, '이순신 3부작' 궁금해?                                    </a>
+                                </em>
+                                <p class="excerpt">한국 영화 역대 '넘사벽' 1위 &lt;명량&gt; 세계관의 확장!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68416</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68396</link>
             <guid>https://www.harpersbazaar.co.kr/article/68396</guid>
             <pubDate>Fri, 29 Jul 2022 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg');">
                                 <a href="/article/68396">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68396">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">헛헛함은 포만감으로 달랜다는 고메, 강민경! 그녀가 공개한 맛있는 집 밥 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 전시는 거부한다! 올 8월 제주도에 오픈하는 신개념 체험 전시]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68359</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68359</guid>
-            <pubDate>Thu, 28 Jul 2022 07:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a1a828c7-8e20-4116-8d33-6feef6a6d9a3.jpg');">
-                                <a href="/article/68359">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68359">
-                                        평범한 전시는 거부한다! 올 8월 제주도에 오픈하는 신개념 체험 전시                                     </a>
-                                </em>
-                                <p class="excerpt">“쥬라기 월드에 오신 걸 환영합니다.” </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a1a828c7-8e20-4116-8d33-6feef6a6d9a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

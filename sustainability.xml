@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[필환경 시대의 지속가능한 시계]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67062</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67062</guid>
+            <pubDate>Mon, 01 Aug 2022 10:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg');">
+                                <a href="/article/67062">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67062">
+                                        필환경 시대의 지속가능한 시계                                     </a>
+                                </em>
+                                <p class="excerpt">시계 업계에서의 지속가능성은 워치메이킹의 모든 공정과 단계에 적용되고 있다. 그뿐이 아니다. ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤리적인 다이아몬드]]></title>
             <link>https://www.harpersbazaar.co.kr/article/66756</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65670</link>
             <guid>https://www.harpersbazaar.co.kr/article/65670</guid>
             <pubDate>Fri, 17 Jun 2022 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg');">
                                 <a href="/article/65670">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65670">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">음식이든 옷이든 유기농(Organic) 인증마크가 달려 있으면 왠지 모르게 믿음이 간다. 그런데 우리...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/93cb9bcb-6ff5-4121-8a5f-e62198299a5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기미와 잡티의 흔적을 지워 주는 ‘착한 세럼’]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65311</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65311</guid>
-            <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/4e58eafd-0f19-4f14-a6c8-a7fa0b1f56d8.jpg');">
-                                <a href="/article/65311">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65311">
-                                        기미와 잡티의 흔적을 지워 주는 ‘착한 세럼’                                    </a>
-                                </em>
-                                <p class="excerpt">인간이 남긴 탄소 발자국도 지우고, 피부에 자리한 다크 스폿도 지우고!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/13/4e58eafd-0f19-4f14-a6c8-a7fa0b1f56d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
