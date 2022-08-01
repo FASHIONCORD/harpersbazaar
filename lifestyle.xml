@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 10:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 11:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 #헤어질결심 의 삭제 장면이 궁금해? #영화신간도서]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68479</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68479</guid>
+            <pubDate>Mon, 01 Aug 2022 11:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg');">
+                                <a href="/article/68479">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68479">
+                                        영화 #헤어질결심 의 삭제 장면이 궁금해? #영화신간도서                                    </a>
+                                </em>
+                                <p class="excerpt">책으로 만나는 영화와 영화감독들! 영화광을 위한 세 권의 신간 도서.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박재범, 헤일리 비버도 빠졌다는 바다 이끼 스무디? #다이어트주스레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68458</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68401</link>
             <guid>https://www.harpersbazaar.co.kr/article/68401</guid>
             <pubDate>Sat, 30 Jul 2022 11:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ec1decea-aa09-4fad-89a9-551be6981173.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ec1decea-aa09-4fad-89a9-551be6981173.jpg');">
                                 <a href="/article/68401">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68401">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">헛헛함은 포만감으로 달랜다는 고메, 강민경! 그녀가 공개한 맛있는 집 밥 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68358</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68358</guid>
-            <pubDate>Thu, 28 Jul 2022 09:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
-                                <a href="/article/68358">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68358">
-                                        차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">성수, 한남, 송파에서 믿고 갈 수 있는 카페는 바로 여기!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

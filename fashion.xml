@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 10:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 11:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션 솔레이 19 웃트 네크리스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68382</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68382</guid>
+            <pubDate>Mon, 01 Aug 2022 11:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/c2d99102-1906-45f3-b7f6-bc134602801f.jpg');">
+                                <a href="/article/68382">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68382">
+                                        샤넬 1932 하이 주얼리 컬렉션 솔레이 19 웃트 네크리스                                    </a>
+                                </em>
+                                <p class="excerpt">찬란한 태양처럼 빛나는 네크리스.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/c2d99102-1906-45f3-b7f6-bc134602801f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수사샤의 코코 크러쉬 스타일링 팁!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68209</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68234</link>
             <guid>https://www.harpersbazaar.co.kr/article/68234</guid>
             <pubDate>Fri, 29 Jul 2022 08:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/232a5f82-6a46-4c5b-96e3-3dae72888eae.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/232a5f82-6a46-4c5b-96e3-3dae72888eae.jpg');">
                                 <a href="/article/68234">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68234">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">원시 상태의 자연, 그 숭고함을 탐미한 부쉐론의 새로운 하이주얼리 컬렉션은 마치 하나의 예술...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/cd9befa2-0b53-460e-8b9d-47d58c68b032.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무심한듯 시크하게 탱크톱]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68227</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68227</guid>
-            <pubDate>Wed, 27 Jul 2022 10:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/cb32e4da-54dc-4301-a4e2-2e0ac840a5d4.jpg');">
-                                <a href="/article/68227">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68227">
-                                        무심한듯 시크하게 탱크톱                                    </a>
-                                </em>
-                                <p class="excerpt">담백한 멋을 지닌 탱크톱을 연출하는 몇 가지 방법.   </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/24/cb32e4da-54dc-4301-a4e2-2e0ac840a5d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
