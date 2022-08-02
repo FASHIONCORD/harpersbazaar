@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 01:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:03:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유×제이홉, 듀엣 무대.. 역대급 <팔레트> 탄생!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68447</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68447</guid>
+            <pubDate>Tue, 02 Aug 2022 04:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg');">
+                                <a href="/article/68447">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68447">
+                                        아이유×제이홉, 듀엣 무대.. 역대급 &lt;팔레트&gt; 탄생!                                    </a>
+                                </em>
+                                <p class="excerpt">서로에게 낯가리는 아이유와 제이홉 보세요~</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지구오락실' ENFP 용사를 뒤에 앉혀 두면 생기는 일]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68420</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68363</link>
             <guid>https://www.harpersbazaar.co.kr/article/68363</guid>
             <pubDate>Fri, 29 Jul 2022 09:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
                                 <a href="/article/68363">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68363">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">창간 26주년을 축하하는 스페셜 인터뷰</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/e7a8d2d3-1ec4-4da5-bfcd-1e373c94cbc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보기만 해도 사랑스러운 그녀, 말레아의 새로운 변신]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68337</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68337</guid>
-            <pubDate>Wed, 27 Jul 2022 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/1b2b9fa7-59b5-4097-b19f-e565874d8789.jpg');">
-                                <a href="/article/68337">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68337">
-                                        보기만 해도 사랑스러운 그녀, 말레아의 새로운 변신                                    </a>
-                                </em>
-                                <p class="excerpt">영화 &lt;애프터 양&gt;에서 사랑스러운 미카 역을 맡은 배우 말레아 엠마 찬드라위자야의 화보 공개</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/1b2b9fa7-59b5-4097-b19f-e565874d8789.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
