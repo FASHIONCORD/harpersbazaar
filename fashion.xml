@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변주된 화이트 셔츠와 데님 진의 조합]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68312</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68312</guid>
+            <pubDate>Tue, 02 Aug 2022 08:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/75edd744-ba81-475e-b6b2-d7a639e01ec1.jpg');">
+                                <a href="/article/68312">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68312">
+                                        변주된 화이트 셔츠와 데님 진의 조합                                    </a>
+                                </em>
+                                <p class="excerpt">클래식 스타일링의 교본과도 같은 화이트 셔츠와 데님의 조합. 발렌티노는 아플리케 꽃잎이 수놓...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/75edd744-ba81-475e-b6b2-d7a639e01ec1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 포멀 룩을 즐기고 싶다면 베스트를 주목하라!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68311</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68209</link>
             <guid>https://www.harpersbazaar.co.kr/article/68209</guid>
             <pubDate>Sun, 31 Jul 2022 11:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/9676cf0b-ed61-4b51-92ad-a63f1defc6d0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/9676cf0b-ed61-4b51-92ad-a63f1defc6d0.jpg');">
                                 <a href="/article/68209">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68209">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">7명의 뉴 페이스 모델과 7개의 클래식 시계가 만났다. &lt;바자&gt;가 주목한 얼굴이 담긴 새로운 포...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/232a5f82-6a46-4c5b-96e3-3dae72888eae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물 만난 스타일 아이콘, 한소희의 근사한 다크 패션 모음.zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68305</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68305</guid>
-            <pubDate>Fri, 29 Jul 2022 08:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/0ef627ae-9cfe-47b9-ac1e-e4d6775ef80e.jpg');">
-                                <a href="/article/68305">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68305">
-                                        물 만난 스타일 아이콘, 한소희의 근사한 다크 패션 모음.zip                                    </a>
-                                </em>
-                                <p class="excerpt">다크한 룩도 잘 어울리는 ‘얼굴 천재’ 한소희의 물오른 스타일 이모저모.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/0ef627ae-9cfe-47b9-ac1e-e4d6775ef80e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

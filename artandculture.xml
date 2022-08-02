@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박재범, 헤일리 비버도 빠졌다는 바다 이끼 스무디? #다이어트주스레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68458</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68458</guid>
+            <pubDate>Tue, 02 Aug 2022 08:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/78ad309c-bb94-44cd-955a-44efbb702659.jpg');">
+                                <a href="/article/68458">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68458">
+                                        박재범, 헤일리 비버도 빠졌다는 바다 이끼 스무디? #다이어트주스레시피                                    </a>
+                                </em>
+                                <p class="excerpt">모르면 손해! 셀럽들이 추천하는 다이어트 주스 레시피. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/78ad309c-bb94-44cd-955a-44efbb702659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유×제이홉, 듀엣 무대.. 역대급 <팔레트> 탄생!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68447</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68411</link>
             <guid>https://www.harpersbazaar.co.kr/article/68411</guid>
             <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/0a28a263-b1e6-492d-bf63-7a080e627286.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/0a28a263-b1e6-492d-bf63-7a080e627286.jpg');">
                                 <a href="/article/68411">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68411">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">배우 이지은도 좋고, 가수 아이유도 좋아요❤</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10kg 감량한 유지어터가 먹는다는 바나나 간식 #바나나레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68364</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68364</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/934f0966-da4a-46bc-aaed-3f6affc6c6a6.jpg');">
-                                <a href="/article/68364">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68364">
-                                        10kg 감량한 유지어터가 먹는다는 바나나 간식 #바나나레시피                                    </a>
-                                </em>
-                                <p class="excerpt">속세의 맛은 바나나로 해결한다. 반하지 않을 수 없는 바나나 레시피! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/934f0966-da4a-46bc-aaed-3f6affc6c6a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
