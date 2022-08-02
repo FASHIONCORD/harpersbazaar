@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 15:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 16:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1645,6 +1645,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그린슈머들이 첫 제품으로 많이 사용하는 이것은? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68516</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68516</guid>
+            <pubDate>Tue, 02 Aug 2022 16:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg');">
+                                <a href="/article/68516">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68516">
+                                        그린슈머들이 첫 제품으로 많이 사용하는 이것은?                                    </a>
+                                </em>
+                                <p class="excerpt">지구와 친해지고 싶다면 바로 이 제품부터! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8월 여긴 가야 해, 현대차 캐스퍼 스튜디오 성수 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68505</link>
             <guid>https://www.harpersbazaar.co.kr/article/68505</guid>
@@ -1724,17 +1749,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68458</link>
             <guid>https://www.harpersbazaar.co.kr/article/68458</guid>
             <pubDate>Mon, 01 Aug 2022 10:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/78ad309c-bb94-44cd-955a-44efbb702659.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/78ad309c-bb94-44cd-955a-44efbb702659.jpg');">
                                 <a href="/article/68458">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68458">
@@ -1815,30 +1839,6 @@
                                 <p class="excerpt">우영우 아니어도 매일 김밥 먹기 완전 가능!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ec1decea-aa09-4fad-89a9-551be6981173.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대의 눈동자에 치얼스! 서촌의 신상 술 공간들 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68367</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68367</guid>
-            <pubDate>Sat, 30 Jul 2022 10:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/60b76ee3-aec1-4d53-b946-af8e2b3be7e0.jpg');">
-                                <a href="/article/68367">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68367">
-                                        그대의 눈동자에 치얼스! 서촌의 신상 술 공간들                                      </a>
-                                </em>
-                                <p class="excerpt">밤이 되면 애주가들로 북적인다. 요즘 핫한 서촌의 신상 술 공간들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/60b76ee3-aec1-4d53-b946-af8e2b3be7e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[필환경 시대의 지속가능한 시계 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
