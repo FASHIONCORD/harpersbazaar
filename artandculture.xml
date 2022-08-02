@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 10:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 11:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 #헤어질결심 의 삭제 장면이 궁금해? #영화신간도서]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68479</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68479</guid>
+            <pubDate>Tue, 02 Aug 2022 11:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg');">
+                                <a href="/article/68479">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68479">
+                                        영화 #헤어질결심 의 삭제 장면이 궁금해? #영화신간도서                                    </a>
+                                </em>
+                                <p class="excerpt">책으로 만나는 영화와 영화감독들! 영화광을 위한 세 권의 신간 도서.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박재범, 헤일리 비버도 빠졌다는 바다 이끼 스무디? #다이어트주스레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68458</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68416</link>
             <guid>https://www.harpersbazaar.co.kr/article/68416</guid>
             <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg');">
                                 <a href="/article/68416">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68416">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">어린이 해방군 총사령관 구교환! "얘들아~ 놀자"</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 본캐로 올림픽주경기장 콘서트! 韓여가수 최초]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68393</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68393</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg');">
-                                <a href="/article/68393">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68393">
-                                        아이유, 본캐로 올림픽주경기장 콘서트! 韓여가수 최초                                    </a>
-                                </em>
-                                <p class="excerpt">배우 이지은도 좋고, 가수 아이유도 좋아요❤</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
