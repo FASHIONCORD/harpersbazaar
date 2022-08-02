@@ -1,12 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
+        <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 17:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 18:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그린슈머들이 첫 제품으로 많이 사용하는 이것은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68516</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68516</guid>
+            <pubDate>Tue, 02 Aug 2022 18:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg');">
+                                <a href="/article/68516">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68516">
+                                        그린슈머들이 첫 제품으로 많이 사용하는 이것은?                                    </a>
+                                </em>
+                                <p class="excerpt">지구와 친해지고 싶다면 바로 이 제품부터! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8월 여긴 가야 해, 현대차 캐스퍼 스튜디오 성수]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68505</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68505</guid>
+            <pubDate>Tue, 02 Aug 2022 18:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/4c16daba-9eb4-4d68-b1cb-5a74ff876475.jpg');">
+                                <a href="/article/68505">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68505">
+                                        8월 여긴 가야 해, 현대차 캐스퍼 스튜디오 성수&nbsp;                                    </a>
+                                </em>
+                                <p class="excerpt">현대차와 카시나의 협업으로 체험형 전시 공간을 운영한다.&nbsp;</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/4c16daba-9eb4-4d68-b1cb-5a74ff876475.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사 먹는 것보다 맛있는 #이색냉면레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68480</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68480</guid>
+            <pubDate>Tue, 02 Aug 2022 18:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/5bc71593-8db8-4a23-9a36-7e0d566ba218.jpg');">
+                                <a href="/article/68480">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68480">
+                                        사 먹는 것보다 맛있는 #이색냉면레시피                                    </a>
+                                </em>
+                                <p class="excerpt">냉면 맛집 뺨친다. 집에서 간단하게 만드는 냉면 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/5bc71593-8db8-4a23-9a36-7e0d566ba218.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 #헤어질결심 의 삭제 장면이 궁금해? #영화신간도서]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68479</link>
@@ -37,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68458</link>
             <guid>https://www.harpersbazaar.co.kr/article/68458</guid>
             <pubDate>Tue, 02 Aug 2022 08:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/78ad309c-bb94-44cd-955a-44efbb702659.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/78ad309c-bb94-44cd-955a-44efbb702659.jpg');">
                                 <a href="/article/68458">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68458">
@@ -58,54 +132,28 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/78ad309c-bb94-44cd-955a-44efbb702659.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이유×제이홉, 듀엣 무대.. 역대급 <팔레트> 탄생!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68447</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68447</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg');">
-                                <a href="/article/68447">
+            <title><![CDATA[서울 근교 경치 맛집은 여기!  #남양주브런치핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68457</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68457</guid>
+            <pubDate>Tue, 02 Aug 2022 18:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/69e10a79-e325-4b86-a426-46a09f2b08c2.jpg');">
+                                <a href="/article/68457">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/68447">
-                                        아이유×제이홉, 듀엣 무대.. 역대급 &lt;팔레트&gt; 탄생!                                    </a>
+                                    <a href="/article/68457">
+                                        서울 근교 경치 맛집은 여기!  #남양주브런치핫플                                     </a>
                                 </em>
-                                <p class="excerpt">서로에게 낯가리는 아이유와 제이홉 보세요~</p>
+                                <p class="excerpt">지친 일상에 힐링을! 주말에 다녀오기 좋은 남양주의 브런치 핫플레이스. </p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민식→박해일→김윤석, '이순신 3부작' 궁금해?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68439</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68439</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg');">
-                                <a href="/article/68439">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68439">
-                                        최민식→박해일→김윤석, '이순신 3부작' 궁금해?                                    </a>
-                                </em>
-                                <p class="excerpt">한국 영화 역대 '넘사벽' 1위 &lt;명량&gt; 세계관의 확장!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/69e10a79-e325-4b86-a426-46a09f2b08c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니?]]></title>
@@ -132,12 +180,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뭘 좋아할지 몰라 다 준비했어! 바자 26주년 축하해]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68411</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68411</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/0a28a263-b1e6-492d-bf63-7a080e627286.jpg');">
-                                <a href="/article/68411">
+            <title><![CDATA[서울의 #김밥 맛집 10]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68401</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68401</guid>
+            <pubDate>Tue, 02 Aug 2022 18:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ec1decea-aa09-4fad-89a9-551be6981173.jpg');">
+                                <a href="/article/68401">
                                     <img alt="" src="">
                                 </a>
                             </div>
@@ -148,60 +196,12 @@
 <!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/68411">
-                                        뭘 좋아할지 몰라 다 준비했어! 바자 26주년 축하해                                     </a>
+                                    <a href="/article/68401">
+                                        서울의 #김밥 맛집 10                                    </a>
                                 </em>
-                                <p class="excerpt">하퍼스 바자 창간 26주년 기념 생일 파티</p>
+                                <p class="excerpt">우영우 아니어도 매일 김밥 먹기 완전 가능!</p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/0a28a263-b1e6-492d-bf63-7a080e627286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송강호부터 이병헌까지.. '연기호흡王' 임시완]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68403</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68403</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5878740-d49b-420a-9091-def726a57280.jpg');">
-                                <a href="/article/68403">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68403">
-                                        송강호부터 이병헌까지.. '연기호흡王' 임시완                                    </a>
-                                </em>
-                                <p class="excerpt">임시완=대선배 호흡 전문! 미모와 연기력은 '덤'</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5878740-d49b-420a-9091-def726a57280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['동동삼' 정석용→'방구뽕' 구교환.. 특출 맛집 <우영우>]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68396</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68396</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg');">
-                                <a href="/article/68396">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68396">
-                                        '동동삼' 정석용→'방구뽕' 구교환.. 특출 맛집 &lt;우영우&gt;                                    </a>
-                                </em>
-                                <p class="excerpt">어린이 해방군 총사령관 구교환! "얘들아~ 놀자"</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ec1decea-aa09-4fad-89a9-551be6981173.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
