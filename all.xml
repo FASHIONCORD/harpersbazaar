@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 03:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 05:03:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1449,6 +1449,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사 먹는 것보다 맛있는 #이색냉면레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68480</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68480</guid>
+            <pubDate>Tue, 02 Aug 2022 04:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/5bc71593-8db8-4a23-9a36-7e0d566ba218.jpg');">
+                                <a href="/article/68480">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68480">
+                                        사 먹는 것보다 맛있는 #이색냉면레시피                                    </a>
+                                </em>
+                                <p class="excerpt">냉면 맛집 뺨친다. 집에서 간단하게 만드는 냉면 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/5bc71593-8db8-4a23-9a36-7e0d566ba218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 #헤어질결심 의 삭제 장면이 궁금해? #영화신간도서 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68479</link>
             <guid>https://www.harpersbazaar.co.kr/article/68479</guid>
@@ -1528,17 +1553,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68439</link>
             <guid>https://www.harpersbazaar.co.kr/article/68439</guid>
             <pubDate>Tue, 02 Aug 2022 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg');">
                                 <a href="/article/68439">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68439">
@@ -1619,30 +1643,6 @@
                                 <p class="excerpt">임시완=대선배 호흡 전문! 미모와 연기력은 '덤'</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/c5878740-d49b-420a-9091-def726a57280.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['동동삼' 정석용→'방구뽕' 구교환.. 특출 맛집 <우영우> (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68396</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68396</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg');">
-                                <a href="/article/68396">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68396">
-                                        '동동삼' 정석용→'방구뽕' 구교환.. 특출 맛집 &lt;우영우&gt;                                    </a>
-                                </em>
-                                <p class="excerpt">어린이 해방군 총사령관 구교환! "얘들아~ 놀자"</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/57bac8da-2694-4f0d-9d95-b860b6ee4e71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그린슈머들이 첫 제품으로 많이 사용하는 이것은? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
