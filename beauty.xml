@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 14:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 15:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이효리의 헤어 아티스트는 누구?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68319</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68319</guid>
+            <pubDate>Wed, 03 Aug 2022 15:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/ff0c641c-b3c8-4ffa-9c44-f1bcae2021bf.jpg');">
+                                <a href="/article/68319">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68319">
+                                        이효리의 헤어 아티스트는 누구?                                    </a>
+                                </em>
+                                <p class="excerpt">금손 헤어 아티스트 한지선이 전하는 볼륨 살리는 법</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/ff0c641c-b3c8-4ffa-9c44-f1bcae2021bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌같은 세로 복근 만드는 운동 루틴 4]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68448</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68357</link>
             <guid>https://www.harpersbazaar.co.kr/article/68357</guid>
             <pubDate>Sun, 31 Jul 2022 15:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/47ffbe4e-3266-432d-99b3-2f801eb97d9f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/47ffbe4e-3266-432d-99b3-2f801eb97d9f.jpg');">
                                 <a href="/article/68357">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68357">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">매일 머리를 감는 것 만으로 새치커버가 가능해진다고? 진짜일까? </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/8234889a-8406-44cd-b5cd-40936a13f3fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촬영장에서 만난 박서준에게선 이런 향이 난다?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68231</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68231</guid>
-            <pubDate>Fri, 29 Jul 2022 03:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/aebb85ff-ceb0-4356-bc18-18a267ee51f8.jpg');">
-                                <a href="/article/68231">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68231">
-                                        촬영장에서 만난 박서준에게선 이런 향이 난다?                                    </a>
-                                </em>
-                                <p class="excerpt">남성 향수의 표상 블루 드 샤넬과 인간 샤넬 박서준이 만났다 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/aebb85ff-ceb0-4356-bc18-18a267ee51f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
