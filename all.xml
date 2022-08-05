@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 16:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 17:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1841,6 +1841,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신의 여행은 지속가능한가요? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67287</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67287</guid>
+            <pubDate>Fri, 05 Aug 2022 17:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg');">
+                                <a href="/article/67287">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67287">
+                                        당신의 여행은 지속가능한가요?                                    </a>
+                                </em>
+                                <p class="excerpt">지구와 미래의 우리를 위해 숙지해야 할 친환경 여행 가이드를 소개한다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[필환경 시대의 지속가능한 시계 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67062</link>
             <guid>https://www.harpersbazaar.co.kr/article/67062</guid>
@@ -1920,17 +1945,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65870</link>
             <guid>https://www.harpersbazaar.co.kr/article/65870</guid>
             <pubDate>Thu, 30 Jun 2022 08:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/e51b8bb1-2172-438a-a5f5-1674cc9ca4e4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/e51b8bb1-2172-438a-a5f5-1674cc9ca4e4.jpg');">
                                 <a href="/article/65870">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65870">
@@ -2011,30 +2035,6 @@
                                 <p class="excerpt">‘사람은 죽어서 이름을 남긴다’면, 살면서는 무수한 탄소발자국을 남긴다. 심지어 눈에 보이지 ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/bd623d18-b069-462a-87a1-f13efdc1016e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 산 유기농 티셔츠가 '진짜' 유기농이 아니라면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65152</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65152</guid>
-            <pubDate>Tue, 24 May 2022 03:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/93cb9bcb-6ff5-4121-8a5f-e62198299a5e.jpg');">
-                                <a href="/article/65152">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65152">
-                                        내가 산 유기농 티셔츠가 '진짜' 유기농이 아니라면?                                    </a>
-                                </em>
-                                <p class="excerpt">음식이든 옷이든 유기농(Organic) 인증마크가 달려 있으면 왠지 모르게 믿음이 간다. 그런데 우리...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/14/93cb9bcb-6ff5-4121-8a5f-e62198299a5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
