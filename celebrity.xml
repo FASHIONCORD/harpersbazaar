@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 08:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영이 찜한 베를린의 핫플은 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68523</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68523</guid>
+            <pubDate>Fri, 05 Aug 2022 08:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/38a18c40-2cf4-4744-84ca-8a26e1a0a69a.jpg');">
+                                <a href="/article/68523">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68523">
+                                        김나영이 찜한 베를린의 핫플은 어디?                                    </a>
+                                </em>
+                                <p class="excerpt">카페부터 샌드위치 맛집, 편집숍까지! 김나영이 찜한 베를린의 핫플레이스.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/38a18c40-2cf4-4744-84ca-8a26e1a0a69a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<애프터양>의 소녀, 말레아 엠마 찬드라위자야]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68316</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68447</link>
             <guid>https://www.harpersbazaar.co.kr/article/68447</guid>
             <pubDate>Tue, 02 Aug 2022 04:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg');">
                                 <a href="/article/68447">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68447">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;뿅뿅 지구오락실&gt;의 이은지, 미미, 이영지, 안유진이 &lt;바자&gt; 촬영장에 떨어졌다. Continue Game...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/6ef36b60-df97-4758-87fb-81c2e1cb24cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소문난 미식가 강민경이 즐겨먹는 집밥 메뉴는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68363</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68363</guid>
-            <pubDate>Fri, 29 Jul 2022 09:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg');">
-                                <a href="/article/68363">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68363">
-                                        소문난 미식가 강민경이 즐겨먹는 집밥 메뉴는?                                      </a>
-                                </em>
-                                <p class="excerpt">헛헛함은 포만감으로 달랜다는 고메, 강민경! 그녀가 공개한 맛있는 집 밥 레시피.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
