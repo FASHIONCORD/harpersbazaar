@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 15:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 16:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버터 올린 떡볶이 먹어봤니? #공리단길핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68597</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68597</guid>
+            <pubDate>Fri, 05 Aug 2022 16:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/cbf09514-6f40-4971-83f8-7cdf63e2536e.jpg');">
+                                <a href="/article/68597">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68597">
+                                        버터 올린 떡볶이 먹어봤니? #공리단길핫플                                    </a>
+                                </em>
+                                <p class="excerpt">요즘 핫한 경춘선 숲길! 호젓한 산책로 따라 걷다 쉬어가기 좋은 공간들. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/cbf09514-6f40-4971-83f8-7cdf63e2536e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴가철이면 돌아오는 버락 오바마 추천 책 & 플레이리스트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68594</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68536</link>
             <guid>https://www.harpersbazaar.co.kr/article/68536</guid>
             <pubDate>Wed, 03 Aug 2022 11:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/230ad04b-1f55-44ff-9e7d-64a9976e0ff7.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/230ad04b-1f55-44ff-9e7d-64a9976e0ff7.jpg');">
                                 <a href="/article/68536">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68536">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지구와 친해지고 싶다면 바로 이 제품부터! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 여긴 가야 해, 현대차 캐스퍼 스튜디오 성수]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68505</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68505</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/4c16daba-9eb4-4d68-b1cb-5a74ff876475.jpg');">
-                                <a href="/article/68505">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68505">
-                                        8월 여긴 가야 해, 현대차 캐스퍼 스튜디오 성수&nbsp;                                    </a>
-                                </em>
-                                <p class="excerpt">현대차와 카시나의 협업으로 체험형 전시 공간을 운영한다.&nbsp;</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/4c16daba-9eb4-4d68-b1cb-5a74ff876475.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
