@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 06:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1253,6 +1253,56 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/47ffbe4e-3266-432d-99b3-2f801eb97d9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<애프터양>의 소녀, 말레아 엠마 찬드라위자야 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68316</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68316</guid>
+            <pubDate>Fri, 05 Aug 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/b2757f36-1f3f-4bdf-b5aa-8e025a6717b1.jpg');">
+                                <a href="/article/68316">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68316">
+                                        &lt;애프터양&gt;의 소녀, 말레아 엠마 찬드라위자야                                    </a>
+                                </em>
+                                <p class="excerpt">여름을 지나 보내는 &lt;애프터 양&gt;의 어린 소녀 미카, 말레아 엠마 찬드로위자야(Malea Emma Tjand...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/b2757f36-1f3f-4bdf-b5aa-8e025a6717b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿바이, 라비 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68310</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68310</guid>
+            <pubDate>Fri, 05 Aug 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/a4f12c86-9868-4f2d-9ee8-2b0598dcb070.jpg');">
+                                <a href="/article/68310">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68310">
+                                        굿바이, 라비                                    </a>
+                                </em>
+                                <p class="excerpt">입대를 앞두고 잠시 숨 고르기 중일 거란 예상은 보기 좋게 빗나갔다. 라비는 지금도 레드존까...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/a4f12c86-9868-4f2d-9ee8-2b0598dcb070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박재범, 헤일리 비버도 빠졌다는 바다 이끼 스무디? #다이어트주스레시피 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68458</link>
             <guid>https://www.harpersbazaar.co.kr/article/68458</guid>
@@ -1307,17 +1357,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68420</link>
             <guid>https://www.harpersbazaar.co.kr/article/68420</guid>
             <pubDate>Mon, 01 Aug 2022 11:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ad97d062-9ea0-47bf-9d0a-e7228520787b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ad97d062-9ea0-47bf-9d0a-e7228520787b.jpg');">
                                 <a href="/article/68420">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68420">
@@ -1332,17 +1381,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68393</link>
             <guid>https://www.harpersbazaar.co.kr/article/68393</guid>
             <pubDate>Fri, 29 Jul 2022 06:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg');">
                                 <a href="/article/68393">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68393">
@@ -1401,52 +1449,29 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/54acd9fb-4ffb-4d3c-8408-69f1b167a635.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<나의 해방일지> 배우들, 요즘 뭐하지? #근황 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68362</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68362</guid>
-            <pubDate>Fri, 29 Jul 2022 09:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/5e58ad16-f5ca-49b4-a3fc-84b61781890c.jpg');">
-                                <a href="/article/68362">
+            <title><![CDATA[<더 테러 라이브> 감독 신작.. 김다미×박해수 호흡! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68549</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68549</guid>
+            <pubDate>Fri, 05 Aug 2022 06:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1635eec4-b4d4-4cc0-9694-00e27a4635af.jpg');">
+                                <a href="/article/68549">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68362">
-                                        &lt;나의 해방일지&gt; 배우들, 요즘 뭐하지? #근황                                    </a>
-                                </em>
-                                <p class="excerpt">궁금해서 직접 뒤져본 출연자들 근황 모음.zip</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/5e58ad16-f5ca-49b4-a3fc-84b61781890c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68358</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68358</guid>
-            <pubDate>Thu, 28 Jul 2022 09:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg');">
-                                <a href="/article/68358">
-                                    <img alt="" src="">
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
                                 </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/68358">
-                                        차정원이 찾은 '테라스 맛집' 카페 3 #인_스타_플레이스                                    </a>
+                                    <a href="/article/68549">
+                                        &lt;더 테러 라이브&gt; 감독 신작.. 김다미×박해수 호흡!                                    </a>
                                 </em>
-                                <p class="excerpt">성수, 한남, 송파에서 믿고 갈 수 있는 카페는 바로 여기!</p>
+                                <p class="excerpt">SF 재난 블록버스터 &lt;대홍수&gt;로 만난 매력파 배우 둘✌</p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/cc53a945-96fe-42c8-b94c-7f7bcfbd8d3f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1635eec4-b4d4-4cc0-9694-00e27a4635af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김나영이 찜한 베를린의 핫플은 어디? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -1528,17 +1553,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68479</link>
             <guid>https://www.harpersbazaar.co.kr/article/68479</guid>
             <pubDate>Mon, 01 Aug 2022 11:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg');">
                                 <a href="/article/68479">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68479">
@@ -1619,30 +1643,6 @@
                                 <p class="excerpt">한국 영화 역대 '넘사벽' 1위 &lt;명량&gt; 세계관의 확장!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68416</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68416</guid>
-            <pubDate>Sat, 30 Jul 2022 12:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg');">
-                                <a href="/article/68416">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68416">
-                                        요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니?                                    </a>
-                                </em>
-                                <p class="excerpt">올리브오일 보다 핫하다! 세계인들의 입맛을 홀린 들기름, 이렇게 먹으면 더 맛있어요.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴가철이면 돌아오는 버락 오바마 추천 책 & 플레이리스트 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 06:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 테러 라이브> 감독 신작.. 김다미×박해수 호흡!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68549</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68549</guid>
+            <pubDate>Fri, 05 Aug 2022 06:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1635eec4-b4d4-4cc0-9694-00e27a4635af.jpg');">
+                                <a href="/article/68549">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68549">
+                                        &lt;더 테러 라이브&gt; 감독 신작.. 김다미×박해수 호흡!                                    </a>
+                                </em>
+                                <p class="excerpt">SF 재난 블록버스터 &lt;대홍수&gt;로 만난 매력파 배우 둘✌</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1635eec4-b4d4-4cc0-9694-00e27a4635af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영이 찜한 베를린의 핫플은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68523</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68479</link>
             <guid>https://www.harpersbazaar.co.kr/article/68479</guid>
             <pubDate>Tue, 02 Aug 2022 11:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/39dc474d-4315-405b-83be-81b8322a98ae.jpg');">
                                 <a href="/article/68479">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68479">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한국 영화 역대 '넘사벽' 1위 &lt;명량&gt; 세계관의 확장!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68416</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68416</guid>
-            <pubDate>Mon, 01 Aug 2022 16:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg');">
-                                <a href="/article/68416">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68416">
-                                        요즘 SNS에서 핫한 #들기름냉면파스타 먹어 봤니?                                    </a>
-                                </em>
-                                <p class="excerpt">올리브오일 보다 핫하다! 세계인들의 입맛을 홀린 들기름, 이렇게 먹으면 더 맛있어요.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/7143cc3d-1540-4c0c-af99-86db021ea13c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
