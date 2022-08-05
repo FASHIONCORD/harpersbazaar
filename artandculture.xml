@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리코타치즈 2배 더 맛있게 먹는 법! #리코타치즈레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68557</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68557</guid>
+            <pubDate>Fri, 05 Aug 2022 09:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/5581e374-cf7a-4e86-90bb-54a98b8b75cd.jpg');">
+                                <a href="/article/68557">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68557">
+                                        리코타치즈 2배 더 맛있게 먹는 법! #리코타치즈레시피                                    </a>
+                                </em>
+                                <p class="excerpt">고단백 저칼로리! 리코타치즈를 색다르게 즐기는 방법.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/5581e374-cf7a-4e86-90bb-54a98b8b75cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<더 테러 라이브> 감독 신작.. 김다미×박해수 호흡!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68549</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68480</link>
             <guid>https://www.harpersbazaar.co.kr/article/68480</guid>
             <pubDate>Wed, 03 Aug 2022 05:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/5bc71593-8db8-4a23-9a36-7e0d566ba218.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/5bc71593-8db8-4a23-9a36-7e0d566ba218.jpg');">
                                 <a href="/article/68480">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68480">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">서로에게 낯가리는 아이유와 제이홉 보세요~</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/d1b537bc-9dda-4775-8968-3dbd978f3410.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최민식→박해일→김윤석, '이순신 3부작' 궁금해?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68439</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68439</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg');">
-                                <a href="/article/68439">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68439">
-                                        최민식→박해일→김윤석, '이순신 3부작' 궁금해?                                    </a>
-                                </em>
-                                <p class="excerpt">한국 영화 역대 '넘사벽' 1위 &lt;명량&gt; 세계관의 확장!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/e356dc04-ab23-498b-a298-16433e76f2ac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
