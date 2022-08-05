@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 15:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GYM종국이 진단하는 있지의 몸상태. 혹시 나도?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68609</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68609</guid>
+            <pubDate>Fri, 05 Aug 2022 15:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/5b944f8e-03c7-4767-a743-b458ebf9e25d.jpg');">
+                                <a href="/article/68609">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68609">
+                                         GYM종국이 진단하는 있지의 몸상태. 혹시 나도?                                     </a>
+                                </em>
+                                <p class="excerpt">2,30대가 흔히 겪는 신체 고민 세 가지</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/5b944f8e-03c7-4767-a743-b458ebf9e25d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1990년대 VS 2022년대 메이크업]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68323</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68321</link>
             <guid>https://www.harpersbazaar.co.kr/article/68321</guid>
             <pubDate>Thu, 04 Aug 2022 03:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/adb05341-a7fd-4b20-a3e9-98372ae97d6a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/adb05341-a7fd-4b20-a3e9-98372ae97d6a.jpg');">
                                 <a href="/article/68321">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68321">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">크롭탑 이렇게 예쁘게 입고싶다면?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/08ebd8e3-3873-456b-87cf-db32dfbe63ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이린도 한다! 댕댕이와 함께 #댕라테스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68446</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68446</guid>
-            <pubDate>Tue, 02 Aug 2022 11:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/3858957f-2d8a-4ce1-aec3-2caaeee133e9.jpg');">
-                                <a href="/article/68446">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68446">
-                                        아이린도 한다! 댕댕이와 함께 #댕라테스                                     </a>
-                                </em>
-                                <p class="excerpt">함께 하면 더 즐거운걸요</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/3858957f-2d8a-4ce1-aec3-2caaeee133e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
