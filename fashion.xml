@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 14:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 15:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와츠앱으로 통하는 버질 아블로와 친구들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68352</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68352</guid>
+            <pubDate>Sat, 06 Aug 2022 15:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/cf3fe64e-9c36-4895-9b84-6f2cb813547f.jpg');">
+                                <a href="/article/68352">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68352">
+                                        와츠앱으로 통하는 버질 아블로와 친구들                                    </a>
+                                </em>
+                                <p class="excerpt">새롭게 개편된 버질 아블로의 회고전 «Virgil Abloh: ‘Figures of Speech’»가 뉴욕 브루클린...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/cf3fe64e-9c36-4895-9b84-6f2cb813547f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영이 찜한 베를린의 핫플은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68523</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68311</link>
             <guid>https://www.harpersbazaar.co.kr/article/68311</guid>
             <pubDate>Tue, 02 Aug 2022 04:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d62d5272-78ac-464d-a46b-dfa7e368f6bf.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d62d5272-78ac-464d-a46b-dfa7e368f6bf.jpg');">
                                 <a href="/article/68311">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68311">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">Z세대를 대표하는 래퍼 릴체리, 댄서이자 퍼포먼스 아티스트 아이반 그리고 유튜버 수사샤로 활...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/9676cf0b-ed61-4b51-92ad-a63f1defc6d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반 클리프 아펠의 우아한 여정]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68274</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68274</guid>
-            <pubDate>Sat, 30 Jul 2022 15:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/2ef1572d-9f3a-498e-8783-5001ef6451f3.jpg');">
-                                <a href="/article/68274">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68274">
-                                        반 클리프 아펠의 우아한 여정                                    </a>
-                                </em>
-                                <p class="excerpt">반클리프 아펠 서울 메종 오픈을 기념하여 일러스트레이터이자 그래픽 디자이너 줄리 조세프와 크...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/2ef1572d-9f3a-498e-8783-5001ef6451f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
