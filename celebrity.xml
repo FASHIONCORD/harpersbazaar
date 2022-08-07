@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 14:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 15:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위너 송민호, '걸그룹 출신' 동생.. 송단아 누구?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68586</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68586</guid>
+            <pubDate>Sun, 07 Aug 2022 15:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6148f8d8-41f0-43f6-b917-7659651f6041.jpg');">
+                                <a href="/article/68586">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68586">
+                                        위너 송민호, '걸그룹 출신' 동생.. 송단아 누구?                                    </a>
+                                </em>
+                                <p class="excerpt">2011년 데뷔한 걸그룹 뉴에프오 출신 인플루언서!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6148f8d8-41f0-43f6-b917-7659651f6041.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이틴 재질 폭발! 대세 걸그룹 뉴진스 스타일 탐구]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68537</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68310</link>
             <guid>https://www.harpersbazaar.co.kr/article/68310</guid>
             <pubDate>Fri, 05 Aug 2022 06:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/a4f12c86-9868-4f2d-9ee8-2b0598dcb070.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/a4f12c86-9868-4f2d-9ee8-2b0598dcb070.jpg');">
                                 <a href="/article/68310">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68310">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이런 텐션, 감당 가능하시겠습니까?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ad97d062-9ea0-47bf-9d0a-e7228520787b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유, 본캐로 올림픽주경기장 콘서트! 韓여가수 최초]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68393</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68393</guid>
-            <pubDate>Sat, 30 Jul 2022 15:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg');">
-                                <a href="/article/68393">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68393">
-                                        아이유, 본캐로 올림픽주경기장 콘서트! 韓여가수 최초                                    </a>
-                                </em>
-                                <p class="excerpt">배우 이지은도 좋고, 가수 아이유도 좋아요❤</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/a393efe3-1d3f-4e58-80ed-f09c497dc33a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
