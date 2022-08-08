@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 15:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 16:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검은 폭포가 흘러내리는 카스텔라, 먹어 봤니? #인싸디저트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68656</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68656</guid>
+            <pubDate>Mon, 08 Aug 2022 16:21:32 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e9b130ab-9d32-4f57-bb05-5b07d08caf98.jpg');">
+                                <a href="/article/68656">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68656">
+                                        검은 폭포가 흘러내리는 카스텔라, 먹어 봤니? #인싸디저트                                    </a>
+                                </em>
+                                <p class="excerpt">이건 못 참지. SNS 피드를 달군 인싸 디저트! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e9b130ab-9d32-4f57-bb05-5b07d08caf98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지구오락실' 멤버들이 방문한 태국 숙소, 레스토랑 가볼까]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68655</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68652</link>
             <guid>https://www.harpersbazaar.co.kr/article/68652</guid>
             <pubDate>Sat, 06 Aug 2022 15:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg');">
                                 <a href="/article/68652">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68652">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">여름밤의 파라다이스는 여기! 요즘 핫한 칵테일 공간들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/af60ae34-e1e7-479a-8e3b-a19f39c6fac6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루라도 젊었을 때 알아두면 좋은 밀라논나가 남긴 조언]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68615</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68615</guid>
-            <pubDate>Sat, 06 Aug 2022 11:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/aee2c70b-2f1d-4737-b447-62024f14cdee.jpg');">
-                                <a href="/article/68615">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68615">
-                                        하루라도 젊었을 때 알아두면 좋은 밀라논나가 남긴 조언                                     </a>
-                                </em>
-                                <p class="excerpt">굿바이 밀라논나 마지막 Q&amp;A</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/aee2c70b-2f1d-4737-b447-62024f14cdee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
