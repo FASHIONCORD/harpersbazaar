@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 06:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 07:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1449,6 +1449,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/ad97d062-9ea0-47bf-9d0a-e7228520787b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 핫한 토크쇼 #지코 #아이유 #이영지 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68633</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68633</guid>
+            <pubDate>Mon, 08 Aug 2022 07:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/0b84754c-1191-4273-9199-2a823128e8eb.jpg');">
+                                <a href="/article/68633">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68633">
+                                        요즘 핫한 토크쇼 #지코 #아이유 #이영지                                    </a>
+                                </em>
+                                <p class="excerpt">스타와 스타가 만나 진솔한 얘기를 나누는 토크 콘텐츠는 언제나 흥미롭다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/0b84754c-1191-4273-9199-2a823128e8eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["윤아 바쁨!" 드라마→소시 컴백→영화.. '열혈 스케줄' (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68631</link>
             <guid>https://www.harpersbazaar.co.kr/article/68631</guid>
@@ -1528,17 +1553,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68588</link>
             <guid>https://www.harpersbazaar.co.kr/article/68588</guid>
             <pubDate>Fri, 05 Aug 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae060576-cd24-48ef-93e0-eb2494747729.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae060576-cd24-48ef-93e0-eb2494747729.jpg');">
                                 <a href="/article/68588">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68588">
@@ -1619,30 +1643,6 @@
                                 <p class="excerpt">카페부터 샌드위치 맛집, 편집숍까지! 김나영이 찜한 베를린의 핫플레이스.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/38a18c40-2cf4-4744-84ca-8a26e1a0a69a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RM도 다녀간 ‘핫’한 전시는 바로 이곳! #바자예술산책 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68522</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68522</guid>
-            <pubDate>Wed, 03 Aug 2022 08:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/da19bd74-f65e-4b55-a21a-0aa7246155b7.jpg');">
-                                <a href="/article/68522">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68522">
-                                         RM도 다녀간 ‘핫’한 전시는 바로 이곳! #바자예술산책                                     </a>
-                                </em>
-                                <p class="excerpt">국제갤러리 디렉터의 도슨트와 함께하는 세 번째 아트클래스. 한국 추상 미술의 정수, 유영국 작...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/da19bd74-f65e-4b55-a21a-0aa7246155b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[덥고 꿉꿉한 기분? 라임으로 청량하게 UP! #라임레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
