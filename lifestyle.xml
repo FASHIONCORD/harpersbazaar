@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['지구오락실' 멤버들이 방문한 태국 숙소, 레스토랑 가볼까]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68655</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68655</guid>
+            <pubDate>Mon, 08 Aug 2022 15:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/8210201a-51b1-4a77-8c9a-d27bcf5c8b18.jpg');">
+                                <a href="/article/68655">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68655">
+                                        '지구오락실' 멤버들이 방문한 태국 숙소, 레스토랑 가볼까                                    </a>
+                                </em>
+                                <p class="excerpt">나PD가 극찬한 레스토랑은 어디?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/8210201a-51b1-4a77-8c9a-d27bcf5c8b18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 양양은 어디가 핫해? #양양핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68654</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68383</link>
             <guid>https://www.harpersbazaar.co.kr/article/68383</guid>
             <pubDate>Sat, 06 Aug 2022 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/5e0d70ca-6be4-4acc-a21d-5ba55dcda81a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/5e0d70ca-6be4-4acc-a21d-5ba55dcda81a.jpg');">
                                 <a href="/article/68383">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68383">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">굿바이 밀라논나 마지막 Q&amp;A</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/aee2c70b-2f1d-4737-b447-62024f14cdee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예약은 필수! 강릉 로컬들도 줄 선다는 #강릉찐맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68598</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68598</guid>
-            <pubDate>Sat, 06 Aug 2022 11:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/bc2c0a41-c60d-4448-ac73-75acaa674b1a.jpg');">
-                                <a href="/article/68598">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68598">
-                                        예약은 필수! 강릉 로컬들도 줄 선다는 #강릉찐맛집                                    </a>
-                                </em>
-                                <p class="excerpt">평일에도 예약은 필수. 강릉의 소문난 진짜 맛집들! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/bc2c0a41-c60d-4448-ac73-75acaa674b1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
