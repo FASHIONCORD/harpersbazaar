@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 쿨한 로우 슬렁 진]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68644</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68644</guid>
+            <pubDate>Mon, 08 Aug 2022 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/1f64ad4e-6f31-4f61-bfd8-75070b77422a.jpg');">
+                                <a href="/article/68644">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68644">
+                                        지금 가장 쿨한 로우 슬렁 진                                     </a>
+                                </em>
+                                <p class="excerpt">아슬아슬하게 아찔하게. 골반을 과감하게 노출하는 로우 슬렁 진의 인기는 계속된다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/1f64ad4e-6f31-4f61-bfd8-75070b77422a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웬디부터 소연까지 시원한 복근 노출 코디법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68636</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68352</link>
             <guid>https://www.harpersbazaar.co.kr/article/68352</guid>
             <pubDate>Sat, 06 Aug 2022 15:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/cf3fe64e-9c36-4895-9b84-6f2cb813547f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/cf3fe64e-9c36-4895-9b84-6f2cb813547f.jpg');">
                                 <a href="/article/68352">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68352">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">클래식 스타일링의 교본과도 같은 화이트 셔츠와 데님의 조합. 발렌티노는 아플리케 꽃잎이 수놓...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/75edd744-ba81-475e-b6b2-d7a639e01ec1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 포멀 룩을 즐기고 싶다면 베스트를 주목하라!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68311</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68311</guid>
-            <pubDate>Tue, 02 Aug 2022 04:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d62d5272-78ac-464d-a46b-dfa7e368f6bf.jpg');">
-                                <a href="/article/68311">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68311">
-                                        서머 포멀 룩을 즐기고 싶다면 베스트를 주목하라!                                    </a>
-                                </em>
-                                <p class="excerpt">클래식하지만 선뜻 도전하기 어려운 아이템이 베스트다. 이 아이템을 쿨하게 소화하고 싶다면 이...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d62d5272-78ac-464d-a46b-dfa7e368f6bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
