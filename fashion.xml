@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 14:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탈색, 아직도 망설이고 있다면? 제니, 선미, 태연까지!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68698</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68698</guid>
+            <pubDate>Tue, 09 Aug 2022 15:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/dccaa357-5360-4899-bcc1-c584c216e963.jpg');">
+                                <a href="/article/68698">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68698">
+                                        탈색, 아직도 망설이고 있다면? 제니, 선미, 태연까지!                                    </a>
+                                </em>
+                                <p class="excerpt">제대로 기분 전환하고 싶다면, 과감한 탈색 헤어에 도전해 볼 때다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/dccaa357-5360-4899-bcc1-c584c216e963.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷 좀 입는 그녀들이 선택한 레트로 무드 안경의 매력]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68695</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68644</link>
             <guid>https://www.harpersbazaar.co.kr/article/68644</guid>
             <pubDate>Mon, 08 Aug 2022 09:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/1f64ad4e-6f31-4f61-bfd8-75070b77422a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/1f64ad4e-6f31-4f61-bfd8-75070b77422a.jpg');">
                                 <a href="/article/68644">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68644">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">등장부터 예사롭지 않았던 새로운 걸그룹, 뉴진스(NewJeans)의 패션 스타일을 파헤치다. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1d3d8628-7a48-4a9d-b60e-100b887155ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와츠앱으로 통하는 버질 아블로와 친구들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68352</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68352</guid>
-            <pubDate>Sat, 06 Aug 2022 15:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/cf3fe64e-9c36-4895-9b84-6f2cb813547f.jpg');">
-                                <a href="/article/68352">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68352">
-                                        와츠앱으로 통하는 버질 아블로와 친구들                                    </a>
-                                </em>
-                                <p class="excerpt">새롭게 개편된 버질 아블로의 회고전 «Virgil Abloh: ‘Figures of Speech’»가 뉴욕 브루클린...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/cf3fe64e-9c36-4895-9b84-6f2cb813547f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
