@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 10:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 11:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7년 만에 돌아온 <마녀사냥 2022> 관전 포인트는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68640</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68640</guid>
+            <pubDate>Tue, 09 Aug 2022 11:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/86f5c434-f348-4255-b704-24cd6eb1c95c.jpg');">
+                                <a href="/article/68640">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68640">
+                                        7년 만에 돌아온 &lt;마녀사냥 2022&gt; 관전 포인트는?                                    </a>
+                                </em>
+                                <p class="excerpt">오래 기다리셨습니다!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/86f5c434-f348-4255-b704-24cd6eb1c95c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 핫한 토크쇼 #지코 #아이유 #이영지]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68633</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68617</link>
             <guid>https://www.harpersbazaar.co.kr/article/68617</guid>
             <pubDate>Sat, 06 Aug 2022 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/af60ae34-e1e7-479a-8e3b-a19f39c6fac6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/af60ae34-e1e7-479a-8e3b-a19f39c6fac6.jpg');">
                                 <a href="/article/68617">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68617">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">SF 재난 블록버스터 &lt;대홍수&gt;로 만난 매력파 배우 둘✌</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1635eec4-b4d4-4cc0-9694-00e27a4635af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영이 찜한 베를린의 핫플은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68523</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68523</guid>
-            <pubDate>Thu, 04 Aug 2022 12:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/38a18c40-2cf4-4744-84ca-8a26e1a0a69a.jpg');">
-                                <a href="/article/68523">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68523">
-                                        김나영이 찜한 베를린의 핫플은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">카페부터 샌드위치 맛집, 편집숍까지! 김나영이 찜한 베를린의 핫플레이스.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/38a18c40-2cf4-4744-84ca-8a26e1a0a69a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

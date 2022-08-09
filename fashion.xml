@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 10:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 11:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷 좀 입는 그녀들이 선택한 레트로 무드 안경의 매력]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68695</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68695</guid>
+            <pubDate>Tue, 09 Aug 2022 11:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/cba8d1bd-1a69-481a-8d83-35fe9c8d5f40.jpg');">
+                                <a href="/article/68695">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68695">
+                                        옷 좀 입는 그녀들이 선택한 레트로 무드 안경의 매력                                    </a>
+                                </em>
+                                <p class="excerpt">향수가 담긴 그때 그 시절 레트로 안경</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/cba8d1bd-1a69-481a-8d83-35fe9c8d5f40.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 이브닝 웨어, 턱시도]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68406</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68636</link>
             <guid>https://www.harpersbazaar.co.kr/article/68636</guid>
             <pubDate>Mon, 08 Aug 2022 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/85e56567-38df-4939-9ee5-5da834eeebe4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/85e56567-38df-4939-9ee5-5da834eeebe4.jpg');">
                                 <a href="/article/68636">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68636">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">새롭게 개편된 버질 아블로의 회고전 «Virgil Abloh: ‘Figures of Speech’»가 뉴욕 브루클린...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/cf3fe64e-9c36-4895-9b84-6f2cb813547f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김나영이 찜한 베를린의 핫플은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68523</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68523</guid>
-            <pubDate>Fri, 05 Aug 2022 14:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/38a18c40-2cf4-4744-84ca-8a26e1a0a69a.jpg');">
-                                <a href="/article/68523">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68523">
-                                        김나영이 찜한 베를린의 핫플은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">카페부터 샌드위치 맛집, 편집숍까지! 김나영이 찜한 베를린의 핫플레이스.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/38a18c40-2cf4-4744-84ca-8a26e1a0a69a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

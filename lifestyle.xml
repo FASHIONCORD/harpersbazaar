@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 10:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 11:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미식가 안소희가 찾은 공간 3 #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68707</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68707</guid>
+            <pubDate>Tue, 09 Aug 2022 11:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/a370a67e-797b-4d5f-8810-94a54cda2582.jpg');">
+                                <a href="/article/68707">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68707">
+                                        미식가 안소희가 찾은 공간 3 #인_스타_플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">프랑스와 이탈리아를 그대로 옮겨놓은 서울의 레스토랑들</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/a370a67e-797b-4d5f-8810-94a54cda2582.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당일치기 강화도 #먹킷 여행]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68693</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68655</link>
             <guid>https://www.harpersbazaar.co.kr/article/68655</guid>
             <pubDate>Mon, 08 Aug 2022 15:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/8210201a-51b1-4a77-8c9a-d27bcf5c8b18.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/8210201a-51b1-4a77-8c9a-d27bcf5c8b18.jpg');">
                                 <a href="/article/68655">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68655">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">무더위를 한 방에 날려 줄, 상큼한 홈메이드 라임 디저트 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여러분의 스리라차 소스가 마트에서 사라집니다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68383</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68383</guid>
-            <pubDate>Sat, 06 Aug 2022 14:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/5e0d70ca-6be4-4acc-a21d-5ba55dcda81a.jpg');">
-                                <a href="/article/68383">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68383">
-                                        여러분의 스리라차 소스가 마트에서 사라집니다                                     </a>
-                                </em>
-                                <p class="excerpt">연간 2천만 병 생산되는 후이퐁(Huy Fong) 스리라차 소스가 오는 9월까지 약 6개월간 생산을 중...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/5e0d70ca-6be4-4acc-a21d-5ba55dcda81a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
