@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 14:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1057,6 +1057,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/d4193a28-ed2a-422e-a69a-43b879799832.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[X동생들아 이것 안 하면 피부 훅 간다! (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68708</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68708</guid>
+            <pubDate>Wed, 10 Aug 2022 15:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c30cbb51-f6ba-4617-aad1-f34eccb55ef6.jpg');">
+                                <a href="/article/68708">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68708">
+                                        X동생들아 이것 안 하면 피부 훅 간다!                                    </a>
+                                </em>
+                                <p class="excerpt">40대 코덕 언니가 안 해서 후회한다는 관리는?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c30cbb51-f6ba-4617-aad1-f34eccb55ef6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 여름부터 가을까지 유행할 헤어 스타일 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68408</link>
             <guid>https://www.harpersbazaar.co.kr/article/68408</guid>
@@ -1136,17 +1161,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68637</link>
             <guid>https://www.harpersbazaar.co.kr/article/68637</guid>
             <pubDate>Tue, 09 Aug 2022 03:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/d38e9996-e425-4e31-833f-d00877388b74.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/d38e9996-e425-4e31-833f-d00877388b74.jpg');">
                                 <a href="/article/68637">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68637">
@@ -1227,30 +1251,6 @@
                                 <p class="excerpt">2,30대가 흔히 겪는 신체 고민 세 가지</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/5b944f8e-03c7-4767-a743-b458ebf9e25d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1990년대 VS 2022년대 메이크업 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68323</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68323</guid>
-            <pubDate>Fri, 05 Aug 2022 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/edb5111d-b8f6-4ead-81f6-dbdca52e6b66.jpg');">
-                                <a href="/article/68323">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68323">
-                                        1990년대 VS 2022년대 메이크업                                    </a>
-                                </em>
-                                <p class="excerpt">잘 봐~ 언니들이 말해주는 그 시절 메이크업이다</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/edb5111d-b8f6-4ead-81f6-dbdca52e6b66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7년 만에 돌아온 <마녀사냥 2022> 관전 포인트는? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
