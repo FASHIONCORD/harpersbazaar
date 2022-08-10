@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 06:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이스크림계의 테슬라라는 #비건아이스크림]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68653</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68653</guid>
+            <pubDate>Wed, 10 Aug 2022 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/6508d262-6679-45bf-b8db-13f1b0b84664.jpg');">
+                                <a href="/article/68653">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68653">
+                                        아이스크림계의 테슬라라는 #비건아이스크림                                     </a>
+                                </em>
+                                <p class="excerpt">논비건도 반한다는 소문난 비건 아이스크림 맛집들! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/6508d262-6679-45bf-b8db-13f1b0b84664.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덥고 꿉꿉한 기분? 라임으로 청량하게 UP! #라임레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68652</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68631</link>
             <guid>https://www.harpersbazaar.co.kr/article/68631</guid>
             <pubDate>Mon, 08 Aug 2022 06:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/348dad55-961b-43c3-b7b5-f7c9b3a3fcee.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/348dad55-961b-43c3-b7b5-f7c9b3a3fcee.jpg');">
                                 <a href="/article/68631">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68631">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">회전문이랑 복사기도 알지요~!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae060576-cd24-48ef-93e0-eb2494747729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리코타치즈 2배 더 맛있게 먹는 법! #리코타치즈레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68557</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68557</guid>
-            <pubDate>Fri, 05 Aug 2022 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/5581e374-cf7a-4e86-90bb-54a98b8b75cd.jpg');">
-                                <a href="/article/68557">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68557">
-                                        리코타치즈 2배 더 맛있게 먹는 법! #리코타치즈레시피                                    </a>
-                                </em>
-                                <p class="excerpt">고단백 저칼로리! 리코타치즈를 색다르게 즐기는 방법.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/5581e374-cf7a-4e86-90bb-54a98b8b75cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

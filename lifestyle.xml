@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 05:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 06:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기도 살아요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68709</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68709</guid>
+            <pubDate>Wed, 10 Aug 2022 06:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99f6cf06-f416-4310-8edc-ba51373f7db9.jpg');">
+                                <a href="/article/68709">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68709">
+                                        경기도 살아요                                    </a>
+                                </em>
+                                <p class="excerpt">달걀 노른자에서 달걀 흰자가 됐다. 누군가는 밀려난 거라 말했다. 서울을 떠나 경기도에 정착하...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99f6cf06-f416-4310-8edc-ba51373f7db9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미식가 안소희가 찾은 공간 3 #인_스타_플레이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68707</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68656</link>
             <guid>https://www.harpersbazaar.co.kr/article/68656</guid>
             <pubDate>Mon, 08 Aug 2022 16:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e9b130ab-9d32-4f57-bb05-5b07d08caf98.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e9b130ab-9d32-4f57-bb05-5b07d08caf98.jpg');">
                                 <a href="/article/68656">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68656">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">논비건도 반한다는 소문난 비건 아이스크림 맛집들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/6508d262-6679-45bf-b8db-13f1b0b84664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덥고 꿉꿉한 기분? 라임으로 청량하게 UP! #라임레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68652</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68652</guid>
-            <pubDate>Tue, 09 Aug 2022 13:47:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg');">
-                                <a href="/article/68652">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68652">
-                                        덥고 꿉꿉한 기분? 라임으로 청량하게 UP! #라임레시피                                    </a>
-                                </em>
-                                <p class="excerpt">무더위를 한 방에 날려 줄, 상큼한 홈메이드 라임 디저트 레시피! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
