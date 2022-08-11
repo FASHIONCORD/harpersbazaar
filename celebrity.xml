@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫한 브랜드의 새로운 모델은 누구?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68704</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68704</guid>
+            <pubDate>Thu, 11 Aug 2022 09:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/7bba68c0-56ff-487f-bede-ef794cc0ab1b.jpg');">
+                                <a href="/article/68704">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68704">
+                                        핫한 브랜드의 새로운 모델은 누구?                                      </a>
+                                </em>
+                                <p class="excerpt">축구선수 손흥민의 깜짝 등장! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/7bba68c0-56ff-487f-bede-ef794cc0ab1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 신부 이해리의 따라 입고 싶어지는 사복 패션]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68702</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68633</link>
             <guid>https://www.harpersbazaar.co.kr/article/68633</guid>
             <pubDate>Mon, 08 Aug 2022 10:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/0b84754c-1191-4273-9199-2a823128e8eb.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/0b84754c-1191-4273-9199-2a823128e8eb.jpg');">
                                 <a href="/article/68633">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68633">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">2011년 데뷔한 걸그룹 뉴에프오 출신 인플루언서!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6148f8d8-41f0-43f6-b917-7659651f6041.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이틴 재질 폭발! 대세 걸그룹 뉴진스 스타일 탐구]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68537</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68537</guid>
-            <pubDate>Fri, 05 Aug 2022 10:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1d3d8628-7a48-4a9d-b60e-100b887155ab.jpg');">
-                                <a href="/article/68537">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68537">
-                                        하이틴 재질 폭발! 대세 걸그룹 뉴진스 스타일 탐구                                    </a>
-                                </em>
-                                <p class="excerpt">등장부터 예사롭지 않았던 새로운 걸그룹, 뉴진스(NewJeans)의 패션 스타일을 파헤치다. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1d3d8628-7a48-4a9d-b60e-100b887155ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

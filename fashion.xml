@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 돌아온 1990년대 스타일링]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68410</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68410</guid>
+            <pubDate>Thu, 11 Aug 2022 09:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99cd67df-ce10-48e7-8f9d-32041074415e.jpg');">
+                                <a href="/article/68410">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68410">
+                                        다시 돌아온 1990년대 스타일링                                     </a>
+                                </em>
+                                <p class="excerpt">1990년대 길거리를 장악했던 이 스타일링 공식이 런웨이에 등장했다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99cd67df-ce10-48e7-8f9d-32041074415e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머리부터 발 끝까지 점령한 페이크 퍼]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68431</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68695</link>
             <guid>https://www.harpersbazaar.co.kr/article/68695</guid>
             <pubDate>Tue, 09 Aug 2022 11:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/cba8d1bd-1a69-481a-8d83-35fe9c8d5f40.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/cba8d1bd-1a69-481a-8d83-35fe9c8d5f40.jpg');">
                                 <a href="/article/68695">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68695">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">아슬아슬하게 아찔하게. 골반을 과감하게 노출하는 로우 슬렁 진의 인기는 계속된다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/1f64ad4e-6f31-4f61-bfd8-75070b77422a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웬디부터 소연까지 시원한 복근 노출 코디법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68636</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68636</guid>
-            <pubDate>Mon, 08 Aug 2022 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/85e56567-38df-4939-9ee5-5da834eeebe4.jpg');">
-                                <a href="/article/68636">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68636">
-                                        웬디부터 소연까지 시원한 복근 노출 코디법                                     </a>
-                                </em>
-                                <p class="excerpt">여름의 정점에서 크롭 코디 즐겨보자!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/85e56567-38df-4939-9ee5-5da834eeebe4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
