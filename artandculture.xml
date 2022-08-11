@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG의 기습 발표! 블랙핑크 컴백일, 19일로 확정]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68687</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68687</guid>
+            <pubDate>Thu, 11 Aug 2022 08:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/efb7830d-c03d-4f95-9c30-f54d951a8a45.jpg');">
+                                <a href="/article/68687">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68687">
+                                        YG의 기습 발표! 블랙핑크 컴백일, 19일로 확정                                    </a>
+                                </em>
+                                <p class="excerpt">완전체 블랙핑크, 선공개곡은 '핑크 베놈'</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/efb7830d-c03d-4f95-9c30-f54d951a8a45.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이스크림계의 테슬라라는 #비건아이스크림]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68653</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68633</link>
             <guid>https://www.harpersbazaar.co.kr/article/68633</guid>
             <pubDate>Mon, 08 Aug 2022 07:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/0b84754c-1191-4273-9199-2a823128e8eb.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/0b84754c-1191-4273-9199-2a823128e8eb.jpg');">
                                 <a href="/article/68633">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68633">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">여름밤의 파라다이스는 여기! 요즘 핫한 칵테일 공간들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/af60ae34-e1e7-479a-8e3b-a19f39c6fac6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권민우 빼고 다 아는 우영우❤이준호 #럽스타]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68588</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68588</guid>
-            <pubDate>Fri, 05 Aug 2022 11:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae060576-cd24-48ef-93e0-eb2494747729.jpg');">
-                                <a href="/article/68588">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68588">
-                                        권민우 빼고 다 아는 우영우❤이준호 #럽스타                                    </a>
-                                </em>
-                                <p class="excerpt">회전문이랑 복사기도 알지요~!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae060576-cd24-48ef-93e0-eb2494747729.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

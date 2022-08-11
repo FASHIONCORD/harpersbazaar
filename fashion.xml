@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 07:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리부터 발 끝까지 점령한 페이크 퍼]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68431</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68431</guid>
+            <pubDate>Thu, 11 Aug 2022 08:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/62be43c2-58f3-437b-8b4e-4e042309a255.jpg');">
+                                <a href="/article/68431">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68431">
+                                        머리부터 발 끝까지 점령한 페이크 퍼                                     </a>
+                                </em>
+                                <p class="excerpt">페이크 퍼의 인기는 아우터를 넘어 여성들의 손과 발, 그리고 머리 위에 포근히 내려앉았다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/62be43c2-58f3-437b-8b4e-4e042309a255.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 신부 이해리의 따라 입고 싶어지는 사복 패션]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68702</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68406</link>
             <guid>https://www.harpersbazaar.co.kr/article/68406</guid>
             <pubDate>Mon, 08 Aug 2022 16:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c869536c-4d51-44d9-83e1-ccac09c2edcc.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c869536c-4d51-44d9-83e1-ccac09c2edcc.jpg');">
                                 <a href="/article/68406">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68406">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">여름의 정점에서 크롭 코디 즐겨보자!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/85e56567-38df-4939-9ee5-5da834eeebe4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한여름에도 니 하이 삭스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68546</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68546</guid>
-            <pubDate>Mon, 08 Aug 2022 08:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/d4193a28-ed2a-422e-a69a-43b879799832.jpg');">
-                                <a href="/article/68546">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68546">
-                                        한여름에도 니 하이 삭스                                    </a>
-                                </em>
-                                <p class="excerpt">한여름에도 빛을 발할 스포티한 니 하이 삭스의 매력.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/d4193a28-ed2a-422e-a69a-43b879799832.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
