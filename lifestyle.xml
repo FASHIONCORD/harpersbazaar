@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 MZ들이 사이다 마시는 법? #사이다레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68735</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68735</guid>
+            <pubDate>Thu, 11 Aug 2022 06:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/dda64575-b3df-4dde-a01f-5c144fae67a1.jpg');">
+                                <a href="/article/68735">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68735">
+                                        요즘 MZ들이 사이다 마시는 법? #사이다레시피                                    </a>
+                                </em>
+                                <p class="excerpt">그냥 마시면 재미없지! 사이다로 즐기는 이색 음료 레시피. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/dda64575-b3df-4dde-a01f-5c144fae67a1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛 타율 99.9% 보장! 강민경이 추천하는 #냉털집밥레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68734</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68709</link>
             <guid>https://www.harpersbazaar.co.kr/article/68709</guid>
             <pubDate>Wed, 10 Aug 2022 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99f6cf06-f416-4310-8edc-ba51373f7db9.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99f6cf06-f416-4310-8edc-ba51373f7db9.jpg');">
                                 <a href="/article/68709">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68709">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">부채는 바람을 불러일으키고 지우산은 태양을 피해 그늘 아래로 바람을 부른다. 구례와 전주에서...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/1f8f0cd0-5f5d-40fa-a2d8-f04b3e0b5aa1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검은 폭포가 흘러내리는 카스텔라, 먹어 봤니? #인싸디저트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68656</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68656</guid>
-            <pubDate>Mon, 08 Aug 2022 16:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e9b130ab-9d32-4f57-bb05-5b07d08caf98.jpg');">
-                                <a href="/article/68656">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68656">
-                                        검은 폭포가 흘러내리는 카스텔라, 먹어 봤니? #인싸디저트                                    </a>
-                                </em>
-                                <p class="excerpt">이건 못 참지. SNS 피드를 달군 인싸 디저트! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/e9b130ab-9d32-4f57-bb05-5b07d08caf98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

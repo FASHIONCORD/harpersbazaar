@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디지털 크리에이터 리나와 <바자>의 특별한 만남!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67484</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67484</guid>
+            <pubDate>Thu, 11 Aug 2022 06:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg');">
+                                <a href="/article/67484">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67484">
+                                        디지털 크리에이터 리나와 &lt;바자&gt;의 특별한 만남!                                     </a>
+                                </em>
+                                <p class="excerpt">시작을 어려워 하는 사람들을 위해 리나가 준비한 옷의 새 주인 찾기 #옷찾사</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 여행은 지속가능한가요?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67287</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/65886</link>
             <guid>https://www.harpersbazaar.co.kr/article/65886</guid>
             <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg');">
                                 <a href="/article/65886">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/65886">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">깨끗한 피부, 더 깨끗한 환경을 위하는 쥬스투클렌즈의 진심. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/9c09cd21-fe05-48a2-8e62-b8393c1569d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 무심코 하는 검색이 지구를 망가뜨린다?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65163</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65163</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/bd623d18-b069-462a-87a1-f13efdc1016e.jpg');">
-                                <a href="/article/65163">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65163">
-                                        내가 무심코 하는 검색이 지구를 망가뜨린다?                                     </a>
-                                </em>
-                                <p class="excerpt">‘사람은 죽어서 이름을 남긴다’면, 살면서는 무수한 탄소발자국을 남긴다. 심지어 눈에 보이지 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/17/bd623d18-b069-462a-87a1-f13efdc1016e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
