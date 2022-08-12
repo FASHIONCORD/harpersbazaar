@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차녀는 왜 괴로울까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68701</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68701</guid>
+            <pubDate>Fri, 12 Aug 2022 08:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/05d872f8-4f33-4ac9-ac02-f0a140ebb292.jpg');">
+                                <a href="/article/68701">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68701">
+                                        차녀는 왜 괴로울까?                                    </a>
+                                </em>
+                                <p class="excerpt">이제 막 마이크가 쥐어진 ‘K-차녀’의 세계.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/05d872f8-4f33-4ac9-ac02-f0a140ebb292.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가을제철' 무화과, 지금부터 만나볼까? 무화과 디저트 맛집]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68753</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68735</link>
             <guid>https://www.harpersbazaar.co.kr/article/68735</guid>
             <pubDate>Thu, 11 Aug 2022 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/dda64575-b3df-4dde-a01f-5c144fae67a1.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/dda64575-b3df-4dde-a01f-5c144fae67a1.jpg');">
                                 <a href="/article/68735">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68735">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">콘텐츠가 넘쳐흘러 세계와 주고받는 지금. 번역 크레디트에 가장 자주 이름을 올리는 번역가 황...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/75afc107-11b4-425b-aac9-6419420ae790.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기도 살아요]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68709</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68709</guid>
-            <pubDate>Wed, 10 Aug 2022 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99f6cf06-f416-4310-8edc-ba51373f7db9.jpg');">
-                                <a href="/article/68709">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68709">
-                                        경기도 살아요                                    </a>
-                                </em>
-                                <p class="excerpt">달걀 노른자에서 달걀 흰자가 됐다. 누군가는 밀려난 거라 말했다. 서울을 떠나 경기도에 정착하...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99f6cf06-f416-4310-8edc-ba51373f7db9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
