@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미식가 안소희가 찾은 공간 3 #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68707</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68707</guid>
+            <pubDate>Fri, 12 Aug 2022 07:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/a370a67e-797b-4d5f-8810-94a54cda2582.jpg');">
+                                <a href="/article/68707">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68707">
+                                        미식가 안소희가 찾은 공간 3 #인_스타_플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">프랑스와 이탈리아를 그대로 옮겨놓은 서울의 레스토랑들</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/a370a67e-797b-4d5f-8810-94a54cda2582.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핫한 브랜드의 새로운 모델은 누구?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68704</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68640</link>
             <guid>https://www.harpersbazaar.co.kr/article/68640</guid>
             <pubDate>Tue, 09 Aug 2022 11:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/86f5c434-f348-4255-b704-24cd6eb1c95c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/86f5c434-f348-4255-b704-24cd6eb1c95c.jpg');">
                                 <a href="/article/68640">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68640">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">배우↔가수 오가는 '만렙' 멀티테이너 임윤아!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/348dad55-961b-43c3-b7b5-f7c9b3a3fcee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위너 송민호, '걸그룹 출신' 동생.. 송단아 누구?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68586</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68586</guid>
-            <pubDate>Sun, 07 Aug 2022 15:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6148f8d8-41f0-43f6-b917-7659651f6041.jpg');">
-                                <a href="/article/68586">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68586">
-                                        위너 송민호, '걸그룹 출신' 동생.. 송단아 누구?                                    </a>
-                                </em>
-                                <p class="excerpt">2011년 데뷔한 걸그룹 뉴에프오 출신 인플루언서!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/6148f8d8-41f0-43f6-b917-7659651f6041.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
