@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 15:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 16:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1645,6 +1645,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[네이버 지도에 가장 많이 저장된 제주 맛집은? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68820</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68820</guid>
+            <pubDate>Fri, 12 Aug 2022 16:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/adb38ed4-ba7c-44ca-96b1-222bc4205b47.jpg');">
+                                <a href="/article/68820">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68820">
+                                        네이버 지도에 가장 많이 저장된 제주 맛집은?                                    </a>
+                                </em>
+                                <p class="excerpt">네이버 데이터가 추천하는 제주도의 맛집과 카페는 바로 여기!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/adb38ed4-ba7c-44ca-96b1-222bc4205b47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남들 다 가는데 말고, 뭐 없어? #제주도핫플 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68812</link>
             <guid>https://www.harpersbazaar.co.kr/article/68812</guid>
@@ -1724,17 +1749,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68775</link>
             <guid>https://www.harpersbazaar.co.kr/article/68775</guid>
             <pubDate>Fri, 12 Aug 2022 09:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/7a5b333a-2c45-47e3-ad78-06194b4a6015.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/7a5b333a-2c45-47e3-ad78-06194b4a6015.jpg');">
                                 <a href="/article/68775">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68775">
@@ -1815,30 +1839,6 @@
                                 <p class="excerpt">중고차 시장 침수차 주의보!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/a7828488-7031-402a-b0e1-8a9cdadd6776.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소리를 눈으로 볼 수 있는 전시가 있다? #바자예술산책 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68745</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68745</guid>
-            <pubDate>Thu, 11 Aug 2022 10:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/23217a14-4ff0-42d5-8328-b42242c2431c.jpg');">
-                                <a href="/article/68745">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68745">
-                                        소리를 눈으로 볼 수 있는 전시가 있다? #바자예술산책                                    </a>
-                                </em>
-                                <p class="excerpt">‘다양한 소리가 공존하는 현재의 청각 문화의 격자 위, 우리의 귀는 어디에 놓여져 있을까?’...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/23217a14-4ff0-42d5-8328-b42242c2431c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 크리에이터 리나와 <바자>의 특별한 만남! (하퍼스바자 코리아 ─ 지속가능성)]]></title>
