@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 11:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 12:29:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남들 다 가는데 말고, 뭐 없어? #제주도핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68812</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68812</guid>
+            <pubDate>Fri, 12 Aug 2022 12:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/4a235d85-3b68-4b63-9199-c3c0e99be447.jpg');">
+                                <a href="/article/68812">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68812">
+                                        남들 다 가는데 말고, 뭐 없어? #제주도핫플                                     </a>
+                                </em>
+                                <p class="excerpt">제주도 여행 간다면, 메모! 제주도 최신 핫플레이스 추천.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/4a235d85-3b68-4b63-9199-c3c0e99be447.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤승아&김무열이 애정 한다는 #한남동핫플 은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68795</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68701</link>
             <guid>https://www.harpersbazaar.co.kr/article/68701</guid>
             <pubDate>Fri, 12 Aug 2022 08:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/05d872f8-4f33-4ac9-ac02-f0a140ebb292.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/05d872f8-4f33-4ac9-ac02-f0a140ebb292.jpg');">
                                 <a href="/article/68701">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68701">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">‘다양한 소리가 공존하는 현재의 청각 문화의 격자 위, 우리의 귀는 어디에 놓여져 있을까?’...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/23217a14-4ff0-42d5-8328-b42242c2431c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 MZ들이 사이다 마시는 법? #사이다레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68735</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68735</guid>
-            <pubDate>Thu, 11 Aug 2022 06:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/dda64575-b3df-4dde-a01f-5c144fae67a1.jpg');">
-                                <a href="/article/68735">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68735">
-                                        요즘 MZ들이 사이다 마시는 법? #사이다레시피                                    </a>
-                                </em>
-                                <p class="excerpt">그냥 마시면 재미없지! 사이다로 즐기는 이색 음료 레시피. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/dda64575-b3df-4dde-a01f-5c144fae67a1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
