@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별이 된 혁명적인 디자이너 이세이 미야케]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68756</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68756</guid>
+            <pubDate>Fri, 12 Aug 2022 09:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/bcd3f106-424a-4003-a3e4-b703f4581ce0.jpg');">
+                                <a href="/article/68756">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68756">
+                                        별이 된 혁명적인 디자이너 이세이 미야케                                     </a>
+                                </em>
+                                <p class="excerpt">향년 84세, 간암 투병 끝에 디자이너 이세이 미야케가 별세했다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/bcd3f106-424a-4003-a3e4-b703f4581ce0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코르셋부터 핑크 컬러까지, 다가올 트렌드에 주목!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68434</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68431</link>
             <guid>https://www.harpersbazaar.co.kr/article/68431</guid>
             <pubDate>Thu, 11 Aug 2022 08:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/62be43c2-58f3-437b-8b4e-4e042309a255.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/62be43c2-58f3-437b-8b4e-4e042309a255.jpg');">
                                 <a href="/article/68431">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68431">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">향수가 담긴 그때 그 시절 레트로 안경</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/cba8d1bd-1a69-481a-8d83-35fe9c8d5f40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 이브닝 웨어, 턱시도]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68406</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68406</guid>
-            <pubDate>Mon, 08 Aug 2022 16:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c869536c-4d51-44d9-83e1-ccac09c2edcc.jpg');">
-                                <a href="/article/68406">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68406">
-                                        새로운 이브닝 웨어, 턱시도                                    </a>
-                                </em>
-                                <p class="excerpt">새로운 이브닝웨어로 떠오른 이것</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/c869536c-4d51-44d9-83e1-ccac09c2edcc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
