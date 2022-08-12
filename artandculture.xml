@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛 타율 99.9% 보장! 강민경이 추천하는 #냉털집밥레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68734</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68734</guid>
+            <pubDate>Fri, 12 Aug 2022 05:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/4b176283-e716-4234-87eb-257047b57740.jpg');">
+                                <a href="/article/68734">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68734">
+                                        맛 타율 99.9% 보장! 강민경이 추천하는 #냉털집밥레시피                                     </a>
+                                </em>
+                                <p class="excerpt">맛 타율 99.9% 보장! 강민경이 추천하는 #냉털집밥레시피 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/4b176283-e716-4234-87eb-257047b57740.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['AOA 탈퇴' 신지민 나와? <두 번째 세계> 8인 라인업!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68691</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68652</link>
             <guid>https://www.harpersbazaar.co.kr/article/68652</guid>
             <pubDate>Tue, 09 Aug 2022 12:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/4fc1e4e5-8d6e-401f-96ea-94a72c2c4be9.jpg');">
                                 <a href="/article/68652">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68652">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">배우↔가수 오가는 '만렙' 멀티테이너 임윤아!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/348dad55-961b-43c3-b7b5-f7c9b3a3fcee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젓가락이 멈추질 않네, 성시경도 반한 맛! #부추레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68618</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68618</guid>
-            <pubDate>Sat, 06 Aug 2022 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/36cdb358-884b-4431-9c92-77078db571c9.jpg');">
-                                <a href="/article/68618">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68618">
-                                        젓가락이 멈추질 않네, 성시경도 반한 맛! #부추레시피                                    </a>
-                                </em>
-                                <p class="excerpt">여름철 대표 보양식, 부추! 이렇게 먹으면 더 맛있어요.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/36cdb358-884b-4431-9c92-77078db571c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

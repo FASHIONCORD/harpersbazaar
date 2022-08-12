@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['가을제철' 무화과, 지금부터 만나볼까? 무화과 디저트 맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68753</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68753</guid>
+            <pubDate>Fri, 12 Aug 2022 05:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/2d2142cb-cc75-4a99-a24c-0f63e89c57f6.jpg');">
+                                <a href="/article/68753">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68753">
+                                        '가을제철' 무화과, 지금부터 만나볼까? 무화과 디저트 맛집                                    </a>
+                                </em>
+                                <p class="excerpt">화이트 와인과 마리아주도</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/2d2142cb-cc75-4a99-a24c-0f63e89c57f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 폭우로 '침수차' 속출? 중고차 살 때 침수차 피하는 방법 #이슈있슈]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68752</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68734</link>
             <guid>https://www.harpersbazaar.co.kr/article/68734</guid>
             <pubDate>Wed, 10 Aug 2022 16:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/4b176283-e716-4234-87eb-257047b57740.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/4b176283-e716-4234-87eb-257047b57740.jpg');">
                                 <a href="/article/68734">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68734">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">달걀 노른자에서 달걀 흰자가 됐다. 누군가는 밀려난 거라 말했다. 서울을 떠나 경기도에 정착하...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/99f6cf06-f416-4310-8edc-ba51373f7db9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미식가 안소희가 찾은 공간 3 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68707</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68707</guid>
-            <pubDate>Tue, 09 Aug 2022 11:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/a370a67e-797b-4d5f-8810-94a54cda2582.jpg');">
-                                <a href="/article/68707">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68707">
-                                        미식가 안소희가 찾은 공간 3 #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">프랑스와 이탈리아를 그대로 옮겨놓은 서울의 레스토랑들</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/a370a67e-797b-4d5f-8810-94a54cda2582.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
