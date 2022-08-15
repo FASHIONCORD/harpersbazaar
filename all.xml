@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 18:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 19:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1057,6 +1057,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/62be43c2-58f3-437b-8b4e-4e042309a255.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대세는 테니스. 브랜드 별 가장 잘 팔리는 테니스 룩 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68829</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68829</guid>
+            <pubDate>Mon, 15 Aug 2022 19:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/96cfd9a7-671f-4140-9e46-ec1881694bb5.jpg');">
+                                <a href="/article/68829">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68829">
+                                        대세는 테니스. 브랜드 별 가장 잘 팔리는 테니스 룩                                      </a>
+                                </em>
+                                <p class="excerpt">라켓을 휘두를 때도 예쁘게! 인증샷은 필수! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/96cfd9a7-671f-4140-9e46-ec1881694bb5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 F/W 메이크업 트렌드 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68436</link>
             <guid>https://www.harpersbazaar.co.kr/article/68436</guid>
@@ -1136,17 +1161,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68696</link>
             <guid>https://www.harpersbazaar.co.kr/article/68696</guid>
             <pubDate>Fri, 12 Aug 2022 10:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/2ce2d3f7-fe90-4d43-b6df-bc2a3da059ff.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/2ce2d3f7-fe90-4d43-b6df-bc2a3da059ff.jpg');">
                                 <a href="/article/68696">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68696">
@@ -1227,30 +1251,6 @@
                                 <p class="excerpt">단발병 고치지 않아도 됩니다</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/2d1e5493-3929-4e6d-ac6c-202125fd9469.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광고사절! 에디터들이 찐으로 사서 쓰는 #내돈내산 뷰티템 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68360</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68360</guid>
-            <pubDate>Tue, 09 Aug 2022 09:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/190fc19b-668a-4b70-ba40-368678daacd9.jpg');">
-                                <a href="/article/68360">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68360">
-                                        광고사절! 에디터들이 찐으로 사서 쓰는 #내돈내산 뷰티템                                    </a>
-                                </em>
-                                <p class="excerpt">진짜 좋아서 몇 통씩 사서 쓰는 화장품</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/190fc19b-668a-4b70-ba40-368678daacd9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아는 만큼 덜 물린다! 채정안이 추천하는 모기퇴치템? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
