@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 14:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 15:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE HIGHLIGHTS]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68459</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68459</guid>
+            <pubDate>Mon, 15 Aug 2022 15:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/82644b6c-bc40-4961-9c95-082e3641b1d3.jpg');">
+                                <a href="/article/68459">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68459">
+                                        THE HIGHLIGHTS                                    </a>
+                                </em>
+                                <p class="excerpt">2022 F/W의 런웨이는 마치 책의 중요한 부분에 형광펜으로 칠한 것처럼 하이라이트 컬러가 장악...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/82644b6c-bc40-4961-9c95-082e3641b1d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤승아&김무열이 애정 한다는 #한남동핫플 은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68795</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68434</link>
             <guid>https://www.harpersbazaar.co.kr/article/68434</guid>
             <pubDate>Fri, 12 Aug 2022 07:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/f7041c24-5b59-40f6-a990-d64703b95024.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/f7041c24-5b59-40f6-a990-d64703b95024.jpg');">
                                 <a href="/article/68434">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68434">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">페이크 퍼의 인기는 아우터를 넘어 여성들의 손과 발, 그리고 머리 위에 포근히 내려앉았다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/62be43c2-58f3-437b-8b4e-4e042309a255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 신부 이해리의 따라 입고 싶어지는 사복 패션]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68702</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68702</guid>
-            <pubDate>Wed, 10 Aug 2022 09:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/5d582a7b-8369-4e99-85ed-e99469bd0756.jpg');">
-                                <a href="/article/68702">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68702">
-                                        새 신부 이해리의 따라 입고 싶어지는 사복 패션                                     </a>
-                                </em>
-                                <p class="excerpt">결혼하더니 더 예뻐진 다비치의 첫째 언니, 이해리의 데일리룩 탐구</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/5d582a7b-8369-4e99-85ed-e99469bd0756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
