@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 09:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 10:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집사들 주목! 반려동물을 위한 용품들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68722</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68722</guid>
+            <pubDate>Tue, 16 Aug 2022 10:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/7742cdd8-9b59-494c-a12a-8d09bd1560ac.jpg');">
+                                <a href="/article/68722">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68722">
+                                        집사들 주목! 반려동물을 위한 용품들                                    </a>
+                                </em>
+                                <p class="excerpt">견심묘심(犬心猫心)을 사로잡을 오색찬란한 펫 용품. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/13/7742cdd8-9b59-494c-a12a-8d09bd1560ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8월 #팝업여지도, 성수동은 지금 팝업 성수기!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68835</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68822</link>
             <guid>https://www.harpersbazaar.co.kr/article/68822</guid>
             <pubDate>Tue, 16 Aug 2022 06:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/3c6c9155-f95c-48cd-80de-440627b32e79.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/3c6c9155-f95c-48cd-80de-440627b32e79.jpg');">
                                 <a href="/article/68822">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68822">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">윤승아&amp;김무열 커플이 추천하는 한남동 데이트 스폿! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/50570631-9952-4617-b482-fac4dfcb5045.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아는 만큼 덜 물린다! 채정안이 추천하는 모기퇴치템?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68787</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68787</guid>
-            <pubDate>Fri, 12 Aug 2022 09:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/58c592ca-63ea-42a5-a46b-153e3689be49.jpg');">
-                                <a href="/article/68787">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68787">
-                                        아는 만큼 덜 물린다! 채정안이 추천하는 모기퇴치템?                                     </a>
-                                </em>
-                                <p class="excerpt">채정안이 직접 사용해 보고 추천한다는 신박한 모기 퇴치템.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/58c592ca-63ea-42a5-a46b-153e3689be49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
