@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 10:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 11:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기은세가 즐겨 먹는다는 헬시 다이어트 브런치?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68862</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68862</guid>
+            <pubDate>Tue, 16 Aug 2022 11:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/55506c4b-7e2a-47f3-b030-ff7924b0e1c6.jpg');">
+                                <a href="/article/68862">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68862">
+                                        기은세가 즐겨 먹는다는 헬시 다이어트 브런치?                                     </a>
+                                </em>
+                                <p class="excerpt">맛있는데 건강하기까지 하다. 기은세가 추천하는 헬시 브런치 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/55506c4b-7e2a-47f3-b030-ff7924b0e1c6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집사들 주목! 반려동물을 위한 용품들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68722</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68825</link>
             <guid>https://www.harpersbazaar.co.kr/article/68825</guid>
             <pubDate>Tue, 16 Aug 2022 06:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/35b99192-5026-4c4f-bbe7-58b5753da2fa.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/35b99192-5026-4c4f-bbe7-58b5753da2fa.jpg');">
                                 <a href="/article/68825">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68825">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">제주도 여행 간다면, 메모! 제주도 최신 핫플레이스 추천.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/4a235d85-3b68-4b63-9199-c3c0e99be447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤승아&김무열이 애정 한다는 #한남동핫플 은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68795</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68795</guid>
-            <pubDate>Fri, 12 Aug 2022 09:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/50570631-9952-4617-b482-fac4dfcb5045.jpg');">
-                                <a href="/article/68795">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68795">
-                                        윤승아&amp;김무열이 애정 한다는 #한남동핫플 은 어디?                                     </a>
-                                </em>
-                                <p class="excerpt">윤승아&amp;김무열 커플이 추천하는 한남동 데이트 스폿! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/50570631-9952-4617-b482-fac4dfcb5045.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
