@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1645,6 +1645,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/4b176283-e716-4234-87eb-257047b57740.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마침내 공개 된 갤럭시 Z 플립4와 Z 폴드4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68828</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68828</guid>
+            <pubDate>Tue, 16 Aug 2022 08:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/d49534e3-9ceb-4dff-aa6b-80e0ea33bf6f.jpg');">
+                                <a href="/article/68828">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68828">
+                                        마침내 공개 된 갤럭시 Z 플립4와 Z 폴드4                                    </a>
+                                </em>
+                                <p class="excerpt">가장 빠르게 폴더블 4세대를 구입하는 방법은?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/d49534e3-9ceb-4dff-aa6b-80e0ea33bf6f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[믿고 가는 반려동물 동반 스테이 4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68825</link>
             <guid>https://www.harpersbazaar.co.kr/article/68825</guid>
@@ -1724,17 +1749,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68812</link>
             <guid>https://www.harpersbazaar.co.kr/article/68812</guid>
             <pubDate>Fri, 12 Aug 2022 12:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/4a235d85-3b68-4b63-9199-c3c0e99be447.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/4a235d85-3b68-4b63-9199-c3c0e99be447.jpg');">
                                 <a href="/article/68812">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68812">
@@ -1815,30 +1839,6 @@
                                 <p class="excerpt">버려지는 의류에서 추출한 염료, 신소재로 만든 판가이아, 자라의 캡슐 컬렉션</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/7a5b333a-2c45-47e3-ad78-06194b4a6015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차녀는 왜 괴로울까? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68701</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68701</guid>
-            <pubDate>Fri, 12 Aug 2022 08:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/05d872f8-4f33-4ac9-ac02-f0a140ebb292.jpg');">
-                                <a href="/article/68701">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68701">
-                                        차녀는 왜 괴로울까?                                    </a>
-                                </em>
-                                <p class="excerpt">이제 막 마이크가 쥐어진 ‘K-차녀’의 세계.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/05d872f8-4f33-4ac9-ac02-f0a140ebb292.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 크리에이터 리나와 <바자>의 특별한 만남! (하퍼스바자 코리아 ─ 지속가능성)]]></title>
