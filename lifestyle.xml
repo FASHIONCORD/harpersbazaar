@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 12:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 13:31:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유튜버 오눅도 반했다는 #소바맛집 은 어디]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68863</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68863</guid>
+            <pubDate>Tue, 16 Aug 2022 13:30:51 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/ab0c45fd-2059-4cb7-9c5f-9843710acbfb.jpg');">
+                                <a href="/article/68863">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68863">
+                                        유튜버 오눅도 반했다는 #소바맛집 은 어디                                    </a>
+                                </em>
+                                <p class="excerpt">소바 한 그릇으로 떠나는 일본 여행! 줄 서서 먹는다는 소바 맛집은 어디? </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/ab0c45fd-2059-4cb7-9c5f-9843710acbfb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기은세가 즐겨 먹는다는 헬시 다이어트 브런치?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68862</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68828</link>
             <guid>https://www.harpersbazaar.co.kr/article/68828</guid>
             <pubDate>Tue, 16 Aug 2022 08:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/d49534e3-9ceb-4dff-aa6b-80e0ea33bf6f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/d49534e3-9ceb-4dff-aa6b-80e0ea33bf6f.jpg');">
                                 <a href="/article/68828">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68828">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">네이버 데이터가 추천하는 제주도의 맛집과 카페는 바로 여기!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/adb38ed4-ba7c-44ca-96b1-222bc4205b47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남들 다 가는데 말고, 뭐 없어? #제주도핫플]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68812</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68812</guid>
-            <pubDate>Fri, 12 Aug 2022 12:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/4a235d85-3b68-4b63-9199-c3c0e99be447.jpg');">
-                                <a href="/article/68812">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68812">
-                                        남들 다 가는데 말고, 뭐 없어? #제주도핫플                                     </a>
-                                </em>
-                                <p class="excerpt">제주도 여행 간다면, 메모! 제주도 최신 핫플레이스 추천.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/4a235d85-3b68-4b63-9199-c3c0e99be447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
