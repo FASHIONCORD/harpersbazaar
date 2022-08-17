@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 23:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 01:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 4인 티저 영상 떴다! '완전체 컴백 D-7']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68821</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68821</guid>
+            <pubDate>Wed, 17 Aug 2022 01:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/0234e6ce-422e-4e91-bbdc-b41cadd9733e.jpg');">
+                                <a href="/article/68821">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68821">
+                                        블랙핑크 4인 티저 영상 떴다! '완전체 컴백 D-7'                                    </a>
+                                </em>
+                                <p class="excerpt">독보적인 역대급 비주얼 블핑이 여기 있어요~</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/0234e6ce-422e-4e91-bbdc-b41cadd9733e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연예계 숨은 패셔니스타 '아기자기' 조세호의 데일리룩 탐구]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68815</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68787</link>
             <guid>https://www.harpersbazaar.co.kr/article/68787</guid>
             <pubDate>Fri, 12 Aug 2022 09:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/58c592ca-63ea-42a5-a46b-153e3689be49.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/58c592ca-63ea-42a5-a46b-153e3689be49.jpg');">
                                 <a href="/article/68787">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68787">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">축구선수 손흥민의 깜짝 등장! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/7bba68c0-56ff-487f-bede-ef794cc0ab1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 신부 이해리의 따라 입고 싶어지는 사복 패션]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68702</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68702</guid>
-            <pubDate>Thu, 11 Aug 2022 08:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/5d582a7b-8369-4e99-85ed-e99469bd0756.jpg');">
-                                <a href="/article/68702">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68702">
-                                        새 신부 이해리의 따라 입고 싶어지는 사복 패션                                     </a>
-                                </em>
-                                <p class="excerpt">결혼하더니 더 예뻐진 다비치의 첫째 언니, 이해리의 데일리룩 탐구</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/5d582a7b-8369-4e99-85ed-e99469bd0756.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
