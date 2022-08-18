@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 12:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 13:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['논-비건'의 입맛을 사로잡은 신상 비건 식당 2]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/67955</link>
+            <guid>https://www.harpersbazaar.co.kr/article/67955</guid>
+            <pubDate>Thu, 18 Aug 2022 13:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg');">
+                                <a href="/article/67955">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/67955">
+                                        '논-비건'의 입맛을 사로잡은 신상 비건 식당 2                                    </a>
+                                </em>
+                                <p class="excerpt">맛있는 음식으로 지구를 위한 가치 소비를 실천해보자! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 크리에이터 리나와 <바자>의 특별한 만남!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67484</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/66756</link>
             <guid>https://www.harpersbazaar.co.kr/article/66756</guid>
             <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg');">
                                 <a href="/article/66756">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/66756">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">매년 버려지는 음식 약 14억 톤. 당신은 오늘 얼마나 많은 음식을 버렸나요?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구를 지키는 비건 클렌저]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65593</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65593</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/9c09cd21-fe05-48a2-8e62-b8393c1569d1.jpg');">
-                                <a href="/article/65593">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65593">
-                                        지구를 지키는 비건 클렌저                                    </a>
-                                </em>
-                                <p class="excerpt">깨끗한 피부, 더 깨끗한 환경을 위하는 쥬스투클렌즈의 진심. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/20/9c09cd21-fe05-48a2-8e62-b8393c1569d1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
