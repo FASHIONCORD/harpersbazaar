@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["손예진 부케 받더니.." 공효진, 케빈오와 10월 결혼❤]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68908</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68908</guid>
+            <pubDate>Fri, 19 Aug 2022 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/40ed32c0-9304-4e03-9ef2-805a8ffb49ea.jpg');">
+                                <a href="/article/68908">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68908">
+                                        "손예진 부케 받더니.." 공효진, 케빈오와 10월 결혼❤                                    </a>
+                                </em>
+                                <p class="excerpt">열애 공개로부터 딱 6개월 만에! #뉴욕 #스몰웨딩</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/40ed32c0-9304-4e03-9ef2-805a8ffb49ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["월드 클라쓰".. 블랙핑크, 美 MTV 출격→글로벌 캠페인]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68904</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68862</link>
             <guid>https://www.harpersbazaar.co.kr/article/68862</guid>
             <pubDate>Wed, 17 Aug 2022 09:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/55506c4b-7e2a-47f3-b030-ff7924b0e1c6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/55506c4b-7e2a-47f3-b030-ff7924b0e1c6.jpg');">
                                 <a href="/article/68862">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68862">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">독보적인 역대급 비주얼 블핑이 여기 있어요~</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/0234e6ce-422e-4e91-bbdc-b41cadd9733e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예계 숨은 패셔니스타 '아기자기' 조세호의 데일리룩 탐구]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68815</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68815</guid>
-            <pubDate>Tue, 16 Aug 2022 06:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/475ff363-4ea3-492e-9eb2-09be01bf8a1a.jpg');">
-                                <a href="/article/68815">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68815">
-                                        연예계 숨은 패셔니스타 '아기자기' 조세호의 데일리룩 탐구                                    </a>
-                                </em>
-                                <p class="excerpt">대한민국 평균키를 가진 남자들이라면 주목해야 할 코디 모음.zip</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/475ff363-4ea3-492e-9eb2-09be01bf8a1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
