@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 10:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 16:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케빈오가 직접 정리한 '❤공효진'과의 결혼]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68911</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68911</guid>
+            <pubDate>Sun, 21 Aug 2022 16:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/2bc25bdd-3820-49ac-8cbc-89e688a0c757.jpg');">
+                                <a href="/article/68911">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68911">
+                                        케빈오가 직접 정리한 '❤공효진'과의 결혼                                    </a>
+                                </em>
+                                <p class="excerpt">한 글자, 한 글자에 사랑이 뚝뚝!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/2bc25bdd-3820-49ac-8cbc-89e688a0c757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["손예진 부케 받더니.." 공효진, 케빈오와 10월 결혼❤]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68908</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68863</link>
             <guid>https://www.harpersbazaar.co.kr/article/68863</guid>
             <pubDate>Thu, 18 Aug 2022 14:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/ab0c45fd-2059-4cb7-9c5f-9843710acbfb.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/ab0c45fd-2059-4cb7-9c5f-9843710acbfb.jpg');">
                                 <a href="/article/68863">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68863">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">무조건 오픈런 해야 한다. 우리가 사랑하는 소녀들, 뉴진스의 팝업 스토어! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/3c6c9155-f95c-48cd-80de-440627b32e79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 4인 티저 영상 떴다! '완전체 컴백 D-7']]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68821</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68821</guid>
-            <pubDate>Wed, 17 Aug 2022 01:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/0234e6ce-422e-4e91-bbdc-b41cadd9733e.jpg');">
-                                <a href="/article/68821">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68821">
-                                        블랙핑크 4인 티저 영상 떴다! '완전체 컴백 D-7'                                    </a>
-                                </em>
-                                <p class="excerpt">독보적인 역대급 비주얼 블핑이 여기 있어요~</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/0234e6ce-422e-4e91-bbdc-b41cadd9733e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
