@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 22:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 01:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔색조의 표정과 순수함이 공존하는 배우, 주종혁]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68922</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68922</guid>
+            <pubDate>Mon, 22 Aug 2022 01:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/3b00dd60-6764-4523-8f38-ee8e3df565c8.jpg');">
+                                <a href="/article/68922">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68922">
+                                        팔색조의 표정과 순수함이 공존하는 배우, 주종혁                                    </a>
+                                </em>
+                                <p class="excerpt">&lt;이상한 변호사 우영우&gt; 권민우 역의 배우 주종혁과 &lt;바자&gt; 9월호의 만남</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/3b00dd60-6764-4523-8f38-ee8e3df565c8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케빈오가 직접 정리한 '❤공효진'과의 결혼]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68911</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68900</link>
             <guid>https://www.harpersbazaar.co.kr/article/68900</guid>
             <pubDate>Thu, 18 Aug 2022 14:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/059f82f8-8f64-40c9-93da-2bd3ed60bb7d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/059f82f8-8f64-40c9-93da-2bd3ed60bb7d.jpg');">
                                 <a href="/article/68900">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68900">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">아티스트 MINO, &lt;서울대작전&gt;으로 연기 첫 도전</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/e898b919-cd5e-4670-87e0-7a869638a85e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#뉴진스팝업스토어 가면 # 쿠키 도 있나요?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68822</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68822</guid>
-            <pubDate>Wed, 17 Aug 2022 06:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/3c6c9155-f95c-48cd-80de-440627b32e79.jpg');">
-                                <a href="/article/68822">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68822">
-                                        #뉴진스팝업스토어 가면 # 쿠키 도 있나요?                                     </a>
-                                </em>
-                                <p class="excerpt">무조건 오픈런 해야 한다. 우리가 사랑하는 소녀들, 뉴진스의 팝업 스토어! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/3c6c9155-f95c-48cd-80de-440627b32e79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
