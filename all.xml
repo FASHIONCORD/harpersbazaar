@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 05:58:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1254,6 +1254,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/b11dcc5c-af3c-4aad-9d86-c9694b9a64ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한예리가 말하는 '예리한 순간들' (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68994</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68994</guid>
+            <pubDate>Tue, 23 Aug 2022 05:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/273140ef-c78f-4fd5-9fad-1bbb4473ca78.jpg');">
+                                <a href="/article/68994">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68994">
+                                        한예리가 말하는 '예리한 순간들'                                    </a>
+                                </em>
+                                <p class="excerpt">다양한 필모그래피를 쌓으며 한 폭의 수채화를 그려나가는 그녀, 한예리</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/273140ef-c78f-4fd5-9fad-1bbb4473ca78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[성시경도 빠졌다는 맥주 짝꿍! 초간단 #오븐요리레시피 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68991</link>
             <guid>https://www.harpersbazaar.co.kr/article/68991</guid>
@@ -1333,17 +1358,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68925</link>
             <guid>https://www.harpersbazaar.co.kr/article/68925</guid>
             <pubDate>Mon, 22 Aug 2022 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/698c8245-b654-4c49-8dbc-c464cba824bf.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/698c8245-b654-4c49-8dbc-c464cba824bf.jpg');">
                                 <a href="/article/68925">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68925">
@@ -1424,30 +1448,6 @@
                                 <p class="excerpt">열애 공개로부터 딱 6개월 만에! #뉴욕 #스몰웨딩</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/40ed32c0-9304-4e03-9ef2-805a8ffb49ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["월드 클라쓰".. 블랙핑크, 美 MTV 출격→글로벌 캠페인 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68904</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68904</guid>
-            <pubDate>Thu, 18 Aug 2022 14:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/ed0f80ae-9ed4-4ecd-b60e-5c0423258e90.jpg');">
-                                <a href="/article/68904">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68904">
-                                        "월드 클라쓰".. 블랙핑크, 美 MTV 출격→글로벌 캠페인                                    </a>
-                                </em>
-                                <p class="excerpt">비교불가🚫.. 스케일부터 확 달랐다! '블핑 커밍쑨~'</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/ed0f80ae-9ed4-4ecd-b60e-5c0423258e90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[압구정 낮술 성지로 급부상 중인 곳은 어디? #신상핫플 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
