@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 12:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성시경도 빠졌다는 맥주 짝꿍! 초간단 #오븐요리레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68991</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68991</guid>
+            <pubDate>Tue, 23 Aug 2022 12:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg');">
+                                <a href="/article/68991">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68991">
+                                        성시경도 빠졌다는 맥주 짝꿍! 초간단 #오븐요리레시피                                     </a>
+                                </em>
+                                <p class="excerpt">요리는 오븐이 알아서 한다. 볶고 지지고 귀찮다면? 오븐에 넣고 끝내자. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[압구정 낮술 성지로 급부상 중인 곳은 어디? #신상핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68990</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68967</link>
             <guid>https://www.harpersbazaar.co.kr/article/68967</guid>
             <pubDate>Mon, 22 Aug 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/76f8c88e-69b5-4e64-b10b-3d99c8e56e91.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/76f8c88e-69b5-4e64-b10b-3d99c8e56e91.jpg');">
                                 <a href="/article/68967">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68967">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이게 컵누들이라고? 요즘 SNS에서 난리 난 컵누들 이색 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/7be03094-4c35-4db3-b504-f5b1b09e37d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무려 24년 만에 첫 유닛 나오는 아이돌 그룹]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68907</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68907</guid>
-            <pubDate>Fri, 19 Aug 2022 09:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/114b85e1-0c12-4a13-a6e1-961a3b648c5d.jpg');">
-                                <a href="/article/68907">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68907">
-                                        무려 24년 만에 첫 유닛 나오는 아이돌 그룹                                    </a>
-                                </em>
-                                <p class="excerpt">지금껏 이런 장수돌 유닛은 세상에 없었다! #WDJ #우동진</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/114b85e1-0c12-4a13-a6e1-961a3b648c5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
