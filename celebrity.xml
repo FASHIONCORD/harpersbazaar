@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 07:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 09:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[투 잡 뛰는 스타들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/69002</link>
+            <guid>https://www.harpersbazaar.co.kr/article/69002</guid>
+            <pubDate>Wed, 24 Aug 2022 09:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/b3589caf-b038-4527-9705-5a74623809c1.jpg');">
+                                <a href="/article/69002">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/69002">
+                                        투 잡 뛰는 스타들                                    </a>
+                                </em>
+                                <p class="excerpt">본업 외에 ‘부캐’도 충실히 해내며 CEO로 활약 중인 셀럽들.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/b3589caf-b038-4527-9705-5a74623809c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한예리가 말하는 '예리한 순간들']]></title>
             <link>https://www.harpersbazaar.co.kr/article/68994</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68939</link>
             <guid>https://www.harpersbazaar.co.kr/article/68939</guid>
             <pubDate>Mon, 22 Aug 2022 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/e9d3be54-5644-4f3b-b488-d47e7a427510.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/e9d3be54-5644-4f3b-b488-d47e7a427510.jpg');">
                                 <a href="/article/68939">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68939">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한 글자, 한 글자에 사랑이 뚝뚝!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/2bc25bdd-3820-49ac-8cbc-89e688a0c757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["손예진 부케 받더니.." 공효진, 케빈오와 10월 결혼❤]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68908</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68908</guid>
-            <pubDate>Fri, 19 Aug 2022 09:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/40ed32c0-9304-4e03-9ef2-805a8ffb49ea.jpg');">
-                                <a href="/article/68908">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68908">
-                                        "손예진 부케 받더니.." 공효진, 케빈오와 10월 결혼❤                                    </a>
-                                </em>
-                                <p class="excerpt">열애 공개로부터 딱 6개월 만에! #뉴욕 #스몰웨딩</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/40ed32c0-9304-4e03-9ef2-805a8ffb49ea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
