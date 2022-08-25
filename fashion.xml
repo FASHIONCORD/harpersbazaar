@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 10:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 13:43:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['♥벤 애플렉' 제니퍼 로페즈가 '픽'한 웨딩 드레스는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/69086</link>
+            <guid>https://www.harpersbazaar.co.kr/article/69086</guid>
+            <pubDate>Thu, 25 Aug 2022 13:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/a00c313c-2a46-46b4-9937-f21f63d63e3c.jpg');">
+                                <a href="/article/69086">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/69086">
+                                        '♥벤 애플렉' 제니퍼 로페즈가 '픽'한 웨딩 드레스는?                                    </a>
+                                </em>
+                                <p class="excerpt">3종 모두 완벽! 랄프 로렌의 역대급 드레스</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/a00c313c-2a46-46b4-9937-f21f63d63e3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꽃중년' 브래드 피트가 한국에서 입은 세트업 룩, 어디 거?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/69020</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68939</link>
             <guid>https://www.harpersbazaar.co.kr/article/68939</guid>
             <pubDate>Wed, 24 Aug 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/e9d3be54-5644-4f3b-b488-d47e7a427510.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/e9d3be54-5644-4f3b-b488-d47e7a427510.jpg');">
                                 <a href="/article/68939">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68939">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이번 시즌 눈여겨봐야 할 바이커 룩, 트렌치코트, 보머 재킷의 무한 변신!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/cb251425-63cc-4a80-8f41-d6c732e0cb9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버 오눅도 반했다는 #소바맛집 은 어디]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68863</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68863</guid>
-            <pubDate>Mon, 22 Aug 2022 11:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/ab0c45fd-2059-4cb7-9c5f-9843710acbfb.jpg');">
-                                <a href="/article/68863">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68863">
-                                        유튜버 오눅도 반했다는 #소바맛집 은 어디                                    </a>
-                                </em>
-                                <p class="excerpt">소바 한 그릇으로 떠나는 일본 여행! 줄 서서 먹는다는 소바 맛집은 어디? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/16/ab0c45fd-2059-4cb7-9c5f-9843710acbfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
