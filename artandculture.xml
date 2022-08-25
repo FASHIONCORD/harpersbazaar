@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 05:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 09:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1인 대 환영! 나 혼자 마신다 #혼술바]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/69029</link>
+            <guid>https://www.harpersbazaar.co.kr/article/69029</guid>
+            <pubDate>Thu, 25 Aug 2022 09:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/496e3c4c-388c-4cc7-8c0d-5c23e1415621.jpg');">
+                                <a href="/article/69029">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/69029">
+                                        1인 대 환영! 나 혼자 마신다 #혼술바                                    </a>
+                                </em>
+                                <p class="excerpt">혼자이고 싶지만, 외로운 건 싫은 날에 아지트가 되어 줄 공간! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/496e3c4c-388c-4cc7-8c0d-5c23e1415621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제발 그냥 먹지 마세요 #무화과레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/69028</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68991</link>
             <guid>https://www.harpersbazaar.co.kr/article/68991</guid>
             <pubDate>Tue, 23 Aug 2022 12:29:42 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg');">
                                 <a href="/article/68991">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68991">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">당근은 이렇게 먹는 거예요.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/43b67b90-9adb-4095-ae00-28b74bbd787b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 인싸들은 속초로 휴가 간다며? #속초핫플]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68967</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68967</guid>
-            <pubDate>Mon, 22 Aug 2022 15:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/76f8c88e-69b5-4e64-b10b-3d99c8e56e91.jpg');">
-                                <a href="/article/68967">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68967">
-                                        요즘 인싸들은 속초로 휴가 간다며? #속초핫플                                     </a>
-                                </em>
-                                <p class="excerpt">요즘 인싸들은 속초로 휴가 간다며? #속초핫플 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/76f8c88e-69b5-4e64-b10b-3d99c8e56e91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
