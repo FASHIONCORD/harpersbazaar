@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 09:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 10:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1254,6 +1254,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/d7ca1f88-7f97-497d-ab66-84653c430600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코미디의 미학 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70111</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70111</guid>
+            <pubDate>Fri, 26 Aug 2022 10:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/87f0ae76-971c-491b-b3cb-acb1c4dd0ab9.jpg');">
+                                <a href="/article/70111">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70111">
+                                        코미디의 미학                                    </a>
+                                </em>
+                                <p class="excerpt">시트콤의 시대가 다시 도래할 수 있을까? 쿠팡플레이 오리지널 시트콤 &lt;유니콘&gt;으로 뭉친 두 명...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/87f0ae76-971c-491b-b3cb-acb1c4dd0ab9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부산에서 다시 뭉치는 방탄소년단 #BTS (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/69090</link>
             <guid>https://www.harpersbazaar.co.kr/article/69090</guid>
@@ -1333,17 +1358,16 @@
             <link>https://www.harpersbazaar.co.kr/article/69020</link>
             <guid>https://www.harpersbazaar.co.kr/article/69020</guid>
             <pubDate>Thu, 25 Aug 2022 09:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/a35d3baf-4303-43b6-ba33-68e9fbfc40fe.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/a35d3baf-4303-43b6-ba33-68e9fbfc40fe.jpg');">
                                 <a href="/article/69020">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/69020">
@@ -1426,28 +1450,29 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/273140ef-c78f-4fd5-9fad-1bbb4473ca78.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성시경도 빠졌다는 맥주 짝꿍! 초간단 #오븐요리레시피 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68991</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68991</guid>
-            <pubDate>Mon, 22 Aug 2022 13:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg');">
-                                <a href="/article/68991">
+            <title><![CDATA[윤아→수영→ 유리.. '지금 연기중'인 소시 멤버들 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70110</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70110</guid>
+            <pubDate>Fri, 26 Aug 2022 10:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/02a8521c-72a6-4a91-a0b9-26c04c78b217.jpg');">
+                                <a href="/article/70110">
                                     <img alt="" src="">
                                 </a>
                             </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
                             <div class="textbox">
                                                         <em class="title">
-                                    <a href="/article/68991">
-                                        성시경도 빠졌다는 맥주 짝꿍! 초간단 #오븐요리레시피                                     </a>
+                                    <a href="/article/70110">
+                                        윤아→수영→ 유리.. '지금 연기중'인 소시 멤버들                                    </a>
                                 </em>
-                                <p class="excerpt">요리는 오븐이 알아서 한다. 볶고 지지고 귀찮다면? 오븐에 넣고 끝내자. </p>
+                                <p class="excerpt">K팝부터 K드라마&amp;K무비까지.. 소녀시대 열일중! </p>
                             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/02a8521c-72a6-4a91-a0b9-26c04c78b217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유튜버들이 극찬하는 #된장파스타 먹어 봤니? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -1529,17 +1554,16 @@
             <link>https://www.harpersbazaar.co.kr/article/69029</link>
             <guid>https://www.harpersbazaar.co.kr/article/69029</guid>
             <pubDate>Thu, 25 Aug 2022 09:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/496e3c4c-388c-4cc7-8c0d-5c23e1415621.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/496e3c4c-388c-4cc7-8c0d-5c23e1415621.jpg');">
                                 <a href="/article/69029">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/69029">
@@ -1620,30 +1644,6 @@
                                 <p class="excerpt">먹다 남은 와인 처리하는데 최고! 초간단 와인 칵테일 레시피.  </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/1126ec57-a4f7-4c55-b4e3-2a1d71b489a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경도 빠졌다는 맥주 짝꿍! 초간단 #오븐요리레시피 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68991</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68991</guid>
-            <pubDate>Mon, 22 Aug 2022 13:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg');">
-                                <a href="/article/68991">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68991">
-                                        성시경도 빠졌다는 맥주 짝꿍! 초간단 #오븐요리레시피                                     </a>
-                                </em>
-                                <p class="excerpt">요리는 오븐이 알아서 한다. 볶고 지지고 귀찮다면? 오븐에 넣고 끝내자. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성시경도 감탄했다는 궁극의 #브리치즈레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
