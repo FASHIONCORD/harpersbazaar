@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 17:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 21:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예리한 한예리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70112</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70112</guid>
+            <pubDate>Fri, 26 Aug 2022 21:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/ef0938d7-9e8f-4a9a-b950-b6db5cca84c2.jpg');">
+                                <a href="/article/70112">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70112">
+                                        예리한 한예리                                    </a>
+                                </em>
+                                <p class="excerpt">영화라는 대상을 향한 한예리의 지극한 짝사랑이 마침내 대답을 듣는 순간.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/ef0938d7-9e8f-4a9a-b950-b6db5cca84c2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코미디의 미학]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70111</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/69027</link>
             <guid>https://www.harpersbazaar.co.kr/article/69027</guid>
             <pubDate>Thu, 25 Aug 2022 10:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/c71d2de8-1b40-4007-afd6-2baa7ff4b146.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/c71d2de8-1b40-4007-afd6-2baa7ff4b146.jpg');">
                                 <a href="/article/69027">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/69027">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">본업 외에 ‘부캐’도 충실히 해내며 CEO로 활약 중인 셀럽들.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/b3589caf-b038-4527-9705-5a74623809c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한예리가 말하는 '예리한 순간들']]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68994</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68994</guid>
-            <pubDate>Tue, 23 Aug 2022 05:57:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/273140ef-c78f-4fd5-9fad-1bbb4473ca78.jpg');">
-                                <a href="/article/68994">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68994">
-                                        한예리가 말하는 '예리한 순간들'                                    </a>
-                                </em>
-                                <p class="excerpt">다양한 필모그래피를 쌓으며 한 폭의 수채화를 그려나가는 그녀, 한예리</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/273140ef-c78f-4fd5-9fad-1bbb4473ca78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
