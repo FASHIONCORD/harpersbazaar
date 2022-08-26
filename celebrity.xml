@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 01:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산에서 다시 뭉치는 방탄소년단 #BTS]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/69090</link>
+            <guid>https://www.harpersbazaar.co.kr/article/69090</guid>
+            <pubDate>Fri, 26 Aug 2022 06:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/e4537a4e-ce16-48f3-907f-26dbb02f258f.jpg');">
+                                <a href="/article/69090">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/69090">
+                                        부산에서 다시 뭉치는 방탄소년단 #BTS                                    </a>
+                                </em>
+                                <p class="excerpt">오는 10월 15일, 부산에서 10만 석 규모 무료 콘서트를 연다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/e4537a4e-ce16-48f3-907f-26dbb02f258f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작가 유병재의 새롭고 진지한 도전]]></title>
             <link>https://www.harpersbazaar.co.kr/article/69037</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/69013</link>
             <guid>https://www.harpersbazaar.co.kr/article/69013</guid>
             <pubDate>Thu, 25 Aug 2022 10:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/502a6e7d-5ad3-4166-afd7-536e8516c53f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/502a6e7d-5ad3-4166-afd7-536e8516c53f.jpg');">
                                 <a href="/article/69013">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/69013">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">요리는 오븐이 알아서 한다. 볶고 지지고 귀찮다면? 오븐에 넣고 끝내자. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/21/29c27348-ea80-42db-9da5-6b4e06da021c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이렇게 먹으면 당근 맛있지 #당근레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68968</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68968</guid>
-            <pubDate>Mon, 22 Aug 2022 11:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/43b67b90-9adb-4095-ae00-28b74bbd787b.jpg');">
-                                <a href="/article/68968">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68968">
-                                        이렇게 먹으면 당근 맛있지 #당근레시피                                    </a>
-                                </em>
-                                <p class="excerpt">당근은 이렇게 먹는 거예요.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/43b67b90-9adb-4095-ae00-28b74bbd787b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
