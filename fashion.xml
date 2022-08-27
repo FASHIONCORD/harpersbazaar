@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 14:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 17:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플로렌스 퓨와의 솔직 인터뷰, 당신이 주목해야 할 뉴 아이콘은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70108</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70108</guid>
+            <pubDate>Sat, 27 Aug 2022 17:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/c390d55b-4182-47c5-b1e5-70e3e090e84f.jpg');">
+                                <a href="/article/70108">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70108">
+                                        플로렌스 퓨와의 솔직 인터뷰, 당신이 주목해야 할 뉴 아이콘은?                                    </a>
+                                </em>
+                                <p class="excerpt">The Next ICONS</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/c390d55b-4182-47c5-b1e5-70e3e090e84f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤일리 비버부터 어맨다 고먼까지, 이 시대의 뉴 아이콘들!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70107</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/69020</link>
             <guid>https://www.harpersbazaar.co.kr/article/69020</guid>
             <pubDate>Thu, 25 Aug 2022 09:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/a35d3baf-4303-43b6-ba33-68e9fbfc40fe.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/a35d3baf-4303-43b6-ba33-68e9fbfc40fe.jpg');">
                                 <a href="/article/69020">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/69020">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">윤승아가 고르고 고른 '내돈내산' 욕실 찐 데일리템! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/18/e9d3be54-5644-4f3b-b488-d47e7a427510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친절한 빵 아저씨, 브래드 피트의 코리아 레드카펫 룩 모음]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68917</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68917</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/80cc4e6b-dddf-40ca-8cc4-42c434eb1031.jpg');">
-                                <a href="/article/68917">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68917">
-                                        친절한 빵 아저씨, 브래드 피트의 코리아 레드카펫 룩 모음                                    </a>
-                                </em>
-                                <p class="excerpt">어제 찍었나요? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/80cc4e6b-dddf-40ca-8cc4-42c434eb1031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
