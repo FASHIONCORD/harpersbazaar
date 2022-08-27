@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 10:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 11:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BIFF 아시아 영화 아카데미 교장에 리티 판 감독 위촉]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/69056</link>
+            <guid>https://www.harpersbazaar.co.kr/article/69056</guid>
+            <pubDate>Sat, 27 Aug 2022 11:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/28dc7bdc-c7a5-40fb-b7fe-8c1db1247bbe.jpg');">
+                                <a href="/article/69056">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/69056">
+                                        BIFF 아시아 영화 아카데미 교장에 리티 판 감독 위촉                                    </a>
+                                </em>
+                                <p class="excerpt">리티 판 감독이 2022 CHANEL X BIFF 아시아영화아카데미를 이끈다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/28dc7bdc-c7a5-40fb-b7fe-8c1db1247bbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마마무 첫 유닛, 궁금하지? #마마무+ #빅나티 #비하인드]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70149</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/69099</link>
             <guid>https://www.harpersbazaar.co.kr/article/69099</guid>
             <pubDate>Fri, 26 Aug 2022 06:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/9122ef01-7b18-4519-ab82-c8a69f80dad4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/9122ef01-7b18-4519-ab82-c8a69f80dad4.jpg');">
                                 <a href="/article/69099">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/69099">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">혼자이고 싶지만, 외로운 건 싫은 날에 아지트가 되어 줄 공간! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/496e3c4c-388c-4cc7-8c0d-5c23e1415621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제발 그냥 먹지 마세요 #무화과레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/69028</link>
-            <guid>https://www.harpersbazaar.co.kr/article/69028</guid>
-            <pubDate>Thu, 25 Aug 2022 05:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/56f0853d-1fc0-4823-8b66-95193e6f8f74.jpg');">
-                                <a href="/article/69028">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/69028">
-                                        제발 그냥 먹지 마세요 #무화과레시피                                    </a>
-                                </em>
-                                <p class="excerpt">브런치 카페 못지않다. 쉽고 근사한 무화과 활용 레시피! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/56f0853d-1fc0-4823-8b66-95193e6f8f74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
