@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 20:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 22:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동해 바다에서 플로깅하고 공짜로 과자 먹는 방법은? #씨낵]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68202</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68202</guid>
+            <pubDate>Wed, 31 Aug 2022 22:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg');">
+                                <a href="/article/68202">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68202">
+                                        동해 바다에서 플로깅하고 공짜로 과자 먹는 방법은? #씨낵                                    </a>
+                                </em>
+                                <p class="excerpt">바다 쓰레기 주우면 과자 드려요! 쇼미더과자! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['논-비건'의 입맛을 사로잡은 신상 비건 식당 2]]></title>
             <link>https://www.harpersbazaar.co.kr/article/67955</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67062</link>
             <guid>https://www.harpersbazaar.co.kr/article/67062</guid>
             <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg');">
                                 <a href="/article/67062">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67062">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">‘이겨 버리는’ 법 따위의 말장난이 아니다. ‘눈만 마주쳐도 옮는다’는 얘기가 전혀 과장으로...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/01/e51b8bb1-2172-438a-a5f5-1674cc9ca4e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버려지는 음식들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65670</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65670</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg');">
-                                <a href="/article/65670">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65670">
-                                        버려지는 음식들                                    </a>
-                                </em>
-                                <p class="excerpt">매년 버려지는 음식 약 14억 톤. 당신은 오늘 얼마나 많은 음식을 버렸나요?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/28/642fce4a-8e98-41a3-855e-82e9dc0086f7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
