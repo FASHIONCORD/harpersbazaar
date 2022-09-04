@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 13:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 20:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11kg 체중 감량한 한지혜의 비결은 크림치즈? #두부다이어트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70345</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70345</guid>
+            <pubDate>Sun, 04 Sep 2022 20:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/a0b0cf49-bdf8-4b2b-ab9b-ad5503eaf091.jpg');">
+                                <a href="/article/70345">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70345">
+                                        11kg 체중 감량한 한지혜의 비결은 크림치즈? #두부다이어트                                    </a>
+                                </em>
+                                <p class="excerpt">맛있게 먹으면서 다이어트 가능! 먹을수록 살 빠지는 두부 레시피.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/a0b0cf49-bdf8-4b2b-ab9b-ad5503eaf091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이보다 더 쉬울 수 없다 #전기밥솥레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70344</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70337</link>
             <guid>https://www.harpersbazaar.co.kr/article/70337</guid>
             <pubDate>Wed, 31 Aug 2022 22:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/864edd42-bb04-47b8-bd59-93ed52d21361.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/864edd42-bb04-47b8-bd59-93ed52d21361.jpg');">
                                 <a href="/article/70337">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70337">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">요즘 일본에서 난리 난 감 구이? #구운과일레시피 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/823190a7-01c5-4bb8-8b2b-b94dbf94f8b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밥 위에 착! 라면보다 쉬운 #덮밥레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70275</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70275</guid>
-            <pubDate>Wed, 31 Aug 2022 22:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/57f937c3-ee96-4447-9d96-67ef5dfa5865.jpg');">
-                                <a href="/article/70275">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70275">
-                                        밥 위에 착! 라면보다 쉬운 #덮밥레시피                                    </a>
-                                </em>
-                                <p class="excerpt">이것저것 필요 없이 밥 위에 올리면 끝난다. 초간단 덮밥 레시피!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/57f937c3-ee96-4447-9d96-67ef5dfa5865.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

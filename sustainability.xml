@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 13:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 20:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여러분의 스리라차 소스가 마트에서 사라집니다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68383</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68383</guid>
+            <pubDate>Sun, 04 Sep 2022 20:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/5e0d70ca-6be4-4acc-a21d-5ba55dcda81a.jpg');">
+                                <a href="/article/68383">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68383">
+                                        여러분의 스리라차 소스가 마트에서 사라집니다                                     </a>
+                                </em>
+                                <p class="excerpt">연간 2천만 병 생산되는 후이퐁(Huy Fong) 스리라차 소스가 오는 9월까지 약 6개월간 생산을 중...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/5e0d70ca-6be4-4acc-a21d-5ba55dcda81a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그린슈머들이 첫 제품으로 많이 사용하는 이것은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68516</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67484</link>
             <guid>https://www.harpersbazaar.co.kr/article/67484</guid>
             <pubDate>Thu, 11 Aug 2022 06:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/e5a3dc5f-808f-4b70-a0b4-4c174d7aa5cc.jpg');">
                                 <a href="/article/67484">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67484">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">진정으로 윤리적인 다이아몬드가 존재할까?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰레기 백과사전이 있다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65886</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65886</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg');">
-                                <a href="/article/65886">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/65886">
-                                        쓰레기 백과사전이 있다면?                                    </a>
-                                </em>
-                                <p class="excerpt">소량 남은 향수와 치약, 낡은 배드민턴 라켓, 택배 상자에 동봉된 아이스팩, 빈 프링글스 통은...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
