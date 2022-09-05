@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 20:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 06:56:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이보다 더 쉬울 수 없다 #전기밥솥레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70344</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70344</guid>
+            <pubDate>Mon, 05 Sep 2022 06:54:58 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/84ca6f00-51c0-438e-b950-2857a34ad964.jpg');">
+                                <a href="/article/70344">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70344">
+                                        이보다 더 쉬울 수 없다 #전기밥솥레시피                                    </a>
+                                </em>
+                                <p class="excerpt">메인부터 디저트까지, 요리는 전기밥솥이 알아서 다 한다. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/84ca6f00-51c0-438e-b950-2857a34ad964.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이건 못 참지! 다이어터도 홀린 #신상라면]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70340</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70301</link>
             <guid>https://www.harpersbazaar.co.kr/article/70301</guid>
             <pubDate>Wed, 31 Aug 2022 22:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/3b665d78-da03-4ff2-b167-36451436e1f2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/3b665d78-da03-4ff2-b167-36451436e1f2.jpg');">
                                 <a href="/article/70301">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70301">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">다니엘 리히터가 바라보는 사회란. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/5818614e-5d13-4d12-86ba-41ef407434f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 미래 식탁이 궁금하다면]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70237</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70237</guid>
-            <pubDate>Wed, 31 Aug 2022 22:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/b0c77eca-2c43-4f5d-802f-0ef35f883b05.jpg');">
-                                <a href="/article/70237">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70237">
-                                        우리의 미래 식탁이 궁금하다면                                    </a>
-                                </em>
-                                <p class="excerpt">미래 식환경 모습을 보여주는 전시가 있다? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/b0c77eca-2c43-4f5d-802f-0ef35f883b05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
