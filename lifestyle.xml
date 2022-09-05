@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 17:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 22:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 MZ들이 모여드는 동네? #문래핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70442</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70442</guid>
+            <pubDate>Mon, 05 Sep 2022 22:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/c94131fe-8d3e-4c47-9ef7-38c75cfd39e1.jpg');">
+                                <a href="/article/70442">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70442">
+                                        요즘 MZ들이 모여드는 동네? #문래핫플                                     </a>
+                                </em>
+                                <p class="excerpt">다른 동네는 흉내 내지 못하는 분위기! MZ를 사로잡은 문래동 핫플레이스. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/c94131fe-8d3e-4c47-9ef7-38c75cfd39e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모르면 내 손해, 꿀맛 보장! 초간단 #고구마디저트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70441</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70345</link>
             <guid>https://www.harpersbazaar.co.kr/article/70345</guid>
             <pubDate>Sun, 04 Sep 2022 20:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/a0b0cf49-bdf8-4b2b-ab9b-ad5503eaf091.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/a0b0cf49-bdf8-4b2b-ab9b-ad5503eaf091.jpg');">
                                 <a href="/article/70345">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70345">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">3~5만 원대에 알찬 코스 요리를 선보이는 프렌치 비스트로! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/dcb7e128-edcf-4255-92a5-c19e49c1cea3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠틀몬스터 아이웨어 디자이너의 집  #홈터뷰]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70337</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70337</guid>
-            <pubDate>Wed, 31 Aug 2022 22:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/864edd42-bb04-47b8-bd59-93ed52d21361.jpg');">
-                                <a href="/article/70337">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70337">
-                                        젠틀몬스터 아이웨어 디자이너의 집  #홈터뷰                                     </a>
-                                </em>
-                                <p class="excerpt">미드센추리모던 하우스의 정석! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/864edd42-bb04-47b8-bd59-93ed52d21361.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
