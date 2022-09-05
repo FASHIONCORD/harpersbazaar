@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 14:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 17:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 환경을 생각한 패션 브랜드는 폐기된 의류에서 소재를 얻는다고?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68775</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68775</guid>
+            <pubDate>Mon, 05 Sep 2022 17:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/7a5b333a-2c45-47e3-ad78-06194b4a6015.jpg');">
+                                <a href="/article/68775">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68775">
+                                        요즘 환경을 생각한 패션 브랜드는 폐기된 의류에서 소재를 얻는다고?                                    </a>
+                                </em>
+                                <p class="excerpt">버려지는 의류에서 추출한 염료, 신소재로 만든 판가이아, 자라의 캡슐 컬렉션</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/7a5b333a-2c45-47e3-ad78-06194b4a6015.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여러분의 스리라차 소스가 마트에서 사라집니다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68383</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/67955</link>
             <guid>https://www.harpersbazaar.co.kr/article/67955</guid>
             <pubDate>Thu, 18 Aug 2022 13:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/94a87ee7-8cb8-4050-af18-752b3f45bb09.jpg');">
                                 <a href="/article/67955">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/67955">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">시계 업계에서의 지속가능성은 워치메이킹의 모든 공정과 단계에 적용되고 있다. 그뿐이 아니다. ...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤리적인 다이아몬드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66756</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66756</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg');">
-                                <a href="/article/66756">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/66756">
-                                        윤리적인 다이아몬드                                    </a>
-                                </em>
-                                <p class="excerpt">진정으로 윤리적인 다이아몬드가 존재할까?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
