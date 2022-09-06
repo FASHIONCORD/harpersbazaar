@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11kg 체중 감량한 한지혜의 비결은 크림치즈? #두부다이어트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70345</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70345</guid>
+            <pubDate>Tue, 06 Sep 2022 07:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/a0b0cf49-bdf8-4b2b-ab9b-ad5503eaf091.jpg');">
+                                <a href="/article/70345">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70345">
+                                        11kg 체중 감량한 한지혜의 비결은 크림치즈? #두부다이어트                                    </a>
+                                </em>
+                                <p class="excerpt">맛있게 먹으면서 다이어트 가능! 먹을수록 살 빠지는 두부 레시피.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/a0b0cf49-bdf8-4b2b-ab9b-ad5503eaf091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시어한 톱과 디스트로이드 진의 만남]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70154</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70202</link>
             <guid>https://www.harpersbazaar.co.kr/article/70202</guid>
             <pubDate>Wed, 31 Aug 2022 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/18edd5c3-df8f-4ae9-bef3-38943c160b99.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/18edd5c3-df8f-4ae9-bef3-38943c160b99.jpg');">
                                 <a href="/article/70202">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70202">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">예기치 못한 비대칭 실루엣의 디올 젬 디올 컬렉션, 순간과 일상을 기록하다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/69332011-ab8a-48f0-bc00-b742ed7030fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을의 시작에서 <바자>가 주목한 패션 뉴스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70120</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70120</guid>
-            <pubDate>Mon, 29 Aug 2022 13:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/27/20427451-2318-4d1d-aca2-67b4273ea65a.jpg');">
-                                <a href="/article/70120">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70120">
-                                        가을의 시작에서 &lt;바자&gt;가 주목한 패션 뉴스                                    </a>
-                                </em>
-                                <p class="excerpt">가을의 시작에서 &lt;바자&gt;가 주목한 패션 뉴스</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/27/20427451-2318-4d1d-aca2-67b4273ea65a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

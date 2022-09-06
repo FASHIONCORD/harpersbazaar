@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FASHION HERO 1]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70314</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70314</guid>
+            <pubDate>Tue, 06 Sep 2022 07:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/e4f993bc-bca4-499a-ad7c-d5ff4ded43cc.jpg');">
+                                <a href="/article/70314">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70314">
+                                        FASHION HERO 1                                    </a>
+                                </em>
+                                <p class="excerpt">혼자서는 세상을 바꿀 수 없다. 현재 벌어지고 있는 패션계의 자정작용. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/e4f993bc-bca4-499a-ad7c-d5ff4ded43cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 MZ들이 모여드는 동네? #문래핫플]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70442</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70346</link>
             <guid>https://www.harpersbazaar.co.kr/article/70346</guid>
             <pubDate>Mon, 05 Sep 2022 13:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/bf96ae27-ca9b-4fdd-8b16-87ebe1240ce5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/bf96ae27-ca9b-4fdd-8b16-87ebe1240ce5.jpg');">
                                 <a href="/article/70346">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70346">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">후루룩 면치기 유발자! 요즘 SNS에서 인기몰이 중인 신상 라면들. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/b4a39cb0-6d17-452f-872d-ab6d76a26363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3만 원대 프렌치 코스요리? 가성비 좋은 #프렌치비스트로]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70339</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70339</guid>
-            <pubDate>Fri, 02 Sep 2022 18:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/dcb7e128-edcf-4255-92a5-c19e49c1cea3.jpg');">
-                                <a href="/article/70339">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70339">
-                                        3만 원대 프렌치 코스요리? 가성비 좋은 #프렌치비스트로                                    </a>
-                                </em>
-                                <p class="excerpt">3~5만 원대에 알찬 코스 요리를 선보이는 프렌치 비스트로! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/dcb7e128-edcf-4255-92a5-c19e49c1cea3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 임윤아를 만든 작품 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70264</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70264</guid>
+            <pubDate>Tue, 06 Sep 2022 07:37:02 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6be9d522-46cf-4fe1-a2f1-c1f90ddc6512.jpg');">
+                                <a href="/article/70264">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70264">
+                                        배우 임윤아를 만든 작품 5                                    </a>
+                                </em>
+                                <p class="excerpt">최근 열린 〈공조2〉의 블라인드 시사에서 평가단이 입을 모아 호평한 배우는 누굴까? 바로 임...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/6be9d522-46cf-4fe1-a2f1-c1f90ddc6512.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['1위 콜렉터' 블랙핑크, 美 빌보드 '글로벌 200'도 1위🥇]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70248</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70221</link>
             <guid>https://www.harpersbazaar.co.kr/article/70221</guid>
             <pubDate>Thu, 01 Sep 2022 05:48:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/4117cd3b-5fe9-4cb6-87ce-a4d89c953e45.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/4117cd3b-5fe9-4cb6-87ce-a4d89c953e45.jpg');">
                                 <a href="/article/70221">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70221">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">권모술수 권민우로 심상치 않게 등장한 그의 이름은 주종혁.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/27/23c5f60f-2295-4859-a0e7-82109a3a3b28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 강아지의 날, 셀럽들의 사랑스러운 댕댕이 모음 zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70168</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70168</guid>
-            <pubDate>Mon, 29 Aug 2022 17:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/23c6faae-3632-47a8-8c1e-30234f977b4d.jpg');">
-                                <a href="/article/70168">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70168">
-                                        세계 강아지의 날, 셀럽들의 사랑스러운 댕댕이 모음 zip                                    </a>
-                                </em>
-                                <p class="excerpt"></p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/23c6faae-3632-47a8-8c1e-30234f977b4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
