@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 17:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 19:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난 추석 명절에도 관리하지 #키토떡레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70506</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70506</guid>
+            <pubDate>Tue, 06 Sep 2022 19:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/d882403e-48e1-46c3-bde8-ae750c5a8ef6.jpg');">
+                                <a href="/article/70506">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70506">
+                                        난 추석 명절에도 관리하지 #키토떡레시피                                    </a>
+                                </em>
+                                <p class="excerpt">참지 말고 똑똑하게 만들어 먹자. 살찔 걱정 없는 키토떡 레시피. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/d882403e-48e1-46c3-bde8-ae750c5a8ef6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FASHION HERO 1]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70314</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70265</link>
             <guid>https://www.harpersbazaar.co.kr/article/70265</guid>
             <pubDate>Mon, 05 Sep 2022 13:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/ad5c09fe-93b6-49fb-9dcb-03a86ff72229.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/ad5c09fe-93b6-49fb-9dcb-03a86ff72229.jpg');">
                                 <a href="/article/70265">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70265">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">메인부터 디저트까지, 요리는 전기밥솥이 알아서 다 한다. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/84ca6f00-51c0-438e-b950-2857a34ad964.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 못 참지! 다이어터도 홀린 #신상라면]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70340</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70340</guid>
-            <pubDate>Sun, 04 Sep 2022 13:30:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/b4a39cb0-6d17-452f-872d-ab6d76a26363.jpg');">
-                                <a href="/article/70340">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70340">
-                                        이건 못 참지! 다이어터도 홀린 #신상라면                                    </a>
-                                </em>
-                                <p class="excerpt">후루룩 면치기 유발자! 요즘 SNS에서 인기몰이 중인 신상 라면들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/b4a39cb0-6d17-452f-872d-ab6d76a26363.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
