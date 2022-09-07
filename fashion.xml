@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 09:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 14:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실크 슬립드레스를 특별하게 착용하고 싶다면?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70189</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70189</guid>
+            <pubDate>Wed, 07 Sep 2022 14:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/49aa3bf9-64c4-4a71-b780-67332a409d36.jpg');">
+                                <a href="/article/70189">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70189">
+                                        실크 슬립드레스를 특별하게 착용하고 싶다면?                                    </a>
+                                </em>
+                                <p class="excerpt">웨이스트 라인을 강조하는 새로운 스타일링에 주목하라. 실크 슬립 드레스와 화려한 니트의 부드...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/49aa3bf9-64c4-4a71-b780-67332a409d36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11kg 체중 감량한 한지혜의 비결은 크림치즈? #두부다이어트]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70345</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70151</link>
             <guid>https://www.harpersbazaar.co.kr/article/70151</guid>
             <pubDate>Fri, 02 Sep 2022 18:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/19ce1d0c-6e7a-49af-b349-192a0788610b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/19ce1d0c-6e7a-49af-b349-192a0788610b.jpg');">
                                 <a href="/article/70151">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70151">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">더욱 과장된 실루엣으로 돌아온 오버사이즈 재킷. 클래식한 스타일부터 관능적이거나 매니시한 무...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d50afd13-355d-447d-8ded-6a23cb00ea13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DAILY RECORD]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70122</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70122</guid>
-            <pubDate>Mon, 29 Aug 2022 17:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/69332011-ab8a-48f0-bc00-b742ed7030fb.jpg');">
-                                <a href="/article/70122">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70122">
-                                        DAILY RECORD                                    </a>
-                                </em>
-                                <p class="excerpt">예기치 못한 비대칭 실루엣의 디올 젬 디올 컬렉션, 순간과 일상을 기록하다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/69332011-ab8a-48f0-bc00-b742ed7030fb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
