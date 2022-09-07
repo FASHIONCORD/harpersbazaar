@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드가 이 갈고 만든 스킨케어 신제품]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70303</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70303</guid>
+            <pubDate>Wed, 07 Sep 2022 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/e534a4ec-7f44-401c-ab5f-160d548bc845.jpg');">
+                                <a href="/article/70303">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70303">
+                                        브랜드가 이 갈고 만든 스킨케어 신제품                                    </a>
+                                </em>
+                                <p class="excerpt">요즘 핫하다고 소문난 제품을 모두 모았다</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/04/e534a4ec-7f44-401c-ab5f-160d548bc845.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘요즘’ 스러운 거울 셀카 찍는 법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70424</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70336</link>
             <guid>https://www.harpersbazaar.co.kr/article/70336</guid>
             <pubDate>Mon, 05 Sep 2022 06:53:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/6a0e4eaf-eb0e-433c-ad15-c5ed7680ab3b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/6a0e4eaf-eb0e-433c-ad15-c5ed7680ab3b.jpg');">
                                 <a href="/article/70336">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70336">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">“정의는 외부에서 오는 것이 아니라 내적 평온으로부터 온다.” 한 정치가의 말을 이렇게 바꿔...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/cfe069a4-3fd1-4830-bceb-8a9a13889f05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섹시한 '가을 남자'로 변신시켜줄 필살기, 신상 향수]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70167</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70167</guid>
-            <pubDate>Wed, 31 Aug 2022 22:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/1a1ee3b1-6077-4a0b-9206-fb023a388106.jpg');">
-                                <a href="/article/70167">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70167">
-                                        섹시한 '가을 남자'로 변신시켜줄 필살기, 신상 향수                                    </a>
-                                </em>
-                                <p class="excerpt">향기로 완성하는 관능적인 남성미 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/1a1ee3b1-6077-4a0b-9206-fb023a388106.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

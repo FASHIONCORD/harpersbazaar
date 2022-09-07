@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향기로운 ‘친환경’ 추석선물 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/68923</link>
+            <guid>https://www.harpersbazaar.co.kr/article/68923</guid>
+            <pubDate>Wed, 07 Sep 2022 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/ff642044-301b-4e19-9bf0-ca780ecf72bb.jpg');">
+                                <a href="/article/68923">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/68923">
+                                        향기로운 ‘친환경’ 추석선물 3                                     </a>
+                                </em>
+                                <p class="excerpt">환경을 생각하는 아이템으로 감사한 마음을 전해보세요.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/ff642044-301b-4e19-9bf0-ca780ecf72bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 환경을 생각한 패션 브랜드는 폐기된 의류에서 소재를 얻는다고?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/68775</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68202</link>
             <guid>https://www.harpersbazaar.co.kr/article/68202</guid>
             <pubDate>Wed, 31 Aug 2022 22:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg');">
                                 <a href="/article/68202">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68202">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지구와 미래의 우리를 위해 숙지해야 할 친환경 여행 가이드를 소개한다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/3df98f2b-f070-4e4b-a003-bb964d151ff2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필환경 시대의 지속가능한 시계]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/67062</link>
-            <guid>https://www.harpersbazaar.co.kr/article/67062</guid>
-            <pubDate>Tue, 02 Aug 2022 19:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg');">
-                                <a href="/article/67062">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/67062">
-                                        필환경 시대의 지속가능한 시계                                     </a>
-                                </em>
-                                <p class="excerpt">시계 업계에서의 지속가능성은 워치메이킹의 모든 공정과 단계에 적용되고 있다. 그뿐이 아니다. ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
