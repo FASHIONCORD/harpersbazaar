@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 16:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 19:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신상 보러갈래? 립스틱 맛집에 신제품 들어왔대]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70304</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70304</guid>
+            <pubDate>Wed, 07 Sep 2022 19:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/be0979e0-2922-40de-9730-8a9614490108.jpg');">
+                                <a href="/article/70304">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70304">
+                                        신상 보러갈래? 립스틱 맛집에 신제품 들어왔대                                    </a>
+                                </em>
+                                <p class="excerpt">맥, 샤넬, 입생로랑, 아르마니까지!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/be0979e0-2922-40de-9730-8a9614490108.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브랜드가 이 갈고 만든 스킨케어 신제품]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70303</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70190</link>
             <guid>https://www.harpersbazaar.co.kr/article/70190</guid>
             <pubDate>Mon, 05 Sep 2022 06:53:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/31d25527-ed00-47f6-aa5b-970735661450.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/31d25527-ed00-47f6-aa5b-970735661450.jpg');">
                                 <a href="/article/70190">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70190">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">깨알 팁부터 제품 추천까지!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/14e7b1b0-d9ec-472d-a0d1-cb9408f4c75a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열 받으면 늙는다? 요즘 내 피부가 늙어보이는 이유]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70124</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70124</guid>
-            <pubDate>Fri, 02 Sep 2022 11:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/cfe069a4-3fd1-4830-bceb-8a9a13889f05.jpg');">
-                                <a href="/article/70124">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70124">
-                                        열 받으면 늙는다? 요즘 내 피부가 늙어보이는 이유                                    </a>
-                                </em>
-                                <p class="excerpt">“정의는 외부에서 오는 것이 아니라 내적 평온으로부터 온다.” 한 정치가의 말을 이렇게 바꿔...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/cfe069a4-3fd1-4830-bceb-8a9a13889f05.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
