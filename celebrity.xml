@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 18:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘술도녀’ 한선화가 픽한 와인바 3 #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70528</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70528</guid>
+            <pubDate>Thu, 08 Sep 2022 18:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c22c8f11-b0b7-4759-9242-73090ae71f34.jpg');">
+                                <a href="/article/70528">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70528">
+                                        ‘술도녀’ 한선화가 픽한 와인바 3 #인_스타_플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">독보적인 분위기가 돋보이는 한선화의 인스타그램 속 장소는 어디?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c22c8f11-b0b7-4759-9242-73090ae71f34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<오징어게임> 美 에미상 4관왕...이유미 게스트상!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70489</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70301</link>
             <guid>https://www.harpersbazaar.co.kr/article/70301</guid>
             <pubDate>Wed, 07 Sep 2022 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/3b665d78-da03-4ff2-b167-36451436e1f2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/3b665d78-da03-4ff2-b167-36451436e1f2.jpg');">
                                 <a href="/article/70301">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70301">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">봉지 라면으로 만드는 든든한 한 끼 식사! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/dbd723c1-cc9d-4eaf-ad9d-4eaeb6f9851d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커피 러버 윤승아가 강추하는 #라떼맛집 은 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70222</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70222</guid>
-            <pubDate>Thu, 01 Sep 2022 05:48:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/f0d7f517-da7f-4fb7-9db4-b0ba05e11b62.jpg');">
-                                <a href="/article/70222">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70222">
-                                        커피 러버 윤승아가 강추하는 #라떼맛집 은 어디?                                    </a>
-                                </em>
-                                <p class="excerpt">커피 애호가 윤승아가 꼽은 서울 대표 라떼 맛집! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/f0d7f517-da7f-4fb7-9db4-b0ba05e11b62.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

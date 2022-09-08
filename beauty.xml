@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 18:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 이하이가 즐겨하는 보석 메이크업의 비밀]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70460</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70460</guid>
+            <pubDate>Thu, 08 Sep 2022 18:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b8d2e725-9965-44b9-a7ca-33a668970a6e.jpg');">
+                                <a href="/article/70460">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70460">
+                                        뉴진스, 이하이가 즐겨하는 보석 메이크업의 비밀                                    </a>
+                                </em>
+                                <p class="excerpt">보석 메이크업 도전하고 싶다면 클릭!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b8d2e725-9965-44b9-a7ca-33a668970a6e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신상 보러갈래? 립스틱 맛집에 신제품 들어왔대]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70304</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70410</link>
             <guid>https://www.harpersbazaar.co.kr/article/70410</guid>
             <pubDate>Mon, 05 Sep 2022 22:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/db90efcd-49f7-4743-b000-65f66d3862b6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/db90efcd-49f7-4743-b000-65f66d3862b6.jpg');">
                                 <a href="/article/70410">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70410">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이렇게 쉽게 몸 관리 가능!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/d2cce3f5-7dce-49b2-8f72-3c00ad6ee6ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알아두면 젊어지는 열 받은 피부 달래는 방법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70153</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70153</guid>
-            <pubDate>Fri, 02 Sep 2022 11:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/14e7b1b0-d9ec-472d-a0d1-cb9408f4c75a.jpg');">
-                                <a href="/article/70153">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70153">
-                                        알아두면 젊어지는 열 받은 피부 달래는 방법                                    </a>
-                                </em>
-                                <p class="excerpt">깨알 팁부터 제품 추천까지!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/14e7b1b0-d9ec-472d-a0d1-cb9408f4c75a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
