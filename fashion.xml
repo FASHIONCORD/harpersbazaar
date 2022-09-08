@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 18:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 21:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 핫한 아빠의 옷장, 대드 코어 신드롬]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70476</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70476</guid>
+            <pubDate>Thu, 08 Sep 2022 21:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/feacc3c6-89c4-4282-8871-0e74db2597b6.jpg');">
+                                <a href="/article/70476">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70476">
+                                        지금 핫한 아빠의 옷장, 대드 코어 신드롬                                     </a>
+                                </em>
+                                <p class="excerpt">아빠의 옷장에서 꺼낸 듯, 동묘 시장에서 구한 듯한 ‘대드 코어(Dad Core)’ 스타일.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/feacc3c6-89c4-4282-8871-0e74db2597b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번 시즌은 단연 '핑크']]></title>
             <link>https://www.harpersbazaar.co.kr/article/70260</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70154</link>
             <guid>https://www.harpersbazaar.co.kr/article/70154</guid>
             <pubDate>Mon, 05 Sep 2022 06:53:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/f89ebaa6-00c3-4a6f-8857-b71049d51d53.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/f89ebaa6-00c3-4a6f-8857-b71049d51d53.jpg');">
                                 <a href="/article/70154">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70154">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">축구복, 이렇게 입어봐! 다시 돌아온 축구복 스타일링 열전.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/18edd5c3-df8f-4ae9-bef3-38943c160b99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을에 입기 좋은 다재다능 버뮤다팬츠]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70201</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70201</guid>
-            <pubDate>Wed, 31 Aug 2022 22:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/57e83814-674b-4d8c-bc67-13e0f0ac9b9a.jpg');">
-                                <a href="/article/70201">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70201">
-                                        가을에 입기 좋은 다재다능 버뮤다팬츠                                    </a>
-                                </em>
-                                <p class="excerpt">캐주얼한 분위기와 포멀한 멋을 모두 갖춘 매력템, 버뮤다팬츠를 입을 시간.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/57e83814-674b-4d8c-bc67-13e0f0ac9b9a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
