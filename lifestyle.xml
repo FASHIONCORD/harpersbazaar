@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 09:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 16:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집에 가는 길]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70611</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70611</guid>
+            <pubDate>Fri, 09 Sep 2022 16:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ae23399b-6251-4e88-aa4a-fa3507ded0cd.jpg');">
+                                <a href="/article/70611">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70611">
+                                        집에 가는 길                                    </a>
+                                </em>
+                                <p class="excerpt">길고 긴 추석 귀성길을 지루하지 않게 해줄 책과 드라마 추천</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/ae23399b-6251-4e88-aa4a-fa3507ded0cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 뮤직 페스티벌 모음zip]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70609</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70574</link>
             <guid>https://www.harpersbazaar.co.kr/article/70574</guid>
             <pubDate>Thu, 08 Sep 2022 18:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/65e73450-a317-490c-8b77-57c542067f6d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/65e73450-a317-490c-8b77-57c542067f6d.jpg');">
                                 <a href="/article/70574">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70574">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">해외 이주자 공동체와 지역사회는 도심과 교외에 다양한 모양으로 자리 잡았다. 보이지 않는 경...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/0fb1327c-6baf-49af-ae08-47f0bcaa7595.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘술도녀’ 한선화가 픽한 와인바 3 #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70528</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70528</guid>
-            <pubDate>Wed, 07 Sep 2022 19:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c22c8f11-b0b7-4759-9242-73090ae71f34.jpg');">
-                                <a href="/article/70528">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70528">
-                                        ‘술도녀’ 한선화가 픽한 와인바 3 #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">독보적인 분위기가 돋보이는 한선화의 인스타그램 속 장소는 어디?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/c22c8f11-b0b7-4759-9242-73090ae71f34.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
