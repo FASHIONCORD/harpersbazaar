@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 05:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 16:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1058,6 +1058,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/18edd5c3-df8f-4ae9-bef3-38943c160b99.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[또렷하고 똘망한 눈매를 만드는 방법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70307</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70307</guid>
+            <pubDate>Sat, 10 Sep 2022 16:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/2d90ef76-b813-40a4-8992-f20765a982e4.jpg');">
+                                <a href="/article/70307">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70307">
+                                        또렷하고 똘망한 눈매를 만드는 방법                                    </a>
+                                </em>
+                                <p class="excerpt">바자가 엄선한 메이크업 신제품으로 가능! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/2d90ef76-b813-40a4-8992-f20765a982e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다이어트 전문가가 말하는 추석 후 다이어트 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70564</link>
             <guid>https://www.harpersbazaar.co.kr/article/70564</guid>
@@ -1137,17 +1162,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70460</link>
             <guid>https://www.harpersbazaar.co.kr/article/70460</guid>
             <pubDate>Wed, 07 Sep 2022 14:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b8d2e725-9965-44b9-a7ca-33a668970a6e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/b8d2e725-9965-44b9-a7ca-33a668970a6e.jpg');">
                                 <a href="/article/70460">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70460">
@@ -1228,30 +1252,6 @@
                                 <p class="excerpt">사진 찍을 때마다 갈 길 잃는 손, 왠지 모르게 어색한 포즈 이렇게 수습하자</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/30a1e1bc-7def-47e3-b0f4-b67751de6bfa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 리미티드 아이 컬렉션, 레 꺄트르 옹브르 트위드 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70410</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70410</guid>
-            <pubDate>Mon, 05 Sep 2022 22:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/db90efcd-49f7-4743-b000-65f66d3862b6.jpg');">
-                                <a href="/article/70410">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70410">
-                                        샤넬 리미티드 아이 컬렉션, 레 꺄트르 옹브르 트위드                                     </a>
-                                </em>
-                                <p class="excerpt">트위드를 입은 아이섀도, 완벽한 가을 룩을 완성하다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/db90efcd-49f7-4743-b000-65f66d3862b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘술도녀’ 한선화가 픽한 와인바 3 #인_스타_플레이스 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
