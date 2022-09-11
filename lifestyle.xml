@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 18:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 19:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디저트 한 입으로 떠나는 이탈리아 여행 #신상디저트카페]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70615</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70615</guid>
+            <pubDate>Sun, 11 Sep 2022 19:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/e6347b59-c05c-409b-bfeb-803676954800.jpg');">
+                                <a href="/article/70615">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70615">
+                                        디저트 한 입으로 떠나는 이탈리아 여행 #신상디저트카페                                     </a>
+                                </em>
+                                <p class="excerpt">오픈런 해야 맛볼 수 있다. 인기 폭발 이탈리아 디저트 맛집! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/e6347b59-c05c-409b-bfeb-803676954800.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집에 가는 길]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70611</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70363</link>
             <guid>https://www.harpersbazaar.co.kr/article/70363</guid>
             <pubDate>Thu, 08 Sep 2022 18:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/4abc5765-47d7-4525-9a89-589b068385b6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/4abc5765-47d7-4525-9a89-589b068385b6.jpg');">
                                 <a href="/article/70363">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70363">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이제는 삼성페이 안부럽다! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/d9824504-3520-4867-9952-572ab03020c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고려인이 먹는 국수와 된장찌개는?!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70362</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70362</guid>
-            <pubDate>Thu, 08 Sep 2022 10:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/0fb1327c-6baf-49af-ae08-47f0bcaa7595.jpg');">
-                                <a href="/article/70362">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70362">
-                                        고려인이 먹는 국수와 된장찌개는?!                                    </a>
-                                </em>
-                                <p class="excerpt">해외 이주자 공동체와 지역사회는 도심과 교외에 다양한 모양으로 자리 잡았다. 보이지 않는 경...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/0fb1327c-6baf-49af-ae08-47f0bcaa7595.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
