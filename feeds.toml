@@ -1,5 +1,6 @@
 [default]
 timeout = 180
+waitUntil = "networkidle"
 
 [naverpost_life]
 title = "네이버 포스트 ─ 하퍼스바자 ─ Life"
