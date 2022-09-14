@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 04:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신단비와 이석의 아티스트 정신]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70534</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70534</guid>
+            <pubDate>Wed, 14 Sep 2022 04:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/bb6e7f3d-b40f-4468-a751-308b9a73cc73.jpg');">
+                                <a href="/article/70534">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70534">
+                                        신단비와 이석의 아티스트 정신                                    </a>
+                                </em>
+                                <p class="excerpt">골든구스와 함께한 글로벌 캠페인 ‘아티스트의 정신’ 비하인드 신 공개!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/bb6e7f3d-b40f-4468-a751-308b9a73cc73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지드래곤, 이제훈, 고소영, 빈지노, 수주가 한 자리에 모인 이유]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70531</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70260</link>
             <guid>https://www.harpersbazaar.co.kr/article/70260</guid>
             <pubDate>Thu, 08 Sep 2022 10:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/a6660dfb-e5f9-43ba-96b4-42ed7165b7c7.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/a6660dfb-e5f9-43ba-96b4-42ed7165b7c7.jpg');">
                                 <a href="/article/70260">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70260">
@@ -185,22 +209,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70152</guid>
             <pubDate>Mon, 05 Sep 2022 06:53:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/1b6b6fbb-72d9-408e-aa62-8fd757c1421d.jpg');">
-                                <a href="/article/70152">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70152">
-                                        35주년을 맞은 샤넬의 첫 시계                                    </a>
-                                </em>
-                                <p class="excerpt">35년 전 샤넬의 워치메이킹 시대를 연 주인공이 다시 돌아왔다. 프리미에르(PREMIÈRE) 워치를 ...</p>
-                            </div>]]></content:encoded>
+            <a href="/article/70152">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/70152">
+                    35주년을 맞은 샤넬의 첫 시계                </a>
+            </em>
+            <p class="excerpt">35년 전 샤넬의 워치메이킹 시대를 연 주인공이 다시 돌아왔다. 프리미에르(PREMIÈRE) 워치를 ...</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/1b6b6fbb-72d9-408e-aa62-8fd757c1421d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -300,11 +324,11 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d50afd13-355d-447d-8ded-6a23cb00ea13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DAILY RECORD]]></title>
+            <title><![CDATA[디올 젬 디올 컬렉션과 함께한 순간, DAILY RECORD]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70122</link>
             <guid>https://www.harpersbazaar.co.kr/article/70122</guid>
             <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/69332011-ab8a-48f0-bc00-b742ed7030fb.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/69332011-ab8a-48f0-bc00-b742ed7030fb.jpg');">
             <a href="/article/70122">
                 <img alt="" src="">
             </a>
@@ -317,11 +341,11 @@
         <div class="textbox">
                 <em class="title">
                 <a href="/article/70122">
-                    DAILY RECORD                </a>
+                    디올 젬 디올 컬렉션과 함께한 순간, DAILY RECORD                </a>
             </em>
             <p class="excerpt">예기치 못한 비대칭 실루엣의 디올 젬 디올 컬렉션, 순간과 일상을 기록하다.</p>
         </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/28/69332011-ab8a-48f0-bc00-b742ed7030fb.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/69332011-ab8a-48f0-bc00-b742ed7030fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을의 시작에서 <바자>가 주목한 패션 뉴스]]></title>
@@ -353,22 +377,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70117</guid>
             <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/583fe378-e1b2-4e89-af9c-2f2913fe71a8.jpg');">
-            <a href="/article/70117">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/70117">
-                    빅백. 누가누가 더 클까?                </a>
-            </em>
-            <p class="excerpt">독보적 존재감을 드러내는 ‘슈퍼 빅’ 백이 유행의 궤도에 올라섰다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/70117">
+                        빅백. 누가누가 더 클까?                    </a>
+                </em>
+                <p class="excerpt">독보적 존재감을 드러내는 ‘슈퍼 빅’ 백이 유행의 궤도에 올라섰다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/583fe378-e1b2-4e89-af9c-2f2913fe71a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -490,30 +514,6 @@
                 <p class="excerpt">컨버스 vs 반스 vs 아디다스. 당신의 선택은? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/7ffdac06-5d3f-44de-9704-f6d33781ec53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['♥벤 애플렉' 제니퍼 로페즈가 '픽'한 웨딩 드레스는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/69086</link>
-            <guid>https://www.harpersbazaar.co.kr/article/69086</guid>
-            <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/a00c313c-2a46-46b4-9937-f21f63d63e3c.jpg');">
-                <a href="/article/69086">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/69086">
-                        '♥벤 애플렉' 제니퍼 로페즈가 '픽'한 웨딩 드레스는?                    </a>
-                </em>
-                <p class="excerpt">3종 모두 완벽! 랄프 로렌의 역대급 드레스</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/a00c313c-2a46-46b4-9937-f21f63d63e3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
