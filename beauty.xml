@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 09:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 15:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연휴에도 쉴 수 없지! 안소희, 박보검, 손나은, 최여진 운동 인증]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70637</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70637</guid>
+            <pubDate>Wed, 14 Sep 2022 15:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/465d8f6a-616f-4462-9968-bb630a49c030.jpg');">
+                                <a href="/article/70637">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70637">
+                                        연휴에도 쉴 수 없지! 안소희, 박보검, 손나은, 최여진 운동 인증                                    </a>
+                                </em>
+                                <p class="excerpt">지금 늘어지면 안 된다고.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/465d8f6a-616f-4462-9968-bb630a49c030.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[15년차 아이돌 수영은 아침 관리 이렇게 한다고?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70635</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70564</link>
             <guid>https://www.harpersbazaar.co.kr/article/70564</guid>
             <pubDate>Fri, 09 Sep 2022 16:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/cf39d288-69f4-4bd9-b73c-a6d327b42c06.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/cf39d288-69f4-4bd9-b73c-a6d327b42c06.jpg');">
                                 <a href="/article/70564">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70564">
@@ -185,22 +209,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70304</guid>
             <pubDate>Wed, 07 Sep 2022 19:16:28 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/be0979e0-2922-40de-9730-8a9614490108.jpg');">
-                                <a href="/article/70304">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70304">
-                                        신상 보러갈래? 립스틱 맛집에 신제품 들어왔대                                    </a>
-                                </em>
-                                <p class="excerpt">맥, 샤넬, 입생로랑, 아르마니까지!</p>
-                            </div>]]></content:encoded>
+            <a href="/article/70304">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/70304">
+                    신상 보러갈래? 립스틱 맛집에 신제품 들어왔대                </a>
+            </em>
+            <p class="excerpt">맥, 샤넬, 입생로랑, 아르마니까지!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/be0979e0-2922-40de-9730-8a9614490108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,22 +377,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70153</guid>
             <pubDate>Mon, 12 Sep 2022 09:56:28 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/14e7b1b0-d9ec-472d-a0d1-cb9408f4c75a.jpg');">
-            <a href="/article/70153">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/70153">
-                    알아두면 젊어지는 열 받은 피부 달래는 방법                </a>
-            </em>
-            <p class="excerpt">깨알 팁부터 제품 추천까지!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/70153">
+                        알아두면 젊어지는 열 받은 피부 달래는 방법                    </a>
+                </em>
+                <p class="excerpt">깨알 팁부터 제품 추천까지!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/14e7b1b0-d9ec-472d-a0d1-cb9408f4c75a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -490,30 +514,6 @@
                 <p class="excerpt">숫자가 다가 아니다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/4dffa1bb-e1b5-470e-b630-064e9a797422.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 뮤비 속 k-nail 살펴보기]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70134</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70134</guid>
-            <pubDate>Mon, 12 Sep 2022 09:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/b78286bd-2ab0-4330-9666-3f244911bc46.jpg');">
-                <a href="/article/70134">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/70134">
-                        블랙핑크 뮤비 속 k-nail 살펴보기                     </a>
-                </em>
-                <p class="excerpt">세상 화려하고 아름다워</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/b78286bd-2ab0-4330-9666-3f244911bc46.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
