@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 09:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집엔 어떤 꽃과 식물을 두면 좋을까요? #홈터뷰]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70739</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70739</guid>
+            <pubDate>Fri, 16 Sep 2022 15:04:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/ca145220-6764-4221-8de9-0527c02bfe34.jpg');">
+                                <a href="/article/70739">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70739">
+                                        집엔 어떤 꽃과 식물을 두면 좋을까요? #홈터뷰                                    </a>
+                                </em>
+                                <p class="excerpt">빌라를 리모델링한 플로리스트의 집 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/ca145220-6764-4221-8de9-0527c02bfe34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다쓰레기 줍고, 상품권도 받는 방법은? #해치움캠페인]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70738</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70719</link>
             <guid>https://www.harpersbazaar.co.kr/article/70719</guid>
             <pubDate>Thu, 15 Sep 2022 15:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/01dc353d-0575-484d-8ed1-0b499a2fdec6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/01dc353d-0575-484d-8ed1-0b499a2fdec6.jpg');">
                                 <a href="/article/70719">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70719">
@@ -185,22 +209,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70371</guid>
             <pubDate>Wed, 14 Sep 2022 15:05:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/bfdf5a25-7a2a-421b-bfbb-a8b3ded47432.jpg');">
-                                <a href="/article/70371">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70371">
-                                        BJ 체리 장과 작가 류성실의 상관 관계                                    </a>
-                                </em>
-                                <p class="excerpt">하얗게 분장한 얼굴로 음모론과 종말론을 설파하던 BJ 체리장은 한 번 죽어 다시 살았다. 역시...</p>
-                            </div>]]></content:encoded>
+            <a href="/article/70371">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/70371">
+                    BJ 체리 장과 작가 류성실의 상관 관계                </a>
+            </em>
+            <p class="excerpt">하얗게 분장한 얼굴로 음모론과 종말론을 설파하던 BJ 체리장은 한 번 죽어 다시 살았다. 역시...</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/bfdf5a25-7a2a-421b-bfbb-a8b3ded47432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,22 +377,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70609</guid>
             <pubDate>Thu, 08 Sep 2022 18:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/c9900627-ff1f-4bd9-93dd-a4c1c473f785.jpg');">
-            <a href="/article/70609">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/70609">
-                    가을 뮤직 페스티벌 모음zip                </a>
-            </em>
-            <p class="excerpt">잔디 위에 누워서 음악 들으러 가볼까?</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/70609">
+                        가을 뮤직 페스티벌 모음zip                    </a>
+                </em>
+                <p class="excerpt">잔디 위에 누워서 음악 들으러 가볼까?</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/c9900627-ff1f-4bd9-93dd-a4c1c473f785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -490,30 +514,6 @@
                 <p class="excerpt">이제는 삼성페이 안부럽다! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/d9824504-3520-4867-9952-572ab03020c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고려인이 먹는 국수와 된장찌개는?!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70362</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70362</guid>
-            <pubDate>Mon, 12 Sep 2022 09:58:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/0fb1327c-6baf-49af-ae08-47f0bcaa7595.jpg');">
-                <a href="/article/70362">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/70362">
-                        고려인이 먹는 국수와 된장찌개는?!                    </a>
-                </em>
-                <p class="excerpt">해외 이주자 공동체와 지역사회는 도심과 교외에 다양한 모양으로 자리 잡았다. 보이지 않는 경...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/0fb1327c-6baf-49af-ae08-47f0bcaa7595.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
