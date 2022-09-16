@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 04:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황금빛 태양 아래 빛나는 하이 주얼리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70370</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70370</guid>
+            <pubDate>Fri, 16 Sep 2022 09:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/cda0b735-475e-4de5-bd14-836b3f9cf1d0.jpg');">
+                                <a href="/article/70370">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70370">
+                                        황금빛 태양 아래 빛나는 하이 주얼리                                    </a>
+                                </em>
+                                <p class="excerpt">계절이 무르익어가는 시간, 황홀하게 타오르는 골드 워치와 주얼리.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/cda0b735-475e-4de5-bd14-836b3f9cf1d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기관리 철저한 아이비가 챙겨 먹는다는 영양제?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70617</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70531</link>
             <guid>https://www.harpersbazaar.co.kr/article/70531</guid>
             <pubDate>Tue, 13 Sep 2022 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/61e09c3f-9cba-48dc-9fd8-af39788f2e80.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/61e09c3f-9cba-48dc-9fd8-af39788f2e80.jpg');">
                                 <a href="/article/70531">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70531">
@@ -185,22 +209,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70189</guid>
             <pubDate>Wed, 07 Sep 2022 14:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/49aa3bf9-64c4-4a71-b780-67332a409d36.jpg');">
-                                <a href="/article/70189">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70189">
-                                        실크 슬립드레스를 특별하게 착용하고 싶다면?                                    </a>
-                                </em>
-                                <p class="excerpt">웨이스트 라인을 강조하는 새로운 스타일링에 주목하라. 실크 슬립 드레스와 화려한 니트의 부드...</p>
-                            </div>]]></content:encoded>
+            <a href="/article/70189">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/70189">
+                    실크 슬립드레스를 특별하게 착용하고 싶다면?                </a>
+            </em>
+            <p class="excerpt">웨이스트 라인을 강조하는 새로운 스타일링에 주목하라. 실크 슬립 드레스와 화려한 니트의 부드...</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/49aa3bf9-64c4-4a71-b780-67332a409d36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,22 +377,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70146</guid>
             <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d50afd13-355d-447d-8ded-6a23cb00ea13.jpg');">
-            <a href="/article/70146">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/70146">
-                    다양하게 변주된 오버사이즈 재킷!                </a>
-            </em>
-            <p class="excerpt">더욱 과장된 실루엣으로 돌아온 오버사이즈 재킷. 클래식한 스타일부터 관능적이거나 매니시한 무...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/70146">
+                        다양하게 변주된 오버사이즈 재킷!                    </a>
+                </em>
+                <p class="excerpt">더욱 과장된 실루엣으로 돌아온 오버사이즈 재킷. 클래식한 스타일부터 관능적이거나 매니시한 무...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/d50afd13-355d-447d-8ded-6a23cb00ea13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -448,7 +472,7 @@
             <link>https://www.harpersbazaar.co.kr/article/70135</link>
             <guid>https://www.harpersbazaar.co.kr/article/70135</guid>
             <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/b8a03327-41a2-4b84-9b6e-8e133fd4a6bc.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/b8a03327-41a2-4b84-9b6e-8e133fd4a6bc.jpg');">
                 <a href="/article/70135">
                     <img alt="" src="">
                 </a>
@@ -465,7 +489,7 @@
                 </em>
                 <p class="excerpt">손나은, 김도연, 한소희의 데님 룩, 다같은 데님이 아니야! </p>
             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/b8a03327-41a2-4b84-9b6e-8e133fd4a6bc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/b8a03327-41a2-4b84-9b6e-8e133fd4a6bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올가을 트렌치코트는 이렇게 입으세요!]]></title>
@@ -490,30 +514,6 @@
                 <p class="excerpt">코르셋을 접목한 디올의 우아한 디자인부터 클래식한 트렌치 실루엣에 과감한 컷아웃 디테일을 더...</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/772584ef-b96f-4ef7-8257-021081ff37ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플로렌스 퓨와의 솔직 인터뷰, 당신이 주목해야 할 뉴 아이콘은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70108</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70108</guid>
-            <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/c390d55b-4182-47c5-b1e5-70e3e090e84f.jpg');">
-                <a href="/article/70108">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/70108">
-                        플로렌스 퓨와의 솔직 인터뷰, 당신이 주목해야 할 뉴 아이콘은?                    </a>
-                </em>
-                <p class="excerpt">The Next ICONS</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/c390d55b-4182-47c5-b1e5-70e3e090e84f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
