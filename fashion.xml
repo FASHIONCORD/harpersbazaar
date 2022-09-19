@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 04:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리의 풍경을 닮은 샤넬의 뉴룩]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70375</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70375</guid>
+            <pubDate>Mon, 19 Sep 2022 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/0a500453-4cee-464a-a097-f60ce3c2dd44.jpg');">
+                                <a href="/article/70375">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70375">
+                                        파리의 풍경을 닮은 샤넬의 뉴룩                                    </a>
+                                </em>
+                                <p class="excerpt">낭만적인 파리의 가을 풍광 속에 샤넬 2022 F/W 컬렉션이 오버랩되다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/0a500453-4cee-464a-a097-f60ce3c2dd44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자신의 스타일대로, 코코 크러쉬]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70590</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70612</link>
             <guid>https://www.harpersbazaar.co.kr/article/70612</guid>
             <pubDate>Wed, 14 Sep 2022 09:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/6877b6a8-59a5-4b23-86fb-083b9c3136a3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/6877b6a8-59a5-4b23-86fb-083b9c3136a3.jpg');">
                                 <a href="/article/70612">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70612">
@@ -185,22 +209,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70476</guid>
             <pubDate>Thu, 08 Sep 2022 21:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/feacc3c6-89c4-4282-8871-0e74db2597b6.jpg');">
-                                <a href="/article/70476">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70476">
-                                        지금 핫한 아빠의 옷장, 대드 코어 신드롬                                     </a>
-                                </em>
-                                <p class="excerpt">아빠의 옷장에서 꺼낸 듯, 동묘 시장에서 구한 듯한 ‘대드 코어(Dad Core)’ 스타일.</p>
-                            </div>]]></content:encoded>
+            <a href="/article/70476">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/70476">
+                    지금 핫한 아빠의 옷장, 대드 코어 신드롬                 </a>
+            </em>
+            <p class="excerpt">아빠의 옷장에서 꺼낸 듯, 동묘 시장에서 구한 듯한 ‘대드 코어(Dad Core)’ 스타일.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/feacc3c6-89c4-4282-8871-0e74db2597b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -353,22 +377,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/70202</guid>
             <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/18edd5c3-df8f-4ae9-bef3-38943c160b99.jpg');">
-            <a href="/article/70202">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/70202">
-                    뉴진스, 제니도 입는 스포티 룩의 혁명                </a>
-            </em>
-            <p class="excerpt">축구복, 이렇게 입어봐! 다시 돌아온 축구복 스타일링 열전.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/70202">
+                        뉴진스, 제니도 입는 스포티 룩의 혁명                    </a>
+                </em>
+                <p class="excerpt">축구복, 이렇게 입어봐! 다시 돌아온 축구복 스타일링 열전.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/18edd5c3-df8f-4ae9-bef3-38943c160b99.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -490,30 +514,6 @@
                 <p class="excerpt">독보적 존재감을 드러내는 ‘슈퍼 빅’ 백이 유행의 궤도에 올라섰다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/583fe378-e1b2-4e89-af9c-2f2913fe71a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 준비 됐나요? 핫한 패피들의 데님 재킷 스타일링]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70135</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70135</guid>
-            <pubDate>Mon, 12 Sep 2022 09:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/b8a03327-41a2-4b84-9b6e-8e133fd4a6bc.jpg');">
-                <a href="/article/70135">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/70135">
-                        가을 준비 됐나요? 핫한 패피들의 데님 재킷 스타일링                     </a>
-                </em>
-                <p class="excerpt">손나은, 김도연, 한소희의 데님 룩, 다같은 데님이 아니야! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/b8a03327-41a2-4b84-9b6e-8e133fd4a6bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
