@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 09:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 15:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 S/S 미리보기! 뉴욕패션위크 하이라이츠]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70782</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70782</guid>
+            <pubDate>Wed, 21 Sep 2022 15:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/9d3bc8d6-061c-47c7-b865-339b76dad0ef.jpg');">
+                                <a href="/article/70782">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70782">
+                                        2023 S/S 미리보기! 뉴욕패션위크 하이라이츠                                     </a>
+                                </em>
+                                <p class="excerpt">6일간의 대장정을 마무리한 뉴욕 패션 위크. 눈여겨봐야 할 7개 브랜드의 key Point! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/9d3bc8d6-061c-47c7-b865-339b76dad0ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영, 로제 등 셀럽들도 입는 스쿨걸 룩, 도전해봐!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70777</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70375</link>
             <guid>https://www.harpersbazaar.co.kr/article/70375</guid>
             <pubDate>Mon, 19 Sep 2022 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/0a500453-4cee-464a-a097-f60ce3c2dd44.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/0a500453-4cee-464a-a097-f60ce3c2dd44.jpg');">
                                 <a href="/article/70375">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70375">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">영양제에 진심인 아이비가 매일 챙겨 먹는다는 찐템들! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/bf49a6dd-3d02-4ef8-b4ea-53e1362a4dd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀시대 태연이 입은 널디 트레이닝복, 메구도 입었구!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70612</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70612</guid>
-            <pubDate>Wed, 14 Sep 2022 09:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/6877b6a8-59a5-4b23-86fb-083b9c3136a3.jpg');">
-                                <a href="/article/70612">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70612">
-                                        소녀시대 태연이 입은 널디 트레이닝복, 메구도 입었구!                                     </a>
-                                </em>
-                                <p class="excerpt"> ‘트레이닝복 맛집’ 널디 플래그십 스토어에서 입어본 F/W 신상룩 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/6877b6a8-59a5-4b23-86fb-083b9c3136a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
