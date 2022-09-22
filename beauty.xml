@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 04:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 09:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트러블 걱정 없는 신토불이 화장품]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70380</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70380</guid>
+            <pubDate>Thu, 22 Sep 2022 09:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/c928a1a6-9ed5-418e-a1a9-ba435c4d964e.jpg');">
+                                <a href="/article/70380">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70380">
+                                        트러블 걱정 없는 신토불이 화장품                                    </a>
+                                </em>
+                                <p class="excerpt">우리 땅에서 자라서 안전하고 유효하다</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/c928a1a6-9ed5-418e-a1a9-ba435c4d964e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강민경부터 한효주까지, 스타들의 테니스룩]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70729</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70311</link>
             <guid>https://www.harpersbazaar.co.kr/article/70311</guid>
             <pubDate>Thu, 15 Sep 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/97a8f0b9-0c23-42c1-a625-8ced09472abe.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/97a8f0b9-0c23-42c1-a625-8ced09472abe.jpg');">
                                 <a href="/article/70311">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70311">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">신상 보디 &amp; 헤어 아이템</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/434fd3db-0563-4f63-8619-9af1b2f7d537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또렷하고 똘망한 눈매를 만드는 방법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70307</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70307</guid>
-            <pubDate>Sat, 10 Sep 2022 16:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/2d90ef76-b813-40a4-8992-f20765a982e4.jpg');">
-                                <a href="/article/70307">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70307">
-                                        또렷하고 똘망한 눈매를 만드는 방법                                    </a>
-                                </em>
-                                <p class="excerpt">바자가 엄선한 메이크업 신제품으로 가능! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/2d90ef76-b813-40a4-8992-f20765a982e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
