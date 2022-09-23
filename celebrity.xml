@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 15:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 04:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크, 2년 만에 美 ABC <지미 키멜 라이브!> 출격]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70819</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70819</guid>
+            <pubDate>Fri, 23 Sep 2022 04:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/10f1b6af-3f17-4790-b8cf-f16eb9523923.jpg');">
+                                <a href="/article/70819">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70819">
+                                        블랙핑크, 2년 만에 美 ABC &lt;지미 키멜 라이브!&gt; 출격                                    </a>
+                                </em>
+                                <p class="excerpt">'탈아시아급' 인기! 블핑의 '본 핑크' 글로벌 행보 계속~</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/10f1b6af-3f17-4790-b8cf-f16eb9523923.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이준기·송승헌→BTS 정국·제이홉.. '아이유 콘서트' 인증★]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70806</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70756</link>
             <guid>https://www.harpersbazaar.co.kr/article/70756</guid>
             <pubDate>Mon, 19 Sep 2022 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/2c700a87-6f0d-4c91-9384-25e9abddeb78.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/2c700a87-6f0d-4c91-9384-25e9abddeb78.jpg');">
                                 <a href="/article/70756">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70756">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">2~3인분의 과한 양도, 면치기도 지겹다면? 연예계 소문난 ‘소식좌’들의 먹방 콘텐츠 추천.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/01dc353d-0575-484d-8ed1-0b499a2fdec6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에 '오징어 게임의 날' 생겼다! #0917]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70714</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70714</guid>
-            <pubDate>Fri, 16 Sep 2022 04:46:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/d5453fac-4d24-4b5d-84c8-07cfb75bd790.jpg');">
-                                <a href="/article/70714">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70714">
-                                        미국에 '오징어 게임의 날' 생겼다! #0917                                    </a>
-                                </em>
-                                <p class="excerpt">매년 9월 17일! 미국 LA 시의회 선포!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/d5453fac-4d24-4b5d-84c8-07cfb75bd790.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
