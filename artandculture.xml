@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 04:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굉장히 트렌디하다는 이 춤!  강다니엘, 있지, 호시도 참여한 지코의 '새삥' 댄스 챌린지는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70882</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70882</guid>
+            <pubDate>Fri, 23 Sep 2022 09:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/21/00dd858d-da1e-4f0a-8fbb-0e03686ff091.jpg');">
+                                <a href="/article/70882">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70882">
+                                        굉장히 트렌디하다는 이 춤!  강다니엘, 있지, 호시도 참여한 지코의 '새삥' 댄스 챌린지는?                                     </a>
+                                </em>
+                                <p class="excerpt">춤선 미쳤다! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/21/00dd858d-da1e-4f0a-8fbb-0e03686ff091.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갓세븐 제이비→레드벨벳 슬기.. 불붙는 아이돌 솔로戰]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70873</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70829</link>
             <guid>https://www.harpersbazaar.co.kr/article/70829</guid>
             <pubDate>Wed, 21 Sep 2022 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/d097f02b-82cc-4383-9413-1bd291ade998.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/d097f02b-82cc-4383-9413-1bd291ade998.jpg');">
                                 <a href="/article/70829">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70829">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이것이 바로 '저세상' HIP이로다!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/c606b558-0ae7-4e2b-8bfc-d19216f8f93d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이영자도 인정한 버거 맛집이라고? #수제버거맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70760</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70760</guid>
-            <pubDate>Mon, 19 Sep 2022 15:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/5fb67b81-ac91-4efe-b7bf-468bf09177b4.jpg');">
-                                <a href="/article/70760">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70760">
-                                        이영자도 인정한 버거 맛집이라고? #수제버거맛집                                     </a>
-                                </em>
-                                <p class="excerpt">넉넉한 고기 인심을 보여주는 요즘 인기 수제버거 맛집! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/5fb67b81-ac91-4efe-b7bf-468bf09177b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

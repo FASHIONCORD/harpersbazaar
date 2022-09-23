@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 04:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 골프백을 찾는다면]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70799</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70799</guid>
+            <pubDate>Fri, 23 Sep 2022 09:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/20/84a5a568-c1e7-4750-bac7-66a50ad262d6.jpg');">
+                                <a href="/article/70799">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70799">
+                                        특별한 골프백을 찾는다면                                    </a>
+                                </em>
+                                <p class="excerpt">주말 라운딩을 위한 VWX의 제안. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/20/84a5a568-c1e7-4750-bac7-66a50ad262d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이하늬의 다이어트 시크릿 #밀프랩 꿀팁]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70828</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70777</link>
             <guid>https://www.harpersbazaar.co.kr/article/70777</guid>
             <pubDate>Wed, 21 Sep 2022 09:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/fb05ce6b-e524-4504-ad3e-0db1a2a33f8e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/fb05ce6b-e524-4504-ad3e-0db1a2a33f8e.jpg');">
                                 <a href="/article/70777">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70777">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">낭만적인 파리의 가을 풍광 속에 샤넬 2022 F/W 컬렉션이 오버랩되다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/0a500453-4cee-464a-a097-f60ce3c2dd44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자신의 스타일대로, 코코 크러쉬]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70590</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70590</guid>
-            <pubDate>Fri, 16 Sep 2022 15:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/baf90079-2c00-43aa-8c46-ed13c157ad07.jpg');">
-                                <a href="/article/70590">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70590">
-                                        자신의 스타일대로, 코코 크러쉬                                    </a>
-                                </em>
-                                <p class="excerpt">자유롭게 스타일링 할 때 더 아름다운 샤넬 화인 주얼리 코코 크러쉬 컬렉션.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/baf90079-2c00-43aa-8c46-ed13c157ad07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
