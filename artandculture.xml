@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 09:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 15:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김태리, 차기작 정해졌다! 김은희 <악귀>로 Hot 컴백]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70887</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70887</guid>
+            <pubDate>Fri, 23 Sep 2022 15:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/21/ba3e08d9-eaae-4cf9-af59-31ff8bc4fde9.jpg');">
+                                <a href="/article/70887">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70887">
+                                        김태리, 차기작 정해졌다! 김은희 &lt;악귀&gt;로 Hot 컴백                                    </a>
+                                </em>
+                                <p class="excerpt">'장르물의 대가' 김은희는 김태리를 'PICK' 했다</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/21/ba3e08d9-eaae-4cf9-af59-31ff8bc4fde9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굉장히 트렌디하다는 이 춤!  강다니엘, 있지, 호시도 참여한 지코의 '새삥' 댄스 챌린지는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70882</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70830</link>
             <guid>https://www.harpersbazaar.co.kr/article/70830</guid>
             <pubDate>Thu, 22 Sep 2022 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/6b33bc9b-c209-4ae5-8879-066e84ead4f5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/6b33bc9b-c209-4ae5-8879-066e84ead4f5.jpg');">
                                 <a href="/article/70830">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70830">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">'연예인들의 연예인' 맞네.. Too hot🔥 아이유 공연장</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/a943f705-2809-4251-9a90-de5451d66391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["YG 최대 제작비".. 블랙핑크 '셧 다운' 어땠나]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70780</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70780</guid>
-            <pubDate>Tue, 20 Sep 2022 15:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/c606b558-0ae7-4e2b-8bfc-d19216f8f93d.jpg');">
-                                <a href="/article/70780">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70780">
-                                        "YG 최대 제작비".. 블랙핑크 '셧 다운' 어땠나                                    </a>
-                                </em>
-                                <p class="excerpt">이것이 바로 '저세상' HIP이로다!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/c606b558-0ae7-4e2b-8bfc-d19216f8f93d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
