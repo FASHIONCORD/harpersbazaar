@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Sep 2022 09:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 15:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정소민이 건내는 시선의 대화]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70837</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70837</guid>
+            <pubDate>Sat, 24 Sep 2022 15:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/20/8addf10d-aaa2-4097-9ac4-55eb65c2c8ac.jpg');">
+                                <a href="/article/70837">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70837">
+                                        정소민이 건내는 시선의 대화                                    </a>
+                                </em>
+                                <p class="excerpt">환혼의 무덕으로 열연을 펼친 배우 정소민과 하퍼스 바자의 10월 가을빛 화보 공개</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/20/8addf10d-aaa2-4097-9ac4-55eb65c2c8ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이하늬의 다이어트 시크릿 #밀프랩 꿀팁]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70828</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70806</link>
             <guid>https://www.harpersbazaar.co.kr/article/70806</guid>
             <pubDate>Wed, 21 Sep 2022 04:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/a943f705-2809-4251-9a90-de5451d66391.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/a943f705-2809-4251-9a90-de5451d66391.jpg');">
                                 <a href="/article/70806">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70806">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">스맨파 출연각! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/2c700a87-6f0d-4c91-9384-25e9abddeb78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[25살 법칙, 디카프리오의 '구여친'은 누구?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70740</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70740</guid>
-            <pubDate>Mon, 19 Sep 2022 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/dbcd0823-3ba1-4627-b7c3-7b2a2c30a1e7.jpg');">
-                                <a href="/article/70740">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70740">
-                                        25살 법칙, 디카프리오의 '구여친'은 누구?                                    </a>
-                                </em>
-                                <p class="excerpt">디카프리오의 스쳐간 그녀들, 그 중에서 가장 기억에 남는 ‘구여친’ 모먼트.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/dbcd0823-3ba1-4627-b7c3-7b2a2c30a1e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
