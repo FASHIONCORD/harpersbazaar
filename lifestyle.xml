@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 15:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 04:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동전·지폐도 새로 찍는다? 엘리자베스 여왕 서거 후 바뀌는 것들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70860</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70860</guid>
+            <pubDate>Sat, 24 Sep 2022 04:30:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/20/7243725c-a6c0-4c34-8cef-b671e7e8c3be.jpg');">
+                                <a href="/article/70860">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70860">
+                                        동전·지폐도 새로 찍는다? 엘리자베스 여왕 서거 후 바뀌는 것들                                    </a>
+                                </em>
+                                <p class="excerpt">화폐 교체 비용만 127조 #이슈있슈</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/20/7243725c-a6c0-4c34-8cef-b671e7e8c3be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영국인들이 엘리자베스 2세의 죽음을 유독 슬퍼하는 이유]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70859</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70830</link>
             <guid>https://www.harpersbazaar.co.kr/article/70830</guid>
             <pubDate>Tue, 20 Sep 2022 15:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/6b33bc9b-c209-4ae5-8879-066e84ead4f5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/6b33bc9b-c209-4ae5-8879-066e84ead4f5.jpg');">
                                 <a href="/article/70830">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70830">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">폭풍감량, 너두 할 수 있어!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/fd7968ea-bce0-49c7-8546-cf826afc727a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년 365일, 다이어트하는 자라면 필독! ‘칼로리 부담 없는 제로 음료 10’]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70771</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70771</guid>
-            <pubDate>Tue, 20 Sep 2022 15:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/7d73e9cf-f020-489d-bde2-383fb72b9c2e.jpg');">
-                                <a href="/article/70771">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70771">
-                                        1년 365일, 다이어트하는 자라면 필독! ‘칼로리 부담 없는 제로 음료 10’                                     </a>
-                                </em>
-                                <p class="excerpt">아직도 제로 콜라만 찾고 있나요?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/7d73e9cf-f020-489d-bde2-383fb72b9c2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
