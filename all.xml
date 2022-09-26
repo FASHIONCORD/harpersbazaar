@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 09:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 15:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -596,6 +596,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/a943f705-2809-4251-9a90-de5451d66391.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[양혜규와 정도련이 예술에서 믿는 것 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70980</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70980</guid>
+            <pubDate>Mon, 26 Sep 2022 15:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/3e6e833b-910b-4f4d-9a23-2af1f70150bb.jpg');">
+                                <a href="/article/70980">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70980">
+                                        양혜규와 정도련이 예술에서 믿는 것                                    </a>
+                                </em>
+                                <p class="excerpt">양혜규의 새로운 조각 &lt;소리 나는 구명 동아줄&gt;이 홍콩 M+ 뮤지엄 한가운데 매달려 있다. 전래...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/3e6e833b-910b-4f4d-9a23-2af1f70150bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김나영의 성수동 단골 맛집은 어디? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70997</link>
             <guid>https://www.harpersbazaar.co.kr/article/70997</guid>
@@ -675,17 +700,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70992</link>
             <guid>https://www.harpersbazaar.co.kr/article/70992</guid>
             <pubDate>Sun, 25 Sep 2022 15:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/24/e7846292-5268-4152-9e4e-803d9ff8f80d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/24/e7846292-5268-4152-9e4e-803d9ff8f80d.jpg');">
                                 <a href="/article/70992">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70992">
@@ -766,30 +790,6 @@
                                 <p class="excerpt">전여빈과 나나가 &lt;인간수업&gt; 작가랑 만났다고요?!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/c0eed680-313f-48ae-9568-e9077115d942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, K팝 걸그룹 신기록 #더블밀리언 #초동 #1억뷰 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70953</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70953</guid>
-            <pubDate>Sat, 24 Sep 2022 15:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/c4a8e9a8-4dd8-42ad-9e4d-8741f24f8cf3.jpg');">
-                                <a href="/article/70953">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70953">
-                                        블랙핑크, K팝 걸그룹 신기록 #더블밀리언 #초동 #1억뷰                                    </a>
-                                </em>
-                                <p class="excerpt">전 세계에 '블랙핑크의 시간'이 왔다</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/c4a8e9a8-4dd8-42ad-9e4d-8741f24f8cf3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이러면 먹을 만두 하지 #다이어트만두 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
