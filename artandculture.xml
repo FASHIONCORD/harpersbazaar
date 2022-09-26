@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 15:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 04:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여배우들의 데일리 워터? 마실수록 살 빠지는 #디톡스워터]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70993</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70993</guid>
+            <pubDate>Mon, 26 Sep 2022 04:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/24/a54175bd-ede0-4242-9978-a7bdeb858945.jpg');">
+                                <a href="/article/70993">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70993">
+                                        여배우들의 데일리 워터? 마실수록 살 빠지는 #디톡스워터                                    </a>
+                                </em>
+                                <p class="excerpt">마실 수록 살 빠진다. 묵은 독소를 제거해 주는 디톡스 워터 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/24/a54175bd-ede0-4242-9978-a7bdeb858945.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더콰이엇, 염따, 팔로알토가 출몰하는 카페? #뉴핫플레이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70992</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70972</link>
             <guid>https://www.harpersbazaar.co.kr/article/70972</guid>
             <pubDate>Sat, 24 Sep 2022 15:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/c0eed680-313f-48ae-9568-e9077115d942.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/c0eed680-313f-48ae-9568-e9077115d942.jpg');">
                                 <a href="/article/70972">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70972">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">'하루 100원 수익' 뷰티 유튜버 임윤아 스타일 룩북</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/22/4771f664-92af-4b97-8568-f01cc5190879.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김태리, 차기작 정해졌다! 김은희 <악귀>로 Hot 컴백]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70887</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70887</guid>
-            <pubDate>Fri, 23 Sep 2022 15:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/21/ba3e08d9-eaae-4cf9-af59-31ff8bc4fde9.jpg');">
-                                <a href="/article/70887">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70887">
-                                        김태리, 차기작 정해졌다! 김은희 &lt;악귀&gt;로 Hot 컴백                                    </a>
-                                </em>
-                                <p class="excerpt">'장르물의 대가' 김은희는 김태리를 'PICK' 했다</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/21/ba3e08d9-eaae-4cf9-af59-31ff8bc4fde9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
