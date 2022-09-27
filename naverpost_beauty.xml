@@ -1,8 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my/series/detail.naver?seriesNo=482343&amp;memberNo=41829949</id>
-    <title>네이버 포스트 ─ 하퍼스바자 ─ Beauty</title>
-    <updated>2022-09-26T15:11:06.210Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/my/series/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 하퍼스바자 ─ Beauty</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Sep 2022 04:30:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입소문 난 이유가 있었네! 성분 맛집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34527751&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34527751&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjVfNDIg/MDAxNjY0MTE2Njk3Mjc5.c-g4RrJeMRJZi3JrV4JX18mjIU4WHOceSoRP2EOY9TAg.iSNAEUrtoy1Rbcm21yoFnHJ_RmgUGSrqJa4CqhH6jAcg.JPEG/ISU4e57LW8CXiani-zm9rDuIlGrM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스 메이크업 아티스트가 알려주는 갓기들의 미모 비결]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34505349&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34505349&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjFfMTE3/MDAxNjYzNzM1ODUxMzQ3.WC1gHNFJuvSEu-7tTmbTg1RLirv08-kEtuFUMa728psg.XVM9kke3ZG74Dt7LPgArQCmz0EN_aN1NWgTWPk2gVHMg.JPEG/Ijxne1A8Eikrpc8aE9mooIb4lrYc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기관리 철저한 아이비가 챙겨 먹는다는 영양제?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34488868&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34488868&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTlfMTEx/MDAxNjYzNTEzODY4NjEw.AGMYRdqon8pZ9ExZLBJl61TURepqHrhyJWC0Klp03NMg.dUp1dDlMuuTSTlhUzWvas4rd_YnXQBNDMJybVgiU5P0g.JPEG/IhAv6EBOoIMjhOl2clkhtFRV_4sU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[15년차 아이돌 수영은 아침 관리 이렇게 한다고?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34468737&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34468737&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfMTcw/MDAxNjYzMTQ2NzIyMDk0.wpktYAXF6F5yEySx9Tlfi4EIka6LH1tbSBsvd4iLy6Mg.LoUknx1tLI2wDryrSjlyUiV0s6iSd_LOD4QjpXoDyagg.JPEG/IEqNm_4mzJPG4AiW0uT2KFNkKhCg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜드와 찰떡궁합! 9월부터 활동을 알린 뷰티 브랜드의 뉴 모델]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34466771&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34466771&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfMjU0/MDAxNjYzMTMyNjQyNDQ4.km1MJOePolZLLt5HfGuJU1zzIeSmFFVFAruE798c6MAg.pItVO7ZcSravIJ6BI4v9jRuEdOEDGH5OWrGO7Ypvr9Ig.JPEG/IgNmR5SXaxQ9k4B4f5smzwJxThok.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섹시한 '가을 남자'로 변신시켜줄 필살기, 신상 향수]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34457577&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34457577&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTJfMTU3/MDAxNjYyOTkyODQ4NzI5.4t9BZRixAaPftuVp4vIhsjhVCU3gY_ltXR6i2e_28Log.R7okciAt_KaDMUavLHt5DZswkI5c_3U0e8j0ddq3xjAg.JPEG/IiEKs1FrShIMg-EP9XhuMBipCqrg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 이하이가 즐겨하는 보석 메이크업의 비밀]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34434063&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34434063&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDZfMTg2/MDAxNjYyNDcwNDU0NDUw.cL-3vebcbZ89GZRzyIFadYHE96bZN2HElFEs5DiNB1kg.5eAzgBKM6z7BdDUAw0P0iTe2ReUP2vczsGrHfzZ9vnUg.JPEG/Iqxyox4ZbYo1_P49Fj6EciG6vnNg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤승아가 욕실에 두고 매일 쓴다는 찐 데일리템!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34356315&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34356315&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjNfMTQ0/MDAxNjYxMjQyMDk0NjU5.nJemlpT_lf4sAfQWaMfTnc0okpJVfr-QP4XY9d8vX4sg.NftsupFwRNcPWwyICh7fn9XD0Cg8ZGSJ_vOavxGAOf8g.JPEG/IARfXFi3nbP54QwBul0DxJ8VsATw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8월 #팝업여지도, 성수동은 지금 팝업 성수기!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34310617&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34310617&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTVfMjQ4/MDAxNjYwNTY1ODMyMjUx.Pcutmay4Ea1YFThwwOGBNnJ1eovpH9z_ME7p-mqK3nQg.uecupTe_OeyQmThSdJUD6cA5A3skCL9PEbEVSWi56qEg.JPEG/IT0RVa16HJFnKi4lQYb6aION4ef4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뉴진스'처럼 찰랑거리는 생머리 만들기. 나도 가능?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34306992&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34306992&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTRfMTg5/MDAxNjYwNDc3Nzk2NzUz.7Oc8wPcXE9v8QyFmP3Vkh4do6P3KPb-9jnG2rthh8wog.IIFz04Bh9CZCIlaA6XPWGu_7fpyKpdQiyRmScs1GxV4g.JPEG/IuEWdC7BGwQq0o4N3Wcv6NmH3NI0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[X동생들아 이것 안 하면 피부 훅 간다!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34294842&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34294842&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTFfMTYx/MDAxNjYwMjI5ODY2Mzcz.ua0yhC5aD3_YGNl3-awEJT-jhSKYz9aZPlSaQLtOqQgg.f6zBDfWqyjyDiFR8dNJv2lGWIDbZ68AfQOm7UiAZbkQg.JPEG/Ivid5d_rdmZcIMJVqoa-q_A7SpyY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나도 짜를까? 단발병 유발 스타 5인!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34273397&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34273397&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDhfNjgg/MDAxNjU5OTQ1OTczNTU1.cJlVm8Mlj8hN4L1vBgtVD9NrrvWlNH4cz9mdxtPgUGQg.R9pHCA1e9IHQk-nO_I4lW-2lw4MQgt6PahPOKDrMpvsg.JPEG/IaTvZqPSH-pEcFgBzIaS6psikChk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 여름부터 가을까지 유행할 헤어 스타일]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34273235&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34273235&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<지락실> 미미가 하루 종일 먹어도 살 안 찌는 이유는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34212528&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34212528&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjhfMjg1/MDAxNjU4OTg1NzI1MzYz.prPzXXm6iJOPloGKPUSK1KMuyP0GXBVYb1Gjtt4ToqYg.i8i8vjjq1KCbWb4C7WswYvkodzFfMPq90rJZoksDbEYg.JPEG/IuXS0fsipSw3zkFxYfqtzWIuuOIc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자칭 프로 다이어터 햄연지의 다이어트 비결 6가지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34173272&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34173272&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjFfMTcy/MDAxNjU4MzkyNDk3NTEw.zZ40z1QWvSB1YGXJwhDqt9mvyHVZ5b9wFtWwPZnx-i4g.vw-rA2XOlTPypKIlhseoEk0JIUdGbDGtEBFirs7sFTIg.JPEG/IB9oKmFoMxol3BoCSXC1kpMa_Rxs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이효리의 찐 뷰티템? 손민수 안 하고는 못 참아!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34140319&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34140319&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTVfNjcg/MDAxNjU3ODc2Mzk0NzEz.cQp-vfwCZfOB62BNask2gZ2A8bFcMUCCMjHebvC-lKwg.Rxdx_9EAeMsHy6_1MbsGyZ65bZX2Y98klKsvwH6ysQ8g.JPEG/IRaf2iO703Tw5seQmNkPDjvA5nNc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[함부로 따라 할 수 없는, 
+이유리의 #마름탄탄 다이어트 방법]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34114615&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34114615&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTFfOTYg/MDAxNjU3NTQ4MjU4NjY0.uhn4SwUoRFsq4F3is0s_jP-9V6_QA1jh0x5qTKIE5IYg.ug2Nth9NXRILTiiTyFxAAULdOHQHYZkEmx8r6UOt_vQg.JPEG/IGKzJFw1qSQnRSQqpIeIe9PKIgho.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이핑크 남주의 여름맞이 다이어트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34058669&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34058669&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDFfMzUg/MDAxNjU2NjY3MDM1OTk3.HkdWTQVHkPQvzGe7cvBhzH2q-Rvs-otaHUETHMA0dT4g.MHztSv1mNJYGohPXWqtSjYGhg7-QHMxwy--kjiAo5QEg.JPEG/Ikvbgld78ZSkKZj0q-iw39uj2KV4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바프 준비중이라면 참고! 유이가 찍은 세 가지 바디프로필]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34043071&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34043071&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjlfMjk0/MDAxNjU2NDc4OTMxNDU0.TISgHMn8EVBJg2UZr4hWaidkRC7uWGlVfUhUM2tO1msg.2KiU8tMFR4yqtmDxHuJ7UxUBZL3a0bNJJCCWmvES-vsg.PNG/IfVYHlMieVDk67Z9rCWsKYhcOvcU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기관리의 끝판왕, 강민경이 재구매하는 영양제]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34038334&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34038334&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjhfMTQ1/MDAxNjU2NDA5NTkzNTgx.EDf7RjXp1ndbwrsAjmHYZ0F8XOXDY2isCQSsJX_-qIQg.4YtRUaeucTeQN5jMLbXwC89oqAT7XSao7wH9NcDJRicg.JPEG/IC8a8bl9vSiXEhAysxA6wZFeKPVc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

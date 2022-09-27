@@ -1,8 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my/series/detail.naver?seriesNo=482345&amp;memberNo=41829949</id>
-    <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
-    <updated>2022-09-26T15:11:06.179Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/my/series/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Sep 2022 04:30:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김나영, 로제 등 셀럽들도 입는 스쿨걸 룩, 도전해봐!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34531830&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34531830&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjZfMjEw/MDAxNjY0MTc2NjQ1ODgw.khgGKS2Nlz5ohdvr0JlORqDyb8uHWxhu4D-FCMcFhmog.ky_E5_owMiI_LE2WWxya-fWm-9SPscNeuF8GcdeIOWkg.JPEG/IATovqWByS18wMWIqYu06NMAoDHg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달빛 아래 여신, 신민아]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34516846&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34516846&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjNfMTc0/MDAxNjYzODk2MTQ4NDk5.WFK226m0gwBBeclmj5hpFbeosA05MSvmyKMP2cKjtIQg.1QR6s3Z-CyNa2DbVs3vRvzUnopE3thyOoVmliT1AZTUg.JPEG/ISe2pZuoGp7BUXhIGPoSiD71F6bI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예, 우리는 지극히 평범합니다 - <가우스 전자>]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34503374&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34503374&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjFfMjM4/MDAxNjYzNzIwNTkxMTU2.gKJdVFrDcrV88jTOTZFYDy5-3LKc2WZRo-uJ6IdQyykg.X7gEAlAWEAqtaG6_icTVqpOpt07h2jhYBdiTDGJb6V4g.JPEG/IJT6TcQQTcRvpebFF1FTVYXjqrCk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을 셀럽들이 선택한 스웨트 셔츠 공통점은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34500040&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34500040&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjBfMTIz/MDAxNjYzNjYwMzExMDkw.OadNPfhSNK61WaLX6qwe1BTT6SB25viRYxDe-yC-Afkg.MKPY9avGLCmBCeweyLBS4VIVJoMxI3mph3IVidQvf1kg.JPEG/IQCQo0K75F9vlBvZmHAkqx844_Tc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정소민이 건내는 시선의 대화]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34496808&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34496808&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MjBfMTAx/MDAxNjYzNjM0Nzk0MjQ3.gW4uH9n-fHHhKENpAX3xU_1aJRNAOpyeya1mbUze5vIg.79oyV8W8wvKweW0hRFNJhrkj0xUIaNOYYSNSmMfGHP0g.JPEG/IGY9yCXRj_lPoD47xbZh_vg7dL6M.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백조와 흑조, 빛과 어둠, 그리고 김민하]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34477743&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34477743&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTZfMjU5/MDAxNjYzMjkwNzYwNTc2.Pmt-g1jzhmTPpWSC0COtnbA_QIheegnp2tat1UNF_LUg.jQMsOcknMsohu8FeIJCKoOlc2TTh4jEDzTeeT7tZzhMg.JPEG/IH9xEHCSe1iier7yq8Jr7gNXRq8A.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허리 업! 코르셋 열풍]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34427734&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34427734&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDVfMjAg/MDAxNjYyMzg4OTE1NzQx.6V8pmDBj606KRmxtG6tXv40G-K75Kgey8DgJ8HiC1Xgg.PfF0tpuKjCO_zxcDOjaD9yHTLbQRMVx_8PN54YBvU3og.JPEG/IQQI6uZ67zNk5Wn8V9lY3c0zFNNM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스, 제니도 입는 스포티 룩의 혁명]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34403732&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34403732&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MzFfNyAg/MDAxNjYxOTU0NzU4MDM0._pXXvOz_uKQq6gkJS3tXdH0iWTKz88qgQi7WDlfIchMg.kFgTWgD6SiZslYDfAWNwOKPR9gC1kLcYQ7ZSY8uWFt0g.JPEG/ItbN_vydvZeqN8ELQsm2C2FOttUQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 뮤비 속 k-nail 살펴보기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34384921&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34384921&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjlfMzUg/MDAxNjYxNzAwMTU2NDU2.320qz83B-c7lIcwBUVAZ1SwzFfYv77JKMmMwuVoVZJMg.WoImGECKDN0xzXBRONYdiDYwoRIOuDzzDDNacJYAw2Ig.JPEG/IHOsqRx2k9d2TjJLnSByl4Vx2dTM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['♥벤 애플렉' 제니퍼 로페즈가 '픽'한 웨딩 드레스는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34364213&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34364213&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjRfNzAg/MDAxNjYxMzM1NDQxNTk1.2fNfDbZs4LivcBvJ9QEdrepeE1lYklVv9-KZW59RdTAg.-Ubjf874Tndh7V2QAmUcdUKURCilY2_PaEbfAIB85Log.JPEG/IJyKQ-SVQd0Xw6EINI_D7tYCimEU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[친절한 빵 아저씨, 브래드 피트의 코리아 레드카펫 룩 모음]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34344665&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34344665&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjFfMjIx/MDAxNjYxMDkzNzE3MjUx.mWk5sBvNz24qSqMyQLYrClncpVc2DoDkhr1j-pip0oog.0tgc0F5t4HZr09YWw4B3-efn6jmQwqeOugWrFYzukyog.JPEG/IxTTsnOEW-ciWO0JdFAMsqsXlonc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소문난 미식가 강민경이 즐겨먹는 집밥 메뉴는?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34218977&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34218977&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjlfMTEx/MDAxNjU5MDY4NjcxNjMx.st4iA8VlMxJP6LoRYU9kUojV2m6NGG24X4TLIh1sp9Yg.8d6PCuPcVEM0N9rWMblOObH_BwpGgFv703upBooTnKYg.JPEG/Ij92kJLcbPEIYwHIxeGuKF3jPc3A.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보기만 해도 사랑스러운 그녀, 말레아의 새로운 변신]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34207885&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34207885&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjdfMTM5/MDAxNjU4OTE0ODAzMDAy.L55uXsnY6OwqcdUrot7leBH-dQjCXx4MGJFPhbEM-Tkg.HTMNSJLKg-BAv2mMcIJRoFhjJcUdvC1xgZCHR9aW4Zcg.JPEG/IeXL5OG_kJz_6Z16ZnTTwHG5GSgY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['우영우'를 위협할 8월의 신상 드라마]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34207803&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34207803&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjdfMjk1/MDAxNjU4OTE0MDIxMTk4.KO2yh47zX-bJL_VjryJ2mvuOcqDpJSW_g-dgmufGLPsg.oqnOy4IL5Nvsf0MOK3Y1aekBsfiPDhfkUfagFtUNj8Yg.JPEG/If6FkcwgTUC9udxkN71WveAKVlK0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더욱 더 높은 곳으로 비상하는 라비]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34196559&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34196559&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjZfNDUg/MDAxNjU4Nzk2NzY4Nzg4.EzXOKLeXCQV241Wy3tH_mvZqUgDEyQjRpmpQT3bzB70g.ukGLXjiTLPX_EHFtf8YIgOCHk7Ef8NPA9wTg_It9Tg8g.JPEG/IvUb8VgFNhu6PW2Zk-T2Ev6tR6Gw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['연아퀸♥' 고우림 누구? 
+서울대 출신 5세 연하남]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34194787&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34194787&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjVfMjYw/MDAxNjU4NzU3MTc3MTE3.fPMvmr_i49CR8lBIcvmOBoHnwcxURLoUVdV0LxMC-OUg.9jHVFZMFWfzWemEobhF53UOdHh80PrEu4672ybKDdj0g.JPEG/IBuT2CGCiyKdo9oI1m5dUNzabmHc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베일 속에 가려진 욕망과 공허함에 대하여, 넷플릭스 시리즈 <블랙의 신부>]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34179241&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34179241&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjJfMjcx/MDAxNjU4NDcyNzE4NzQ5.wxq0RyzeGlDyvFwufa1HO6-I2bs9FSNC-fnz1xuaopMg.1ibWzl4C9mpSuFwljj3hm8LfXoQFKP5eCxyknHYAU08g.JPEG/IjMie9YxYcXAXSseHm2gMSoJZmeM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열정의 회고 속에서 꿈꾸는 그녀, 엄정화]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34179162&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34179162&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjJfMjM1/MDAxNjU4NDcxNzk2MzY3.V7xeIQzIxSalrSLf3bfr-370E87E_GRfZakGGWx1Yukg.WLZ_UnolJX2vzImzpEQ0m8xsO05Xxi8SxUcWL9OaS-gg.JPEG/Id_EMWwcouPvrwqFF0AUn6-TLaXQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통통 튀는 케미, 뿅뿅 지구오락실 4인방!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34176513&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34176513&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjJfMjU0/MDAxNjU4NDUxNDc0NDk4.7ekIGkmXcGoCBJ1jxBlpuVcM3gkiFlwUehRYSPVfiLIg.aTBNMLeShcd60w4zrYpKBOv3v99OJKxNdwdVal3LxyEg.JPEG/I_6v9CSZombLQRDwq78Mx5OxNBRU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<환승연애 2> 최이현, 이나연, 이지연은 평소 스타일도 매력만점?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34171708&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34171708&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Sep 2022 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjFfMTc5/MDAxNjU4MzgwNjc2NzIx.KbCSwg2zoU0JOnn4GZcJyIBKGyepR5GrmTh4FrJ9ktAg.Z_0Y8j4Gj_4WdNDb8DYKnHRiQJEhDuKlVgNZoe2gGFEg.JPEG/IJcH-Tf0KKXHz0-LTL-ra8zpJkBI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
