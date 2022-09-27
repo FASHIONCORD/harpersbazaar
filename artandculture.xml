@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 04:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 09:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키아프 서울이 남긴 것]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70985</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70985</guid>
+            <pubDate>Tue, 27 Sep 2022 09:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/ba7efca8-151c-473a-b5f1-a614df99613e.jpg');">
+                                <a href="/article/70985">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70985">
+                                        키아프 서울이 남긴 것                                    </a>
+                                </em>
+                                <p class="excerpt">프리즈 서울과 최초로 공동 개최된 21번째 키아프 서울은 여러 가지 과제를 남기며 성황리에 마...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/ba7efca8-151c-473a-b5f1-a614df99613e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양혜규와 정도련이 예술에서 믿는 것]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70980</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70993</link>
             <guid>https://www.harpersbazaar.co.kr/article/70993</guid>
             <pubDate>Mon, 26 Sep 2022 04:50:44 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/24/a54175bd-ede0-4242-9978-a7bdeb858945.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/24/a54175bd-ede0-4242-9978-a7bdeb858945.jpg');">
                                 <a href="/article/70993">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70993">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">다이어터도 마음 놓고 먹을 수 있는 저칼로리 만두 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/ee725b32-3039-4e1b-9b6c-89deb581d9df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타투 가득한 나나? <글리치> 비주얼부터 hot🔥]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70972</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70972</guid>
-            <pubDate>Sat, 24 Sep 2022 15:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/c0eed680-313f-48ae-9568-e9077115d942.jpg');">
-                                <a href="/article/70972">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70972">
-                                        타투 가득한 나나? &lt;글리치&gt; 비주얼부터 hot🔥                                    </a>
-                                </em>
-                                <p class="excerpt">전여빈과 나나가 &lt;인간수업&gt; 작가랑 만났다고요?!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/c0eed680-313f-48ae-9568-e9077115d942.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 04:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 09:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 밤에 어울리는 '턱시도']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70971</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70971</guid>
+            <pubDate>Tue, 27 Sep 2022 09:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/25/fdca5be6-cdf2-47ea-8a18-09b030221ce3.jpg');">
+                                <a href="/article/70971">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70971">
+                                        가을 밤에 어울리는 '턱시도'                                    </a>
+                                </em>
+                                <p class="excerpt">올가을, 특별한 피스를 찾는다면 턱시도를 기억하라. 클래식한 턱시도를 모던하게 재해석한 보테가...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/25/fdca5be6-cdf2-47ea-8a18-09b030221ce3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성수동에서 열린 보테가베네타 파티]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70973</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70915</link>
             <guid>https://www.harpersbazaar.co.kr/article/70915</guid>
             <pubDate>Sun, 25 Sep 2022 15:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/22/3c28b534-31e4-458f-be31-f8804ea4db3c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/22/3c28b534-31e4-458f-be31-f8804ea4db3c.jpg');">
                                 <a href="/article/70915">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70915">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">주말 라운딩을 위한 VWX의 제안. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/20/84a5a568-c1e7-4750-bac7-66a50ad262d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이하늬의 다이어트 시크릿 #밀프랩 꿀팁]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70828</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70828</guid>
-            <pubDate>Thu, 22 Sep 2022 04:30:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/8b89f5fb-9571-4a48-923e-19b65d6445d0.jpg');">
-                                <a href="/article/70828">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70828">
-                                        이하늬의 다이어트 시크릿 #밀프랩 꿀팁                                     </a>
-                                </em>
-                                <p class="excerpt">이하늬가 관리할 때 즐겨 먹는다는 밀프랩 레시피 세 가지!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/8b89f5fb-9571-4a48-923e-19b65d6445d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
