@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 15:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 04:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달빛 아래 여신, 이탈리아에서 만난 신민아]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70974</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70974</guid>
+            <pubDate>Wed, 28 Sep 2022 04:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/b205f37f-5505-4587-9dd5-0634b7b28b26.jpg');">
+                                <a href="/article/70974">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70974">
+                                        달빛 아래 여신, 이탈리아에서 만난 신민아                                    </a>
+                                </em>
+                                <p class="excerpt">이탈리아 바리에 자리한 고딕 양식의 성, 카스텔 델 몬테(Castel del Monte)에 어둠이 드리우자...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/b205f37f-5505-4587-9dd5-0634b7b28b26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김나영의 성수동 단골 맛집은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70997</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70963</link>
             <guid>https://www.harpersbazaar.co.kr/article/70963</guid>
             <pubDate>Mon, 26 Sep 2022 04:50:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/e84c2989-7afa-499b-b2bd-763abe5af5bd.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/e84c2989-7afa-499b-b2bd-763abe5af5bd.jpg');">
                                 <a href="/article/70963">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70963">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">환혼의 무덕으로 열연을 펼친 배우 정소민과 어느 가을날의 만남</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/27/8addf10d-aaa2-4097-9ac4-55eb65c2c8ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이하늬의 다이어트 시크릿 #밀프랩 꿀팁]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70828</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70828</guid>
-            <pubDate>Fri, 23 Sep 2022 15:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/8b89f5fb-9571-4a48-923e-19b65d6445d0.jpg');">
-                                <a href="/article/70828">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70828">
-                                        이하늬의 다이어트 시크릿 #밀프랩 꿀팁                                     </a>
-                                </em>
-                                <p class="excerpt">이하늬가 관리할 때 즐겨 먹는다는 밀프랩 레시피 세 가지!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/19/8b89f5fb-9571-4a48-923e-19b65d6445d0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
