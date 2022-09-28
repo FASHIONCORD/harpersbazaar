@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 09:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 15:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[톱모델 한혜진이 급찐살 뺄 때 한다는 15분 운동?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71094</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71094</guid>
+            <pubDate>Wed, 28 Sep 2022 15:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/27/5efb04f2-0904-4049-8bda-5a3dd0578014.jpg');">
+                                <a href="/article/71094">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71094">
+                                        톱모델 한혜진이 급찐살 뺄 때 한다는 15분 운동?                                    </a>
+                                </em>
+                                <p class="excerpt">바빠서 운동 못 한다는 핑계는 안 통한다. 무서운 속도로 살이 빠진다는 초속 홈트! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/27/5efb04f2-0904-4049-8bda-5a3dd0578014.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보스, 파워 수트를 재해석하다]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71062</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71005</link>
             <guid>https://www.harpersbazaar.co.kr/article/71005</guid>
             <pubDate>Tue, 27 Sep 2022 15:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/60b77d0a-0433-4fbd-8457-de668c02017c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/26/60b77d0a-0433-4fbd-8457-de668c02017c.jpg');">
                                 <a href="/article/71005">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71005">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">올가을, 특별한 피스를 찾는다면 턱시도를 기억하라. 클래식한 턱시도를 모던하게 재해석한 보테가...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/25/fdca5be6-cdf2-47ea-8a18-09b030221ce3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성수동에서 열린 보테가베네타 파티]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70973</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70973</guid>
-            <pubDate>Mon, 26 Sep 2022 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/25/4ee8f02a-835d-43f5-8803-c096d8912117.jpg');">
-                                <a href="/article/70973">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70973">
-                                        성수동에서 열린 보테가베네타 파티                                    </a>
-                                </em>
-                                <p class="excerpt">지금 당신이 기억해야 할 이름, 마티유 블라지. 새로운 수장의 데뷔 컬렉션을 기념하기 위해 보...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/25/4ee8f02a-835d-43f5-8803-c096d8912117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

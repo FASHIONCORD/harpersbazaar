@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 09:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 15:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리가 샤넬 향수로 물드는 시간]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70874</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70874</guid>
+            <pubDate>Wed, 28 Sep 2022 15:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/22/f3b341be-fa83-408b-b06f-74f1c89fa002.jpg');">
+                                <a href="/article/70874">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70874">
+                                        파리가 샤넬 향수로 물드는 시간                                     </a>
+                                </em>
+                                <p class="excerpt">이번 겨울, 파리에서 샤넬 향수를 기념하는 특별한 전시를 개최한다. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/22/f3b341be-fa83-408b-b06f-74f1c89fa002.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국은 물론 해외 팬들까지 거느린 K-뷰티 아이템]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70382</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70757</link>
             <guid>https://www.harpersbazaar.co.kr/article/70757</guid>
             <pubDate>Fri, 23 Sep 2022 15:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/5aebf66c-9fc5-4be0-bc59-1c3d23eeb337.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/5aebf66c-9fc5-4be0-bc59-1c3d23eeb337.jpg');">
                                 <a href="/article/70757">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70757">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">9월부터 활동을 알린 뷰티 브랜드의 뉴 모델</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/8c66f351-8b8a-4d02-8ac0-fbb13157fae8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS 핫템! 요즘 치약]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70369</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70369</guid>
-            <pubDate>Thu, 15 Sep 2022 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/3dfebb06-2a83-4789-b44f-22294a0f8b56.jpg');">
-                                <a href="/article/70369">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70369">
-                                        SNS 핫템! 요즘 치약                                    </a>
-                                </em>
-                                <p class="excerpt">요즘의 치약은 이렇다. 평생 하루도 빠짐없이 사용하는 만큼 안전한 성분을 최우선으로 하며 한...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/3dfebb06-2a83-4789-b44f-22294a0f8b56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
