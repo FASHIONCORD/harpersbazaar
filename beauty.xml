@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 15:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 04:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소희가 일주일 내내 먹는 샐러드 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71179</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71179</guid>
+            <pubDate>Fri, 30 Sep 2022 04:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/c3f440cd-b671-4750-8a43-c3d78df42ca6.jpg');">
+                                <a href="/article/71179">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71179">
+                                        소희가 일주일 내내 먹는 샐러드 레시피                                    </a>
+                                </em>
+                                <p class="excerpt">배달 식단부터 촬영날 식단까지 추천!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/c3f440cd-b671-4750-8a43-c3d78df42ca6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[톱모델 한혜진이 20년간 지킨다는 모닝 루틴?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71137</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70978</link>
             <guid>https://www.harpersbazaar.co.kr/article/70978</guid>
             <pubDate>Thu, 29 Sep 2022 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/3fab1afd-736b-44d6-95c1-c828585853a5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/3fab1afd-736b-44d6-95c1-c828585853a5.jpg');">
                                 <a href="/article/70978">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70978">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">화장품계의 아이돌만 모았다</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/17/db52e5ae-9ed3-41f6-83a9-7927521766bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[급변주의! 변비 비켜! 삶의 질 떨어뜨리는 장 트러블 해결법]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70783</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70783</guid>
-            <pubDate>Tue, 27 Sep 2022 15:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/af16f74b-f5fc-4051-b222-c017a4412bf1.jpg');">
-                                <a href="/article/70783">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70783">
-                                        급변주의! 변비 비켜! 삶의 질 떨어뜨리는 장 트러블 해결법                                    </a>
-                                </em>
-                                <p class="excerpt">잘 먹는 것만큼 중요한 게 잘 내보내는 거다. 변비부터 ‘급’신호까지 큰일의 모든 것 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/af16f74b-f5fc-4051-b222-c017a4412bf1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

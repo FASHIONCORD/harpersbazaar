@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 15:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 04:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어터들의 식단 치트키 #토르티야레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71207</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71207</guid>
+            <pubDate>Fri, 30 Sep 2022 04:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/de3fe2f9-c85e-4af7-8100-45b13f30bd8d.jpg');">
+                                <a href="/article/71207">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71207">
+                                        다이어터들의 식단 치트키 #토르티야레시피                                    </a>
+                                </em>
+                                <p class="excerpt">저탄수 식단의 만능 치트키! 다이어트 좋은 토르티야 레시피.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/de3fe2f9-c85e-4af7-8100-45b13f30bd8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금까지 이런 영화관은 없었다! 새로운 '시네마 경험'을 하고 싶다면?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71201</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71065</link>
             <guid>https://www.harpersbazaar.co.kr/article/71065</guid>
             <pubDate>Wed, 28 Sep 2022 15:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/28/3ed6d97b-6091-4032-a315-7ff685eebcac.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/28/3ed6d97b-6091-4032-a315-7ff685eebcac.jpg');">
                                 <a href="/article/71065">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71065">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">아무튼 '믿보배' 도경수, '돌+I' 검사는 이런 것!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/27/7e02509a-2e6f-4aa8-8301-682b9e349898.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈 서울 그 작품은 얼마에 팔렸을까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70986</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70986</guid>
-            <pubDate>Tue, 27 Sep 2022 15:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/27/000aca5c-ccc6-4760-bfcb-463c45b6f99e.jpg');">
-                                <a href="/article/70986">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70986">
-                                        프리즈 서울 그 작품은 얼마에 팔렸을까?                                    </a>
-                                </em>
-                                <p class="excerpt">한바탕 잔치가 끝난 날, 프리즈 서울은 흥행의 축배를 들어올렸다. 나흘간 7만 명의 관람객이 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/27/000aca5c-ccc6-4760-bfcb-463c45b6f99e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
