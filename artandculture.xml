@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 09:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 15:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어차피 대상은 송중기! <옷소매>는 3관왕 [2022 APAN]]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71217</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71217</guid>
+            <pubDate>Sat, 01 Oct 2022 15:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/4a6a2e35-2d92-4df4-b0a1-dc5689a4231a.jpg');">
+                                <a href="/article/71217">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71217">
+                                        어차피 대상은 송중기! &lt;옷소매&gt;는 3관왕 [2022 APAN]                                    </a>
+                                </em>
+                                <p class="excerpt">빈센조 까사노 변호사님~ 잘 지내고 있나요?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/4a6a2e35-2d92-4df4-b0a1-dc5689a4231a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산비엔날레를 위한 키워드]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71120</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71208</link>
             <guid>https://www.harpersbazaar.co.kr/article/71208</guid>
             <pubDate>Fri, 30 Sep 2022 15:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/cae226c6-537e-450a-be88-44b2ae27e2c0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/cae226c6-537e-450a-be88-44b2ae27e2c0.jpg');">
                                 <a href="/article/71208">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71208">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">필연적으로 예술에 관심은 있지만 작품을 사본 적은 없는 피처 에디터가 혹시라도 첫 거래를 할...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/6b2cd862-e9c3-427c-b25b-9908492a988c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박경근과 이유성이 말하는 예술가의 삶]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71064</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71064</guid>
-            <pubDate>Wed, 28 Sep 2022 15:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/28/900ec046-0c40-48ed-85d3-da01eca90daa.jpg');">
-                                <a href="/article/71064">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71064">
-                                        박경근과 이유성이 말하는 예술가의 삶                                    </a>
-                                </em>
-                                <p class="excerpt">프리즈와 샤넬이 협업한 ‘나우 &amp; 넥스트(NOW &amp; NEXT)’는 한국 현대예술의 업적을 기리고 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/28/900ec046-0c40-48ed-85d3-da01eca90daa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
