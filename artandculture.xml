@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 09:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 15:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 힙스터들은 #남영동핫플 에서 논다며?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71252</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71252</guid>
+            <pubDate>Sun, 02 Oct 2022 15:03:49 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/500ed1cb-1b43-4caf-9e48-e77c541f722d.jpg');">
+                                <a href="/article/71252">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71252">
+                                        요즘 힙스터들은 #남영동핫플 에서 논다며?                                    </a>
+                                </em>
+                                <p class="excerpt">남영동이 핫한 이유? 독특한 콘셉트를 지닌 힙플레이스 때문!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/500ed1cb-1b43-4caf-9e48-e77c541f722d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유튜버 #오눅 이 강추하는 #뉴욕핫플 은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71251</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71210</link>
             <guid>https://www.harpersbazaar.co.kr/article/71210</guid>
             <pubDate>Fri, 30 Sep 2022 15:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/48ab1f4f-b905-4c47-9843-212b7ae28015.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/48ab1f4f-b905-4c47-9843-212b7ae28015.jpg');">
                                 <a href="/article/71210">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71210">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">저탄수 식단의 만능 치트키! 다이어트 좋은 토르티야 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/de3fe2f9-c85e-4af7-8100-45b13f30bd8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금까지 이런 영화관은 없었다! 새로운 '시네마 경험'을 하고 싶다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71201</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71201</guid>
-            <pubDate>Thu, 29 Sep 2022 15:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/19348506-6f93-4d54-9c09-113fb711fa8b.jpg');">
-                                <a href="/article/71201">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71201">
-                                        지금까지 이런 영화관은 없었다! 새로운 '시네마 경험'을 하고 싶다면?                                    </a>
-                                </em>
-                                <p class="excerpt">돌비콜렉션으로 만나는 영화는 무엇?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/19348506-6f93-4d54-9c09-113fb711fa8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
