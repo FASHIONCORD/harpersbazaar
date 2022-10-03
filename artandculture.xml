@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 15:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 03:57:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼청동으로 떠나는 산토리니 여행? #뉴핫플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71253</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71253</guid>
+            <pubDate>Mon, 03 Oct 2022 03:55:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/e104d021-019c-48ff-bece-ee511c790afa.jpg');">
+                                <a href="/article/71253">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71253">
+                                        삼청동으로 떠나는 산토리니 여행? #뉴핫플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">신상러들 모여라! 누구보다 발 빠르게 접수해야 할 이번 주 뉴 핫플레이스.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/e104d021-019c-48ff-bece-ee511c790afa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 힙스터들은 #남영동핫플 에서 논다며?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71252</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71120</link>
             <guid>https://www.harpersbazaar.co.kr/article/71120</guid>
             <pubDate>Fri, 30 Sep 2022 15:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/a09110fb-a8d6-419a-a3b7-945210e37c05.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/a09110fb-a8d6-419a-a3b7-945210e37c05.jpg');">
                                 <a href="/article/71120">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71120">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">샐러리는 이렇게 먹는 거예요. 신박한 샐러리 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/cae226c6-537e-450a-be88-44b2ae27e2c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어터들의 식단 치트키 #토르티야레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71207</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71207</guid>
-            <pubDate>Fri, 30 Sep 2022 04:52:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/de3fe2f9-c85e-4af7-8100-45b13f30bd8d.jpg');">
-                                <a href="/article/71207">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71207">
-                                        다이어터들의 식단 치트키 #토르티야레시피                                    </a>
-                                </em>
-                                <p class="excerpt">저탄수 식단의 만능 치트키! 다이어트 좋은 토르티야 레시피.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/de3fe2f9-c85e-4af7-8100-45b13f30bd8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
