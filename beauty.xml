@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 15:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공구 스테디셀러 효소, 다이어트에 도움될까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71247</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71247</guid>
+            <pubDate>Tue, 04 Oct 2022 15:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/d19b9bf2-cd96-4c53-8168-faa5a2ac3705.jpg');">
+                                <a href="/article/71247">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71247">
+                                        공구 스테디셀러 효소, 다이어트에 도움될까?                                     </a>
+                                </em>
+                                <p class="excerpt">인스타그램에서 보고 혹해본 사람들 다 들어와</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/d19b9bf2-cd96-4c53-8168-faa5a2ac3705.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한소희도 했다? 입술 피어싱 후기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71246</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71184</link>
             <guid>https://www.harpersbazaar.co.kr/article/71184</guid>
             <pubDate>Fri, 30 Sep 2022 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/091947d4-39c9-4f43-8dae-2eff55ff7474.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/091947d4-39c9-4f43-8dae-2eff55ff7474.jpg');">
                                 <a href="/article/71184">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71184">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">메이크업 시 가장 중요하게 생각하는 부위는? 몇 통째 쓰는 최애템은?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/27/175fda9e-5341-4da4-b12e-99b72cf6cd7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어터를 위한 편의점 식단 BEST 7 & WORST 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70978</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70978</guid>
-            <pubDate>Mon, 03 Oct 2022 09:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/3fab1afd-736b-44d6-95c1-c828585853a5.jpg');">
-                                <a href="/article/70978">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70978">
-                                        다이어터를 위한 편의점 식단 BEST 7 &amp; WORST 3                                    </a>
-                                </em>
-                                <p class="excerpt">급할 때 꿀! 편의점 식단 아이템 추천.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/23/3fab1afd-736b-44d6-95c1-c828585853a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

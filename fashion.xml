@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 15:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카이아 거버와 에디 슬리먼이 말리부에서 조우한 이유는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71268</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71268</guid>
+            <pubDate>Tue, 04 Oct 2022 15:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/c4c5f16e-f706-44b4-ae1a-a931aebc7ca5.jpg');">
+                                <a href="/article/71268">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71268">
+                                        카이아 거버와 에디 슬리먼이 말리부에서 조우한 이유는?                                    </a>
+                                </em>
+                                <p class="excerpt">톱모델 카이아 거버와 종잡을 수 없는 디자이너 에디 슬리먼이 만나, 매력적인 올드 패션 사진...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/c4c5f16e-f706-44b4-ae1a-a931aebc7ca5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지드래곤부터 이제훈까지! 샤넬의 밤을 빛낸 셀러브리티들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71193</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71241</link>
             <guid>https://www.harpersbazaar.co.kr/article/71241</guid>
             <pubDate>Mon, 03 Oct 2022 03:54:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/7f166b41-e9cd-48b1-9777-fbdcfa094265.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/7f166b41-e9cd-48b1-9777-fbdcfa094265.jpg');">
                                 <a href="/article/71241">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71241">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">모터사이클 재킷의 질주가 시작됐다. 오버사이즈에 강렬한 원색, 유니크한 디테일 등 화려한 자태...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/f5d2689f-58be-43ba-8ef0-3d4853ae5f24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올가을엔 레그 워머를 신겠어요]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71188</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71188</guid>
-            <pubDate>Fri, 30 Sep 2022 15:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/f0e231b7-458b-4d2f-aa27-deb6b3c15815.jpg');">
-                                <a href="/article/71188">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71188">
-                                        올가을엔 레그 워머를 신겠어요                                     </a>
-                                </em>
-                                <p class="excerpt">휑한 종아리는 이제 그만! 화려하게 컴백한 레그 워머 스타일링 비법.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/f0e231b7-458b-4d2f-aa27-deb6b3c15815.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
