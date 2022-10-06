@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 03:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 09:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경에 진심인 브랜드]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71250</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71250</guid>
+            <pubDate>Thu, 06 Oct 2022 09:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/3dd9dae0-37d6-4116-9e8d-25fa1eea8e8d.jpg');">
+                                <a href="/article/71250">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71250">
+                                        환경에 진심인 브랜드                                     </a>
+                                </em>
+                                <p class="excerpt">“파타고니아의 유일한 주주는 지구입니다.” </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/3dd9dae0-37d6-4116-9e8d-25fa1eea8e8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정채연이 찾은 강남의 분위기 맛집 공간 3 #인_스타_플레이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71248</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71210</link>
             <guid>https://www.harpersbazaar.co.kr/article/71210</guid>
             <pubDate>Fri, 30 Sep 2022 15:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/03/48ab1f4f-b905-4c47-9843-212b7ae28015.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/03/48ab1f4f-b905-4c47-9843-212b7ae28015.jpg');">
                                 <a href="/article/71210">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71210">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">저탄수 식단의 만능 치트키! 다이어트 좋은 토르티야 레시피.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/03/de3fe2f9-c85e-4af7-8100-45b13f30bd8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소희가 일주일 내내 먹는 샐러드 레시피]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71179</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71179</guid>
-            <pubDate>Mon, 03 Oct 2022 09:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/03/c3f440cd-b671-4750-8a43-c3d78df42ca6.jpg');">
-                                <a href="/article/71179">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71179">
-                                        소희가 일주일 내내 먹는 샐러드 레시피                                    </a>
-                                </em>
-                                <p class="excerpt">배달 식단부터 촬영날 식단까지 추천!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/03/c3f440cd-b671-4750-8a43-c3d78df42ca6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 03:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 09:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용산 골목에서 만나는 예술 공간 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71130</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71130</guid>
+            <pubDate>Thu, 06 Oct 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/2168a850-575e-4143-baec-c565b0096b09.jpg');">
+                                <a href="/article/71130">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71130">
+                                        용산 골목에서 만나는 예술 공간 3                                    </a>
+                                </em>
+                                <p class="excerpt">새로운 일은 언제나 의외의 곳에서 벌어진다. 아트 신도 마찬가지. 보다 실험적이고 신선한 예술...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/2168a850-575e-4143-baec-c565b0096b09.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카이아 거버와 에디 슬리먼이 말리부에서 조우한 이유는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71268</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71124</link>
             <guid>https://www.harpersbazaar.co.kr/article/71124</guid>
             <pubDate>Mon, 03 Oct 2022 15:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/01/da452da9-6dab-45ac-a14d-16d6591442ac.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/01/da452da9-6dab-45ac-a14d-16d6591442ac.jpg');">
                                 <a href="/article/71124">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71124">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">돌비콜렉션으로 만나는 영화는 무엇?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/19348506-6f93-4d54-9c09-113fb711fa8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위성아트페어 현장을 가다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71115</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71115</guid>
-            <pubDate>Mon, 03 Oct 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/6b2cd862-e9c3-427c-b25b-9908492a988c.jpg');">
-                                <a href="/article/71115">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71115">
-                                        위성아트페어 현장을 가다                                    </a>
-                                </em>
-                                <p class="excerpt">필연적으로 예술에 관심은 있지만 작품을 사본 적은 없는 피처 에디터가 혹시라도 첫 거래를 할...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/6b2cd862-e9c3-427c-b25b-9908492a988c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
