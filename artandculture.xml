@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 09:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 15:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 골목에 자리잡은 새로운 갤러리들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71131</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71131</guid>
+            <pubDate>Thu, 06 Oct 2022 15:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/2fffcc37-8fee-415c-9c11-5b2489a44c89.jpg');">
+                                <a href="/article/71131">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71131">
+                                        서울 골목에 자리잡은 새로운 갤러리들                                     </a>
+                                </em>
+                                <p class="excerpt">새로운 일은 언제나 의외의 곳에서 벌어진다. 아트 신도 마찬가지. 보다 실험적이고 신선한 예술...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/2fffcc37-8fee-415c-9c11-5b2489a44c89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산 골목에서 만나는 예술 공간 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71130</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71197</link>
             <guid>https://www.harpersbazaar.co.kr/article/71197</guid>
             <pubDate>Tue, 04 Oct 2022 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/02/118d4856-0698-45e2-83fc-d3852c9a20df.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/02/118d4856-0698-45e2-83fc-d3852c9a20df.jpg');">
                                 <a href="/article/71197">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71197">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">올해 부산비엔날레의 주제는 ‘물결 위 우리’다. 물결은 요동치는 역사와 사람들의 이동 등 다...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/a09110fb-a8d6-419a-a3b7-945210e37c05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금까지 이런 영화관은 없었다! 새로운 '시네마 경험'을 하고 싶다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71201</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71201</guid>
-            <pubDate>Mon, 03 Oct 2022 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/19348506-6f93-4d54-9c09-113fb711fa8b.jpg');">
-                                <a href="/article/71201">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71201">
-                                        지금까지 이런 영화관은 없었다! 새로운 '시네마 경험'을 하고 싶다면?                                    </a>
-                                </em>
-                                <p class="excerpt">돌비콜렉션으로 만나는 영화는 무엇?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/19348506-6f93-4d54-9c09-113fb711fa8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
