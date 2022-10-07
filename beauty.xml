@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 09:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 15:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클렌징 오일과 클렌징 워터 중 뭘 써야 할까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71327</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71327</guid>
+            <pubDate>Fri, 07 Oct 2022 15:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/07ee66ed-14f1-480d-b52c-02e58dc6ded3.jpg');">
+                                <a href="/article/71327">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71327">
+                                        클렌징 오일과 클렌징 워터 중 뭘 써야 할까?                                    </a>
+                                </em>
+                                <p class="excerpt">클렌징만큼 ‘쪼’와 ‘썰’이 많은 뷰티 카테고리가 있을까? 세정제의 고전, 워터 클렌저와 클...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/07ee66ed-14f1-480d-b52c-02e58dc6ded3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼빡샷도 예쁜 뉴진스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71182</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71255</link>
             <guid>https://www.harpersbazaar.co.kr/article/71255</guid>
             <pubDate>Wed, 05 Oct 2022 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/832db3be-a7b2-4bbd-8f10-41a80bb5ac7c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/832db3be-a7b2-4bbd-8f10-41a80bb5ac7c.jpg');">
                                 <a href="/article/71255">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71255">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">순수함과 관능의 빛. 진영에게 스며든 ‘나르시소 로드리게즈’의 강렬한 찰나. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/812dcf0e-fe18-45b2-a859-32fcadde2254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발색도 좋고 촉촉한 매트립을 찾고 있다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71183</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71183</guid>
-            <pubDate>Fri, 30 Sep 2022 15:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/95885bbe-d527-4174-953b-2499515ce987.jpg');">
-                                <a href="/article/71183">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71183">
-                                        발색도 좋고 촉촉한 매트립을 찾고 있다면?                                    </a>
-                                </em>
-                                <p class="excerpt">매트의 진화는 오늘도 계속된다. 독보적인 색감과 사용감을 위해 갈고 닦은 실력을 여지없이 뽐...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/95885bbe-d527-4174-953b-2499515ce987.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

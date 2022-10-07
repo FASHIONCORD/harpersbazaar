@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 09:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 15:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 코코 크러쉬와 아트퍼니처를 만드는 작가 김현희의 전통성]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71059</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71059</guid>
+            <pubDate>Fri, 07 Oct 2022 15:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/06/cb3b1a39-65d3-4ecd-8ab2-4e4b2ae96184.jpg');">
+                                <a href="/article/71059">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71059">
+                                        샤넬 코코 크러쉬와 아트퍼니처를 만드는 작가 김현희의 전통성                                    </a>
+                                </em>
+                                <p class="excerpt">아름다움을 빚는 도예가 전현지부터 한국 전통 가구를 오브제로 동시대적인 작업을 선보이는 작가...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/06/cb3b1a39-65d3-4ecd-8ab2-4e4b2ae96184.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['뎀나그램'의 운영자, 사바 바키아는 누구?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71290</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71200</link>
             <guid>https://www.harpersbazaar.co.kr/article/71200</guid>
             <pubDate>Thu, 06 Oct 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/24e36d3e-661c-44be-a98b-5e834acebd1a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/24e36d3e-661c-44be-a98b-5e834acebd1a.jpg');">
                                 <a href="/article/71200">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71200">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지난 9월 1일, 청담동에 위치한 샤넬 서울 플래그십에서 특별한 행사가 열렸다. 바로 샤넬이 프...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/02/57be4af2-6c76-48f0-938e-df33d51b55a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭키슈에트가 사랑받는 이유!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71187</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71187</guid>
-            <pubDate>Tue, 04 Oct 2022 04:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/01/36b72034-5fcf-4098-bbf8-3b367349d7d5.jpg');">
-                                <a href="/article/71187">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71187">
-                                        럭키슈에트가 사랑받는 이유!                                    </a>
-                                </em>
-                                <p class="excerpt">9월의 첫날, 성수동 에스팩토리에서 럭키슈에뜨 10주년 기념 컬렉션이 열렸다. 브랜드의 상징인 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/01/36b72034-5fcf-4098-bbf8-3b367349d7d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
