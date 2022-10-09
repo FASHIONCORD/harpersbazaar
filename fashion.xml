@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 15:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 04:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신세경을 사로잡은 주얼리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71366</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71366</guid>
+            <pubDate>Sun, 09 Oct 2022 04:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/06/7eda87ec-c9ab-4437-8280-9ce621a74712.jpg');">
+                                <a href="/article/71366">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71366">
+                                        신세경을 사로잡은 주얼리                                    </a>
+                                </em>
+                                <p class="excerpt">배우 신세경과 함께한 타사키 아틀리에 하이주얼리 ‘Living Nature’ 컬렉션. 그 견고하고도 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/06/7eda87ec-c9ab-4437-8280-9ce621a74712.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 코코 크러쉬와 아트퍼니처를 만드는 작가 김현희의 전통성]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71059</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71282</link>
             <guid>https://www.harpersbazaar.co.kr/article/71282</guid>
             <pubDate>Thu, 06 Oct 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/80585be5-4eea-4a1d-8a33-53b90958a3c3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/80585be5-4eea-4a1d-8a33-53b90958a3c3.jpg');">
                                 <a href="/article/71282">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71282">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">톱모델 카이아 거버와 종잡을 수 없는 디자이너 에디 슬리먼이 만나, 매력적인 올드 패션 사진...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/c4c5f16e-f706-44b4-ae1a-a931aebc7ca5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지드래곤부터 이제훈까지! 샤넬의 밤을 빛낸 셀러브리티들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71193</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71193</guid>
-            <pubDate>Tue, 04 Oct 2022 04:04:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/02/57be4af2-6c76-48f0-938e-df33d51b55a2.jpg');">
-                                <a href="/article/71193">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71193">
-                                        지드래곤부터 이제훈까지! 샤넬의 밤을 빛낸 셀러브리티들                                    </a>
-                                </em>
-                                <p class="excerpt">지난 9월 1일, 청담동에 위치한 샤넬 서울 플래그십에서 특별한 행사가 열렸다. 바로 샤넬이 프...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/02/57be4af2-6c76-48f0-938e-df33d51b55a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
