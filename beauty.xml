@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 15:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 04:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몸무게는 그대로라도 킵고잉! 당신의 다이어트가 성공적이란 증거 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71350</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71350</guid>
+            <pubDate>Mon, 10 Oct 2022 04:31:24 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/5867b181-8fef-4a1e-ac58-944c1f281946.jpg');">
+                                <a href="/article/71350">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71350">
+                                        몸무게는 그대로라도 킵고잉! 당신의 다이어트가 성공적이란 증거 5                                     </a>
+                                </em>
+                                <p class="excerpt">숫자가 다가 아니에요.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/5867b181-8fef-4a1e-ac58-944c1f281946.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클렌징 오일과 클렌징 워터 중 뭘 써야 할까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71327</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71189</link>
             <guid>https://www.harpersbazaar.co.kr/article/71189</guid>
             <pubDate>Wed, 05 Oct 2022 15:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/01/17328ada-0646-4f52-a9d2-fb8356924398.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/01/17328ada-0646-4f52-a9d2-fb8356924398.jpg');">
                                 <a href="/article/71189">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71189">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">BTS 정국, 리정의 트레이드 마크 입술 피어싱</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/a606af70-68b3-4a42-b0bf-8356c581678c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진영의 요즘 향수, 나르시소 로드리게즈]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71218</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71218</guid>
-            <pubDate>Sun, 02 Oct 2022 15:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/812dcf0e-fe18-45b2-a859-32fcadde2254.jpg');">
-                                <a href="/article/71218">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71218">
-                                        진영의 요즘 향수, 나르시소 로드리게즈                                    </a>
-                                </em>
-                                <p class="excerpt">순수함과 관능의 빛. 진영에게 스며든 ‘나르시소 로드리게즈’의 강렬한 찰나. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/812dcf0e-fe18-45b2-a859-32fcadde2254.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
