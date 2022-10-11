@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 09:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 15:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로제부터 사쿠라까지 가을 필수 레더 룩 참고해]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71397</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71397</guid>
+            <pubDate>Tue, 11 Oct 2022 15:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/a417c0cb-22b1-4e24-b0a1-e0cffbb481b3.jpg');">
+                                <a href="/article/71397">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71397">
+                                        로제부터 사쿠라까지 가을 필수 레더 룩 참고해                                    </a>
+                                </em>
+                                <p class="excerpt">겨울이 오기 전에! 바야흐로 가죽 재킷의 계절.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/a417c0cb-22b1-4e24-b0a1-e0cffbb481b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타일의 속도를 올려줄 바이커 부츠들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71296</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71059</link>
             <guid>https://www.harpersbazaar.co.kr/article/71059</guid>
             <pubDate>Fri, 07 Oct 2022 15:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/06/cb3b1a39-65d3-4ecd-8ab2-4e4b2ae96184.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/06/cb3b1a39-65d3-4ecd-8ab2-4e4b2ae96184.jpg');">
                                 <a href="/article/71059">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71059">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">파워풀한 스타일을 완성시켜 줄 올가을 카고 팬츠 스타일링.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/80585be5-4eea-4a1d-8a33-53b90958a3c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보온성은 물론 스타일리시함까지 갖춘 아우터가 궁금하다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71200</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71200</guid>
-            <pubDate>Thu, 06 Oct 2022 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/24e36d3e-661c-44be-a98b-5e834acebd1a.jpg');">
-                                <a href="/article/71200">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71200">
-                                        보온성은 물론 스타일리시함까지 갖춘 아우터가 궁금하다면?                                    </a>
-                                </em>
-                                <p class="excerpt">또 다른 계절로 흘러가는 지금, 옷차림에 힘을 실어줄 네 가지 아우터.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/24e36d3e-661c-44be-a98b-5e834acebd1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
