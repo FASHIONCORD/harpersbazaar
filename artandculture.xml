@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 04:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 09:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롭윈의 유리 잉크]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71359</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71359</guid>
+            <pubDate>Thu, 13 Oct 2022 09:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/ae9be4e3-cd92-4c80-98b1-44c7dc31fb29.jpg');">
+                                <a href="/article/71359">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71359">
+                                        롭윈의 유리 잉크                                    </a>
+                                </em>
+                                <p class="excerpt">롭 윈(Rob Wynne)은 뜨겁게 녹인 유리를 잉크 삼아 글을 짓고 물감 삼아 그림을 그린다.  ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/ae9be4e3-cd92-4c80-98b1-44c7dc31fb29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 127, 美 간판쇼 <굿모닝 아메리카> 출연→다음은 '이것']]></title>
             <link>https://www.harpersbazaar.co.kr/article/71477</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71435</link>
             <guid>https://www.harpersbazaar.co.kr/article/71435</guid>
             <pubDate>Tue, 11 Oct 2022 15:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/10/8730035f-35a4-4bcf-9e8e-69b5a97249d1.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/10/8730035f-35a4-4bcf-9e8e-69b5a97249d1.jpg');">
                                 <a href="/article/71435">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71435">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">세상 밖의 소란스러운 상황과는 의식적으로 분리된 채 자신만의 성소에서 작업에 열중하는 작가들...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/10/be263d86-befb-4a0c-82c4-134b92ceab44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STUDIO VISIT 1]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71140</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71140</guid>
-            <pubDate>Mon, 10 Oct 2022 04:32:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/09/dc530ea4-70e7-413b-bdfa-57c3f1518438.jpg');">
-                                <a href="/article/71140">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71140">
-                                        STUDIO VISIT 1                                    </a>
-                                </em>
-                                <p class="excerpt">세상 밖의 소란스러운 상황과는 의식적으로 분리된 채 자신만의 성소에서 작업에 열중하는 작가들...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/09/dc530ea4-70e7-413b-bdfa-57c3f1518438.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

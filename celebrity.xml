@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 04:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 09:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로 아이돌 그 잡채! '속닥속닥 토크'하는 뉴진스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71401</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71401</guid>
+            <pubDate>Thu, 13 Oct 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/e222d09f-a907-4ab5-a8ec-44a3445a4160.jpg');">
+                                <a href="/article/71401">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71401">
+                                        프로 아이돌 그 잡채! '속닥속닥 토크'하는 뉴진스                                    </a>
+                                </em>
+                                <p class="excerpt">그림도 잘 그리고, 인터뷰도 잘 하는 뉴진스</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/e222d09f-a907-4ab5-a8ec-44a3445a4160.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수지가 본격적으로 시작한 유튜브 채널]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71365</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71268</link>
             <guid>https://www.harpersbazaar.co.kr/article/71268</guid>
             <pubDate>Mon, 10 Oct 2022 04:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/c4c5f16e-f706-44b4-ae1a-a931aebc7ca5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/c4c5f16e-f706-44b4-ae1a-a931aebc7ca5.jpg');">
                                 <a href="/article/71268">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71268">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">다니엘, 해린, 혜인, 하니 그리고 민지. 세상을 놀라게 한 눈부시고 찬란한 소녀들과 마주한 순...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/30/e719626f-b253-41ae-b04d-f0aa8fdc3b1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[15년 발레 경력, 르세라핌의 카즈하가 여전히 하는 스트레칭]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71184</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71184</guid>
-            <pubDate>Mon, 03 Oct 2022 03:55:31 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/091947d4-39c9-4f43-8dae-2eff55ff7474.jpg');">
-                                <a href="/article/71184">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71184">
-                                        15년 발레 경력, 르세라핌의 카즈하가 여전히 하는 스트레칭                                    </a>
-                                </em>
-                                <p class="excerpt">뭉친 근육을 밀어주고 눌러주고! 카즈하가 발레를 하며 익힌 스트레칭 도구들과 운동 팁을 소개...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/29/091947d4-39c9-4f43-8dae-2eff55ff7474.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
