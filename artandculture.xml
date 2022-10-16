@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Oct 2022 09:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 15:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스, 뮤직쇼도 성공할까? '넘사벽' 스케일 <테이크 원>]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71569</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71569</guid>
+            <pubDate>Sun, 16 Oct 2022 15:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/5c7ff130-6549-4e5f-887b-0224cd640a60.jpg');">
+                                <a href="/article/71569">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71569">
+                                        넷플릭스, 뮤직쇼도 성공할까? '넘사벽' 스케일 &lt;테이크 원&gt;                                    </a>
+                                </em>
+                                <p class="excerpt">조수미부터 임재범·비·악뮤·마마무.. hot 라인업+어마무시 스케일</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/5c7ff130-6549-4e5f-887b-0224cd640a60.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종이호일만 있으면 끝, 강민경이 추천하는 #파피요트레시피]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71567</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71360</link>
             <guid>https://www.harpersbazaar.co.kr/article/71360</guid>
             <pubDate>Fri, 14 Oct 2022 15:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/338a2d50-01fd-4ec1-9936-5f7ceba2ce5b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/338a2d50-01fd-4ec1-9936-5f7ceba2ce5b.jpg');">
                                 <a href="/article/71360">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71360">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">환승 연애, 나는 솔로 좋아하면 클릭!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/79aeba7d-7510-48a2-93d3-9ab369b9225e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롭윈의 유리 잉크]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71359</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71359</guid>
-            <pubDate>Thu, 13 Oct 2022 09:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/ae9be4e3-cd92-4c80-98b1-44c7dc31fb29.jpg');">
-                                <a href="/article/71359">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71359">
-                                        롭윈의 유리 잉크                                    </a>
-                                </em>
-                                <p class="excerpt">롭 윈(Rob Wynne)은 뜨겁게 녹인 유리를 잉크 삼아 글을 짓고 물감 삼아 그림을 그린다.  ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/ae9be4e3-cd92-4c80-98b1-44c7dc31fb29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

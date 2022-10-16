@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Oct 2022 09:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 15:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차정원, 장희령, 장원영의 지금 가장 입기 좋은 얇은 니트 레이어링]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71539</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71539</guid>
+            <pubDate>Sun, 16 Oct 2022 15:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/68b65ff1-baae-43db-b90e-1331af937104.jpg');">
+                                <a href="/article/71539">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71539">
+                                        차정원, 장희령, 장원영의 지금 가장 입기 좋은 얇은 니트 레이어링                                     </a>
+                                </em>
+                                <p class="excerpt">옷장 속 니트를 꺼내보아요 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/68b65ff1-baae-43db-b90e-1331af937104.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로제, 셰어도 참석한 2023 S/S 파리패션위크 미리 보기]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71538</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71509</link>
             <guid>https://www.harpersbazaar.co.kr/article/71509</guid>
             <pubDate>Thu, 13 Oct 2022 15:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/7fca7d7e-6279-4f9e-8202-5d1d25cc9415.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/7fca7d7e-6279-4f9e-8202-5d1d25cc9415.jpg');">
                                 <a href="/article/71509">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71509">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">메구가 새로 오픈한 한남 스토어 매장 다녀왔구! 신상룩 다 입어봤구!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/43f898d7-31f2-4834-a611-8a03f8b02f26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올겨울도 유행이라고? 따스하고 귀여운 할머니 패션]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71492</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71492</guid>
-            <pubDate>Thu, 13 Oct 2022 04:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/f273cebd-630d-4c24-b3f9-2e12e3e57a78.jpg');">
-                                <a href="/article/71492">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71492">
-                                        올겨울도 유행이라고? 따스하고 귀여운 할머니 패션                                    </a>
-                                </em>
-                                <p class="excerpt">할머니가 손으로 떠준 듯한 투박하고 알록달록한 니트, 패치워크 등… 가을 룩에 온기를 불어 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/f273cebd-630d-4c24-b3f9-2e12e3e57a78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
