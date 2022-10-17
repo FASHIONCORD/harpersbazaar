@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 04:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 09:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니 가방에 달린 불가사리 인형의 정체는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71559</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71559</guid>
+            <pubDate>Mon, 17 Oct 2022 09:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/0657742b-a048-4f7f-aa2a-441f2d0eb193.jpg');">
+                                <a href="/article/71559">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71559">
+                                        제니 가방에 달린 불가사리 인형의 정체는?                                    </a>
+                                </em>
+                                <p class="excerpt"></p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/0657742b-a048-4f7f-aa2a-441f2d0eb193.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니, 윤아, 장원영이 참석한 #파리패션위크 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71542</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71538</link>
             <guid>https://www.harpersbazaar.co.kr/article/71538</guid>
             <pubDate>Fri, 14 Oct 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/3603fcb1-c1b0-4678-881d-ddacd2bd4c66.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/3603fcb1-c1b0-4678-881d-ddacd2bd4c66.jpg');">
                                 <a href="/article/71538">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71538">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">방돔 광장에서 만난 샤넬 프리미에르 오리지널 에디션 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/7fca7d7e-6279-4f9e-8202-5d1d25cc9415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 꼭 알아야할 'Hot' 패션 소식]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70966</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70966</guid>
-            <pubDate>Thu, 13 Oct 2022 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/f76a06a0-863b-4b06-910c-2244a3c5cdea.jpg');">
-                                <a href="/article/70966">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70966">
-                                        지금 꼭 알아야할 'Hot' 패션 소식                                     </a>
-                                </em>
-                                <p class="excerpt">지지 하디드가 론칭한 캐시미어 브랜드는? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/f76a06a0-863b-4b06-910c-2244a3c5cdea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

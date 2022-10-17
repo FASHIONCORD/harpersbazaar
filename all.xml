@@ -4,9 +4,34 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 04:55:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 09:23:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니 가방에 달린 불가사리 인형의 정체는? (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71559</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71559</guid>
+            <pubDate>Mon, 17 Oct 2022 09:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/0657742b-a048-4f7f-aa2a-441f2d0eb193.jpg');">
+                                <a href="/article/71559">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71559">
+                                        제니 가방에 달린 불가사리 인형의 정체는?                                    </a>
+                                </em>
+                                <p class="excerpt"></p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/0657742b-a048-4f7f-aa2a-441f2d0eb193.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니, 윤아, 장원영이 참석한 #파리패션위크 3 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71542</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71538</link>
             <guid>https://www.harpersbazaar.co.kr/article/71538</guid>
             <pubDate>Fri, 14 Oct 2022 09:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/3603fcb1-c1b0-4678-881d-ddacd2bd4c66.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/3603fcb1-c1b0-4678-881d-ddacd2bd4c66.jpg');">
                                 <a href="/article/71538">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71538">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">방돔 광장에서 만난 샤넬 프리미에르 오리지널 에디션 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/7fca7d7e-6279-4f9e-8202-5d1d25cc9415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 꼭 알아야할 'Hot' 패션 소식 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/70966</link>
-            <guid>https://www.harpersbazaar.co.kr/article/70966</guid>
-            <pubDate>Thu, 13 Oct 2022 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/f76a06a0-863b-4b06-910c-2244a3c5cdea.jpg');">
-                                <a href="/article/70966">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/70966">
-                                        지금 꼭 알아야할 'Hot' 패션 소식                                     </a>
-                                </em>
-                                <p class="excerpt">지지 하디드가 론칭한 캐시미어 브랜드는? </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/f76a06a0-863b-4b06-910c-2244a3c5cdea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이지은이 알려준다. 한 끼 식사량 500kcal 이상 줄이는 소식 스킬 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -400,6 +400,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/01/17328ada-0646-4f52-a9d2-fb8356924398.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공효진❤케빈오, 뉴욕 결혼식까지 날아간 절친 하객? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71476</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71476</guid>
+            <pubDate>Mon, 17 Oct 2022 09:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/11/ebb2a69d-215c-476a-90d7-d17baa235e63.jpg');">
+                                <a href="/article/71476">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71476">
+                                        공효진❤케빈오, 뉴욕 결혼식까지 날아간 절친 하객?                                    </a>
+                                </em>
+                                <p class="excerpt">정려원·엄지원, 미국행... 장거리도 못 막는 '찐친力'</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/11/ebb2a69d-215c-476a-90d7-d17baa235e63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김나영과 독일 남사친의 서울 투어 코스는 어디? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71436</link>
             <guid>https://www.harpersbazaar.co.kr/article/71436</guid>
@@ -479,17 +504,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71324</link>
             <guid>https://www.harpersbazaar.co.kr/article/71324</guid>
             <pubDate>Wed, 12 Oct 2022 09:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/4f36c3c0-62d6-4505-bebe-626ac1e128f2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/4f36c3c0-62d6-4505-bebe-626ac1e128f2.jpg');">
                                 <a href="/article/71324">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71324">
@@ -570,30 +594,6 @@
                                 <p class="excerpt">유튜버 #오눅 이 강추하는 #뉴욕핫플 은 어디?</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/bc04cf65-3982-436f-a8e3-fd409b2253a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정채연이 찾은 강남의 분위기 맛집 공간 3 #인_스타_플레이스 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71248</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71248</guid>
-            <pubDate>Wed, 05 Oct 2022 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/440d721c-e8da-4041-8931-5cc1f4a4f58e.jpg');">
-                                <a href="/article/71248">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71248">
-                                        정채연이 찾은 강남의 분위기 맛집 공간 3 #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">맛과 멋 둘다 놓치지 않은, 도심 속 힐링 스폿은 바로 이곳! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/04/440d721c-e8da-4041-8931-5cc1f4a4f58e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 뮤직쇼도 성공할까? '넘사벽' 스케일 <테이크 원> (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
