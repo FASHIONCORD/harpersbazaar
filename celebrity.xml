@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 04:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 09:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역대급 노출 수위로 난리 난 마릴린 먼로의 영화?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71624</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71624</guid>
+            <pubDate>Tue, 18 Oct 2022 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/665d5759-8db7-4068-bdc5-022038d29793.jpg');">
+                                <a href="/article/71624">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71624">
+                                        역대급 노출 수위로 난리 난 마릴린 먼로의 영화?                                     </a>
+                                </em>
+                                <p class="excerpt">뜨거운 감자로 떠오른 영화 &lt;블론드&gt;. 도대체 어떤 작품이길래?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/665d5759-8db7-4068-bdc5-022038d29793.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘공블리’ 공효진이 결혼식을 올린 곳은 어디?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71621</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71500</link>
             <guid>https://www.harpersbazaar.co.kr/article/71500</guid>
             <pubDate>Mon, 17 Oct 2022 15:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/43f898d7-31f2-4834-a611-8a03f8b02f26.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/43f898d7-31f2-4834-a611-8a03f8b02f26.jpg');">
                                 <a href="/article/71500">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71500">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">김나영과 그녀의 남사친, 베를린 힙스터 박소앙의 서울 데이트 코스는 어디? </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/10/b747f42d-9e30-4fbc-a13c-8053bc906fd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로 아이돌 그 잡채! '속닥속닥 토크'하는 뉴진스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71401</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71401</guid>
-            <pubDate>Thu, 13 Oct 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/e222d09f-a907-4ab5-a8ec-44a3445a4160.jpg');">
-                                <a href="/article/71401">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71401">
-                                        프로 아이돌 그 잡채! '속닥속닥 토크'하는 뉴진스                                    </a>
-                                </em>
-                                <p class="excerpt">그림도 잘 그리고, 인터뷰도 잘 하는 뉴진스</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/e222d09f-a907-4ab5-a8ec-44a3445a4160.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 04:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 09:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뿅뿅 지구오락실 멤버들이 간 그 섬, 코사무이]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71348</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71348</guid>
+            <pubDate>Tue, 18 Oct 2022 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/9cfaf9fe-f9fd-416f-b1df-38e56247bd02.jpg');">
+                                <a href="/article/71348">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71348">
+                                        뿅뿅 지구오락실 멤버들이 간 그 섬, 코사무이                                    </a>
+                                </em>
+                                <p class="excerpt">태국의 많은 섬들 중 새로운 휴양지로 각광받는 코사무이. 아바니 호텔 &amp; 리조트에서 액티비티...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/9cfaf9fe-f9fd-416f-b1df-38e56247bd02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지구를 위한 김]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71347</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71345</link>
             <guid>https://www.harpersbazaar.co.kr/article/71345</guid>
             <pubDate>Fri, 14 Oct 2022 15:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/9450fc47-f5ac-4ef2-ada3-a75731035af3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/9450fc47-f5ac-4ef2-ada3-a75731035af3.jpg');">
                                 <a href="/article/71345">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71345">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">사색과 비움의 공간. 나만 알고 싶은 제주도 히든 카페! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/10/8730035f-35a4-4bcf-9e8e-69b5a97249d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성수동에 불시착한 비행기? #뉴힙플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71437</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71437</guid>
-            <pubDate>Thu, 13 Oct 2022 15:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/10/277db6cf-7ff2-4d9c-9613-4e85651f7d5f.jpg');">
-                                <a href="/article/71437">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71437">
-                                        성수동에 불시착한 비행기? #뉴힙플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">신상러라면 누구보다 발 빠르게 접수해야할 뉴 힙플레이스! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/10/277db6cf-7ff2-4d9c-9613-4e85651f7d5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
