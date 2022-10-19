@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 09:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 15:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -596,6 +596,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/11/ebb2a69d-215c-476a-90d7-d17baa235e63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해외 대세 아티스트는? 세계 곳곳의 갤러리스트에게 물어본 자국의 아트신 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71367</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71367</guid>
+            <pubDate>Wed, 19 Oct 2022 15:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/890a5164-ffb3-4a3c-9d8d-42d7a1cd8076.jpg');">
+                                <a href="/article/71367">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71367">
+                                        해외 대세 아티스트는? 세계 곳곳의 갤러리스트에게 물어본 자국의 아트신                                     </a>
+                                </em>
+                                <p class="excerpt">세계 곳곳에 위치한 로컬 갤러리의 갤러리스트에게 자국의 아트 신에 대해 물었다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/890a5164-ffb3-4a3c-9d8d-42d7a1cd8076.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영감을 안겨줄 카페 5 곳! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71364</link>
             <guid>https://www.harpersbazaar.co.kr/article/71364</guid>
@@ -675,17 +700,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71578</link>
             <guid>https://www.harpersbazaar.co.kr/article/71578</guid>
             <pubDate>Mon, 17 Oct 2022 15:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/8497ff78-0d6e-4f8e-8cf3-30d58466d06c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/8497ff78-0d6e-4f8e-8cf3-30d58466d06c.jpg');">
                                 <a href="/article/71578">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71578">
@@ -766,30 +790,6 @@
                                 <p class="excerpt">호주 원주민 예술가 샐리 가보리는 형형색색의 작품세계로 강렬함을 선사한다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/95b26ba4-64b4-4439-ba1d-afc2bae42afa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주말엔 BTS와 김신영을 보세요! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71540</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71540</guid>
-            <pubDate>Fri, 14 Oct 2022 15:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/f208077d-fd83-470f-9335-7a71bae88caa.jpg');">
-                                <a href="/article/71540">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71540">
-                                        이번 주말엔 BTS와 김신영을 보세요!                                    </a>
-                                </em>
-                                <p class="excerpt">토요일엔 BTS의 부산 콘서트, 일요일엔 김신영의 〈전국노래자랑〉 첫방이 기다린다. 보는 방법과...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/f208077d-fd83-470f-9335-7a71bae88caa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[종이호일만 있으면 끝, 강민경이 추천하는 #파피요트레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
