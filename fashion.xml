@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 09:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 15:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 코코 크러쉬와 아름다운 도예가의 만남]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71058</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71058</guid>
+            <pubDate>Thu, 20 Oct 2022 15:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/18/8aedb703-a661-4d03-8c07-50aa9f32a0fe.jpg');">
+                                <a href="/article/71058">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71058">
+                                        샤넬 코코 크러쉬와 아름다운 도예가의 만남                                    </a>
+                                </em>
+                                <p class="excerpt">아름다움을 빚는 도예가 전현지부터 한국 전통 가구를 오브제로 동시대적인 작업을 선보이는 작가...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/18/8aedb703-a661-4d03-8c07-50aa9f32a0fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이거 없으면 못 산다는 김나영의 고인물템?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71625</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71606</link>
             <guid>https://www.harpersbazaar.co.kr/article/71606</guid>
             <pubDate>Tue, 18 Oct 2022 09:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/5648d944-64ce-4655-80e4-2affb9e996a9.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/5648d944-64ce-4655-80e4-2affb9e996a9.jpg');">
                                 <a href="/article/71606">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71606">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">576번째 한글날을 기념하는 나이키와 푸마의 신상 슈즈</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/c5c90afd-f9b9-481f-8be0-8be44918859b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니 가방에 달린 불가사리 인형의 정체는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71559</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71559</guid>
-            <pubDate>Mon, 17 Oct 2022 09:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/19/0657742b-a048-4f7f-aa2a-441f2d0eb193.jpg');">
-                                <a href="/article/71559">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71559">
-                                        제니 가방에 달린 불가사리 인형의 정체는?                                    </a>
-                                </em>
-                                <p class="excerpt">블랙핑크 제니가 하면 트렌드가 되는 마법 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/19/0657742b-a048-4f7f-aa2a-441f2d0eb193.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
