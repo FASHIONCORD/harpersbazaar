@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 15:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 04:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이거 없으면 못 산다는 김나영의 고인물템?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71625</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71625</guid>
+            <pubDate>Thu, 20 Oct 2022 04:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/1a1d1f19-3c1c-455e-8a95-735a609d2ea5.jpg');">
+                                <a href="/article/71625">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71625">
+                                        이거 없으면 못 산다는 김나영의 고인물템?                                     </a>
+                                </em>
+                                <p class="excerpt">찐템을 넘어선 고인물 템! 없으면 못 산다는 김나영의 애정템 대 공개! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/1a1d1f19-3c1c-455e-8a95-735a609d2ea5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 노출 수위로 난리 난 마릴린 먼로의 영화?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71624</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71605</link>
             <guid>https://www.harpersbazaar.co.kr/article/71605</guid>
             <pubDate>Tue, 18 Oct 2022 04:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/50a72e91-ebe4-494f-b492-d521b54a5033.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/50a72e91-ebe4-494f-b492-d521b54a5033.jpg');">
                                 <a href="/article/71605">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71605">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">블랙핑크 제니가 하면 트렌드가 되는 마법 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/19/0657742b-a048-4f7f-aa2a-441f2d0eb193.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니, 윤아, 장원영이 참석한 #파리패션위크 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71542</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71542</guid>
-            <pubDate>Mon, 17 Oct 2022 04:52:51 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/dff1a9d3-eabd-4533-b009-e0979629ef13.jpg');">
-                                <a href="/article/71542">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71542">
-                                        제니, 윤아, 장원영이 참석한 #파리패션위크 3                                    </a>
-                                </em>
-                                <p class="excerpt">루이 비통의 정호연도 퍼스트룩, 모델로 등장! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/13/dff1a9d3-eabd-4533-b009-e0979629ef13.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
