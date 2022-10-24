@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 09:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 15:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금이 아니면 안 돼! 뚝 떨어진 기온에 딱인 바시티 재킷]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71774</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71774</guid>
+            <pubDate>Mon, 24 Oct 2022 15:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/0d55c0e5-7585-4fd0-9851-5f00e63225b1.jpg');">
+                                <a href="/article/71774">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71774">
+                                        지금이 아니면 안 돼! 뚝 떨어진 기온에 딱인 바시티 재킷                                    </a>
+                                </em>
+                                <p class="excerpt">바시티 재킷 유행이 정점을 찍었다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/0d55c0e5-7585-4fd0-9851-5f00e63225b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레드 컬러 액세서리의 존재감]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71744</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71655</link>
             <guid>https://www.harpersbazaar.co.kr/article/71655</guid>
             <pubDate>Sun, 23 Oct 2022 15:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/18/afed6e47-259c-45a4-848a-cedb6db50e83.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/18/afed6e47-259c-45a4-848a-cedb6db50e83.jpg');">
                                 <a href="/article/71655">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71655">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">아름다움을 빚는 도예가 전현지부터 한국 전통 가구를 오브제로 동시대적인 작업을 선보이는 작가...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/18/8aedb703-a661-4d03-8c07-50aa9f32a0fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 없으면 못 산다는 김나영의 고인물템?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71625</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71625</guid>
-            <pubDate>Thu, 20 Oct 2022 04:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/1a1d1f19-3c1c-455e-8a95-735a609d2ea5.jpg');">
-                                <a href="/article/71625">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71625">
-                                        이거 없으면 못 산다는 김나영의 고인물템?                                     </a>
-                                </em>
-                                <p class="excerpt">찐템을 넘어선 고인물 템! 없으면 못 산다는 김나영의 애정템 대 공개! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/1a1d1f19-3c1c-455e-8a95-735a609d2ea5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
