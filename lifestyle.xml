@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 04:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 09:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최강희가 설거지 아르바이트를 시작한 이유는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71722</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71722</guid>
+            <pubDate>Mon, 24 Oct 2022 09:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/2e34b184-ef4e-4efb-89c0-359dbb297a8d.jpg');">
+                                <a href="/article/71722">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71722">
+                                        최강희가 설거지 아르바이트를 시작한 이유는?                                    </a>
+                                </em>
+                                <p class="excerpt">최강희는 도전하는 중</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/2e34b184-ef4e-4efb-89c0-359dbb297a8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완전한 채식을 도와줄 신상 비건 소스 2]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71716</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71625</link>
             <guid>https://www.harpersbazaar.co.kr/article/71625</guid>
             <pubDate>Thu, 20 Oct 2022 15:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/1a1d1f19-3c1c-455e-8a95-735a609d2ea5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/1a1d1f19-3c1c-455e-8a95-735a609d2ea5.jpg');">
                                 <a href="/article/71625">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71625">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">진짜 간단하고 설거지거리도 안 나온다. 쉽고 있어 보이는 파피요트 레시피! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/93e86a81-ddae-47b9-9654-55a9da8ec136.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿅뿅 지구오락실 멤버들이 간 그 섬, 코사무이]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71348</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71348</guid>
-            <pubDate>Tue, 18 Oct 2022 09:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/9cfaf9fe-f9fd-416f-b1df-38e56247bd02.jpg');">
-                                <a href="/article/71348">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71348">
-                                        뿅뿅 지구오락실 멤버들이 간 그 섬, 코사무이                                    </a>
-                                </em>
-                                <p class="excerpt">태국의 많은 섬들 중 새로운 휴양지로 각광받는 코사무이. 아바니 호텔 &amp; 리조트에서 액티비티...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/9cfaf9fe-f9fd-416f-b1df-38e56247bd02.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
