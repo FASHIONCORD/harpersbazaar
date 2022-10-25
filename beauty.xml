@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 09:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 15:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앞으로 나아가는 샤넬의 새로운 도전]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71592</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71592</guid>
+            <pubDate>Tue, 25 Oct 2022 15:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/899b39ae-6b7a-45dc-9043-092fbbc2ee77.jpg');">
+                                <a href="/article/71592">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71592">
+                                        앞으로 나아가는 샤넬의 새로운 도전                                    </a>
+                                </em>
+                                <p class="excerpt">샤넬의 새로운 메이크업 아티스트 그룹 꼬메뜨 콜렉티브 공개!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/899b39ae-6b7a-45dc-9043-092fbbc2ee77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의사도 놀란 기괴한 다이어트 4]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71595</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71402</link>
             <guid>https://www.harpersbazaar.co.kr/article/71402</guid>
             <pubDate>Wed, 19 Oct 2022 09:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/078fbb26-97f9-44fa-8b5b-e2ca0c03520d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/078fbb26-97f9-44fa-8b5b-e2ca0c03520d.jpg');">
                                 <a href="/article/71402">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71402">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">아티스트와 협업한 전시 공간부터 라이브러리까지, 브랜드의 감성을 담은 요즘 뷰티 스토어의 면...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/06/58e22783-d2b3-4776-9d3c-4898e55f27b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몸무게는 그대로라도 킵고잉! 당신의 다이어트가 성공적이란 증거 5]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71350</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71350</guid>
-            <pubDate>Mon, 10 Oct 2022 04:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/5867b181-8fef-4a1e-ac58-944c1f281946.jpg');">
-                                <a href="/article/71350">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71350">
-                                        몸무게는 그대로라도 킵고잉! 당신의 다이어트가 성공적이란 증거 5                                     </a>
-                                </em>
-                                <p class="excerpt">숫자가 다가 아니에요.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/5867b181-8fef-4a1e-ac58-944c1f281946.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
