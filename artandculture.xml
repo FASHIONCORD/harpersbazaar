@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 04:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 09:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹천재 성시경이 꽂힌 냉털 요리? #크래미레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71836</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71836</guid>
+            <pubDate>Tue, 25 Oct 2022 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/e7911d24-04d6-48c6-b151-8eb7edd726a4.jpg');">
+                                <a href="/article/71836">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71836">
+                                        먹천재 성시경이 꽂힌 냉털 요리? #크래미레시피                                     </a>
+                                </em>
+                                <p class="excerpt">이 레시피 만든 사람 상줘야 돼! 크래미로 고급 진 요리 만드는 법.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/e7911d24-04d6-48c6-b151-8eb7edd726a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김유정→한효주, 벌써 3번째 아역·성인 호흡 #20세기소년]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71794</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71698</link>
             <guid>https://www.harpersbazaar.co.kr/article/71698</guid>
             <pubDate>Tue, 25 Oct 2022 04:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/19/d8e47760-3a79-44f8-8afb-7d92047224c2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/19/d8e47760-3a79-44f8-8afb-7d92047224c2.jpg');">
                                 <a href="/article/71698">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71698">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">찐템을 넘어선 고인물 템! 없으면 못 산다는 김나영의 애정템 대 공개! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/1a1d1f19-3c1c-455e-8a95-735a609d2ea5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 노출 수위로 난리 난 마릴린 먼로의 영화?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71624</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71624</guid>
-            <pubDate>Thu, 20 Oct 2022 09:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/665d5759-8db7-4068-bdc5-022038d29793.jpg');">
-                                <a href="/article/71624">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71624">
-                                        역대급 노출 수위로 난리 난 마릴린 먼로의 영화?                                     </a>
-                                </em>
-                                <p class="excerpt">뜨거운 감자로 떠오른 영화 &lt;블론드&gt;. 도대체 어떤 작품이길래?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/665d5759-8db7-4068-bdc5-022038d29793.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

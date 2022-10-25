@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 04:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 09:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[의사도 놀란 기괴한 다이어트 4]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71595</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71595</guid>
+            <pubDate>Tue, 25 Oct 2022 09:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/16/967a7809-d316-4976-ae33-22210ea564e8.jpg');">
+                                <a href="/article/71595">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71595">
+                                        의사도 놀란 기괴한 다이어트 4                                    </a>
+                                </em>
+                                <p class="excerpt"> 이렇게 살빼는 건 진짜 아니잖아요</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/16/967a7809-d316-4976-ae33-22210ea564e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<이달소>츄처럼 폭식이나 눈물이 스트레스 해소에 도움될까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71594</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71398</link>
             <guid>https://www.harpersbazaar.co.kr/article/71398</guid>
             <pubDate>Mon, 17 Oct 2022 04:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/55eddd1f-e5cf-4276-9abd-77e8e4c094a6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/55eddd1f-e5cf-4276-9abd-77e8e4c094a6.jpg');">
                                 <a href="/article/71398">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71398">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">숫자가 다가 아니에요.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/5867b181-8fef-4a1e-ac58-944c1f281946.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클렌징 오일과 클렌징 워터 중 뭘 써야 할까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71327</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71327</guid>
-            <pubDate>Fri, 07 Oct 2022 15:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/07ee66ed-14f1-480d-b52c-02e58dc6ded3.jpg');">
-                                <a href="/article/71327">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71327">
-                                        클렌징 오일과 클렌징 워터 중 뭘 써야 할까?                                    </a>
-                                </em>
-                                <p class="excerpt">클렌징만큼 ‘쪼’와 ‘썰’이 많은 뷰티 카테고리가 있을까? 세정제의 고전, 워터 클렌저와 클...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/05/07ee66ed-14f1-480d-b52c-02e58dc6ded3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
