@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 09:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 15:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['시놉만 읽었을 뿐인데'.. 송중기 vs 이성민 vs 신현빈 #재벌집막내아들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71842</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71842</guid>
+            <pubDate>Wed, 26 Oct 2022 15:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/a4c1b07d-94d6-4b3f-9c5e-86a1e57019a3.jpg');">
+                                <a href="/article/71842">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71842">
+                                        '시놉만 읽었을 뿐인데'.. 송중기 vs 이성민 vs 신현빈 #재벌집막내아들                                    </a>
+                                </em>
+                                <p class="excerpt">담백하지만 몰입력 강한 티저(feat. 송중기 미모)</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/a4c1b07d-94d6-4b3f-9c5e-86a1e57019a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세경도 반했다는 가을 맛 #보늬밤조림]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71837</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71794</link>
             <guid>https://www.harpersbazaar.co.kr/article/71794</guid>
             <pubDate>Tue, 25 Oct 2022 04:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/102fe279-e553-41b7-aa30-075e8c5db42d.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/102fe279-e553-41b7-aa30-075e8c5db42d.jpg');">
                                 <a href="/article/71794">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71794">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이정은·임시완도 각 분야 수상자.. 개막식 참석</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/19/d8e47760-3a79-44f8-8afb-7d92047224c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 배우가 서울대야?".. 요즘 핫한 '서울대 출신' 배우들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71648</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71648</guid>
-            <pubDate>Tue, 25 Oct 2022 04:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/18/4d835276-9c55-409e-8f5e-078ca05d5ce1.jpg');">
-                                <a href="/article/71648">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71648">
-                                        "이 배우가 서울대야?".. 요즘 핫한 '서울대 출신' 배우들                                    </a>
-                                </em>
-                                <p class="excerpt">김태희는 잊어라! 새롭게 부상한 '서울대 출신' 뉴페이스 배우들</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/18/4d835276-9c55-409e-8f5e-078ca05d5ce1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
