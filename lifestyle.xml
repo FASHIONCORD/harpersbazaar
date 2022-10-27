@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 15:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 04:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설인아의 단골 카페는 어디? #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71855</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71855</guid>
+            <pubDate>Thu, 27 Oct 2022 04:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/038068ef-15b3-46a3-b812-426fa50c04eb.jpg');">
+                                <a href="/article/71855">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71855">
+                                        설인아의 단골 카페는 어디? #인_스타_플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">자주 찾는 단골 카페부터 힙한 분위기에 취하는 맛집까지. 설인아의 인스타그램에서 찾은 장소 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/038068ef-15b3-46a3-b812-426fa50c04eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MZ들이 몰린다는 서울 찐 #국밥맛집]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71838</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71804</link>
             <guid>https://www.harpersbazaar.co.kr/article/71804</guid>
             <pubDate>Wed, 26 Oct 2022 04:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/0aec4c24-a481-4e91-87e2-07d210edfbec.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/0aec4c24-a481-4e91-87e2-07d210edfbec.jpg');">
                                 <a href="/article/71804">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71804">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">10월에 맛이 절정에 달하는 사과로 만든 국내 주조 주류 추천 </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/2fdfe451-3255-4313-836a-c0e10b15e367.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위스키가 남자들의 술이라고? 여자들이 좋아하는 위스키 4]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71729</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71729</guid>
-            <pubDate>Tue, 25 Oct 2022 04:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/84e1b78d-6990-4a7c-833f-50a7f0ca01e3.jpg');">
-                                <a href="/article/71729">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71729">
-                                        위스키가 남자들의 술이라고? 여자들이 좋아하는 위스키 4                                    </a>
-                                </em>
-                                <p class="excerpt">커피향부터 장작향 위스키까지</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/84e1b78d-6990-4a7c-833f-50a7f0ca01e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

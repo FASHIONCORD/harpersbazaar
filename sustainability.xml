@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 15:04:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 04:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지속가능한 패션을 위한 브랜드의 노력]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70315</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70315</guid>
+            <pubDate>Thu, 27 Oct 2022 04:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/44b63e74-e5e0-4bf9-a373-90923e32d8f0.jpg');">
+                                <a href="/article/70315">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70315">
+                                        지속가능한 패션을 위한 브랜드의 노력                                    </a>
+                                </em>
+                                <p class="excerpt">혼자서는 세상을 바꿀 수 없다. 현재 벌어지고 있는 패션계의 자정작용. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/44b63e74-e5e0-4bf9-a373-90923e32d8f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후 변화에 대응하는 달라진 컬렉션 풍경]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70314</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/68923</link>
             <guid>https://www.harpersbazaar.co.kr/article/68923</guid>
             <pubDate>Thu, 08 Sep 2022 10:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/ff642044-301b-4e19-9bf0-ca780ecf72bb.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/ff642044-301b-4e19-9bf0-ca780ecf72bb.jpg');">
                                 <a href="/article/68923">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/68923">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">지구와 친해지고 싶다면 바로 이 제품부터! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해 바다에서 플로깅하고 공짜로 과자 먹는 방법은? #씨낵]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68202</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68202</guid>
-            <pubDate>Wed, 31 Aug 2022 22:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg');">
-                                <a href="/article/68202">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68202">
-                                        동해 바다에서 플로깅하고 공짜로 과자 먹는 방법은? #씨낵                                    </a>
-                                </em>
-                                <p class="excerpt">바다 쓰레기 주우면 과자 드려요! 쇼미더과자! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
