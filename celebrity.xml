@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 04:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 09:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소지섭과 김윤진의 자백]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71758</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71758</guid>
+            <pubDate>Thu, 27 Oct 2022 09:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/c0277e08-a280-44b7-8771-0e96e98a6f75.jpg');">
+                                <a href="/article/71758">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71758">
+                                        소지섭과 김윤진의 자백                                    </a>
+                                </em>
+                                <p class="excerpt">영화 &lt;자백&gt;에서 소지섭과 김윤진은 서로를 가장 믿어야 하지만, 그래서 깊이 의심할 수밖에 없...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/c0277e08-a280-44b7-8771-0e96e98a6f75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앳된 소년과 성숙한 남자의 경계선에 선 마크와 나란히 걸으면 이런 느낌?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71814</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71793</link>
             <guid>https://www.harpersbazaar.co.kr/article/71793</guid>
             <pubDate>Tue, 25 Oct 2022 15:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/2ed86014-28c3-46ae-acfe-15f8e95127db.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/2ed86014-28c3-46ae-acfe-15f8e95127db.jpg');">
                                 <a href="/article/71793">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71793">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">바시티 재킷 유행이 정점을 찍었다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/0d55c0e5-7585-4fd0-9851-5f00e63225b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 15주년이자 K-pop 아이돌 16년차, 태연이 말하는 '걸그룹의 정석'?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71773</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71773</guid>
-            <pubDate>Mon, 24 Oct 2022 09:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/23/940d9a40-6f5c-4c8c-9ec1-d8c7d2644a28.jpg');">
-                                <a href="/article/71773">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71773">
-                                        데뷔 15주년이자 K-pop 아이돌 16년차, 태연이 말하는 '걸그룹의 정석'?                                    </a>
-                                </em>
-                                <p class="excerpt">아이돌 후배들은 듣거라! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/23/940d9a40-6f5c-4c8c-9ec1-d8c7d2644a28.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

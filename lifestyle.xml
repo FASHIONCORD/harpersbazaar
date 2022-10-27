@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 04:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 09:04:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 SNS에서 핫한 #황산화수프 먹어봤니?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71872</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71872</guid>
+            <pubDate>Thu, 27 Oct 2022 09:04:26 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/d0691169-881a-4b29-8c3b-292794c56cab.jpg');">
+                                <a href="/article/71872">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71872">
+                                        요즘 SNS에서 핫한 #황산화수프 먹어봤니?                                      </a>
+                                </em>
+                                <p class="excerpt">황산화 물질이 풍부해서 먹을수록 젊어진다는 마법의 수프 레시피! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/d0691169-881a-4b29-8c3b-292794c56cab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설인아의 단골 카페는 어디? #인_스타_플레이스]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71855</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71837</link>
             <guid>https://www.harpersbazaar.co.kr/article/71837</guid>
             <pubDate>Wed, 26 Oct 2022 04:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/b3cb4e63-87ec-4835-8442-07795a2c722b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/b3cb4e63-87ec-4835-8442-07795a2c722b.jpg');">
                                 <a href="/article/71837">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71837">
@@ -178,30 +202,6 @@
                                 <p class="excerpt"></p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/335b23e7-ebdf-41c4-a8d1-c3b319618d49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 국내 제철사과로 만든 술 마셔볼까]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71730</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71730</guid>
-            <pubDate>Tue, 25 Oct 2022 04:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/2fdfe451-3255-4313-836a-c0e10b15e367.jpg');">
-                                <a href="/article/71730">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71730">
-                                        10월 국내 제철사과로 만든 술 마셔볼까                                    </a>
-                                </em>
-                                <p class="excerpt">10월에 맛이 절정에 달하는 사과로 만든 국내 주조 주류 추천 </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/2fdfe451-3255-4313-836a-c0e10b15e367.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
