@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 09:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 15:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[높게 더 높게, 슈퍼 플랫폼 슈즈]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71856</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71856</guid>
+            <pubDate>Thu, 27 Oct 2022 15:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/5c19b23f-a292-40f0-b32e-b70d8ede8071.jpg');">
+                                <a href="/article/71856">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71856">
+                                        높게 더 높게, 슈퍼 플랫폼 슈즈                                    </a>
+                                </em>
+                                <p class="excerpt">엄청난 키높이를 보장하는, 보기만해도 아찔한 슈퍼 플랫폼 슈즈의 유행.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/5c19b23f-a292-40f0-b32e-b70d8ede8071.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낡아도 좋아! 빈티지 러버들이 고른 룩]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71854</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71746</link>
             <guid>https://www.harpersbazaar.co.kr/article/71746</guid>
             <pubDate>Tue, 25 Oct 2022 09:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/ddced390-b2b3-4009-a357-0dfce150936b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/ddced390-b2b3-4009-a357-0dfce150936b.jpg');">
                                 <a href="/article/71746">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71746">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">바시티 재킷 유행이 정점을 찍었다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/0d55c0e5-7585-4fd0-9851-5f00e63225b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드 컬러 액세서리의 존재감]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71744</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71744</guid>
-            <pubDate>Mon, 24 Oct 2022 04:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/21/954f1279-b98e-4179-a97a-9d133ce14b07.jpg');">
-                                <a href="/article/71744">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71744">
-                                        레드 컬러 액세서리의 존재감                                     </a>
-                                </em>
-                                <p class="excerpt">더욱 깊고 매혹적인 레드 컬러 액세서리. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/21/954f1279-b98e-4179-a97a-9d133ce14b07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

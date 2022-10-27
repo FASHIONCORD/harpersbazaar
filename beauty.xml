@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 09:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 15:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS도 도전! 플라잉요가 누가 가장 잘 했을까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71759</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71759</guid>
+            <pubDate>Thu, 27 Oct 2022 15:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/21/23b90f55-be8b-408d-992f-d10c33ab1f62.jpg');">
+                                <a href="/article/71759">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71759">
+                                         BTS도 도전! 플라잉요가 누가 가장 잘 했을까?                                    </a>
+                                </em>
+                                <p class="excerpt">이거 너무 재미있어 보이는데, 운동도 된다고?</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/21/23b90f55-be8b-408d-992f-d10c33ab1f62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 취향, 젠지세대가 푹~ 빠진 보디로션은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71748</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71595</link>
             <guid>https://www.harpersbazaar.co.kr/article/71595</guid>
             <pubDate>Tue, 25 Oct 2022 09:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/16/967a7809-d316-4976-ae33-22210ea564e8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/16/967a7809-d316-4976-ae33-22210ea564e8.jpg');">
                                 <a href="/article/71595">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71595">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">먹는 순간 몸이 즉각 반응한다. 해독을 도와주는 마법의 수프! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/12/078fbb26-97f9-44fa-8b5b-e2ca0c03520d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이지은이 알려준다. 한 끼 식사량 500kcal 이상 줄이는 소식 스킬]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71398</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71398</guid>
-            <pubDate>Mon, 17 Oct 2022 04:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/55eddd1f-e5cf-4276-9abd-77e8e4c094a6.jpg');">
-                                <a href="/article/71398">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71398">
-                                        이지은이 알려준다. 한 끼 식사량 500kcal 이상 줄이는 소식 스킬                                    </a>
-                                </em>
-                                <p class="excerpt">다이어트의 적? 다른 누구도 아닌 바로 나, 그리고 식욕!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/07/55eddd1f-e5cf-4276-9abd-77e8e4c094a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 09:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 15:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 주말엔 여기서 소개팅해요 #소개팅핫플]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71873</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71873</guid>
+            <pubDate>Thu, 27 Oct 2022 15:03:11 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/7f8b7e95-62b4-49fe-b17e-0dd706e10cb5.jpg');">
+                                <a href="/article/71873">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71873">
+                                        이번 주말엔 여기서 소개팅해요 #소개팅핫플                                    </a>
+                                </em>
+                                <p class="excerpt">올해 연말에 외롭지 않으려면? 여기서 소개팅하세요.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/7f8b7e95-62b4-49fe-b17e-0dd706e10cb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 SNS에서 핫한 #황산화수프 먹어봤니?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71872</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71842</link>
             <guid>https://www.harpersbazaar.co.kr/article/71842</guid>
             <pubDate>Wed, 26 Oct 2022 15:03:47 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/a4c1b07d-94d6-4b3f-9c5e-86a1e57019a3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/a4c1b07d-94d6-4b3f-9c5e-86a1e57019a3.jpg');">
                                 <a href="/article/71842">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71842">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이 레시피 만든 사람 상줘야 돼! 크래미로 고급 진 요리 만드는 법.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/e7911d24-04d6-48c6-b151-8eb7edd726a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김유정→한효주, 벌써 3번째 아역·성인 호흡 #20세기소년]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71794</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71794</guid>
-            <pubDate>Tue, 25 Oct 2022 04:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/102fe279-e553-41b7-aa30-075e8c5db42d.jpg');">
-                                <a href="/article/71794">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71794">
-                                        김유정→한효주, 벌써 3번째 아역·성인 호흡 #20세기소년                                    </a>
-                                </em>
-                                <p class="excerpt">김유정이 크면 한효주? 누가 봐도 '착붙' 성장기</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/102fe279-e553-41b7-aa30-075e8c5db42d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
