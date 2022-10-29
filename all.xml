@@ -4,9 +4,34 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 09:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 15:05:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광란의 핼로윈을 더욱 오래 기억하는 방법! 스페셜 아이템 3 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71952</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71952</guid>
+            <pubDate>Fri, 28 Oct 2022 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/738c8339-696e-4e35-8f93-7c2ef5469265.jpg');">
+                                <a href="/article/71952">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71952">
+                                        광란의 핼로윈을 더욱 오래 기억하는 방법! 스페셜 아이템 3                                    </a>
+                                </em>
+                                <p class="excerpt">핼로윈을 맞이해 브랜드에서 선보이는 특별한 아이템을 눈여겨 볼 것!</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/738c8339-696e-4e35-8f93-7c2ef5469265.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공효진 드레스 어디거? (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71944</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71856</link>
             <guid>https://www.harpersbazaar.co.kr/article/71856</guid>
             <pubDate>Thu, 27 Oct 2022 15:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/5c19b23f-a292-40f0-b32e-b70d8ede8071.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/5c19b23f-a292-40f0-b32e-b70d8ede8071.jpg');">
                                 <a href="/article/71856">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71856">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">&lt;천원짜리 변호사&gt; 천지훈의 일상 패션은? </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/2ed86014-28c3-46ae-acfe-15f8e95127db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울패션위크를 통해 알아본 2023 S/S 트렌드 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71746</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71746</guid>
-            <pubDate>Tue, 25 Oct 2022 09:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/ddced390-b2b3-4009-a357-0dfce150936b.jpg');">
-                                <a href="/article/71746">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71746">
-                                        서울패션위크를 통해 알아본 2023 S/S 트렌드                                    </a>
-                                </em>
-                                <p class="excerpt">언발란스, 패치워크, 컷아웃까지!</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/ddced390-b2b3-4009-a357-0dfce150936b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[톱모델 한혜진이 매일 하는 스트레칭 루틴은? (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -988,6 +988,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/381981ad-e3f5-41b1-8984-6b89ba8885e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['드라이-핏'이후, 30년만에 선보이는 나이키의 혁신적인 신소재는? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/70599</link>
+            <guid>https://www.harpersbazaar.co.kr/article/70599</guid>
+            <pubDate>Sat, 29 Oct 2022 15:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/97680b5e-9bea-4a27-9fca-11a9da93e944.jpg');">
+                                <a href="/article/70599">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/70599">
+                                        '드라이-핏'이후, 30년만에 선보이는 나이키의 혁신적인 신소재는?                                    </a>
+                                </em>
+                                <p class="excerpt">직접 입어봤다! </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/97680b5e-9bea-4a27-9fca-11a9da93e944.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지속가능한 패션을 위한 브랜드의 노력 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/70315</link>
             <guid>https://www.harpersbazaar.co.kr/article/70315</guid>
@@ -1067,17 +1092,16 @@
             <link>https://www.harpersbazaar.co.kr/article/70156</link>
             <guid>https://www.harpersbazaar.co.kr/article/70156</guid>
             <pubDate>Thu, 15 Sep 2022 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/3e6c7a2c-36f7-4060-b40a-7346c754364e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/3e6c7a2c-36f7-4060-b40a-7346c754364e.jpg');">
                                 <a href="/article/70156">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/70156">
@@ -1158,30 +1182,6 @@
                                 <p class="excerpt">연간 2천만 병 생산되는 후이퐁(Huy Fong) 스리라차 소스가 오는 9월까지 약 6개월간 생산을 중...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/5e0d70ca-6be4-4acc-a21d-5ba55dcda81a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그린슈머들이 첫 제품으로 많이 사용하는 이것은? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/68516</link>
-            <guid>https://www.harpersbazaar.co.kr/article/68516</guid>
-            <pubDate>Fri, 02 Sep 2022 19:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg');">
-                                <a href="/article/68516">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/68516">
-                                        그린슈머들이 첫 제품으로 많이 사용하는 이것은?                                    </a>
-                                </em>
-                                <p class="excerpt">지구와 친해지고 싶다면 바로 이 제품부터! </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
