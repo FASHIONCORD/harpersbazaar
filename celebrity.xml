@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 09:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Oct 2022 15:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설인아의 단골 카페는 어디? #인_스타_플레이스]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71855</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71855</guid>
+            <pubDate>Sun, 30 Oct 2022 15:03:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/038068ef-15b3-46a3-b812-426fa50c04eb.jpg');">
+                                <a href="/article/71855">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71855">
+                                        설인아의 단골 카페는 어디? #인_스타_플레이스                                    </a>
+                                </em>
+                                <p class="excerpt">자주 찾는 단골 카페부터 힙한 분위기에 취하는 맛집까지. 설인아의 인스타그램에서 찾은 장소 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/038068ef-15b3-46a3-b812-426fa50c04eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세경도 반했다는 가을 맛 #보늬밤조림]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71837</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71810</link>
             <guid>https://www.harpersbazaar.co.kr/article/71810</guid>
             <pubDate>Tue, 25 Oct 2022 15:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/b0ce12de-91c5-4bd2-b17c-c0f052ccd562.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/b0ce12de-91c5-4bd2-b17c-c0f052ccd562.jpg');">
                                 <a href="/article/71810">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71810">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">엠포리오 아르마니 워치 &amp; 주얼리의 뮤즈가 된 보나, 카리스마 넘치는 눈빛의 화보 공개</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/d0adec89-eaf1-4948-8f29-eb55e32cf9a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴욕에서 만난 송혜교! 그 우아한 일상을 엿보다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71747</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71747</guid>
-            <pubDate>Mon, 24 Oct 2022 09:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/be976e33-70a4-4dc3-ab7a-d87170c7669a.jpg');">
-                                <a href="/article/71747">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71747">
-                                        뉴욕에서 만난 송혜교! 그 우아한 일상을 엿보다                                    </a>
-                                </em>
-                                <p class="excerpt">“이건 그냥 백이 아니에요, ‘바게트’죠.(It’s not a bag, it’s a Baguette.)” <br>드라마 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/be976e33-70a4-4dc3-ab7a-d87170c7669a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
