@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my/series/detail.naver?seriesNo=482346&amp;memberNo=41829949</id>
-    <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
-    <updated>2022-10-31T09:13:46.831Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/my/series/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 31 Oct 2022 15:04:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향기로운 ‘친환경’ 추석선물 3]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34349673&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34349673&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MjJfNSAg/MDAxNjYxMTU2NzQ0MTk3.W-o3-VH99f6BoRDOGmiWcrY3DI4gNTMfcjR804iMQAIg.Noy2oU6uT4WfQF2ipESZDWaYP22mQxQs6PbTuhco5DIg.JPEG/Ii6SJshzIYf-4hWI0xtJ3wy8ukHw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지구오락실' 멤버들이 방문한 태국 숙소, 레스토랑 가볼까]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34268974&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34268974&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예약은 필수! 강릉 로컬들도 줄 선다는 #강릉찐맛집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34255537&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34255537&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDRfMjQ3/MDAxNjU5NjE2MDI3NTIy.ksgvfNFqVoTBuHZ7_mGrcFYaAruCf1EvL-p0Dvdqa6gg.t_-OTD-iuxKEme2dMdfnN14QjLNuW1yKc8MRMJJ8TD8g.JPEG/I8ldLAffiSx0-WEb3ZLMTJNgMUWs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우 지숙이 항상 쟁여놓는 내돈내산 #찐템]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34240641&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34240641&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDJfMjE2/MDAxNjU5NDIzODU5MjEw.PPzKBkpyLteBV14mz-NC0uQ9Ivo4IxD4jkNXrUibAJ4g.JoiV0yql0Btj5vAcjptmktq3cFv8CDPFw5U-j97uM-wg.JPEG/IIvqx1x_bK9BhXzGRxIgOxWxyRy8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<우영우>가 즐겨 먹는 서울의 #김밥 맛집 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34235077&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34235077&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDFfMTQ4/MDAxNjU5MzQ0NTUxODE5.rkjd5Q3NNOeJL_HlpvvwLYc7NgIs94mZJu1TBWF_xXog.Y5REoUaCxRj9oXuGpB8Yeff9RMHNxvo9sUB8dSHWVUcg.JPEG/IbG42vbZGMkmm3No2-zUFwq3I0aQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조권도 다녀갔다는 도산공원 브런치 핫플은 어디? #신상핫플]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34202195&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34202195&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjZfMjEz/MDAxNjU4ODQ2MzY5ODE3.ekrViIIEdnL-28GDdTA8-N0Z6sp9-KRF4IIu0QuYKSwg.EORNq4JXSYj36jTaFEgP6BazzDRwvbekTOFvxytSLhwg.JPEG/IR2qBKUbVM0maFw-uiXVXBTUlCeM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와인에 누구보다 진심인 샤이니 '키'의 맛집 탐방]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34189974&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34189974&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjVfNyAg/MDAxNjU4NzEyODU0Njc5.rs3nO05yd09I8sG-H0OnOqVitHBuIiv-ZKBbp0UFlS8g.Ns7Rmw0Jott1dteZwPhORG4ATTZ5NEUzc9OBpMgkLdgg.JPEG/IP3plGj23cNZHD7lIIi2Crrrqcdk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상반기 결산, 소희의 건강 비결 찐템 7가지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34161359&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34161359&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjBfNzEg/MDAxNjU4MjQzMDMwNzE2.Bc1LJrppC3B7LgmA_3wPn1jYbZiK_GDOJNax7yQhCLYg.degjp0vfDQYrMSVNHzXeuf8CkWzARtcbHAdhVyx2X6Eg.JPEG/ImKslwfapDtJ9x6TR8cGkWAcCGvs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<탑건>에 <토르>까지.. <미니언즈> 커밍쑨!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34092330&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34092330&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDdfMTA2/MDAxNjU3MTc1ODI2MzQ5.tB_s2j7SbiME4IccQQNsAZZph3Ya20t-wAElkBwrMQog.oBQZP6BM_UCO2pZ6KIQU9_wGmkTK8VSs6H-UlPC-EY8g.JPEG/IFhSR4NZKvxsR0vIQ4TicNhr2zhw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장마와 함께 피는 꽃, 전국 능소화 명소]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34080794&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34080794&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDZfNjYg/MDAxNjU3MDMzNjM1NzEx.izlXHZYKMP2pmYgw9uirW26xewXi6r94A8Eu3PeCdZ4g.4N6h1Bjydx7z3kmBpU2AZsioMVadpgI80a8ALSfozmYg.JPEG/IBv3BVzJJoE2rhwSueqpkYxvTQ3Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이진욱도 오픈런 했다는 #베이글맛집 은 어디?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34050665&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34050665&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MzBfMTIg/MDAxNjU2NTcxNDc5MDg1.HJyZwtUHu6hS23njygedRXf2-nLn4kxDQOB8WxAhNPEg.sqlcjBI4OVbfVPuNu4hjYbJvu5EXUmKNAqX0hYBSFOsg.JPEG/IGQ0cVURmUDqNyR2AndvPz3tADDw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫플 예감! 유튜버 오눅이 찜한 세련된 디저트 맛집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34016994&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34016994&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjRfMTI4/MDAxNjU2MDQ1MDY3ODg0.V0kECyamEAvBFJKNSJ6pO7o4ZpGA7BL56Lq_6PqzQzog.hUB-EUn1TDiRvz51nZ-_8Spo_-UC7t-c6sLvg9fmBGcg.JPEG/IyDkWaEdUA3ddVW61e6G8qcYyhkY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초간단 과자 안주 레시피 #백종원레시피]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34005217&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34005217&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfNTEg/MDAxNjU1ODgyMTIyMDg2.KHF1LwgtLC-_SuelV4TiMbqazJu71ZcJJ00YhxdlabQg.STPv4XxKM4jDKn4mPTeNGCXa6hoyhmTex0QfxqDoiqsg.JPEG/Igf3XJSOgzMeaXtcBbiNos0lxApc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계곡에 발 담그고 백숙 한 입! 서울 근교 계곡 식당 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34004986&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34004986&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjJfMjQg/MDAxNjU1ODgwNTI1OTk0.oHFAaOJQ6qu8K7VSbD0PAk_UnVK0EkWytyYU9md2T2sg.GtnpwmTWlkriM92n0BVKeLPNnYk29Qu7RL8VbpQ0j8gg.JPEG/IaO9tT5tStSs6eAGSfKsWNKGAE7Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 채정안의 취향이 담긴 부산 찐 맛집은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33991463&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33991463&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMTEy/MDAxNjU1NzAzMzgyMzAw.yWAYYCB2z2tekxesSJnAs-F6CuPJNA3Im_WBFe4Hrl0g.PfQ7GOzpasUAVDvj2rcAYhWPLP6WtrpwM0DjLYGcwV0g.JPEG/IQf68cwHoC2vccT4o2IYd2CM-hgU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한강대로 땡땡거리 가봤니? #용산땡땡거리핫플]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33919391&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33919391&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MDdfMjM0/MDAxNjU0NTc4OTkyOTgz.fj83APw1uND9cm3MpJIgvECw3X5acWIhRHs8oCQu-Akg.pLUjEPM0T2OZ44OjlG7hDt9yqlcMRr5zxHkFQ0FOwbQg.JPEG/I2mOHD-eB7OILoSwosquYUqbvszs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이걸 어떻게 먹어요? 미친 비주얼의 신상 디저트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33886561&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33886561&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMzQg/MDAxNjUzOTY0MTYxMTY2.kmZmEHqS2uT27QRmnp_139K-FzEl7RODB5kmcZTz67sg.cURuE6THoLSf9_ZsHLwMoOTC5I96xmB2RKJ34WPZDykg.JPEG/IBw1sJf1bL9Qva3YpM9BLQd3WRCk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이건 마치 엽떡? 다이어터를 위한 쫄볶이 레시피!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33848913&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33848913&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjRfMzcg/MDAxNjUzMzU4NTY1NTg3.tMke_qyO7GdHvUSdixZDroXTEcivJKw5zPbEoeXrCXMg.6FkixT9tam09vWlLtfKsG3iFzTHBiOpOxHMoSbQvRVUg.JPEG/ILbTMpptaILgYFR77QNS_Kr-jbts.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디톡스는 이거로 끝! 배우 문숙의 여름 맞이 #디톡스 레시피]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33780013&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33780013&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjBfMTU0/MDAxNjUzMDM1NTcwNDA2.0m5oq7jzyk8AdiNdDF_aRrKOp1JUcIS_Tl2abuC_lYcg.ZVfjdrflXq-4kGzfdNeb-xGwFdxGUdFIYjZWMnSFC3Ug.JPEG/I0vyzl6KnmZCAXygGlMtcQzRnFlw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽃구경하고 빵 먹는 5월의 전국 축제 소식]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33810607&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33810607&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 31 Oct 2022 15:01:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfMjU3/MDAxNjUyNzU1MjYzNTg4.uNrEdE-z1luAvEwZc4yqltcAt37VlEnSmzgSNd0th7Mg.KBdqNJSM5d1s2xnDUJ75TcdTeIdKzgQR3dMuba10Iacg.JPEG/IzGrkw0aqTjnOREZb6i2qoxO5ZiA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
