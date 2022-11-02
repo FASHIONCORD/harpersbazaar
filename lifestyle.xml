@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Nov 2022 09:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 15:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이태원 참사' 전국민 트라우마 우려, 자제해야 하는 행동은]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72012</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72012</guid>
+            <pubDate>Wed, 02 Nov 2022 15:03:36 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/e6577a21-f3f9-4fbd-9675-b79e931c025a.jpg');">
+                                <a href="/article/72012">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72012">
+                                        '이태원 참사' 전국민 트라우마 우려, 자제해야 하는 행동은                                    </a>
+                                </em>
+                                <p class="excerpt">사고 뉴스 과도하게 읽으면 건강에 악영향</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/e6577a21-f3f9-4fbd-9675-b79e931c025a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['압사 사고'로 특별재난지역 선포된 이태원, 뭐가 달라지나]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72011</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71805</link>
             <guid>https://www.harpersbazaar.co.kr/article/71805</guid>
             <pubDate>Mon, 31 Oct 2022 09:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/44e1c747-5564-440e-ad8b-5d0e5d4da045.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/44e1c747-5564-440e-ad8b-5d0e5d4da045.jpg');">
                                 <a href="/article/71805">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71805">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">영블러드 아티스트 조기석 작가의 기묘한 아름다움, <fantasy> 사진전</fantasy></p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/c952d051-a9b7-4997-9a5a-95e941d86780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[톱모델 한혜진이 매일 하는 스트레칭 루틴은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71973</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71973</guid>
-            <pubDate>Mon, 31 Oct 2022 04:00:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/d5517067-d0b9-4daf-a0e6-6fb43205e531.jpg');">
-                                <a href="/article/71973">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71973">
-                                        톱모델 한혜진이 매일 하는 스트레칭 루틴은?                                    </a>
-                                </em>
-                                <p class="excerpt">살 아니고 부기? 한혜진이 직접 짠 부기 빠지는 스트레칭 루틴과 소문난 유튜브 레전드 스트레...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/d5517067-d0b9-4daf-a0e6-6fb43205e531.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
