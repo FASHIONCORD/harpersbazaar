@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 04:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 09:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠니무라 준으로 완성된 <범죄도시3>, 출연진 모음.zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71949</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71949</guid>
+            <pubDate>Fri, 04 Nov 2022 09:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/843e7bf8-3ef3-48ac-9e61-fbc0d88db4ae.jpg');">
+                                <a href="/article/71949">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/71949">
+                                        쿠니무라 준으로 완성된 &lt;범죄도시3&gt;, 출연진 모음.zip                                    </a>
+                                </em>
+                                <p class="excerpt">'마동석'이 이번에는 누구누구 참교육시킬까..🤔</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/843e7bf8-3ef3-48ac-9e61-fbc0d88db4ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번에는 직장 로맨스♥.. <사내연애>는 뭐가 다를까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/71945</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71857</link>
             <guid>https://www.harpersbazaar.co.kr/article/71857</guid>
             <pubDate>Thu, 27 Oct 2022 09:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/52163f76-f750-47f6-9b07-0b5c4e6795e0.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/52163f76-f750-47f6-9b07-0b5c4e6795e0.jpg');">
                                 <a href="/article/71857">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71857">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">이런 밤 맛! 가을이 가기 전에 꼭 맛봐야 할 보늬밤 디저트. </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/b3cb4e63-87ec-4835-8442-07795a2c722b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MZ들이 몰린다는 서울 찐 #국밥맛집]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71838</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71838</guid>
-            <pubDate>Thu, 03 Nov 2022 09:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/381981ad-e3f5-41b1-8984-6b89ba8885e3.jpg');">
-                                <a href="/article/71838">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71838">
-                                        MZ들이 몰린다는 서울 찐 #국밥맛집                                    </a>
-                                </em>
-                                <p class="excerpt">국밥의 선입견을 뒤엎는다. MZ들이 줄 서는 서울 찐 국밥 맛집들. </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/381981ad-e3f5-41b1-8984-6b89ba8885e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
