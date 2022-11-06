@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Nov 2022 09:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 15:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 입기 편하고 힙한 후드 티셔츠, 셀럽들의 스타일링]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72106</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72106</guid>
+            <pubDate>Sun, 06 Nov 2022 15:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/b9751f4b-4058-4244-b4ec-58e3b91a5fb9.jpg');">
+                                <a href="/article/72106">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72106">
+                                        지금 가장 입기 편하고 힙한 후드 티셔츠, 셀럽들의 스타일링                                    </a>
+                                </em>
+                                <p class="excerpt">리사, 정호연, 아이유의 SNS 속 데일리룩   </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/b9751f4b-4058-4244-b4ec-58e3b91a5fb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘너! 내 신발이 돼라!’ 애니메이션에 빠진 스니커즈 #신상신GO]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72104</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71845</link>
             <guid>https://www.harpersbazaar.co.kr/article/71845</guid>
             <pubDate>Fri, 04 Nov 2022 09:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/9358da38-6f6d-418c-896f-3ce5d6b2ed45.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/9358da38-6f6d-418c-896f-3ce5d6b2ed45.jpg');">
                                 <a href="/article/71845">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71845">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">파인 주얼리의 새로운 장을 열게 될 루이 비통의 ‘앙프렝뜨(Empreinte)’ 컬렉션. 남녀 모두를...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/456242a0-344d-44de-9342-e5e86a3e2094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리 스포츠 워치의 대명사 파네라이가 받은 최초의 특허는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71791</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71791</guid>
-            <pubDate>Thu, 03 Nov 2022 09:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/7e7291aa-cdcf-4b90-85b0-e06c3f7220a7.jpg');">
-                                <a href="/article/71791">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71791">
-                                        럭셔리 스포츠 워치의 대명사 파네라이가 받은 최초의 특허는?                                    </a>
-                                </em>
-                                <p class="excerpt">럭셔리 스포츠 워치의 대명사, 파네라이의 서정적이면서도 강렬한 변화는 ‘루미노르 두에 루나’...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/7e7291aa-cdcf-4b90-85b0-e06c3f7220a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
