@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Nov 2022 15:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 03:56:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살 덜 찌는 떡볶이 밀키트. 치팅 데이날 쟁여두기]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72095</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72095</guid>
+            <pubDate>Mon, 07 Nov 2022 03:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/6cc0741b-4d5e-4b80-9a3f-ccf6a09d2075.jpg');">
+                                <a href="/article/72095">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72095">
+                                        살 덜 찌는 떡볶이 밀키트. 치팅 데이날 쟁여두기                                     </a>
+                                </em>
+                                <p class="excerpt">떡볶이는 다이어트의 친구? 밤에 먹어도 괜...찮..아요...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/6cc0741b-4d5e-4b80-9a3f-ccf6a09d2075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반려동물과 가기 좋은 연남동 카페, 에스프레소바 10]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72092</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72020</link>
             <guid>https://www.harpersbazaar.co.kr/article/72020</guid>
             <pubDate>Thu, 03 Nov 2022 15:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/01/bbd6443f-a0f8-44fa-a053-e800bf4b3b1a.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/01/bbd6443f-a0f8-44fa-a053-e800bf4b3b1a.jpg');">
                                 <a href="/article/72020">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72020">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">사고 뉴스 과도하게 읽으면 건강에 악영향</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/e6577a21-f3f9-4fbd-9675-b79e931c025a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['압사 사고'로 특별재난지역 선포된 이태원, 뭐가 달라지나]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72011</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72011</guid>
-            <pubDate>Tue, 01 Nov 2022 04:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/0427e1a3-6040-4d5b-b76b-9d235f6461ba.jpg');">
-                                <a href="/article/72011">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72011">
-                                        '압사 사고'로 특별재난지역 선포된 이태원, 뭐가 달라지나                                    </a>
-                                </em>
-                                <p class="excerpt">국내 특별재난지역 선포사례는</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/0427e1a3-6040-4d5b-b76b-9d235f6461ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
