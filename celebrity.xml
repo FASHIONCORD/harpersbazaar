@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 03:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 09:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손흥민·김혜수부터 정우성·유아인까지.. 먹먹한 애도글]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72079</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72079</guid>
+            <pubDate>Mon, 07 Nov 2022 09:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/24f136e0-8f54-4aa1-a76d-68c46381d7e8.jpg');">
+                                <a href="/article/72079">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72079">
+                                        손흥민·김혜수부터 정우성·유아인까지.. 먹먹한 애도글                                    </a>
+                                </em>
+                                <p class="excerpt">방식과 표현은 제각각, 그럼에도 전해지는 진심 가득한 온정</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/24f136e0-8f54-4aa1-a76d-68c46381d7e8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 제이홉→진→RM, 다음 솔로 누굴까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72060</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71956</link>
             <guid>https://www.harpersbazaar.co.kr/article/71956</guid>
             <pubDate>Thu, 03 Nov 2022 09:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/35d0f20f-cb36-4524-8156-767f7cb7815e.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/35d0f20f-cb36-4524-8156-767f7cb7815e.jpg');">
                                 <a href="/article/71956">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71956">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">데뷔 15년 차. 누구보다 거침없이 달려온 태연이 뿜어내는 낯선 아름다움.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/6809225c-479d-4e20-8678-6113c1d6df32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설인아의 단골 카페는 어디? #인_스타_플레이스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71855</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71855</guid>
-            <pubDate>Sun, 30 Oct 2022 15:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/038068ef-15b3-46a3-b812-426fa50c04eb.jpg');">
-                                <a href="/article/71855">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71855">
-                                        설인아의 단골 카페는 어디? #인_스타_플레이스                                    </a>
-                                </em>
-                                <p class="excerpt">자주 찾는 단골 카페부터 힙한 분위기에 취하는 맛집까지. 설인아의 인스타그램에서 찾은 장소 ...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/038068ef-15b3-46a3-b812-426fa50c04eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
