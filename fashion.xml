@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 03:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 09:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 S/S 관능을 더한 뉴 미쏘니]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72055</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72055</guid>
+            <pubDate>Wed, 09 Nov 2022 09:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/9844e829-af44-4e78-ac21-13f8fb3747b4.jpg');">
+                                <a href="/article/72055">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72055">
+                                        2023 S/S 관능을 더한 뉴 미쏘니                                    </a>
+                                </em>
+                                <p class="excerpt">2023 S/S 밀라노 패션위크에서 데뷔 쇼를 선보인 네 명의 디자이너가 있다. 유서 깊은 패션 ...</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/9844e829-af44-4e78-ac21-13f8fb3747b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 S/S 루드의 디자이너가 만든 발리]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72054</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72109</link>
             <guid>https://www.harpersbazaar.co.kr/article/72109</guid>
             <pubDate>Mon, 07 Nov 2022 15:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/0516f21b-93cf-4520-a8ac-c0d0b51f5db5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/0516f21b-93cf-4520-a8ac-c0d0b51f5db5.jpg');">
                                 <a href="/article/72109">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72109">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">세상에 단 하나뿐인 8가지 제품이 탄생했다고? ‘RE;CODE by LACOSTE’</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/fcb270dd-d77f-4ce1-b781-0a6a6ca15f50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 국민템 등극! 어그 슈즈]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72090</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72090</guid>
-            <pubDate>Fri, 04 Nov 2022 15:02:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/f7765306-4e19-497b-b748-8996deb99180.jpg');">
-                                <a href="/article/72090">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72090">
-                                        겨울 국민템 등극! 어그 슈즈                                     </a>
-                                </em>
-                                <p class="excerpt">없어서 못 구하는 어그 부츠 그리고 셀럽들의 데일리 룩.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/f7765306-4e19-497b-b748-8996deb99180.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

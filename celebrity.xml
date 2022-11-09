@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 03:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 09:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화제의 (여자)아이들 금발 이렇게 탄생했다.]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72094</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72094</guid>
+            <pubDate>Wed, 09 Nov 2022 09:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/fa5b107d-19b2-4218-9be1-09db31519707.jpg');">
+                                <a href="/article/72094">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72094">
+                                        화제의 (여자)아이들 금발 이렇게 탄생했다.                                     </a>
+                                </em>
+                                <p class="excerpt">담당 헤어 아티스트가 알려주는 5인 5색 금발 연출법.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/fa5b107d-19b2-4218-9be1-09db31519707.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손흥민·김혜수부터 정우성·유아인까지.. 먹먹한 애도글]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72079</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71809</link>
             <guid>https://www.harpersbazaar.co.kr/article/71809</guid>
             <pubDate>Fri, 04 Nov 2022 15:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/9b3075f2-96d8-4af7-898c-fed7f693647c.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/9b3075f2-96d8-4af7-898c-fed7f693647c.jpg');">
                                 <a href="/article/71809">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71809">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">드라마 &lt;커튼콜&gt;의 배우 4인과 &lt;바자&gt;의 만남</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/26/74abf6cc-aac7-472a-a1a4-535201e7108d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태연 '멋쁨' 주의]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71762</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71762</guid>
-            <pubDate>Wed, 02 Nov 2022 09:03:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/6809225c-479d-4e20-8678-6113c1d6df32.jpg');">
-                                <a href="/article/71762">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71762">
-                                        태연 '멋쁨' 주의                                    </a>
-                                </em>
-                                <p class="excerpt">데뷔 15년 차. 누구보다 거침없이 달려온 태연이 뿜어내는 낯선 아름다움.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/6809225c-479d-4e20-8678-6113c1d6df32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

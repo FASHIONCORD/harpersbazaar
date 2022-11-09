@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 03:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 09:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한옥으로 출퇴근을 한다는 것]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72063</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72063</guid>
+            <pubDate>Wed, 09 Nov 2022 09:03:47 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/08/f09614f0-849e-420d-a904-b6d4e4d4e369.jpg');">
+                                <a href="/article/72063">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72063">
+                                        한옥으로 출퇴근을 한다는 것                                     </a>
+                                </em>
+                                <p class="excerpt">한옥의 신비로움에 한 발짝 다가서다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/08/f09614f0-849e-420d-a904-b6d4e4d4e369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술은 거들 뿐, 음악에 취한다는 #바이닐바]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72185</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72157</link>
             <guid>https://www.harpersbazaar.co.kr/article/72157</guid>
             <pubDate>Tue, 08 Nov 2022 03:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/bdd2c00c-5e06-4c89-9b8a-a187cd055b14.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/bdd2c00c-5e06-4c89-9b8a-a187cd055b14.jpg');">
                                 <a href="/article/72157">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72157">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">A.P.C.에서 선보이는&nbsp;퀼트 컬렉션 22 라운드.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/8f917d19-5ec5-40b2-9020-7aa5f7e215ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건축디자이너의 성곽뷰 한옥집 #한옥살이]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72062</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72062</guid>
-            <pubDate>Mon, 07 Nov 2022 09:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/40a52d4c-34c4-4c6b-b20b-9dc3b4254442.jpg');">
-                                <a href="/article/72062">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72062">
-                                        건축디자이너의 성곽뷰 한옥집 #한옥살이                                    </a>
-                                </em>
-                                <p class="excerpt">한옥의 신비로움에 한 발짝 다가서다.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/40a52d4c-34c4-4c6b-b20b-9dc3b4254442.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
