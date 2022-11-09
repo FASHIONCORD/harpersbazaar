@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 09:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 15:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦가을 마지막 단풍놀이]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72201</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72201</guid>
+            <pubDate>Wed, 09 Nov 2022 15:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/08/286c3ecb-139c-4baf-ae19-951920e9798e.jpg');">
+                                <a href="/article/72201">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72201">
+                                        늦가을 마지막 단풍놀이                                     </a>
+                                </em>
+                                <p class="excerpt">나의 가을은 끝나지 않았다! 아직 단풍놀이 못 간 당신을 위한 늦가을 추천 여행지.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/08/286c3ecb-139c-4baf-ae19-951920e9798e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한옥으로 출퇴근을 한다는 것]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72063</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71946</link>
             <guid>https://www.harpersbazaar.co.kr/article/71946</guid>
             <pubDate>Tue, 08 Nov 2022 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/c4d08ecd-9f82-43b1-a934-fc0206bef3b6.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/c4d08ecd-9f82-43b1-a934-fc0206bef3b6.jpg');">
                                 <a href="/article/71946">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71946">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">채정안의 인스타그램에서 찾은 힐링 스폿 3</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/9d2e1f14-8e0a-467d-b05d-53d111426dcf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀼트로 펼치는 업사이클링의 세계]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72015</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72015</guid>
-            <pubDate>Mon, 07 Nov 2022 15:04:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/8f917d19-5ec5-40b2-9020-7aa5f7e215ef.jpg');">
-                                <a href="/article/72015">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72015">
-                                        퀼트로 펼치는 업사이클링의 세계                                    </a>
-                                </em>
-                                <p class="excerpt">A.P.C.에서 선보이는&nbsp;퀼트 컬렉션 22 라운드.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/8f917d19-5ec5-40b2-9020-7aa5f7e215ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
