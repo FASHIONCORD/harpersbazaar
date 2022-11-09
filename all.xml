@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 15:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 03:58:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -792,6 +792,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/52163f76-f750-47f6-9b07-0b5c4e6795e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[술은 거들 뿐, 음악에 취한다는 #바이닐바 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72185</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72185</guid>
+            <pubDate>Wed, 09 Nov 2022 03:58:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/2e374f52-3843-4969-a037-03a384c44a8a.jpg');">
+                                <a href="/article/72185">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72185">
+                                        술은 거들 뿐, 음악에 취한다는 #바이닐바                                    </a>
+                                </em>
+                                <p class="excerpt">술보다 좋은 음악! 색다른 플레이리스트가 있는 바이닐 바. </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/2e374f52-3843-4969-a037-03a384c44a8a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미리 주문해야 할 연말 모임 이색 케이크 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72176</link>
             <guid>https://www.harpersbazaar.co.kr/article/72176</guid>
@@ -871,17 +896,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72168</link>
             <guid>https://www.harpersbazaar.co.kr/article/72168</guid>
             <pubDate>Mon, 07 Nov 2022 15:04:07 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/21a17013-f4ba-4608-b861-fdd74e275684.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/21a17013-f4ba-4608-b861-fdd74e275684.jpg');">
                                 <a href="/article/72168">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72168">
@@ -962,30 +986,6 @@
                                 <p class="excerpt">한옥의 신비로움에 한 발짝 다가서다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/40a52d4c-34c4-4c6b-b20b-9dc3b4254442.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입소문난 독립 영화 <성적표의 김민영> (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72052</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72052</guid>
-            <pubDate>Mon, 07 Nov 2022 09:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/05/31f99adb-434f-4af4-8894-d10d3a40bd84.jpg');">
-                                <a href="/article/72052">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72052">
-                                        입소문난 독립 영화 &lt;성적표의 김민영&gt;                                    </a>
-                                </em>
-                                <p class="excerpt">모든 걸 다 할 수 있지만 정작 아무것도 할 수 없는 나이. 어설픈 우월감, 알 수 없는 불안...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/05/31f99adb-434f-4af4-8894-d10d3a40bd84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지구를 위한 김 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
