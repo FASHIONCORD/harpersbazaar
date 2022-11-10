@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 03:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 09:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수면영양제 먹으면 정말 꿀잠 가능?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72221</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72221</guid>
+            <pubDate>Thu, 10 Nov 2022 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/ab2eba00-9e87-436e-a415-029ea7869ee4.jpg');">
+                                <a href="/article/72221">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72221">
+                                        수면영양제 먹으면 정말 꿀잠 가능?                                    </a>
+                                </em>
+                                <p class="excerpt">&lt;바자&gt;에디터 3인의 수면영양제 한 달 간 섭취 결과를 공개한다.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/ab2eba00-9e87-436e-a415-029ea7869ee4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울철 필수 아이템! 감각있고 향까지 좋은 신상 핸드크림]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72205</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72112</link>
             <guid>https://www.harpersbazaar.co.kr/article/72112</guid>
             <pubDate>Tue, 08 Nov 2022 15:03:09 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/23cd0a7c-daa7-4361-83b9-0a4c20353697.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/23cd0a7c-daa7-4361-83b9-0a4c20353697.jpg');">
                                 <a href="/article/72112">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72112">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한 해 중 가장 화려한 모습으로 출시되는 뷰티 브랜드의 홀리데이 에디션. 한정판인 만큼 빠르...</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/dc31168b-4a3f-46e6-9e50-99fc1a948b76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황민현의 꿀피부를 책임지는 뷰티템은 무엇?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72096</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72096</guid>
-            <pubDate>Fri, 04 Nov 2022 15:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/d343d08c-cf51-4e3d-95e4-1a36a815733f.jpg');">
-                                <a href="/article/72096">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72096">
-                                        황민현의 꿀피부를 책임지는 뷰티템은 무엇?                                    </a>
-                                </em>
-                                <p class="excerpt"> ‘황민수’ 하실래요?</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/d343d08c-cf51-4e3d-95e4-1a36a815733f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
