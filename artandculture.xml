@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 15:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 03:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['드라마 유목민'을 위한 11월 신상 처방전]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72110</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72110</guid>
+            <pubDate>Thu, 10 Nov 2022 03:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/fa7b2a24-035b-4429-9c8a-5d2c861caabb.jpg');">
+                                <a href="/article/72110">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72110">
+                                        '드라마 유목민'을 위한 11월 신상 처방전                                    </a>
+                                </em>
+                                <p class="excerpt">이제는 슬슬 정착할 때가 되었습니다</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/fa7b2a24-035b-4429-9c8a-5d2c861caabb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 제이홉→진→RM, 다음 솔로 누굴까?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72060</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/71953</link>
             <guid>https://www.harpersbazaar.co.kr/article/71953</guid>
             <pubDate>Fri, 04 Nov 2022 15:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/7e1ad83f-423f-4d3e-991a-2e3bc795fbc4.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/7e1ad83f-423f-4d3e-991a-2e3bc795fbc4.jpg');">
                                 <a href="/article/71953">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/71953">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">전시 추천! </p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/e43b255c-9c77-4f63-b388-fa3108b8868a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주말엔 여기서 소개팅해요 #소개팅핫플]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71873</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71873</guid>
-            <pubDate>Thu, 27 Oct 2022 15:03:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/7f8b7e95-62b4-49fe-b17e-0dd706e10cb5.jpg');">
-                                <a href="/article/71873">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71873">
-                                        이번 주말엔 여기서 소개팅해요 #소개팅핫플                                    </a>
-                                </em>
-                                <p class="excerpt">올해 연말에 외롭지 않으려면? 여기서 소개팅하세요.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/25/7f8b7e95-62b4-49fe-b17e-0dd706e10cb5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
