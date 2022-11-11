@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 09:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 15:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향기에 취한ㄷr...이제는 집에 향수 뿌려요. 요즘 대세 룸 스프레이]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72223</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72223</guid>
+            <pubDate>Fri, 11 Nov 2022 15:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/f807973b-7ed0-4bd0-b0fd-874a7a76c0fd.jpg');">
+                                <a href="/article/72223">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72223">
+                                        향기에 취한ㄷr...이제는 집에 향수 뿌려요. 요즘 대세 룸 스프레이                                     </a>
+                                </em>
+                                <p class="excerpt">집순이들은 더 나가기 싫은걸요... </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/f807973b-7ed0-4bd0-b0fd-874a7a76c0fd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수면영양제 먹으면 정말 꿀잠 가능?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72221</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72113</link>
             <guid>https://www.harpersbazaar.co.kr/article/72113</guid>
             <pubDate>Wed, 09 Nov 2022 09:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/a9f2bab4-a161-4257-bc50-84111a15e561.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/a9f2bab4-a161-4257-bc50-84111a15e561.jpg');">
                                 <a href="/article/72113">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72113">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">문별이 항상 가지고 다니는 아이템들 #왓츠인마이백</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/dae73e8d-0cd1-44ff-9c1e-c638c6f41158.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 득템 가능! 2022 홀리데이 에디션]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71887</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71887</guid>
-            <pubDate>Mon, 07 Nov 2022 15:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/dc31168b-4a3f-46e6-9e50-99fc1a948b76.jpg');">
-                                <a href="/article/71887">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71887">
-                                        미리 득템 가능! 2022 홀리데이 에디션                                    </a>
-                                </em>
-                                <p class="excerpt">한 해 중 가장 화려한 모습으로 출시되는 뷰티 브랜드의 홀리데이 에디션. 한정판인 만큼 빠르...</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/dc31168b-4a3f-46e6-9e50-99fc1a948b76.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

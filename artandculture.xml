@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 09:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 15:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나영석과 김태호, 스타 PD's 신작들 #이서진 #이효리]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72260</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72260</guid>
+            <pubDate>Fri, 11 Nov 2022 15:03:38 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/d0a1917e-a197-47e4-b299-dc45b18c3938.jpg');">
+                                <a href="/article/72260">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72260">
+                                        나영석과 김태호, 스타 PD's 신작들 #이서진 #이효리                                    </a>
+                                </em>
+                                <p class="excerpt">믿고 보는 예능 PD 옵니다 "나만 기대돼? 나만 설레?"</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/d0a1917e-a197-47e4-b299-dc45b18c3938.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공효진의 사랑법.. ♥케빈오 신곡 지원 사격]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72252</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72052</link>
             <guid>https://www.harpersbazaar.co.kr/article/72052</guid>
             <pubDate>Thu, 10 Nov 2022 09:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/05/31f99adb-434f-4af4-8894-d10d3a40bd84.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/05/31f99adb-434f-4af4-8894-d10d3a40bd84.jpg');">
                                 <a href="/article/72052">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72052">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">영블러드 아티스트 조기석 작가의 기묘한 아름다움, <fantasy> 사진전</fantasy></p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/c952d051-a9b7-4997-9a5a-95e941d86780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS와 블랙핑크, 美 '피플스 초이스' 후보 #K팝_국대]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71956</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71956</guid>
-            <pubDate>Mon, 07 Nov 2022 09:04:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/35d0f20f-cb36-4524-8156-767f7cb7815e.jpg');">
-                                <a href="/article/71956">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71956">
-                                        BTS와 블랙핑크, 美 '피플스 초이스' 후보 #K팝_국대                                    </a>
-                                </em>
-                                <p class="excerpt">대한민국은 방탄소년단과 블랙핑크 보유국 #어깨뽕</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/35d0f20f-cb36-4524-8156-767f7cb7815e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

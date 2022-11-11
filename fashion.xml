@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 09:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 15:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공항패션 말고 소집패션! 옷 잘 입는 축구 대표팀은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72219</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72219</guid>
+            <pubDate>Fri, 11 Nov 2022 15:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/d3d16321-7ca2-477e-817d-da3a6213dc37.jpg');">
+                                <a href="/article/72219">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72219">
+                                        공항패션 말고 소집패션! 옷 잘 입는 축구 대표팀은?                                     </a>
+                                </em>
+                                <p class="excerpt">축구 실력만큼 뛰어난 패션 센스</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/d3d16321-7ca2-477e-817d-da3a6213dc37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트랙 수트의 강렬한 매력에 푹 빠진 셀럽들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72216</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72054</link>
             <guid>https://www.harpersbazaar.co.kr/article/72054</guid>
             <pubDate>Tue, 08 Nov 2022 15:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/06/b7cd86cc-1105-44dc-bd5a-b938aed3b6d5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/06/b7cd86cc-1105-44dc-bd5a-b938aed3b6d5.jpg');">
                                 <a href="/article/72054">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72054">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">하이틴 영화 속 너드 걸의 스타일이 떠오르는 ‘못생긴’ 미디스커트의 매력에 빠질 때다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/0516f21b-93cf-4520-a8ac-c0d0b51f5db5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 가장 입기 편하고 힙한 후드 티셔츠, 셀럽들의 스타일링]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72106</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72106</guid>
-            <pubDate>Sun, 06 Nov 2022 15:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/b9751f4b-4058-4244-b4ec-58e3b91a5fb9.jpg');">
-                                <a href="/article/72106">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72106">
-                                        지금 가장 입기 편하고 힙한 후드 티셔츠, 셀럽들의 스타일링                                    </a>
-                                </em>
-                                <p class="excerpt">리사, 정호연, 아이유의 SNS 속 데일리룩   </p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/b9751f4b-4058-4244-b4ec-58e3b91a5fb9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
