@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 09:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 15:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -596,6 +596,31 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/27/35d0f20f-cb36-4524-8156-767f7cb7815e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-팝 축제 'MAMA 어워즈', 올해 누가 나오나? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72268</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72268</guid>
+            <pubDate>Sat, 12 Nov 2022 15:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/80bddae9-d545-4a2d-b8f1-dbd9496d7dfd.jpg');">
+                                <a href="/article/72268">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72268">
+                                        K-팝 축제 'MAMA 어워즈', 올해 누가 나오나?                                    </a>
+                                </em>
+                                <p class="excerpt">뉴진스·ITZY부터 지코·스키즈·임영웅까지 총출동</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/80bddae9-d545-4a2d-b8f1-dbd9496d7dfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나영석과 김태호, 스타 PD's 신작들 #이서진 #이효리 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72260</link>
             <guid>https://www.harpersbazaar.co.kr/article/72260</guid>
@@ -675,17 +700,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72159</link>
             <guid>https://www.harpersbazaar.co.kr/article/72159</guid>
             <pubDate>Thu, 10 Nov 2022 09:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/aee77961-2e4c-4bc5-b889-a629a00ea21b.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/aee77961-2e4c-4bc5-b889-a629a00ea21b.jpg');">
                                 <a href="/article/72159">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72159">
@@ -766,30 +790,6 @@
                                 <p class="excerpt">3번째 주자까지 공개된 BTS 솔로 활동.. 격하게 환영합니다!</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/dd5f38d9-ef00-4261-97a1-fc5337bf8f6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진가 조기석의 판타지 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71974</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71974</guid>
-            <pubDate>Mon, 07 Nov 2022 15:03:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/c952d051-a9b7-4997-9a5a-95e941d86780.jpg');">
-                                <a href="/article/71974">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/71974">
-                                        사진가 조기석의 판타지                                    </a>
-                                </em>
-                                <p class="excerpt">영블러드 아티스트 조기석 작가의 기묘한 아름다움, <fantasy> 사진전</fantasy></p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/c952d051-a9b7-4997-9a5a-95e941d86780.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울과 뉴욕의 평행이론 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
