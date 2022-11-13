@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Nov 2022 09:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 15:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한달 뒤엔 찾으면 없다? 미리 준비하는 크리스마스 슈톨렌]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72280</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72280</guid>
+            <pubDate>Sun, 13 Nov 2022 15:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/11/94403b6c-99e5-46a8-b181-9f347da88364.jpg');">
+                                <a href="/article/72280">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72280">
+                                        한달 뒤엔 찾으면 없다? 미리 준비하는 크리스마스 슈톨렌                                    </a>
+                                </em>
+                                <p class="excerpt">크리스마스를 기다리며 한조각씩 먹는 빵</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/11/94403b6c-99e5-46a8-b181-9f347da88364.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울과 뉴욕의 평행이론]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72076</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72241</link>
             <guid>https://www.harpersbazaar.co.kr/article/72241</guid>
             <pubDate>Fri, 11 Nov 2022 09:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/5ca367da-8ec3-471e-9d85-8e30588331f2.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/5ca367da-8ec3-471e-9d85-8e30588331f2.jpg');">
                                 <a href="/article/72241">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72241">
@@ -178,30 +202,6 @@
                                 <p class="excerpt"></p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/e5e7849d-1bde-40ec-bc10-dae19b777d7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늦가을 마지막 단풍놀이]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72201</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72201</guid>
-            <pubDate>Wed, 09 Nov 2022 15:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/08/286c3ecb-139c-4baf-ae19-951920e9798e.jpg');">
-                                <a href="/article/72201">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72201">
-                                        늦가을 마지막 단풍놀이                                     </a>
-                                </em>
-                                <p class="excerpt">나의 가을은 끝나지 않았다! 아직 단풍놀이 못 간 당신을 위한 늦가을 추천 여행지.</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/08/286c3ecb-139c-4baf-ae19-951920e9798e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
