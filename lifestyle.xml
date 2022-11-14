@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 03:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 09:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹으려고 등산합니다, 서울 등산 맛집 4]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72283</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72283</guid>
+            <pubDate>Mon, 14 Nov 2022 09:04:27 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/11/2689d7b5-c09b-4e9e-8902-50547170878f.jpg');">
+                                <a href="/article/72283">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72283">
+                                        먹으려고 등산합니다, 서울 등산 맛집 4                                    </a>
+                                </em>
+                                <p class="excerpt">과식으로 칼로리 도루묵 되어도 괜찮아 </p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/11/2689d7b5-c09b-4e9e-8902-50547170878f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어나더클래스인 축구선수 연봉, 메시·호날두 제친 연봉 1800억 주인공은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72282</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72192</link>
             <guid>https://www.harpersbazaar.co.kr/article/72192</guid>
             <pubDate>Fri, 11 Nov 2022 09:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/16f4e364-ab25-4198-b746-9d85f31c9c27.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/16f4e364-ab25-4198-b746-9d85f31c9c27.jpg');">
                                 <a href="/article/72192">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72192">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">한옥의 신비로움에 한 발짝 다가서다.</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/83fb97f1-8e82-4718-812a-dcb996ea0855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공항패션 말고 소집패션! 옷 잘 입는 축구 대표팀은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72219</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72219</guid>
-            <pubDate>Thu, 10 Nov 2022 15:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/d3d16321-7ca2-477e-817d-da3a6213dc37.jpg');">
-                                <a href="/article/72219">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72219">
-                                        공항패션 말고 소집패션! 옷 잘 입는 축구 대표팀은?                                     </a>
-                                </em>
-                                <p class="excerpt">축구 실력만큼 뛰어난 패션 센스</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/d3d16321-7ca2-477e-817d-da3a6213dc37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
