@@ -4,9 +4,34 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 03:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 09:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완벽한 홀리데이 메이크업을 위한 PICK]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72103</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72103</guid>
+            <pubDate>Wed, 16 Nov 2022 09:03:04 GMT</pubDate>
+            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
+                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/2590df74-fb45-4386-a7ee-bedafcbaefb4.jpg');">
+                                <a href="/article/72103">
+                                    <img alt="" src="">
+                                </a>
+                            </div>
+                            <!-- <div class="imgbox">
+                                <a href="/article/">
+                                    <img src="" alt="">
+                                </a>
+                            </div> -->
+                            <div class="textbox">
+                                                        <em class="title">
+                                    <a href="/article/72103">
+                                        완벽한 홀리데이 메이크업을 위한 PICK                                    </a>
+                                </em>
+                                <p class="excerpt">달에서 영감을 받은 샤넬 메이크업 컬렉션.</p>
+                            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/2590df74-fb45-4386-a7ee-bedafcbaefb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향기에 취한ㄷr...이제는 집에 향수 뿌려요. 요즘 대세 룸 스프레이]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72223</link>
@@ -87,17 +112,16 @@
             <link>https://www.harpersbazaar.co.kr/article/72018</link>
             <guid>https://www.harpersbazaar.co.kr/article/72018</guid>
             <pubDate>Wed, 09 Nov 2022 09:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<!-- 2022-01-07 수정 -->
-                            <div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/3e937b92-a1ac-4ed9-95bc-6646ebb81505.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/3e937b92-a1ac-4ed9-95bc-6646ebb81505.jpg');">
                                 <a href="/article/72018">
                                     <img alt="" src="">
                                 </a>
                             </div>
-                            <!-- <div class="imgbox">
-                                <a href="/article/">
-                                    <img src="" alt="">
-                                </a>
-                            </div> -->
+<!--                            <div class="imgbox">-->
+<!--                                <a href="/article/--><!--">-->
+<!--                                    <img src="--><!--" alt="--><!--">-->
+<!--                                </a>-->
+<!--                            </div>-->
                             <div class="textbox">
                                                         <em class="title">
                                     <a href="/article/72018">
@@ -178,30 +202,6 @@
                                 <p class="excerpt">20년 동안 한결같은 모습을 유지하는 방법</p>
                             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/59867168-d2b9-4239-96da-cb076b0721a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마마무 문별의 최애 향수와 립밤은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72107</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72107</guid>
-            <pubDate>Tue, 08 Nov 2022 03:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/dae73e8d-0cd1-44ff-9c1e-c638c6f41158.jpg');">
-                                <a href="/article/72107">
-                                    <img alt="" src="">
-                                </a>
-                            </div>
-<!--                            <div class="imgbox">-->
-<!--                                <a href="/article/--><!--">-->
-<!--                                    <img src="--><!--" alt="--><!--">-->
-<!--                                </a>-->
-<!--                            </div>-->
-                            <div class="textbox">
-                                                        <em class="title">
-                                    <a href="/article/72107">
-                                        마마무 문별의 최애 향수와 립밤은?                                    </a>
-                                </em>
-                                <p class="excerpt">문별이 항상 가지고 다니는 아이템들 #왓츠인마이백</p>
-                            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/dae73e8d-0cd1-44ff-9c1e-c638c6f41158.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
