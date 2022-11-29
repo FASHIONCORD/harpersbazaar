@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 15:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 03:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올겨울 반드시 곁에 두어야 할 아우터 네 가지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34863191&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34863191&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 29 Nov 2022 03:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjlfMjM2/MDAxNjY5NjgyNjk5NjUw.Hzm9q4KXR50lK4-L4X14XfcfgYV1swnuUTRPuoG6TOkg.Q6F2lBBtIKYysr_LvF7xxMddMbYzO1uM7f-3i2_Y6c0g.JPEG/IkLzhsRPVKhGBV3t5oMaBDkXQiAc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 겨울, 꼭 알아둬야 할 남자 니트 맛집]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34843861&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:35:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjRfODMg/MDAxNjY2NTgxMjgyMTA3.EGDTt8EBM1-iMG1XG-meLdb8AK5oszAhUFKygCX8410g.XCUXzZ2VypCK_fFlGdIDAw_jSCpgyab9sAX4wWVqrYIg.JPEG/Il0WYNbULv0lL4MGp98x0r-5FA_0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 룩도 ‘힙’하게 만들어 줄 마법의 웨스턴 부츠]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34658295&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34658295&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjBfMjc1/MDAxNjY2MjQ5NzQwOTM1.PcTzTju9k1BRwv130P05oXBU15_4P6A3bcr6_tLzSnwg.EUoQBW4-0z_B6e1eVg6VFJSsLossXYH3UfuI23nk7S0g.JPEG/IzlBmpie9T_sKcxF763-k5GMCKP4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
