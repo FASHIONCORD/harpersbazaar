@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 09:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 15:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -857,6 +857,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한파 특보! 아르켓, 앤아더스토리즈, 자라에서 픽한 발라클라바 추천 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73033</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73033</guid>
+            <pubDate>Fri, 02 Dec 2022 15:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[스파브랜드에 고르고 고른 발라클라바]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/56d1dea9-7373-4b07-97cf-70b8ccf41d72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이코닉, 에트로 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72898</link>
             <guid>https://www.harpersbazaar.co.kr/article/72898</guid>
@@ -917,7 +925,23 @@
             <link>https://www.harpersbazaar.co.kr/article/72779</link>
             <guid>https://www.harpersbazaar.co.kr/article/72779</guid>
             <pubDate>Wed, 30 Nov 2022 09:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[오버사이즈 룩을 입고 대담하게 카메라를 응시하는 배우 김성령.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/f983e29e-6eb2-4eff-8e53-365ef7e1823a.jpg');">
+            <a href="/article/72779">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72779">
+                    오버사이즈 룩은 김성령처럼!                </a>
+            </em>
+            <p class="excerpt">오버사이즈 룩을 입고 대담하게 카메라를 응시하는 배우 김성령.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/f983e29e-6eb2-4eff-8e53-365ef7e1823a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1070,22 +1094,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72693</guid>
             <pubDate>Mon, 28 Nov 2022 09:02:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/c2ec57c7-f27b-45e3-b9ec-6959aacd5d06.jpg');">
-            <a href="/article/72693">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72693">
-                    그라운드 위 주인공으로 만들어줄 ‘신상’ 축구화 2 #신상신go                </a>
-            </em>
-            <p class="excerpt">경기 관람만 하지말고 직접 그라운드로 나서보자! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72693">
+                        그라운드 위 주인공으로 만들어줄 ‘신상’ 축구화 2 #신상신go                    </a>
+                </em>
+                <p class="excerpt">경기 관람만 하지말고 직접 그라운드로 나서보자! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/c2ec57c7-f27b-45e3-b9ec-6959aacd5d06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1207,30 +1231,6 @@
                 <p class="excerpt">쿨한 스타일은 물론 보온성까지 갖춘 필수 아이템! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/6d679eee-5e49-4be3-92f7-0e85db979145.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알레산드로 미켈레, 구찌와 헤어질 결심 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72642</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72642</guid>
-            <pubDate>Fri, 25 Nov 2022 03:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/5f0d219c-28ec-4651-9fa0-1554193645c1.jpg');">
-                <a href="/article/72642">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72642">
-                        알레산드로 미켈레, 구찌와 헤어질 결심                    </a>
-                </em>
-                <p class="excerpt">20년의 특별한 여정을 마친 알레산드로 미켈레</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/5f0d219c-28ec-4651-9fa0-1554193645c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여전히 마스크 트러블로 고민하고 있다면? 유산균을 발라! (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -2361,6 +2361,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/80bddae9-d545-4a2d-b8f1-dbd9496d7dfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나만 알고 싶은 사적인 캠핑스팟 3 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72994</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72994</guid>
+            <pubDate>Fri, 02 Dec 2022 15:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[한겨울이 들이닥치기 전에 후딱 떠나야 한다. 캠핑 계절의 끝물에 떠나는 캠핑장 3곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/6c2f25cf-95d9-4b3a-a256-8fecda309b25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알아두면 쓸데있는 리세일 플랫폼 9 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72822</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72822</guid>
+            <pubDate>Fri, 02 Dec 2022 15:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 리세일 플랫폼이 궁금하다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/615acb89-f828-4cd2-8461-9916fd6c439c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[덮밥 먹으면 덥다? 성시경이 강추하는 #덮밥레시피 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72932</link>
             <guid>https://www.harpersbazaar.co.kr/article/72932</guid>
@@ -2413,7 +2429,23 @@
             <link>https://www.harpersbazaar.co.kr/article/72821</link>
             <guid>https://www.harpersbazaar.co.kr/article/72821</guid>
             <pubDate>Thu, 01 Dec 2022 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[베스티에르 콜렉티브, 트렌비, 발란? 획기적인 방식으로 주목받고 있는 리세일 플랫폼은 무엇?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/cdbe9185-f8cc-4080-8cb2-f7c48e49cb6f.jpg');">
+            <a href="/article/72821">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72821">
+                    중고 명품 전성시대                </a>
+            </em>
+            <p class="excerpt">베스티에르 콜렉티브, 트렌비, 발란? 획기적인 방식으로 주목받고 있는 리세일 플랫폼은 무엇?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/cdbe9185-f8cc-4080-8cb2-f7c48e49cb6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2421,7 +2453,23 @@
             <link>https://www.harpersbazaar.co.kr/article/72847</link>
             <guid>https://www.harpersbazaar.co.kr/article/72847</guid>
             <pubDate>Thu, 01 Dec 2022 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[맛, 향, 탄산, 목 넘김까지 따져볼까]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/c6c7dca7-4141-4945-8bbd-66224d049417.jpg');">
+            <a href="/article/72847">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72847">
+                    나는 알콜프리 근데 취해~ 내 입맛에 맞는 논알콜 맥주는?                </a>
+            </em>
+            <p class="excerpt">맛, 향, 탄산, 목 넘김까지 따져볼까</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/c6c7dca7-4141-4945-8bbd-66224d049417.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2550,22 +2598,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72761</guid>
             <pubDate>Tue, 29 Nov 2022 15:06:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/2c7ebe86-5598-41b8-896c-ab3268b075b6.jpg');">
-            <a href="/article/72761">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72761">
-                    16강 진출을 위해 반드시 잡아야 할 가나! 주목해야 할 선수는?                </a>
-            </em>
-            <p class="excerpt">피파 랭킹이 낮다고 얕보면 안될 것! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72761">
+                        16강 진출을 위해 반드시 잡아야 할 가나! 주목해야 할 선수는?                    </a>
+                </em>
+                <p class="excerpt">피파 랭킹이 낮다고 얕보면 안될 것! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/2c7ebe86-5598-41b8-896c-ab3268b075b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2574,22 +2622,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72644</guid>
             <pubDate>Tue, 29 Nov 2022 15:06:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/4d949c47-b58e-4eca-b35f-c496653886da.jpg');">
-            <a href="/article/72644">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72644">
-                    성덕이 되는 법: 희망 편                </a>
-            </em>
-            <p class="excerpt">무한한 덕질을 꿈꾸는 우리에게 희망은 있을까? </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72644">
+                        성덕이 되는 법: 희망 편                    </a>
+                </em>
+                <p class="excerpt">무한한 덕질을 꿈꾸는 우리에게 희망은 있을까? </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/4d949c47-b58e-4eca-b35f-c496653886da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2689,52 +2737,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/a05309ce-148f-46be-aabe-02e802c8c9dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금껏 내가 알던 캐러멜이 아냐! 마성의 #수제캐러멜맛집 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72715</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72715</guid>
-            <pubDate>Sun, 27 Nov 2022 15:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/5db67e78-36eb-463d-aab0-6d280142bdd2.jpg');">
-                <a href="/article/72715">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72715">
-                        지금껏 내가 알던 캐러멜이 아냐! 마성의 #수제캐러멜맛집                    </a>
-                </em>
-                <p class="excerpt">한번 빠지면 헤어날 수 없는 마성! 요즘 핫한 디저트 수제 캐러멜 숍. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/5db67e78-36eb-463d-aab0-6d280142bdd2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[알아두면 쓸데있는 지속가능성 인증기관 3탄 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71807</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71807</guid>
+            <pubDate>Fri, 02 Dec 2022 15:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[BCI? GOTS? GRS? 친환경 의류 제품을 구입하거나 관련 기사를 접할 때마다 마주하는 어려운...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/10461499-d756-4e5c-8a57-8626ef3bf638.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[셀럽들도 인생샷 찍으러 달려간다는 백화점 연말 장식! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72707</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72707</guid>
-            <pubDate>Sun, 27 Nov 2022 15:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/057f5ada-e45a-44fe-b761-b6c4b342c895.jpg');">
-                <a href="/article/72707">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72707">
-                        셀럽들도 인생샷 찍으러 달려간다는 백화점 연말 장식!                     </a>
-                </em>
-                <p class="excerpt">1년에 단 한번! 인생샷 남길 수 있는 포토존 명당은 어디?   </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/057f5ada-e45a-44fe-b761-b6c4b342c895.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[알아두면 쓸데있는 지속가능성 인증기관 2탄 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/71806</link>
+            <guid>https://www.harpersbazaar.co.kr/article/71806</guid>
+            <pubDate>Fri, 02 Dec 2022 15:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[BCI? GOTS? GRS? 친환경 의류 제품을 구입하거나 관련 기사를 접할 때마다 마주하는 어려운...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/a17c347d-9a3c-4b12-88e2-b7a2a2bc7b94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[친환경 의류 구입 시, 자주 보이는 지속가능성 인증기관 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
@@ -2789,7 +2805,23 @@
             <link>https://www.harpersbazaar.co.kr/article/70315</link>
             <guid>https://www.harpersbazaar.co.kr/article/70315</guid>
             <pubDate>Thu, 27 Oct 2022 04:03:50 GMT</pubDate>
-            <content:encoded><![CDATA[혼자서는 세상을 바꿀 수 없다. 현재 벌어지고 있는 패션계의 자정작용.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/44b63e74-e5e0-4bf9-a373-90923e32d8f0.jpg');">
+            <a href="/article/70315">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/70315">
+                    지속가능한 패션을 위한 브랜드의 노력                </a>
+            </em>
+            <p class="excerpt">혼자서는 세상을 바꿀 수 없다. 현재 벌어지고 있는 패션계의 자정작용. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/44b63e74-e5e0-4bf9-a373-90923e32d8f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2797,7 +2829,23 @@
             <link>https://www.harpersbazaar.co.kr/article/70314</link>
             <guid>https://www.harpersbazaar.co.kr/article/70314</guid>
             <pubDate>Fri, 14 Oct 2022 04:47:36 GMT</pubDate>
-            <content:encoded><![CDATA[혼자서는 세상을 바꿀 수 없다. 현재 벌어지고 있는 패션계의 자정작용.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/e4f993bc-bca4-499a-ad7c-d5ff4ded43cc.jpg');">
+            <a href="/article/70314">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/70314">
+                    기후 변화에 대응하는 달라진 컬렉션 풍경                </a>
+            </em>
+            <p class="excerpt">혼자서는 세상을 바꿀 수 없다. 현재 벌어지고 있는 패션계의 자정작용. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/14/e4f993bc-bca4-499a-ad7c-d5ff4ded43cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2926,22 +2974,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/68516</guid>
             <pubDate>Mon, 21 Nov 2022 15:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg');">
-            <a href="/article/68516">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/68516">
-                    그린슈머들이 첫 제품으로 많이 사용하는 이것은?                </a>
-            </em>
-            <p class="excerpt">지구와 친해지고 싶다면 바로 이 제품부터! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/68516">
+                        그린슈머들이 첫 제품으로 많이 사용하는 이것은?                    </a>
+                </em>
+                <p class="excerpt">지구와 친해지고 싶다면 바로 이 제품부터! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/51632ff3-75d0-40cb-b23c-72712a1aeb98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2950,22 +2998,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/68202</guid>
             <pubDate>Mon, 21 Nov 2022 15:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg');">
-            <a href="/article/68202">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/68202">
-                    동해 바다에서 플로깅하고 공짜로 과자 먹는 방법은? #씨낵                </a>
-            </em>
-            <p class="excerpt">바다 쓰레기 주우면 과자 드려요! 쇼미더과자! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/68202">
+                        동해 바다에서 플로깅하고 공짜로 과자 먹는 방법은? #씨낵                    </a>
+                </em>
+                <p class="excerpt">바다 쓰레기 주우면 과자 드려요! 쇼미더과자! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b1ab64fd-9cd1-46dc-ab1d-a816fc9b852e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3063,54 +3111,6 @@
                 <p class="excerpt">시계 업계에서의 지속가능성은 워치메이킹의 모든 공정과 단계에 적용되고 있다. 그뿐이 아니다. ...</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/fc26cfbe-7d4a-436f-99af-39bcfe823ca8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤리적인 다이아몬드 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/66756</link>
-            <guid>https://www.harpersbazaar.co.kr/article/66756</guid>
-            <pubDate>Mon, 21 Nov 2022 15:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg');">
-                <a href="/article/66756">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/66756">
-                        윤리적인 다이아몬드                    </a>
-                </em>
-                <p class="excerpt">진정으로 윤리적인 다이아몬드가 존재할까?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/09f4c9f3-40be-4d0f-b6b0-6bdcaec1987d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰레기 백과사전이 있다면? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/65886</link>
-            <guid>https://www.harpersbazaar.co.kr/article/65886</guid>
-            <pubDate>Mon, 21 Nov 2022 15:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg');">
-                <a href="/article/65886">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/65886">
-                        쓰레기 백과사전이 있다면?                    </a>
-                </em>
-                <p class="excerpt">소량 남은 향수와 치약, 낡은 배드민턴 라켓, 택배 상자에 동봉된 아이스팩, 빈 프링글스 통은...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/0a1f6dbd-2825-412b-943f-54a7227e6b83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
