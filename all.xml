@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 15:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 03:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1985,6 +1985,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/22/7aa1afc5-18e7-4d1f-b041-720f3306b92c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임영웅, 'MMA 2022' 5관왕.. BTS·아이브 4관왕 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72731</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72731</guid>
+            <pubDate>Sat, 03 Dec 2022 03:05:59 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅의 시대! 올해의 앨범·아티스트 휩쓴 주인공]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/26/ca26dcaf-60e9-4aad-9387-511a811f9e6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[탕웨이 웃고 울린 '청룡영화상'.. <헤어질 결심> 6관왕 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72730</link>
             <guid>https://www.harpersbazaar.co.kr/article/72730</guid>
@@ -2045,7 +2053,23 @@
             <link>https://www.harpersbazaar.co.kr/article/72550</link>
             <guid>https://www.harpersbazaar.co.kr/article/72550</guid>
             <pubDate>Thu, 24 Nov 2022 15:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[1만부터 5만원 대까지. 크리스마스 무드를 업시켜 줄 갓성비 데코 아이템!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/22/9cc266b0-17f6-4ab5-820d-f04e06a8b1ad.jpg');">
+            <a href="/article/72550">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72550">
+                    크리스마스 분위기 살리는 갓성비 데코 아이템?                 </a>
+            </em>
+            <p class="excerpt">1만부터 5만원 대까지. 크리스마스 무드를 업시켜 줄 갓성비 데코 아이템! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/22/9cc266b0-17f6-4ab5-820d-f04e06a8b1ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2198,22 +2222,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72328</guid>
             <pubDate>Thu, 24 Nov 2022 15:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/8fd5ca81-b24b-45db-92eb-488c2df20af2.jpg');">
-            <a href="/article/72328">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72328">
-                    한국 그랜드 투어를 떠나다                 </a>
-            </em>
-            <p class="excerpt">피크닉 «국내여행»이 소개하는 전국의 여행지. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72328">
+                        한국 그랜드 투어를 떠나다                     </a>
+                </em>
+                <p class="excerpt">피크닉 «국내여행»이 소개하는 전국의 여행지. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/8fd5ca81-b24b-45db-92eb-488c2df20af2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2335,30 +2359,6 @@
                 <p class="excerpt">고우림 속한 포레스텔라 12월 컴백+2023년 투어 확정</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/11b74ed1-38e0-49dc-ac36-ddefb8435b2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-팝 축제 'MAMA 어워즈', 올해 누가 나오나? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72268</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72268</guid>
-            <pubDate>Sat, 12 Nov 2022 15:03:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/80bddae9-d545-4a2d-b8f1-dbd9496d7dfd.jpg');">
-                <a href="/article/72268">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72268">
-                        K-팝 축제 'MAMA 어워즈', 올해 누가 나오나?                    </a>
-                </em>
-                <p class="excerpt">뉴진스·ITZY부터 지코·스키즈·임영웅까지 총출동</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/80bddae9-d545-4a2d-b8f1-dbd9496d7dfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 사적인 캠핑스팟 3 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
