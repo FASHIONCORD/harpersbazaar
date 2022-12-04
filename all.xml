@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 09:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 15:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -857,6 +857,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[손목 위 팝아트의 향연 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73006</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73006</guid>
+            <pubDate>Sun, 04 Dec 2022 15:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[스마트 워치, 타임플릭으로 스타일을 입다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/d9c2b9f1-fb75-41b0-a8da-aa79f2c37226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다이아몬드 커팅의 세계 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/72883</link>
             <guid>https://www.harpersbazaar.co.kr/article/72883</guid>
@@ -917,7 +925,23 @@
             <link>https://www.harpersbazaar.co.kr/article/72860</link>
             <guid>https://www.harpersbazaar.co.kr/article/72860</guid>
             <pubDate>Thu, 01 Dec 2022 09:02:14 GMT</pubDate>
-            <content:encoded><![CDATA['내돈내산' 아이비가 직접 써보고 추천하는 무조건 '쟁여템'!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/50811a28-5bc0-4a43-b093-993c5c13315d.jpg');">
+            <a href="/article/72860">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72860">
+                    꿀 피부 대명사 아이비가 N통째 쓴다는 쟁여템?                </a>
+            </em>
+            <p class="excerpt">'내돈내산' 아이비가 직접 써보고 추천하는 무조건 '쟁여템'! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/50811a28-5bc0-4a43-b093-993c5c13315d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1070,22 +1094,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72728</guid>
             <pubDate>Mon, 28 Nov 2022 15:03:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/26/15099efe-0625-4fd7-b4e7-6c098ad06511.jpg');">
-            <a href="/article/72728">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72728">
-                    아는 만큼 득템한다, 이청아의 미국 중고마켓 쇼핑 꿀팁                </a>
-            </em>
-            <p class="excerpt">패션 센스 좋기로 유명한 이청아! 그녀의 빈티지 마켓 쇼핑 꿀팁은? </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72728">
+                        아는 만큼 득템한다, 이청아의 미국 중고마켓 쇼핑 꿀팁                    </a>
+                </em>
+                <p class="excerpt">패션 센스 좋기로 유명한 이청아! 그녀의 빈티지 마켓 쇼핑 꿀팁은? </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/26/15099efe-0625-4fd7-b4e7-6c098ad06511.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1207,30 +1231,6 @@
                 <p class="excerpt">맛집, 멋집</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/5596fdee-5f5a-40a2-8aa0-893e1ee427ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿바이. 알렉산드로 미켈레가 구찌에서 7년동안 한 일 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72675</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72675</guid>
-            <pubDate>Sun, 27 Nov 2022 15:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/2c4f10e6-12b5-4971-b441-9c67f606a68f.jpg');">
-                <a href="/article/72675">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72675">
-                        굿바이. 알렉산드로 미켈레가 구찌에서 7년동안 한 일                     </a>
-                </em>
-                <p class="excerpt">그는 구찌에서 20년을 몸담았다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/2c4f10e6-12b5-4971-b441-9c67f606a68f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특별한 홀리데이 기프트? 영롱한 샤넬 립밤이 제격! (하퍼스바자 코리아 ─ 뷰티)]]></title>
