@@ -4,16 +4,24 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Beauty</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 03:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마법 같은 스킨케어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34909984&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34909984&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 07 Dec 2022 09:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMTI5/MDAxNjcwMzkwNjQ5NjMx.2SP5wDPxbzfkW_XQGuJSneKulQ586XHKjRem02eBwPYg.PTYQqbYrKVFcFwnw5tjwUqfjreUepmlLGJIv4QSLxxEg.JPEG/I8KFw87MaZPsuVEa93Wru2BDKxl0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나 홀로 집에? 집순이에게 딱 필요한 연말템]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34906309&amp;memberNo=41829949&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34906309&amp;memberNo=41829949&amp;navigationType=push</guid>
             <pubDate>Wed, 07 Dec 2022 03:14:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDdfMjAg/MDAxNjcwMzkzMDUzMTc4.axvb5t8adeKg-61MQ4CIuqJ7kL3HcPW7JiNRxmXTu50g.cdPGvuuWq3rKaIXE9ue4rSAy0GEEGXvGIRTPX4JJ9O8g.JPEG/I2KnY1U-3I4VeikkodH_H50FPLK0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤기나는 머릿결을 위한 홀리데이 원 픽]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:35:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDhfNjgg/MDAxNjU5OTQ1OTczNTU1.cJlVm8Mlj8hN4L1vBgtVD9NrrvWlNH4cz9mdxtPgUGQg.R9pHCA1e9IHQk-nO_I4lW-2lw4MQgt6PahPOKDrMpvsg.JPEG/IaTvZqPSH-pEcFgBzIaS6psikChk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 여름부터 가을까지 유행할 헤어 스타일]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34273235&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34273235&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
