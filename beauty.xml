@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 09:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홀리데이 맞이 스킨 케어, 듀엠 하나로!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73154</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73154</guid>
+            <pubDate>Thu, 08 Dec 2022 09:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[듀엠으로 완성하는 속부터 차오르는 나만의 빛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/06/6fb96497-0995-4017-8bd5-e7b348ef1a9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤기나는 머릿결을 위한 홀리데이 원 픽]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73104</link>
@@ -29,7 +37,7 @@
             <guid>https://www.harpersbazaar.co.kr/article/72909</guid>
             <pubDate>Wed, 07 Dec 2022 09:05:24 GMT</pubDate>
             <content:encoded><![CDATA[기쁘지도 슬프지도 않은데 나도 모르게 눈물이 흐른다면? 눈물흘림증을 앓고 있을지 모른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/04/4776f435-0491-48d5-ab43-ba98e2a7b035.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/08/4776f435-0491-48d5-ab43-ba98e2a7b035.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NO 광고! 헬스 10년 차가 추천하는 내돈내산 다이어트 음식]]></title>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/72902</link>
             <guid>https://www.harpersbazaar.co.kr/article/72902</guid>
             <pubDate>Sun, 04 Dec 2022 03:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 루쥬 코코 밤으로 은은하게 반짝이는 홀리데이.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/22fd501a-000f-45a9-92be-c22eabb0a497.jpg');">
+            <a href="/article/72902">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72902">
+                    특별한 홀리데이 기프트? 영롱한 샤넬 립밤이 제격!                </a>
+            </em>
+            <p class="excerpt">샤넬 루쥬 코코 밤으로 은은하게 반짝이는 홀리데이.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/22fd501a-000f-45a9-92be-c22eabb0a497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72777</guid>
             <pubDate>Wed, 30 Nov 2022 15:05:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/7c97200f-b54b-4586-bad2-76435e254e04.jpg');">
-            <a href="/article/72777">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72777">
-                    겨울만 되면 메이크업이 들뜨는 당신에게 알려주는 전문가의 꿀팁                 </a>
-            </em>
-            <p class="excerpt">파운데이션의 밀착력과 지속력을 높여주는 고수들의 전략은? </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72777">
+                        겨울만 되면 메이크업이 들뜨는 당신에게 알려주는 전문가의 꿀팁                     </a>
+                </em>
+                <p class="excerpt">파운데이션의 밀착력과 지속력을 높여주는 고수들의 전략은? </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/7c97200f-b54b-4586-bad2-76435e254e04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">비건 제품의 아쉬움을 극복하기 위해 탄생한 '에스투파' 론칭 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/371fb30d-ea11-4fae-b522-f655004de1a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 뷰티 아이콘 등장! MZ세대 취향저격 모델 유채원의 블리치 아이브로우 메이크업]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72712</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72712</guid>
-            <pubDate>Mon, 28 Nov 2022 09:02:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/176f88cb-efae-41df-a9ae-553527341e6a.jpg');">
-                <a href="/article/72712">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72712">
-                        뉴 뷰티 아이콘 등장! MZ세대 취향저격 모델 유채원의 블리치 아이브로우 메이크업                    </a>
-                </em>
-                <p class="excerpt">피어싱에 도전해 보고 싶다면? 의외로 간단해!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/176f88cb-efae-41df-a9ae-553527341e6a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
