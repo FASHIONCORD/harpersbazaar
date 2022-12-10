@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 15:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 03:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1233,6 +1233,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/56d1dea9-7373-4b07-97cf-70b8ccf41d72.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마법 같은 스킨케어 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73169</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73169</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[마녀공장으로 채우는 특별한 스킨케어 루틴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/07/1ff5087d-f4ec-45b4-afa4-15ab8b3d875d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여기가 바로 얼굴 미슐랭 만드는 골드 맛집! (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73024</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73024</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[홀리데이 시즌, 존재감을 발휘할 금빛 하이라이터.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/07/c4102381-7742-4c73-a67a-b7cc112e7454.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[홀리데이 맞이 스킨 케어, 듀엠 하나로! (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73154</link>
             <guid>https://www.harpersbazaar.co.kr/article/73154</guid>
@@ -1262,7 +1278,7 @@
             <guid>https://www.harpersbazaar.co.kr/article/72909</guid>
             <pubDate>Wed, 07 Dec 2022 09:05:24 GMT</pubDate>
             <content:encoded><![CDATA[기쁘지도 슬프지도 않은데 나도 모르게 눈물이 흐른다면? 눈물흘림증을 앓고 있을지 모른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/08/4776f435-0491-48d5-ab43-ba98e2a7b035.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/4776f435-0491-48d5-ab43-ba98e2a7b035.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NO 광고! 헬스 10년 차가 추천하는 내돈내산 다이어트 음식 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1285,7 +1301,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73009</link>
             <guid>https://www.harpersbazaar.co.kr/article/73009</guid>
             <pubDate>Mon, 05 Dec 2022 09:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[신비로운 미드 나잇, 안나수이 홀리데이 컬렉션.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/8ca5bb57-8def-45f7-bd98-72a3c5848d36.jpg');">
+            <a href="/article/73009">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73009">
+                    안나수이라는 판타지                </a>
+            </em>
+            <p class="excerpt">신비로운 미드 나잇, 안나수이 홀리데이 컬렉션.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/8ca5bb57-8def-45f7-bd98-72a3c5848d36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1293,8 +1325,288 @@
             <link>https://www.harpersbazaar.co.kr/article/72908</link>
             <guid>https://www.harpersbazaar.co.kr/article/72908</guid>
             <pubDate>Mon, 05 Dec 2022 09:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[비디비치 스킨 일루미네이션으로 완성하는 장밋빛 피부.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/9a6d2869-374b-426c-b120-77f2568db752.jpg');">
+            <a href="/article/72908">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72908">
+                    홀리데이를 위한 피부 관리의 시작                </a>
+            </em>
+            <p class="excerpt">비디비치 스킨 일루미네이션으로 완성하는 장밋빛 피부.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/9a6d2869-374b-426c-b120-77f2568db752.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별한 홀리데이 기프트? 영롱한 샤넬 립밤이 제격! (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72902</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72902</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/22fd501a-000f-45a9-92be-c22eabb0a497.jpg');">
+            <a href="/article/72902">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72902">
+                    특별한 홀리데이 기프트? 영롱한 샤넬 립밤이 제격!                </a>
+            </em>
+            <p class="excerpt">샤넬 루쥬 코코 밤으로 은은하게 반짝이는 홀리데이.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/22fd501a-000f-45a9-92be-c22eabb0a497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여전히 마스크 트러블로 고민하고 있다면? 유산균을 발라! (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72826</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72826</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/ae8feddf-7b39-4898-adb5-de19070b1ad4.jpg');">
+            <a href="/article/72826">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72826">
+                    여전히 마스크 트러블로 고민하고 있다면? 유산균을 발라!                </a>
+            </em>
+            <p class="excerpt">피부 생태계의 균형을 맞추는 것이 시급하다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/ae8feddf-7b39-4898-adb5-de19070b1ad4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전소미, 정은지, 유아처럼 선명한 복근 만드는 법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72917</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72917</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/616a0b05-c022-4a64-8f2a-44aaa0a50621.jpg');">
+            <a href="/article/72917">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72917">
+                    전소미, 정은지, 유아처럼 선명한 복근 만드는 법                 </a>
+            </em>
+            <p class="excerpt">날씨가 추워져도 셀럽들의 복근은 건재하다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/616a0b05-c022-4a64-8f2a-44aaa0a50621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 홀로 집에? 집순이에게 딱 필요한 연말템 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72851</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72851</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/ce7d098e-4598-4e35-946f-8e3c42da7117.jpg');">
+            <a href="/article/72851">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72851">
+                    나 홀로 집에? 집순이에게 딱 필요한 연말템                </a>
+            </em>
+            <p class="excerpt">연말 분위기를 업시키는 로맨틱한 홀리데이 캔들 리스트.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/ce7d098e-4598-4e35-946f-8e3c42da7117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 향을 입는 법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72855</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72855</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/6643916e-db67-48c1-bd10-636ee348c66e.jpg');">
+            <a href="/article/72855">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/72855">
+                    크리스마스 향을 입는 법                </a>
+            </em>
+            <p class="excerpt">크리스마스 분위기를 향으로 표현한 몰튼 브라운의 배쓰 &amp; 샤워 젤.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/6643916e-db67-48c1-bd10-636ee348c66e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿀 피부 대명사 아이비가 N통째 쓴다는 쟁여템? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72860</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72860</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/50811a28-5bc0-4a43-b093-993c5c13315d.jpg');">
+                <a href="/article/72860">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72860">
+                        꿀 피부 대명사 아이비가 N통째 쓴다는 쟁여템?                    </a>
+                </em>
+                <p class="excerpt">'내돈내산' 아이비가 직접 써보고 추천하는 무조건 '쟁여템'! </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/50811a28-5bc0-4a43-b093-993c5c13315d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬달리라는 자신감의 원천 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72808</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72808</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/e9f85e4e-19eb-43bb-8296-500e9e6bac8c.jpg');">
+                <a href="/article/72808">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72808">
+                        꼬달리라는 자신감의 원천                    </a>
+                </em>
+                <p class="excerpt">꼬달리가 빚어낸 티 없이 맑고 깨끗한 피부.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/e9f85e4e-19eb-43bb-8296-500e9e6bac8c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울만 되면 메이크업이 들뜨는 당신에게 알려주는 전문가의 꿀팁 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72777</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72777</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/7c97200f-b54b-4586-bad2-76435e254e04.jpg');">
+                <a href="/article/72777">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72777">
+                        겨울만 되면 메이크업이 들뜨는 당신에게 알려주는 전문가의 꿀팁                     </a>
+                </em>
+                <p class="excerpt">파운데이션의 밀착력과 지속력을 높여주는 고수들의 전략은? </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/29/7c97200f-b54b-4586-bad2-76435e254e04.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손 안에 자연의 향을 쥐다 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72756</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72756</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/32331ffd-3142-4256-9a5e-48d9d2a59e95.jpg');">
+                <a href="/article/72756">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72756">
+                        손 안에 자연의 향을 쥐다                    </a>
+                </em>
+                <p class="excerpt">은은한 향기로 추억을 남기는 바니스뉴욕 뷰티의 퍼퓸 핸드크림&amp;워시.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/32331ffd-3142-4256-9a5e-48d9d2a59e95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽한 머릿결 관리를 위한 듀오 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72753</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72753</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/a92540e8-da13-4d3f-950b-591dc8a2ee7d.jpg');">
+                <a href="/article/72753">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72753">
+                        완벽한 머릿결 관리를 위한 듀오                    </a>
+                </em>
+                <p class="excerpt">매서운 계절에도 매끄럽게 빛나는 머릿결을 완성해줄 시세이도 프로페셔널 헤어 뷰티 듀오.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/a92540e8-da13-4d3f-950b-591dc8a2ee7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티 디바이스, 뭐 살래? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/72702</link>
+            <guid>https://www.harpersbazaar.co.kr/article/72702</guid>
+            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/dbdb2acf-505a-494f-9930-d9876c235dba.jpg');">
+                <a href="/article/72702">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72702">
+                        뷰티 디바이스, 뭐 살래?                    </a>
+                </em>
+                <p class="excerpt">아직도 아이언맨처럼 LED 마스크 끼니? 요즘 유행하는 홈 디바이스</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/dbdb2acf-505a-494f-9930-d9876c235dba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초특급 게스트 등장 이수만, 유영진까지! 보아 챌린지 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
