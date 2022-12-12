@@ -4,16 +4,24 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 03:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 09:06:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친구도 탐내는 우리집 3만원 미만 크리스마스 아이템]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73305</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73305</guid>
+            <pubDate>Mon, 12 Dec 2022 09:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[가성비 아이템으로 연말 분위기 내볼까]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/f3e9c294-4f2e-4e0c-959d-a4b5f017b015.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 그릇 어디 거예요? 서울의 핫한 세라믹 브랜드 4]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73304</link>
             <guid>https://www.harpersbazaar.co.kr/article/73304</guid>
             <pubDate>Fri, 09 Dec 2022 15:12:36 GMT</pubDate>
             <content:encoded><![CDATA[식탁의 주인공은 나야 나! 주목할 만한 서울 베이스의 세라믹 브랜드를 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/df03ff85-daa9-4476-a796-52f366876493.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/df03ff85-daa9-4476-a796-52f366876493.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스몰 럭셔리' 끝판왕, 특급 호텔 크리스마스 케이크]]></title>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73055</link>
             <guid>https://www.harpersbazaar.co.kr/article/73055</guid>
             <pubDate>Fri, 09 Dec 2022 15:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[지피지기면 백전백승. 상대를 알면 더욱 재미있다!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/b747817e-9dbf-48aa-8291-6923d92ff8b9.jpg');">
+            <a href="/article/73055">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73055">
+                    승리를 위하여! 포르투갈 전에서 주목해야 할 선수 TOP3                </a>
+            </em>
+            <p class="excerpt">지피지기면 백전백승. 상대를 알면 더욱 재미있다! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/b747817e-9dbf-48aa-8291-6923d92ff8b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72932</guid>
             <pubDate>Thu, 01 Dec 2022 15:04:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/227d1486-efab-478b-b3d3-12263e159e66.jpg');">
-            <a href="/article/72932">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72932">
-                    덮밥 먹으면 덥다? 성시경이 강추하는 #덮밥레시피                </a>
-            </em>
-            <p class="excerpt">라면 보다 쉽다! 든든하게 한 끼 해결하는 초간단 덮밥 레시피. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72932">
+                        덮밥 먹으면 덥다? 성시경이 강추하는 #덮밥레시피                    </a>
+                </em>
+                <p class="excerpt">라면 보다 쉽다! 든든하게 한 끼 해결하는 초간단 덮밥 레시피. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/227d1486-efab-478b-b3d3-12263e159e66.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">오직 발 빠른 자만이 차지할 수 있는 크리스마스 시즌 케이크! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/ef053b14-19fe-4957-bbb7-e55ae127c325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중고 명품 전성시대]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72821</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72821</guid>
-            <pubDate>Thu, 01 Dec 2022 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/cdbe9185-f8cc-4080-8cb2-f7c48e49cb6f.jpg');">
-                <a href="/article/72821">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72821">
-                        중고 명품 전성시대                    </a>
-                </em>
-                <p class="excerpt">베스티에르 콜렉티브, 트렌비, 발란? 획기적인 방식으로 주목받고 있는 리세일 플랫폼은 무엇?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/cdbe9185-f8cc-4080-8cb2-f7c48e49cb6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
