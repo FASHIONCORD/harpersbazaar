@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 15:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 03:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도쿄는 식상해? 겨울에 특히 좋은 일본 도시 추천]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73307</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73307</guid>
+            <pubDate>Tue, 13 Dec 2022 03:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[핀란드 산타마을은 무리라면 일본 시라카와고로]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/18d54e80-f74b-49c9-b55c-6173fb726724.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[친구도 탐내는 우리집 3만원 미만 크리스마스 아이템]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73305</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73084</link>
             <guid>https://www.harpersbazaar.co.kr/article/73084</guid>
             <pubDate>Fri, 09 Dec 2022 15:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[고기 없어도 맛있다! 강민경이 추천하는 채식 집밥 레시피.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/03/97e5a342-7a57-4c5c-bdb0-e39f7fe83081.jpg');">
+            <a href="/article/73084">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73084">
+                    고기중독자 강민경도 반한 #채식집밥레시피                </a>
+            </em>
+            <p class="excerpt">고기 없어도 맛있다! 강민경이 추천하는 채식 집밥 레시피.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/03/97e5a342-7a57-4c5c-bdb0-e39f7fe83081.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +148,7 @@
             <link>https://www.harpersbazaar.co.kr/article/72882</link>
             <guid>https://www.harpersbazaar.co.kr/article/72882</guid>
             <pubDate>Wed, 07 Dec 2022 09:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/e5a33f59-ace8-4bfd-a0af-eb5bc6754fbb.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/e5a33f59-ace8-4bfd-a0af-eb5bc6754fbb.jpg');">
             <a href="/article/72882">
                 <img alt="" src="">
             </a>
@@ -139,9 +163,9 @@
                 <a href="/article/72882">
                     반 고흐 &lt;해바라기&gt;에 수프캔을 던진 진짜 이유는 무엇?                </a>
             </em>
-            <p class="excerpt">테러범과 나눈 이야기</p>
+            <p class="excerpt">아트테러범과 나눈 이야기</p>
         </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/e5a33f59-ace8-4bfd-a0af-eb5bc6754fbb.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/e5a33f59-ace8-4bfd-a0af-eb5bc6754fbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울엔 국물이지, 맛잘알 성시경의 국물 맛집 10]]></title>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72822</guid>
             <pubDate>Fri, 02 Dec 2022 15:06:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/615acb89-f828-4cd2-8461-9916fd6c439c.jpg');">
-            <a href="/article/72822">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72822">
-                    알아두면 쓸데있는 리세일 플랫폼 9                </a>
-            </em>
-            <p class="excerpt">전 세계 리세일 플랫폼이 궁금하다면? </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72822">
+                        알아두면 쓸데있는 리세일 플랫폼 9                    </a>
+                </em>
+                <p class="excerpt">전 세계 리세일 플랫폼이 궁금하다면? </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/615acb89-f828-4cd2-8461-9916fd6c439c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">낮잠 자는 짱구 피규어부터 고구마 먹는 춘식이 키링까지! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/d3ca7807-79bd-4a6e-a983-b162fa8e89cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 예약해야 해요 #크리스마스케이크]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72859</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72859</guid>
-            <pubDate>Thu, 01 Dec 2022 03:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/ef053b14-19fe-4957-bbb7-e55ae127c325.jpg');">
-                <a href="/article/72859">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72859">
-                        지금 예약해야 해요 #크리스마스케이크                     </a>
-                </em>
-                <p class="excerpt">오직 발 빠른 자만이 차지할 수 있는 크리스마스 시즌 케이크! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/ef053b14-19fe-4957-bbb7-e55ae127c325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
