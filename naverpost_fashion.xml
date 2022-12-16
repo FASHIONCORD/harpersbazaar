@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 15:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 03:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 09:02:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMjY2/MDAxNjcwOTA1MzgxNDY3.RdA5WW813Jd-eClqaAjVuE3N0hJ0liYyFbfk1HEWB2wg.6oJKVrF4Xp_am5kqrlOymgnoYKWl16ncKfzTCkR7GkMg.JPEG/Im0yCtAnUfel1Om39Yo4_8iaKdm0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[못생겼지만 귀여워, 어글리 윈터 니트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34960486&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34960486&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 16 Dec 2022 03:01:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTVfMjQ4/MDAxNjcxMDc2ODk5OTQ0.IJJpabqzwcxxVy4FNv9KejQmjnT9XChpCPT46mqQ-kUg.Ysj-U_G4Wx_5ecOeMq6NANdgtZFjfJlV3HcnjoeJumcg.JPEG/InOnuB32Br64pimg74Me4echikj0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강추위를 막아줄 올겨울 장갑 추천]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Nov 2022 03:16:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjhfOTEg/MDAxNjY5NjExMTU5NDU5.qS3o3klaKM1PCuYzaN22jySYiST2vvmX-MQ_SfBIGlQg.qRl1eGj6ZIxjqsUICcsCQfgfjbCaq7KiJ-hppr2RyUEg.JPEG/ITTvOWOT_rwuY-hp70yqXH59Ug1g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그라운드 위 주인공으로 만들어줄 ‘신상’ 축구화 2 #신상신go]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34869525&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34869525&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 30 Nov 2022 03:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMzBfMjY2/MDAxNjY5NzcwNjYwNjUy.KFp5wBQzIhObBxEc08dch65VKXw6_J2raKL2Lxj-og8g.7B0mMy4Dj_OEBUdMnsJo3IdXsXJu_1QNLVVo6Xql_Psg.JPEG/I7Ztr39DkaIPcatyrD7EymgrKAZU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
