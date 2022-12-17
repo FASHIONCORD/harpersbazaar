@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 15:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 03:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -857,6 +857,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디즈니+와 돌아온 고경표, 이면적인 모습담은 화보 공개 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73463</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73463</guid>
+            <pubDate>Sat, 17 Dec 2022 03:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[고경표 ‘바자’ 화보 공개]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7a51d514-1487-4db7-b21b-92da2d24d7a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1백64년 동안 쏘아올린 진귀한 아름다움, 부쉐론 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73188</link>
             <guid>https://www.harpersbazaar.co.kr/article/73188</guid>
@@ -917,7 +925,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73137</link>
             <guid>https://www.harpersbazaar.co.kr/article/73137</guid>
             <pubDate>Thu, 15 Dec 2022 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트의 상상력과 브랜드의 장인정신이 함께 빚어낸 패셔너블한 마스터피스, '아티카퓌신'.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/19f2a684-8690-4544-ad93-4c0d14a5509b.jpg');">
+            <a href="/article/73137">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73137">
+                    6명의 아티스트와 함께한 루이비통의 카퓌신 백                </a>
+            </em>
+            <p class="excerpt">아티스트의 상상력과 브랜드의 장인정신이 함께 빚어낸 패셔너블한 마스터피스, '아티카퓌신'.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/19f2a684-8690-4544-ad93-4c0d14a5509b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1070,22 +1094,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73111</guid>
             <pubDate>Tue, 13 Dec 2022 15:02:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/9794f20e-f327-4652-88ce-1d12eac3bd78.jpg');">
-            <a href="/article/73111">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73111">
-                    오프라인 매장의 새로운 물결                 </a>
-            </em>
-            <p class="excerpt">엄선된 큐레이션과 더불어 다차원적이고 뛰어난 몰입감을 제공하는 오프라인 매장의 부활</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73111">
+                        오프라인 매장의 새로운 물결                     </a>
+                </em>
+                <p class="excerpt">엄선된 큐레이션과 더불어 다차원적이고 뛰어난 몰입감을 제공하는 오프라인 매장의 부활</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/9794f20e-f327-4652-88ce-1d12eac3bd78.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1207,30 +1231,6 @@
                 <p class="excerpt">디자이너이자 워킹맘으로 바쁜 시간을 보내는 일라리아 이카르디와 나눈 이야기 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/251aa2e1-c425-4e5d-8285-826f6c95218c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일에 포인트를 더해줄 퍼 버킷햇 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73051</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73051</guid>
-            <pubDate>Mon, 12 Dec 2022 09:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/10/47472e47-979c-4702-a337-d15df6702127.jpg');">
-                <a href="/article/73051">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73051">
-                        스타일에 포인트를 더해줄 퍼 버킷햇                    </a>
-                </em>
-                <p class="excerpt">부드럽고 복슬복슬한 퍼 소재의 버킷햇으로 윈터 룩에 생기를 더하라.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/10/47472e47-979c-4702-a337-d15df6702127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 뷰티 이슈 총정리 (하퍼스바자 코리아 ─ 뷰티)]]></title>
