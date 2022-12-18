@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 15:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 03:04:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -857,6 +857,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반짝이는 날을 위한 주얼리, 포멜라토 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73270</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73270</guid>
+            <pubDate>Sun, 18 Dec 2022 03:02:43 GMT</pubDate>
+            <content:encoded><![CDATA[장미처럼 아름답고 황금처럼 고귀한 시간이 포멜라토와 함께 피어나다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7600e5e7-0a9e-4bf5-86b8-c29c2fad252a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디즈니+와 돌아온 고경표, 이면적인 모습담은 화보 공개 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73463</link>
             <guid>https://www.harpersbazaar.co.kr/article/73463</guid>
@@ -917,7 +925,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73112</link>
             <guid>https://www.harpersbazaar.co.kr/article/73112</guid>
             <pubDate>Thu, 15 Dec 2022 15:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[엄선된 큐레이션, 새로운 경험을 제시하는 다양한 오프라인 매장들]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/b16f376b-4b70-404c-8886-fc02b9e01777.jpg');">
+            <a href="/article/73112">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73112">
+                    오프라인 매장의 부활                </a>
+            </em>
+            <p class="excerpt">엄선된 큐레이션, 새로운 경험을 제시하는 다양한 오프라인 매장들 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/b16f376b-4b70-404c-8886-fc02b9e01777.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1070,22 +1094,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73113</guid>
             <pubDate>Tue, 13 Dec 2022 15:02:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/52a747b3-eb28-4a5c-adf7-4219ac352e81.jpg');">
-            <a href="/article/73113">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73113">
-                    에르메스의 디자이너들이 말하는 새로운 가구 컬렉션.                </a>
-            </em>
-            <p class="excerpt">마치 중력에 대한 도전과도 같다. 형태, 소재, 기능의 조화로운 관계 속에 가벼움의 미학을 강...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73113">
+                        에르메스의 디자이너들이 말하는 새로운 가구 컬렉션.                    </a>
+                </em>
+                <p class="excerpt">마치 중력에 대한 도전과도 같다. 형태, 소재, 기능의 조화로운 관계 속에 가벼움의 미학을 강...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/52a747b3-eb28-4a5c-adf7-4219ac352e81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1207,30 +1231,6 @@
                 <p class="excerpt">두르거나 묶거나. 연출하는 방법도 가지각색인 머플러로 스타일 지수를 높여라.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/b0078f7a-1672-486f-9821-712457ed30aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일라리아 이카르디, 여성들의 '워너비' 디자이너 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73065</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73065</guid>
-            <pubDate>Mon, 12 Dec 2022 15:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/251aa2e1-c425-4e5d-8285-826f6c95218c.jpg');">
-                <a href="/article/73065">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73065">
-                        일라리아 이카르디, 여성들의 '워너비' 디자이너                    </a>
-                </em>
-                <p class="excerpt">디자이너이자 워킹맘으로 바쁜 시간을 보내는 일라리아 이카르디와 나눈 이야기 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/251aa2e1-c425-4e5d-8285-826f6c95218c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 뷰티 이슈 총정리 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -2361,6 +2361,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/26/96945ca9-8390-44ed-b96c-a3045cf25973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예약 전쟁! 한강 전망 끝판 왕은 여기#뉴핫플레이스 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73456</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73456</guid>
+            <pubDate>Sun, 18 Dec 2022 03:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[트렌드 세터라면 발 빠르게 접수해야 할 이번 주 뉴 핫플레이스!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/15/a3ea1cb7-a831-4706-a3a9-76d92b0d91de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일주일마다 매번 다른 운동을 한다면? #일운완 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73450</link>
             <guid>https://www.harpersbazaar.co.kr/article/73450</guid>
@@ -2421,7 +2429,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73312</link>
             <guid>https://www.harpersbazaar.co.kr/article/73312</guid>
             <pubDate>Tue, 13 Dec 2022 15:04:52 GMT</pubDate>
-            <content:encoded><![CDATA[토트넘, 첼시에도 보상금을 지급한다고?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/1f55ca40-5131-48d0-9d8e-13920eefae7b.jpg');">
+            <a href="/article/73312">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73312">
+                    중계권으로 돈버는 FIFA, 월드컵 우승팀 상금은 얼마?                </a>
+            </em>
+            <p class="excerpt">토트넘, 첼시에도 보상금을 지급한다고?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/1f55ca40-5131-48d0-9d8e-13920eefae7b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2574,22 +2598,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73172</guid>
             <pubDate>Fri, 09 Dec 2022 15:12:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/07/b5ac264d-b2e7-4a02-bc2b-cce9c69bfe3b.jpg');">
-            <a href="/article/73172">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73172">
-                    부드럽게 스미는 홀리데이                </a>
-            </em>
-            <p class="excerpt">홀리데이는 네스프레소 버츄오의 풍성한 크레마와 함께.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73172">
+                        부드럽게 스미는 홀리데이                    </a>
+                </em>
+                <p class="excerpt">홀리데이는 네스프레소 버츄오의 풍성한 크레마와 함께.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/07/b5ac264d-b2e7-4a02-bc2b-cce9c69bfe3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2711,30 +2735,6 @@
                 <p class="excerpt">아트테러범과 나눈 이야기</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/e5a33f59-ace8-4bfd-a0af-eb5bc6754fbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울엔 국물이지, 맛잘알 성시경의 국물 맛집 10 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73031</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73031</guid>
-            <pubDate>Wed, 07 Dec 2022 03:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/50881915-d8de-45f0-a4b5-1c2adb73fc4d.jpg');">
-                <a href="/article/73031">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73031">
-                        겨울엔 국물이지, 맛잘알 성시경의 국물 맛집 10                    </a>
-                </em>
-                <p class="excerpt">입맛 까다로운 성시경이 엄선한 찐 맛집들.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/50881915-d8de-45f0-a4b5-1c2adb73fc4d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알아두면 쓸데있는 지속가능성 인증기관 3탄 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
