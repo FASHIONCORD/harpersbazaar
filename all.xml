@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 03:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 09:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1233,6 +1233,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/d32449b5-9191-4708-94ea-9174699b0d67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[완벽한 홀리데이를 위한 선택, 연작 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73340</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73340</guid>
+            <pubDate>Mon, 19 Dec 2022 09:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[윤기 있는 홀리데이 메이크업을 위해 준비한 연작 스킨 퍼펙팅 프로텍티브 베이스 프렙.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/b30e48bd-3dd4-4b0c-aad9-2dc1ca3e4829.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 뷰티 이슈 총정리 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73061</link>
             <guid>https://www.harpersbazaar.co.kr/article/73061</guid>
@@ -1293,7 +1301,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73169</link>
             <guid>https://www.harpersbazaar.co.kr/article/73169</guid>
             <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[마녀공장으로 채우는 특별한 스킨케어 루틴.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/07/1ff5087d-f4ec-45b4-afa4-15ab8b3d875d.jpg');">
+            <a href="/article/73169">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73169">
+                    마법 같은 스킨케어                </a>
+            </em>
+            <p class="excerpt">마녀공장으로 채우는 특별한 스킨케어 루틴.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/07/1ff5087d-f4ec-45b4-afa4-15ab8b3d875d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1446,22 +1470,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73062</guid>
             <pubDate>Tue, 06 Dec 2022 09:02:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/2e6f1d40-652e-4ad9-a175-587a734ed5be.jpg');">
-            <a href="/article/73062">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73062">
-                     추운 날씨에 꿀, 방구석 유산소!                 </a>
-            </em>
-            <p class="excerpt">지방을 태우는 데는 유산소 운동이 필수라고.  </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73062">
+                         추운 날씨에 꿀, 방구석 유산소!                     </a>
+                </em>
+                <p class="excerpt">지방을 태우는 데는 유산소 운동이 필수라고.  </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/2e6f1d40-652e-4ad9-a175-587a734ed5be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1585,28 +1609,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/616a0b05-c022-4a64-8f2a-44aaa0a50621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나 홀로 집에? 집순이에게 딱 필요한 연말템 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72851</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72851</guid>
-            <pubDate>Sat, 10 Dec 2022 03:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/ce7d098e-4598-4e35-946f-8e3c42da7117.jpg');">
-                <a href="/article/72851">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72851">
-                        나 홀로 집에? 집순이에게 딱 필요한 연말템                    </a>
-                </em>
-                <p class="excerpt">연말 분위기를 업시키는 로맨틱한 홀리데이 캔들 리스트.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/30/ce7d098e-4598-4e35-946f-8e3c42da7117.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[#웬즈데이 로 인기 급부상 중인 #제나오르테가 는 누구? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73395</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73395</guid>
+            <pubDate>Thu, 15 Dec 2022 09:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;웬즈데이&gt; 신드롬의 주인공, 제나 오르테가는 누구?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/665259e5-3803-43dd-8be0-64107cfa1e95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['이게 의리지!' BTS 맏형 진 입대, 멤버 참석률 100%💜 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1669,7 +1677,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73122</link>
             <guid>https://www.harpersbazaar.co.kr/article/73122</guid>
             <pubDate>Tue, 13 Dec 2022 15:03:39 GMT</pubDate>
-            <content:encoded><![CDATA[과거 공포 영화부터 얄미운 여사친 역할까지 다채롭게 소화한 배우 박지현.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/05/8ebc033d-021a-465f-828a-f5387a5d74e8.jpg');">
+            <a href="/article/73122">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73122">
+                    &lt;재벌집 막내아들&gt; 모현민이 이 작품에 나왔었다고?                 </a>
+            </em>
+            <p class="excerpt">과거 공포 영화부터 얄미운 여사친 역할까지 다채롭게 소화한 배우 박지현. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/05/8ebc033d-021a-465f-828a-f5387a5d74e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1822,22 +1846,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/72760</guid>
             <pubDate>Wed, 30 Nov 2022 03:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/1ad48353-315d-4a48-8b8e-cf8657aea960.jpg');">
-            <a href="/article/72760">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/72760">
-                    겨울엔 애니멀 패턴!                </a>
-            </em>
-            <p class="excerpt">유행을 타지 않는 클래식 패턴, 애니멀 패턴의 계절이 돌아왔다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/72760">
+                        겨울엔 애니멀 패턴!                    </a>
+                </em>
+                <p class="excerpt">유행을 타지 않는 클래식 패턴, 애니멀 패턴의 계절이 돌아왔다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/28/1ad48353-315d-4a48-8b8e-cf8657aea960.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1959,30 +1983,6 @@
                 <p class="excerpt">패션 센스 좋기로 유명한 이청아! 그녀의 빈티지 마켓 쇼핑 꿀팁은? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/26/15099efe-0625-4fd7-b4e7-6c098ad06511.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연아의 사랑법, 고우림 출연 '2022 MAMA' 참석❤️ (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72692</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72692</guid>
-            <pubDate>Tue, 13 Dec 2022 09:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/ac1b8d6d-7ff8-45ce-9226-d614cd10b6ee.jpg');">
-                <a href="/article/72692">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72692">
-                        김연아의 사랑법, 고우림 출연 '2022 MAMA' 참석❤️                    </a>
-                </em>
-                <p class="excerpt">아내는 시상자, 남편은 퍼포머.. '마마 어워즈' 동행</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/ac1b8d6d-7ff8-45ce-9226-d614cd10b6ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 타임즈 선정 '2022 최고의 K-팝 노래' 들을래? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -2361,6 +2361,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/26/96945ca9-8390-44ed-b96c-a3045cf25973.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023년부터 달라지는 것들 #이슈있슈 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73475</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73475</guid>
+            <pubDate>Mon, 19 Dec 2022 09:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[우리 삶에 영향을 끼치는 변동 사항들]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/18/56748b8e-1ac1-435c-8c5c-708d4ce7b493.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러쉬와 디어달리아에 동물 가족 들어온 썰 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73471</link>
             <guid>https://www.harpersbazaar.co.kr/article/73471</guid>
@@ -2421,7 +2429,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73338</link>
             <guid>https://www.harpersbazaar.co.kr/article/73338</guid>
             <pubDate>Thu, 15 Dec 2022 15:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[트렌드 세터라면 발 빠르게 접수해야 할 따끈따끈 뉴 핫플레이스!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/68f2d17b-ac4f-4198-b73f-12fe3f2edff2.jpg');">
+            <a href="/article/73338">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73338">
+                    김나영도 인정했다는 버터 탕수육 맛집? #뉴핫플레이스                </a>
+            </em>
+            <p class="excerpt">트렌드 세터라면 발 빠르게 접수해야 할 따끈따끈 뉴 핫플레이스!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/12/68f2d17b-ac4f-4198-b73f-12fe3f2edff2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2574,22 +2598,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73303</guid>
             <pubDate>Fri, 09 Dec 2022 15:12:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/fdb378bb-525f-4b1e-8a33-f2ccbbc01f88.jpg');">
-            <a href="/article/73303">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73303">
-                    '스몰 럭셔리' 끝판왕, 특급 호텔 크리스마스 케이크                 </a>
-            </em>
-            <p class="excerpt">부지런한 이들이 맛있는 케이크를 먹는다</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73303">
+                        '스몰 럭셔리' 끝판왕, 특급 호텔 크리스마스 케이크                     </a>
+                </em>
+                <p class="excerpt">부지런한 이들이 맛있는 케이크를 먹는다</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/09/fdb378bb-525f-4b1e-8a33-f2ccbbc01f88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2711,30 +2735,6 @@
                 <p class="excerpt">고기 없어도 맛있다! 강민경이 추천하는 채식 집밥 레시피.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/03/97e5a342-7a57-4c5c-bdb0-e39f7fe83081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[승리를 위하여! 포르투갈 전에서 주목해야 할 선수 TOP3 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73055</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73055</guid>
-            <pubDate>Fri, 09 Dec 2022 15:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/b747817e-9dbf-48aa-8291-6923d92ff8b9.jpg');">
-                <a href="/article/73055">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73055">
-                        승리를 위하여! 포르투갈 전에서 주목해야 할 선수 TOP3                    </a>
-                </em>
-                <p class="excerpt">지피지기면 백전백승. 상대를 알면 더욱 재미있다! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/b747817e-9dbf-48aa-8291-6923d92ff8b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알아두면 쓸데있는 지속가능성 인증기관 3탄 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
