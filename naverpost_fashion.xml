@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 15:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 03:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타일에 포인트를 더해줄 퍼 버킷햇]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34995712&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34995712&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 21 Dec 2022 03:01:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjFfNjIg/MDAxNjcxNTUxNTgxMjE4.pysb0vVcGw3_rVSnqC2t8atZcCWXKeovqSan2bTZXKIg.AsEV03-SjVSgV6vbC-KvyiRGEFCcDU89Gm9yAt1yywog.JPEG/ImAl4QFQ8gIkfb35cBT_7eeYRSyE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제니, 허윤진처럼? 목도리 스타일링]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34987702&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Dec 2022 03:03:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDVfMTI0/MDAxNjcwMjMxMjQ4MzA3.9qBT1_nTzB43O0FVI6M3DUyOdjmegZb5EdoGMZh7-mEg.rpZCUoBU6-ACpfzLPEzEeXRhZfIOJbqIO5RgO_BSf7Ag.JPEG/IiATsceZjmZ3M3FVrs2WG8I7Hidw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손목 위 팝아트의 향연]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34883672&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34883672&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 02 Dec 2022 03:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMDFfMTU5/MDAxNjY5ODU4NTE5MzIz.tmNopKDVwZjJhiBD9tYhpDPWArmow7ODikRegrugtqYg.V6fVdRZTnIqkL_4OQWjUkLJt3BrFiCUYLnhx9ZGer8Ig.JPEG/IAg8mvolcCMXVITwxa0ygXFHwKNE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
