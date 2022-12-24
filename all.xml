@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 09:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 15:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1610,6 +1610,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/22fd501a-000f-45a9-92be-c22eabb0a497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고경표가 해석한 <커넥트>의 사이코패스는 어떤 모습? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73609</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73609</guid>
+            <pubDate>Sat, 24 Dec 2022 15:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[고경표는 숨 가쁘게 달려온 한 해의 끝에서 잠시 멈추어 서기로 했다. 지금 그에겐 쉼표가 필...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/22/2eb41aa1-b58a-44c9-9822-fc3f76e45a7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어둠 속에서도 빛을 내뿜는 박보검 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73592</link>
             <guid>https://www.harpersbazaar.co.kr/article/73592</guid>
@@ -1670,7 +1678,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73463</link>
             <guid>https://www.harpersbazaar.co.kr/article/73463</guid>
             <pubDate>Sat, 17 Dec 2022 03:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[고경표 ‘바자’ 화보 공개]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7a51d514-1487-4db7-b21b-92da2d24d7a9.jpg');">
+            <a href="/article/73463">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73463">
+                    디즈니+와 돌아온 고경표, 이면적인 모습담은 화보 공개                 </a>
+            </em>
+            <p class="excerpt">고경표 ‘바자’ 화보 공개</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7a51d514-1487-4db7-b21b-92da2d24d7a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1823,22 +1847,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73390</guid>
             <pubDate>Wed, 14 Dec 2022 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/dd1310a7-5437-4459-9d29-2bb2156bc0e4.jpg');">
-            <a href="/article/73390">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73390">
-                    못생겼지만 귀여워, 어글리 윈터 니트                 </a>
-            </em>
-            <p class="excerpt">촌스러운 패턴일수록 멋스러운 겨울 클래식 아이템, 윈터 니트.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73390">
+                        못생겼지만 귀여워, 어글리 윈터 니트                     </a>
+                </em>
+                <p class="excerpt">촌스러운 패턴일수록 멋스러운 겨울 클래식 아이템, 윈터 니트.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/dd1310a7-5437-4459-9d29-2bb2156bc0e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1960,30 +1984,6 @@
                 <p class="excerpt">과거 공포 영화부터 얄미운 여사친 역할까지 다채롭게 소화한 배우 박지현. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/05/8ebc033d-021a-465f-828a-f5387a5d74e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['좋아요'만 누르고 침묵한 던이 분노한 이유🔥 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73034</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73034</guid>
-            <pubDate>Mon, 12 Dec 2022 09:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/1a237cc2-58ce-4980-8954-54a3884b1477.jpg');">
-                <a href="/article/73034">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73034">
-                        '좋아요'만 누르고 침묵한 던이 분노한 이유🔥                    </a>
-                </em>
-                <p class="excerpt">결별 이유 루머 유포자에 뿔난 던 "고소하겠다"</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/1a237cc2-58ce-4980-8954-54a3884b1477.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연말에 읽기 좋은 신간 3 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
