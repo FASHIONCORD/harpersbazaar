@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 09:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 15:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -858,6 +858,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[어두운 밤을 밝히는 샤넬 워치 & 화인 주얼리 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73618</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73618</guid>
+            <pubDate>Sun, 25 Dec 2022 15:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[원스 어폰 어 문. 샤넬 워치 &amp; 화인 주얼리가 올겨울 어두운 밤을 환하게 밝힌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/23/bab8d8b1-1d27-4d9b-9e22-4298390ef357.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스키장으로 떠날 준비를 하고 있다면? 주목! (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73691</link>
             <guid>https://www.harpersbazaar.co.kr/article/73691</guid>
@@ -918,7 +926,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73616</link>
             <guid>https://www.harpersbazaar.co.kr/article/73616</guid>
             <pubDate>Sat, 24 Dec 2022 03:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[배우 이상이와 ‘바자’의 만남, 바자 1월호에서]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/22/9edc24b4-d876-4ee0-b674-5b31d177afc0.jpg');">
+            <a href="/article/73616">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73616">
+                    바다를 자유로이 유영하는 배우 이상이, 바자 화보 공개                </a>
+            </em>
+            <p class="excerpt">배우 이상이와 ‘바자’의 만남, 바자 1월호에서</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/22/9edc24b4-d876-4ee0-b674-5b31d177afc0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1071,22 +1095,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73190</guid>
             <pubDate>Tue, 20 Dec 2022 03:03:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/18/f853f18d-08ea-4b89-882c-ad15d83279da.jpg');">
-            <a href="/article/73190">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73190">
-                    혁신적인 주얼러, 부쉐론이 바꾸어놓은 미래.                </a>
-            </em>
-            <p class="excerpt">주얼리에 대한 개념을 전복하는 미래를 위한 주얼리, 잭 드 부쉐론 얼팀.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73190">
+                        혁신적인 주얼러, 부쉐론이 바꾸어놓은 미래.                    </a>
+                </em>
+                <p class="excerpt">주얼리에 대한 개념을 전복하는 미래를 위한 주얼리, 잭 드 부쉐론 얼팀.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/18/f853f18d-08ea-4b89-882c-ad15d83279da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1208,30 +1232,6 @@
                 <p class="excerpt">장미처럼 아름답고 황금처럼 고귀한 시간이 포멜라토와 함께 피어나다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7600e5e7-0a9e-4bf5-86b8-c29c2fad252a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+와 돌아온 고경표, 이면적인 모습담은 화보 공개 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73463</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73463</guid>
-            <pubDate>Sat, 17 Dec 2022 03:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7a51d514-1487-4db7-b21b-92da2d24d7a9.jpg');">
-                <a href="/article/73463">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73463">
-                        디즈니+와 돌아온 고경표, 이면적인 모습담은 화보 공개                     </a>
-                </em>
-                <p class="excerpt">고경표 ‘바자’ 화보 공개</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7a51d514-1487-4db7-b21b-92da2d24d7a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주목 받는 물광 피부의 비결 (하퍼스바자 코리아 ─ 뷰티)]]></title>
