@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 15:05:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 03:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포레스텔라 고우림, 소년미와 따뜻함이 돋보이는 화보]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35031602&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35031602&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Dec 2022 03:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시 느와르의 한 장면 같은, 
 손석구 X 다미아니 화보]]></title>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 17 Nov 2022 03:35:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjdfMTUg/MDAxNjY2ODMxMzkwMzg3.BISt_D7hE1cezFYY35VZG52wMr-CHDDS9X04P05YvkAg.yrLkKKPvQFAOEjK6grla00kEA-8QLa8drexEKmfCWH0g.JPEG/IUzu4ViuH8ANh54sHU8Yl6baQLlg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 그녀, 여친룩의 정석 해은 핑크룩]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34684262&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34684262&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMTE3/MDAxNjY2Njg3NDQxMjIz.C_jncBgxNT2Pa-L8fe2v4Cz6cHF_0EJDGGITX93FDyog.RHQHGkMrLx-X141U8KWyiOFPtVSAcxvqCKCCRANi0sog.JPEG/I4ffoyy9C7x5qcAUWDPgcQSyPfYQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
