@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 03:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 09:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1610,6 +1610,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/05/b3f75802-af48-4d24-8158-2e1780f7884a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[송중기는 지금 열애중❤️ 상대는 영국인 여성? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73736</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73736</guid>
+            <pubDate>Wed, 28 Dec 2022 09:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;재벌집 막내아들&gt; 종영 후 따끈한 열애 소식]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/26/6bd59403-ec2c-445a-bb51-cc20e529cab0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[포레스텔라의 막내 고우림이 말하는 첫 싱글 앨범은? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73633</link>
             <guid>https://www.harpersbazaar.co.kr/article/73633</guid>
@@ -1670,7 +1678,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73592</link>
             <guid>https://www.harpersbazaar.co.kr/article/73592</guid>
             <pubDate>Fri, 23 Dec 2022 03:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[2년여의 공백을 깨고 돌아온 '아름다운 남자' 박보검]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/21/544d0b4c-5fac-4f42-8ef8-097c981c5aa5.jpg');">
+            <a href="/article/73592">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73592">
+                    어둠 속에서도 빛을 내뿜는 박보검                 </a>
+            </em>
+            <p class="excerpt"> 2년여의 공백을 깨고 돌아온 '아름다운 남자' 박보검</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/21/544d0b4c-5fac-4f42-8ef8-097c981c5aa5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1823,22 +1847,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73463</guid>
             <pubDate>Sat, 17 Dec 2022 03:02:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7a51d514-1487-4db7-b21b-92da2d24d7a9.jpg');">
-            <a href="/article/73463">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73463">
-                    디즈니+와 돌아온 고경표, 이면적인 모습담은 화보 공개                 </a>
-            </em>
-            <p class="excerpt">고경표 ‘바자’ 화보 공개</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73463">
+                        디즈니+와 돌아온 고경표, 이면적인 모습담은 화보 공개                     </a>
+                </em>
+                <p class="excerpt">고경표 ‘바자’ 화보 공개</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/7a51d514-1487-4db7-b21b-92da2d24d7a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1960,30 +1984,6 @@
                 <p class="excerpt">BTS 멤버들이 진에게 전한 말 "우리 형! 잘 다녀와요! 러뷰"</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/1ea24703-90e5-465f-ab61-f7bca11ef33a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니, 차정원, 한선화도 푹빠진 시어링 퍼 코트 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73391</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73391</guid>
-            <pubDate>Wed, 14 Dec 2022 03:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/01bcc920-2842-452a-8620-cc7b5ae88498.jpg');">
-                <a href="/article/73391">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73391">
-                        제니, 차정원, 한선화도 푹빠진 시어링 퍼 코트                    </a>
-                </em>
-                <p class="excerpt">테디베어처럼 부드럽고 따뜻한 시어링 퍼 코트 스타일링.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/13/01bcc920-2842-452a-8620-cc7b5ae88498.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송중기×이성민, <재벌집 막내아들> 최고의 브로맨스 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
