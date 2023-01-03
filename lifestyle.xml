@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 03:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 09:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해 카운트다운을 조규성과 함께? 카운트다운 행사 스팟 4]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73801</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73801</guid>
+            <pubDate>Tue, 03 Jan 2023 09:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[새해 염원 담아 5, 4, 3, 2, 1 !]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/28/d9730058-aec6-494b-830c-35e291d1d595.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 첫날 해돋이 보러 갈까, 서울 일출 명소 5]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73800</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73629</link>
             <guid>https://www.harpersbazaar.co.kr/article/73629</guid>
             <pubDate>Wed, 28 Dec 2022 03:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[재활용, 재사용 소재를 활용한 신상 아이템을 알아보자.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/22/fafb25a6-aea6-4109-bd39-324c66365c6c.jpg');">
+            <a href="/article/73629">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73629">
+                    지속가능한 환경 구현 실천의 기회! '신상' 친환경 패션 아이템 추천                </a>
+            </em>
+            <p class="excerpt">재활용, 재사용 소재를 활용한 신상 아이템을 알아보자. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/22/fafb25a6-aea6-4109-bd39-324c66365c6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73502</guid>
             <pubDate>Fri, 23 Dec 2022 09:11:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/19/8c8d87a2-e179-46b3-9c9d-ad408dcd8ca0.jpg');">
-            <a href="/article/73502">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73502">
-                    연말 느낌 물씬 나는 데이트를 하고 싶다면? 성수동 #팝업여지도를 참고해!                </a>
-            </em>
-            <p class="excerpt">볼거리, 즐길 거리, 먹을거리 가득한 성수동 팝업 스토어</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73502">
+                        연말 느낌 물씬 나는 데이트를 하고 싶다면? 성수동 #팝업여지도를 참고해!                    </a>
+                </em>
+                <p class="excerpt">볼거리, 즐길 거리, 먹을거리 가득한 성수동 팝업 스토어</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/19/8c8d87a2-e179-46b3-9c9d-ad408dcd8ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -292,7 +316,7 @@
             <link>https://www.harpersbazaar.co.kr/article/73153</link>
             <guid>https://www.harpersbazaar.co.kr/article/73153</guid>
             <pubDate>Fri, 23 Dec 2022 09:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/18/d59330b3-853c-454a-a631-30cc06feb8e5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/d59330b3-853c-454a-a631-30cc06feb8e5.jpg');">
                 <a href="/article/73153">
                     <img alt="" src="">
                 </a>
@@ -309,7 +333,7 @@
                 </em>
                 <p class="excerpt">좋다고 소문난 '주메이라 발리'에서 직접 묵어본 후기 </p>
             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/18/d59330b3-853c-454a-a631-30cc06feb8e5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/03/d59330b3-853c-454a-a631-30cc06feb8e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사진가 레스의 청춘(靑春)]]></title>
@@ -358,30 +382,6 @@
                 <p class="excerpt">우리 삶에 영향을 끼치는 변동 사항들 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/18/56748b8e-1ac1-435c-8c5c-708d4ce7b493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이건 꼭 말해야 해! 유기 동물을 구조한 브랜드는 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73471</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73471</guid>
-            <pubDate>Sun, 18 Dec 2022 09:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/19/b121e238-ceec-42b2-a453-9c253e7a5a5d.jpg');">
-                <a href="/article/73471">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73471">
-                        이건 꼭 말해야 해! 유기 동물을 구조한 브랜드는 어디?                    </a>
-                </em>
-                <p class="excerpt">미담 대신 전해드립니다. #유기동물 #임시보호</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/19/b121e238-ceec-42b2-a453-9c253e7a5a5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
