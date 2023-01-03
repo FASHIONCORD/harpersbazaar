@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Beauty</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 15:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭘 좋아할지 몰라 다 준비했어 #취향저격 핸드크림]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35066519&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35066519&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 Jan 2023 03:02:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 성분이 든 샴푸 절대 쓰지마!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35060345&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:35:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfMTcw/MDAxNjYzMTQ2NzIyMDk0.wpktYAXF6F5yEySx9Tlfi4EIka6LH1tbSBsvd4iLy6Mg.LoUknx1tLI2wDryrSjlyUiV0s6iSd_LOD4QjpXoDyagg.JPEG/IEqNm_4mzJPG4AiW0uT2KFNkKhCg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드와 찰떡궁합! 9월부터 활동을 알린 뷰티 브랜드의 뉴 모델]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34466771&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34466771&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MTRfMjU0/MDAxNjYzMTMyNjQyNDQ4.km1MJOePolZLLt5HfGuJU1zzIeSmFFVFAruE798c6MAg.pItVO7ZcSravIJ6BI4v9jRuEdOEDGH5OWrGO7Ypvr9Ig.JPEG/IgNmR5SXaxQ9k4B4f5smzwJxThok.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
