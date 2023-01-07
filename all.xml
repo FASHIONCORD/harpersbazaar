@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 03:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 09:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -858,6 +858,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국에서만 살 수 있어요. 한국을 사랑한 명품 브랜드의 한정판 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/73999</link>
+            <guid>https://www.harpersbazaar.co.kr/article/73999</guid>
+            <pubDate>Sat, 07 Jan 2023 09:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[로저 비비에와 구찌의 코리아 에디션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/93f42fdb-7e08-4225-9190-13181a89493e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DITTO 안무 영상 속 뉴진스 옷, 신발 모두 알려드림 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/73993</link>
             <guid>https://www.harpersbazaar.co.kr/article/73993</guid>
@@ -918,7 +926,23 @@
             <link>https://www.harpersbazaar.co.kr/article/73869</link>
             <guid>https://www.harpersbazaar.co.kr/article/73869</guid>
             <pubDate>Tue, 03 Jan 2023 09:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[사랑스러우면서도 한국적인 무드가 가득!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/02/4370d2d8-4c64-4475-a8ad-33fe1735668b.jpg');">
+            <a href="/article/73869">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/73869">
+                    톱 셀럽들이 사랑하는 세계 1등 디자이너 '민주킴' FW22 신상 궁금하다면?                </a>
+            </em>
+            <p class="excerpt">사랑스러우면서도 한국적인 무드가 가득!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/02/4370d2d8-4c64-4475-a8ad-33fe1735668b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1071,22 +1095,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73674</guid>
             <pubDate>Fri, 30 Dec 2022 15:02:30 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/29/83b14426-8341-423c-8ace-92c2bc011929.jpg');">
-            <a href="/article/73674">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73674">
-                    새해 소망 가득, 백자 모음                </a>
-            </em>
-            <p class="excerpt">힘찬 새해 소망을 품은 새하얀 백자들.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73674">
+                        새해 소망 가득, 백자 모음                    </a>
+                </em>
+                <p class="excerpt">힘찬 새해 소망을 품은 새하얀 백자들.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/29/83b14426-8341-423c-8ace-92c2bc011929.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1208,30 +1232,6 @@
                 <p class="excerpt">블랙 앤 골드의 세련된 턱시도 워치로 품격 있는 이브닝 룩을 완성하라.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/25/5f64e7f8-1437-48c8-a26f-28da3ae3c06b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너와 나 사이 오직 ‘코코 크러쉬’ 컬렉션 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73626</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73626</guid>
-            <pubDate>Wed, 28 Dec 2022 15:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/25/de2406d7-54af-4861-9946-a66f76d44f37.jpg');">
-                <a href="/article/73626">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73626">
-                        너와 나 사이 오직 ‘코코 크러쉬’ 컬렉션                    </a>
-                </em>
-                <p class="excerpt">BETWEEN US</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/25/de2406d7-54af-4861-9946-a66f76d44f37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마뗑킴에서 뷰티 브랜드를 론칭했다고? (하퍼스바자 코리아 ─ 뷰티)]]></title>
