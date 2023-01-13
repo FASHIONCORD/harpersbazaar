@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 15:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 03:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에서만 살 수 있어요. 한국을 사랑한 명품 브랜드의 한정판]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35138060&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35138060&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 13 Jan 2023 03:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTNfNTMg/MDAxNjczNTQwODk2NDYy.yo8Sq7Skc0CrhYX0QvY0zm3UBF3vhB0OlSrs4NijofMg.6-xWmeN4l2XF_zXaDc_P2_h6ofiSkJdgKIcyI3-KDzEg.JPEG/IwgvUvLfzl01wXBFJ2OL5jp9YXV8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 가장 인기있었던 스니커즈는?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35126577&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Dec 2022 03:11:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTRfMTI1/MDAxNjcwOTgwNzkzODc3.rSS38YiI9X2WOgR4-45nuNARAQp6dDOqp09nz4-x_Esg.0n4fFd4fuanp_npbnJU4TR-hs59fwW7y5gDgIuH-Ye4g.JPEG/I6JlRwk93xvUCRXlZ3iWSWdMbTvw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 연말, 연인을 위한 선물을 고민하고 있다면?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34948237&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34948237&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 14 Dec 2022 03:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMTQ4/MDAxNjcwOTE3NTgxODMy.p8UDmkDSaV6g90jqSYigl2NMXmlY7DTTkQ-yo13axxQg.lEh5yWEGU_Vqc4j5yEhtyQb_Cu6RGk2qK3sV3Dr_bQgg.JPEG/IPK9yeeEkhk105Oh7UBnuxBa3a-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
