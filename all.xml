@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 03:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 09:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -858,6 +858,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새해 스트레칭 시작! (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/74693</link>
+            <guid>https://www.harpersbazaar.co.kr/article/74693</guid>
+            <pubDate>Sat, 11 Feb 2023 09:02:25 GMT</pubDate>
+            <content:encoded><![CDATA[겨우내 굳었던 몸과 마음을 이완해줄 스트레칭 타임.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/5f9f4e88-a5c1-4722-9c2a-06179f48bf5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[황홀한 무도(舞蹈) 속에서 피어난 디올의 레이디 D-조이 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/74680</link>
             <guid>https://www.harpersbazaar.co.kr/article/74680</guid>
@@ -918,7 +926,23 @@
             <link>https://www.harpersbazaar.co.kr/article/74856</link>
             <guid>https://www.harpersbazaar.co.kr/article/74856</guid>
             <pubDate>Wed, 08 Feb 2023 09:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[지퍼가 반만 달려 독특한, 하프 집업 니트의 클래식한 멋.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/e133935a-3c74-4be2-9f4c-4369da26c144.jpg');">
+            <a href="/article/74856">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/74856">
+                    태연, 안소희, 제니가 입은 클래식하고 멋스러운 하프 집업 니트                </a>
+            </em>
+            <p class="excerpt">지퍼가 반만 달려 독특한, 하프 집업 니트의 클래식한 멋.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/e133935a-3c74-4be2-9f4c-4369da26c144.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1071,22 +1095,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/74792</guid>
             <pubDate>Wed, 08 Feb 2023 03:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/dfb76ff4-836b-47d1-a468-84020e7b6297.jpg');">
-            <a href="/article/74792">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/74792">
-                    여왕의 스타일 부쉐론 라이크 어 퀸, 2023년에 부활하다                </a>
-            </em>
-            <p class="excerpt">부쉐론이 새롭게 선보이는 하이 주얼리</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/74792">
+                        여왕의 스타일 부쉐론 라이크 어 퀸, 2023년에 부활하다                    </a>
+                </em>
+                <p class="excerpt">부쉐론이 새롭게 선보이는 하이 주얼리</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/dfb76ff4-836b-47d1-a468-84020e7b6297.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1208,30 +1232,6 @@
                 <p class="excerpt">로에베와 하이츠는 어떤 영화와 협업했을까?</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/dce780ea-069b-4c1f-bd29-7b6d1aaa6f39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서현이 추운 촬영장에서 입은 재킷은? #B_STAR일링 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74717</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74717</guid>
-            <pubDate>Thu, 02 Feb 2023 09:02:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/213787d8-a298-46c7-b49e-c7921a290d64.jpg');">
-                <a href="/article/74717">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74717">
-                        서현이 추운 촬영장에서 입은 재킷은? #B_STAR일링                    </a>
-                </em>
-                <p class="excerpt">아무리 추워도 따뜻함과 스타일, 둘 다 포기 못한다면 클릭! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/213787d8-a298-46c7-b49e-c7921a290d64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초콜릿보다 더 좋아! 핑크 is 뭔들 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1610,6 +1610,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/26/c0bfd3f7-e389-46ea-867b-584865c86e98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이승기❤️이다인, 4월 7일에 부부된다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/74867</link>
+            <guid>https://www.harpersbazaar.co.kr/article/74867</guid>
+            <pubDate>Sat, 11 Feb 2023 09:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[이승기가 얻은 든든하고 영원한 '내 편'은 이다인♥]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/cb8b30b3-ece1-4777-a3fd-a37a3e657296.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BTS 정국이 말한 타투의 의미 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/74866</link>
             <guid>https://www.harpersbazaar.co.kr/article/74866</guid>
@@ -1670,7 +1678,23 @@
             <link>https://www.harpersbazaar.co.kr/article/74764</link>
             <guid>https://www.harpersbazaar.co.kr/article/74764</guid>
             <pubDate>Tue, 07 Feb 2023 15:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[시청률 수직 상승! 화제의 &lt;일타 스캔들&gt; 속 뼈대사 모음.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/c50cee35-f8b6-483c-867f-b7f2c390fed8.jpg');">
+            <a href="/article/74764">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/74764">
+                    전도연X정경호 꿀케미! 화제의 #일타스캔들 명대사!                 </a>
+            </em>
+            <p class="excerpt">시청률 수직 상승! 화제의 &lt;일타 스캔들&gt; 속 뼈대사 모음.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/c50cee35-f8b6-483c-867f-b7f2c390fed8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1823,22 +1847,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/74635</guid>
             <pubDate>Thu, 02 Feb 2023 09:03:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/8a9787e8-8959-4652-b0f8-e08cfc14fb06.jpg');">
-            <a href="/article/74635">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/74635">
-                    자기 관리의 일타강사, 설현처럼 명품 몸매 만드는 방법은?                 </a>
-            </em>
-            <p class="excerpt">설현의 똑부러진 관리 비법 #관리의정석 </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/74635">
+                        자기 관리의 일타강사, 설현처럼 명품 몸매 만드는 방법은?                     </a>
+                </em>
+                <p class="excerpt">설현의 똑부러진 관리 비법 #관리의정석 </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/8a9787e8-8959-4652-b0f8-e08cfc14fb06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1960,30 +1984,6 @@
                 <p class="excerpt">이 남자의 얼굴에는 아직, 소년의 어느 한때가 담겨 있다. 배우 유연석의 오늘 그리고 지금.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/423b261e-4a5e-4a73-8d55-800876b559d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <스위니토드>의 잔혹한 연인, 전미도와 이규형 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74522</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74522</guid>
-            <pubDate>Sun, 05 Feb 2023 03:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/917a5a5d-85ab-4110-b86b-164c90166cf4.jpg');">
-                <a href="/article/74522">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74522">
-                        뮤지컬 &lt;스위니토드&gt;의 잔혹한 연인, 전미도와 이규형                    </a>
-                </em>
-                <p class="excerpt">배우 전미도와 이규형의 인터뷰. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/917a5a5d-85ab-4110-b86b-164c90166cf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전도연X정경호 꿀케미! 화제의 #일타스캔들 명대사! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
