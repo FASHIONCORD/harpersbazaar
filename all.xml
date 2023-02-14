@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 03:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 09:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1233,6 +1233,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/dce780ea-069b-4c1f-bd29-7b6d1aaa6f39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딱딱해지지 마! 말랑 피지 만들기 정말 될까? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/74543</link>
+            <guid>https://www.harpersbazaar.co.kr/article/74543</guid>
+            <pubDate>Tue, 14 Feb 2023 09:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[수분 에센스처럼 매일 바르면 피지가 단단해지는 것을 예방한다는 제품이 흥하고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/184dbff3-9fe0-4717-88bf-4916a27dfdc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[간식 러버 오마이걸 미미의 일주일 밀가루 끊기 프로젝트 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/74896</link>
             <guid>https://www.harpersbazaar.co.kr/article/74896</guid>
@@ -1293,7 +1301,23 @@
             <link>https://www.harpersbazaar.co.kr/article/74666</link>
             <guid>https://www.harpersbazaar.co.kr/article/74666</guid>
             <pubDate>Wed, 08 Feb 2023 09:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[아티스트의 노하우가 담긴 평범한 도구의 특별한 쓰임새.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/05/a23141d9-9bdc-4c1e-a154-e09613520de9.jpg');">
+            <a href="/article/74666">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/74666">
+                    메이크업 아티스트의 필살 도구 대공개!                </a>
+            </em>
+            <p class="excerpt">아티스트의 노하우가 담긴 평범한 도구의 특별한 쓰임새.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/05/a23141d9-9bdc-4c1e-a154-e09613520de9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1446,22 +1470,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/74542</guid>
             <pubDate>Wed, 08 Feb 2023 09:02:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/d62f164d-6925-447a-895a-4e8727be2ffa.jpg');">
-            <a href="/article/74542">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/74542">
-                    똑똑한 뷰티 유저들은 다 이거 쓴다며?                </a>
-            </em>
-            <p class="excerpt">합리적인 가격에 실력까지 겸비한 ‘메이드 인 독일’ 화장품.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/74542">
+                        똑똑한 뷰티 유저들은 다 이거 쓴다며?                    </a>
+                </em>
+                <p class="excerpt">합리적인 가격에 실력까지 겸비한 ‘메이드 인 독일’ 화장품.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/d62f164d-6925-447a-895a-4e8727be2ffa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1583,30 +1607,6 @@
                 <p class="excerpt">K-뷰티와는 결이 다른 G-뷰티 엿보기!  </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/6e8c686d-7927-4ec6-b144-cb4d7f93fe53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식단부터 마사지까지, <더글로리> 임지연의 몸매 관리 비결은? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74606</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74606</guid>
-            <pubDate>Thu, 02 Feb 2023 09:02:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/2b0828ab-aac2-4080-b89e-3715abc3024a.jpg');">
-                <a href="/article/74606">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74606">
-                        식단부터 마사지까지, &lt;더글로리&gt; 임지연의 몸매 관리 비결은?                    </a>
-                </em>
-                <p class="excerpt"> 연진아, 지금부터 내 다이어트 워너비는 너야 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/2b0828ab-aac2-4080-b89e-3715abc3024a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['♥이승기 여친→아내' 이다인은? #견미리딸 #이유비동생 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
