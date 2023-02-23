@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 22 Feb 2023 15:01:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjFfMjMz/MDAxNjc2OTU1MTE3NzE3.MPCYs9JSsMM4LL1G7paFgX9fi8tsZUxzu49kQqiskE4g.skbuZB0q1JcVJYS4qq0-_JX6UlgQxfLGWeiC3AbOrzEg.JPEG/IacYQokk7HSCZo6v8OKlm5ucu__Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니부터 안소희까지 셀럽들의 ‘100만원 이하’ 백은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35520010&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35520010&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 Feb 2023 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfODgg/MDAxNjc3MDQ3NjQxNDg1.KsvN-3jyzfitv8sf-h8ulYnLkltEdaZSSDEPtuWLfg0g.AJOHE5I9488JdHqbf0m1Ech9QiN9ukeWDyzYz7saex0g.JPEG/IjMgVQOuZs1wdzEWeScfHRqBmw1c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크부터 르세라핌까지, Y2K 끝판왕 레그워머 스타일]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 13 Jan 2023 03:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTNfNTMg/MDAxNjczNTQwODk2NDYy.yo8Sq7Skc0CrhYX0QvY0zm3UBF3vhB0OlSrs4NijofMg.6-xWmeN4l2XF_zXaDc_P2_h6ofiSkJdgKIcyI3-KDzEg.JPEG/IwgvUvLfzl01wXBFJ2OL5jp9YXV8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 가장 인기있었던 스니커즈는?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35126577&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35126577&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 12 Jan 2023 03:01:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTFfMTIy/MDAxNjczNDA0NjY4Mzcx.AXqTL9I9PduaszKSwMomATp3pqCvDP1BLe4AkR8SKuog.sIka9Au4Yii6S-kZr1gcZ8w_TZd8KyBFAFVA9iomZYog.JPEG/IE0e04BopWB5rDVi8o0hKVoDdSVY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
