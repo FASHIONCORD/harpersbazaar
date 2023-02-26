@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 09:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 15:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1985,6 +1985,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/92dfa126-8bd7-4fab-b005-f4e28f0789c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["나의 지옥에 온 걸 환영해".. 어서 와! <더 글로리> 파트2 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75275</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75275</guid>
+            <pubDate>Sun, 26 Feb 2023 15:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[목 빠지게 기다린 &lt;더 글로리&gt; 파트2 메인 포스터 &amp; 예고편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/b30760b9-b3b1-4167-961f-515e9c27d77c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<더 글로리> 최혜정 아역, <연애대전>에도 나왔어? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75262</link>
             <guid>https://www.harpersbazaar.co.kr/article/75262</guid>
@@ -2045,7 +2053,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75080</link>
             <guid>https://www.harpersbazaar.co.kr/article/75080</guid>
             <pubDate>Tue, 21 Feb 2023 03:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 연기로 필모를 채우고 있는 배우 박성훈, ‘하퍼스 바자’ 3월 화보 공개]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/fcfd29dc-0b21-4b6b-b1e5-92f1bfb6254d.jpg');">
+            <a href="/article/75080">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75080">
+                    선과 악, 시크함과 다정함이 모두 공존하는 배우 박성훈                </a>
+            </em>
+            <p class="excerpt">다양한 연기로 필모를 채우고 있는 배우 박성훈, ‘하퍼스 바자’ 3월 화보 공개</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/fcfd29dc-0b21-4b6b-b1e5-92f1bfb6254d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2198,22 +2222,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75012</guid>
             <pubDate>Fri, 17 Feb 2023 03:21:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/16256c0b-4c53-49b5-94e3-174c4e60185e.jpg');">
-            <a href="/article/75012">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75012">
-                    이승기·유연석·이동휘·규현 다 나옴! &lt;브로마블&gt; 뭐길래?                </a>
-            </em>
-            <p class="excerpt">추억의 '부루마블'이 K-예능으로 변신한다면</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75012">
+                        이승기·유연석·이동휘·규현 다 나옴! &lt;브로마블&gt; 뭐길래?                    </a>
+                </em>
+                <p class="excerpt">추억의 '부루마블'이 K-예능으로 변신한다면</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/16256c0b-4c53-49b5-94e3-174c4e60185e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2335,30 +2359,6 @@
                 <p class="excerpt">폭풍 같은 2022년을 지나 새해를 맞이한 한국 미술계의 키워드</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/2c64c043-1cb6-44c0-89f7-2d5b502370ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 <피지컬: 100>, 'PD수첩'의 피디가 만들었다고? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74851</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74851</guid>
-            <pubDate>Mon, 13 Feb 2023 09:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/50b996b5-4e20-4614-acec-dff896c30831.jpg');">
-                <a href="/article/74851">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74851">
-                        화제의 &lt;피지컬: 100&gt;, 'PD수첩'의 피디가 만들었다고?                    </a>
-                </em>
-                <p class="excerpt">일명 '근징어 게임' 애청자라면 궁금할 이야기 모음 ZIP. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/50b996b5-4e20-4614-acec-dff896c30831.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘와알못’을 위한 엄정화의 와인 추천 4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
