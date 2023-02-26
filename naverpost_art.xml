@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Art</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 15:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 03:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀럽들의 인생샷을 남긴 포토그래퍼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35530690&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35530690&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Sun, 26 Feb 2023 03:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjRfMTQ5/MDAxNjc3MjA2NDAzMDk1.iGA1ITO_XF4kiYmKO87VaDF5WrdVl7QWy2vZnGcP6OYg.ljf0dJ6gu-31_d6sTfiosrgnUHtp1WudyGgrj9CYIXQg.JPEG/IKUOIwdYdh_BpiymwSKATWZlZ_e0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바자 X 그라운드시소 환경 캠페인 Thanks Earth, Happy Together]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34878106&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -166,14 +174,6 @@
             <pubDate>Thu, 17 Nov 2022 03:36:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMTE3/MDAxNTg5ODAxOTA5NTgy.lXjCGLH9Btq36RhXt-8odZwcgh7dbqDwUEfH66xbdFsg.59gZOHzkApwZkr5Fo08Z6vvucd4TymTnBwsiynQrQJ8g.PNG/IPvNpormg1RKMKWyfLAR3cYAU6AI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이비통 트래블북에 담긴 도시들: 바르셀로나, 상트페테르부르크, 모로코]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28249528&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28249528&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTcw/MDAxNTg5MjM5Mzk0MDMw.096u8HPj6PdHIcswiMSnv9E7MsxB9JPQOq6tKVKD0r0g.uCjKCrK3PTQHyDPx2VZJTPPV4Mf6avWhNcKcW3_IY_Mg.JPEG/IR-aKiYO_9rVRBA0ZlUN862xTmjY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
