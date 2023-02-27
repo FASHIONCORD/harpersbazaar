@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 15:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펜디 하우스를 이끌어가는 두 여성의 이야기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35530763&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35530763&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 27 Feb 2023 03:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjRfMTYy/MDAxNjc3MjA2OTEyMDg1.Uos6XLjZcWfSlsPPJsOEpBNncQHqHtDHs6TJt5H2cR8g.fcrPsIf8KRnJwTNZXpsZ_BuXQDGE8VF2SZ14-AqYW5Ag.JPEG/IOUvNDpxYo9p3oSPTMu6zPI3UzJA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울에 즐기는 셀럽들의 여름휴가룩]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35529594&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 23 Jan 2023 03:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDFfMjkg/MDAxNjc1MjE3NTQwNzQw.5QcZAc7bZd1SP1aNF3TtVN0H8FhOAMLCRbe82ZaVT-0g.qfo-AaKAGU9p_bHOjVLuzRyHH9JZB_u1rFqY4tAnEccg.JPEG/IOpHNR8B3t8EVWSeRGMmc0jSw8gc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추억 소환! 아프간 코트의 역습]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35159066&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35159066&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 17 Jan 2023 03:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTdfNzcg/MDAxNjczOTQzODU4MDI5.ZmLN3K0TOfwVhfREkSvmTKzMz3i4wxwnLSGbsPXtdmIg.mTMMiKeIlsKG6lEDuMj9QjYeH69HeaVfKzAluAKsYOsg.JPEG/InzLt6-gk8ON887ierdEEPaPSYNk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
