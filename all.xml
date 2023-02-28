@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1233,6 +1233,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/d49f96e9-b408-4d2f-ba24-94861bc837c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[태연,조이 등 셀럽들은 어디서 필라테스를 할까? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75338</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75338</guid>
+            <pubDate>Tue, 28 Feb 2023 09:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[태연부터 조이까지, 우리도 운동하자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/8796826b-64ac-457a-a964-4c3b4a660ce9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄 맞이 '신상' 뷰티 아이템 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75235</link>
             <guid>https://www.harpersbazaar.co.kr/article/75235</guid>
@@ -1293,7 +1301,23 @@
             <link>https://www.harpersbazaar.co.kr/article/74980</link>
             <guid>https://www.harpersbazaar.co.kr/article/74980</guid>
             <pubDate>Tue, 21 Feb 2023 09:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[주는 사람이 더 기쁜 디올 프레스티지 세럼과 크림]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/275b7dd0-cf86-4675-ac41-d0c3d29dac73.jpg');">
+            <a href="/article/74980">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/74980">
+                    밸런타인데이, 디올 프레스티지 스킨케어 컬렉션을 추천하는 이유                 </a>
+            </em>
+            <p class="excerpt">주는 사람이 더 기쁜 디올 프레스티지 세럼과 크림 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/275b7dd0-cf86-4675-ac41-d0c3d29dac73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1446,22 +1470,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/74572</guid>
             <pubDate>Mon, 13 Feb 2023 09:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/6e7ad809-4d9f-48c9-8cb8-a03a0bbcb03d.jpg');">
-            <a href="/article/74572">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/74572">
-                    보디 보습 끝판왕! 건조해서 고민이라면 드루와~                </a>
-            </em>
-            <p class="excerpt">온몸에 수분이 절실한 계절. 고보습 성분을 함유한 신상 보디 제품을 직접 사용해봤다. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/74572">
+                        보디 보습 끝판왕! 건조해서 고민이라면 드루와~                    </a>
+                </em>
+                <p class="excerpt">온몸에 수분이 절실한 계절. 고보습 성분을 함유한 신상 보디 제품을 직접 사용해봤다. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/6e7ad809-4d9f-48c9-8cb8-a03a0bbcb03d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1583,30 +1607,6 @@
                 <p class="excerpt">피부과 전문의가 말하는 20대에 받으면 좋은 피부과 시술 3</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/04/c24afc3a-997d-4e19-933b-79ce8f2fcb8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이크업 아티스트의 필살 도구 대공개! (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74666</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74666</guid>
-            <pubDate>Wed, 08 Feb 2023 09:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/05/a23141d9-9bdc-4c1e-a154-e09613520de9.jpg');">
-                <a href="/article/74666">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74666">
-                        메이크업 아티스트의 필살 도구 대공개!                    </a>
-                </em>
-                <p class="excerpt">아티스트의 노하우가 담긴 평범한 도구의 특별한 쓰임새.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/05/a23141d9-9bdc-4c1e-a154-e09613520de9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소확행 거부하는 아이유, 올해 계획은 000? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1985,6 +1985,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/44800e57-d3c3-4b53-a8a1-309f8adf6186.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[변호사 된 조승우? <신성한, 이혼> 뭐가 다를까 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75346</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75346</guid>
+            <pubDate>Tue, 28 Feb 2023 09:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[신성한 법정에 나타난 신선한 변호사, 조승우!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/117e2108-a30e-4c45-adb9-0be50a5bba74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부석순의 '파이팅 해야지' 챌린지 참여한 셀럽은 누구? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75328</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75328</guid>
+            <pubDate>Tue, 28 Feb 2023 03:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴의 하이텐션 3인방 '부석순' 컴백 맞아 함께 댄스 챌린지한 셀럽들!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/1526091f-6f15-4264-9b2c-27352b10aff7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀럽들의 인생샷을 남긴 포토그래퍼 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75311</link>
             <guid>https://www.harpersbazaar.co.kr/article/75311</guid>
@@ -2037,7 +2053,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75119</link>
             <guid>https://www.harpersbazaar.co.kr/article/75119</guid>
             <pubDate>Wed, 22 Feb 2023 03:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;더 글로리&gt; 하도영 역으로 주가상승 중인 배우 정성일, &lt;하퍼스 바자&gt; 3월호 화보 공개]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/ed492780-cca8-4217-835e-0a6f59aa6869.jpg');">
+            <a href="/article/75119">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75119">
+                    '더 글로리'의 주역, 배우 정성일의 진솔한 연기 이야기                </a>
+            </em>
+            <p class="excerpt">&lt;더 글로리&gt; 하도영 역으로 주가상승 중인 배우 정성일, &lt;하퍼스 바자&gt; 3월호 화보 공개</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/ed492780-cca8-4217-835e-0a6f59aa6869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2045,7 +2077,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75111</link>
             <guid>https://www.harpersbazaar.co.kr/article/75111</guid>
             <pubDate>Sat, 25 Feb 2023 15:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[김완선·엄정화·이효리·보아·화사 &lt;댄스가수 유랑단&gt;.. 이게 되네?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/eb82da2d-1bff-4c3d-87b1-8301c311d43c.jpg');">
+            <a href="/article/75111">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75111">
+                    이효리 아이디어→김태호 실행력 &lt;댄스가수 유랑단&gt;                </a>
+            </em>
+            <p class="excerpt">김완선·엄정화·이효리·보아·화사 &lt;댄스가수 유랑단&gt;.. 이게 되네?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/eb82da2d-1bff-4c3d-87b1-8301c311d43c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2174,22 +2222,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75072</guid>
             <pubDate>Fri, 17 Feb 2023 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/e9cba219-8d72-4362-8b28-39e9f9244e06.jpg');">
-            <a href="/article/75072">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75072">
-                    전도연부터 홍상수까지.. '베를린 영화제' K-콘텐츠                </a>
-            </em>
-            <p class="excerpt">베를린에 날아간 'K-무비' 모아봅니다 (feat.애국심)</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75072">
+                        전도연부터 홍상수까지.. '베를린 영화제' K-콘텐츠                    </a>
+                </em>
+                <p class="excerpt">베를린에 날아간 'K-무비' 모아봅니다 (feat.애국심)</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/e9cba219-8d72-4362-8b28-39e9f9244e06.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2198,22 +2246,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75060</guid>
             <pubDate>Fri, 17 Feb 2023 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/e3bf5cf1-4c40-4926-a886-85ead8f871d7.jpg');">
-            <a href="/article/75060">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75060">
-                    &lt;연애대전&gt;으로 유태오에 빠졌다면 #추천작                </a>
-            </em>
-            <p class="excerpt">유태오, 본격 덕질을 위한 가이드</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75060">
+                        &lt;연애대전&gt;으로 유태오에 빠졌다면 #추천작                    </a>
+                </em>
+                <p class="excerpt">유태오, 본격 덕질을 위한 가이드</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/e3bf5cf1-4c40-4926-a886-85ead8f871d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2311,54 +2359,6 @@
                 <p class="excerpt">추억의 '부루마블'이 K-예능으로 변신한다면</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/16256c0b-4c53-49b5-94e3-174c4e60185e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS 전격 출연! 전국 맛집 & 노포 지도 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74973</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74973</guid>
-            <pubDate>Fri, 17 Feb 2023 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/6899c1d4-ce2d-4a49-a3d1-b615291924eb.jpg');">
-                <a href="/article/74973">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74973">
-                        KBS 전격 출연! 전국 맛집 &amp; 노포 지도                    </a>
-                </em>
-                <p class="excerpt">&lt;한국인의 밥상&gt;을 포함해 KBS에 출연한 전국 맛집이 여기 있다!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/6899c1d4-ce2d-4a49-a3d1-b615291924eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전도연의 변신은 무죄! 반찬가게 사장님→킬러 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74959</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74959</guid>
-            <pubDate>Fri, 17 Feb 2023 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/11/85902cdf-f9c4-4ab3-ba57-dec769efbd74.jpg');">
-                <a href="/article/74959">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74959">
-                        전도연의 변신은 무죄! 반찬가게 사장님→킬러                    </a>
-                </em>
-                <p class="excerpt">캐릭터 &amp; 장르 변화무쌍 소화력, 명불허전 '칸의 여왕'</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/11/85902cdf-f9c4-4ab3-ba57-dec769efbd74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘와알못’을 위한 엄정화의 와인 추천 4 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
