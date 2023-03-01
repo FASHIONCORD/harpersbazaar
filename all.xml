@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 09:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 15:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -857,6 +857,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMTE3/MDAxNTg5ODAxOTA5NTgy.lXjCGLH9Btq36RhXt-8odZwcgh7dbqDwUEfH66xbdFsg.59gZOHzkApwZkr5Fo08Z6vvucd4TymTnBwsiynQrQJ8g.PNG/IPvNpormg1RKMKWyfLAR3cYAU6AI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올봄 아우터 준비는 크롭트 트렌치 코트로! (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75196</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75196</guid>
+            <pubDate>Wed, 01 Mar 2023 15:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[트렌치코트의 변주는 어디까지일까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/218eaf4b-b4df-45c3-9a18-232654a9fcc6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스타일 지수 업! 에어팟 맥스 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75382</link>
             <guid>https://www.harpersbazaar.co.kr/article/75382</guid>
@@ -917,7 +925,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75341</link>
             <guid>https://www.harpersbazaar.co.kr/article/75341</guid>
             <pubDate>Mon, 27 Feb 2023 15:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[러닝의 훌륭한 조력자가 되어줄 나이키와 데상트의 신상 러닝화]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/74e1bbc6-00d5-48b9-9766-5e1da56dcdf6.jpg');">
+            <a href="/article/75341">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75341">
+                    내 발에 착! 감기는 인생 러닝화를 찾고 있다면? #신상신Go                </a>
+            </em>
+            <p class="excerpt">러닝의 훌륭한 조력자가 되어줄 나이키와 데상트의 신상 러닝화</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/74e1bbc6-00d5-48b9-9766-5e1da56dcdf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1070,22 +1094,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75243</guid>
             <pubDate>Fri, 24 Feb 2023 09:09:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/b4319ca0-d0cd-4bd8-9db6-a70117ffedea.jpg');">
-            <a href="/article/75243">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75243">
-                    대학생룩의 정석! 노윤서의 사복 패션                </a>
-            </em>
-            <p class="excerpt">&lt;일타 스캔들&gt; 남해이 학생의 따라 입고 싶은 OOTD</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75243">
+                        대학생룩의 정석! 노윤서의 사복 패션                    </a>
+                </em>
+                <p class="excerpt">&lt;일타 스캔들&gt; 남해이 학생의 따라 입고 싶은 OOTD</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/b4319ca0-d0cd-4bd8-9db6-a70117ffedea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1207,30 +1231,6 @@
                 <p class="excerpt">'늦으면 품절각'이다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/009ba48e-ba8e-4bd9-9f47-ff6847ca52b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에 즐기는 셀럽들의 여름휴가룩 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75149</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75149</guid>
-            <pubDate>Wed, 22 Feb 2023 03:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/44800e57-d3c3-4b53-a8a1-309f8adf6186.jpg');">
-                <a href="/article/75149">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75149">
-                        겨울에 즐기는 셀럽들의 여름휴가룩                    </a>
-                </em>
-                <p class="excerpt">에너지 넘치는 여름 나라에서 휴가를 보낸 셀럽들의 행복한 순간.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/44800e57-d3c3-4b53-a8a1-309f8adf6186.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태연,조이 등 셀럽들은 어디서 필라테스를 할까? (하퍼스바자 코리아 ─ 뷰티)]]></title>
