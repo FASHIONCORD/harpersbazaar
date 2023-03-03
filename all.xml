@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1609,6 +1609,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/e2ec9ec2-0ec3-4d5d-9841-96af91276d32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다재다능 매력적인 시스루 룩 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75381</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75381</guid>
+            <pubDate>Wed, 01 Mar 2023 03:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[대범할수록 멋져! 요즘 스타일로 즐기는 시스루 룩 열전.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7d2f034a-7f23-4024-9df6-24d2143d5944.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[각자 더 바빠진 BTS, 솔로곡+예능+군입대 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75378</link>
             <guid>https://www.harpersbazaar.co.kr/article/75378</guid>
@@ -1669,7 +1677,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75241</link>
             <guid>https://www.harpersbazaar.co.kr/article/75241</guid>
             <pubDate>Tue, 28 Feb 2023 03:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[영원한 소녀, 티파니 영이 변치 않는다고 믿는 것들에 대하여.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/343f9b59-ea37-42ea-8886-25c8ca2e8f74.jpg');">
+            <a href="/article/75241">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75241">
+                    영원한 소녀, 티파니 영                </a>
+            </em>
+            <p class="excerpt">영원한 소녀, 티파니 영이 변치 않는다고 믿는 것들에 대하여.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/343f9b59-ea37-42ea-8886-25c8ca2e8f74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1822,22 +1846,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75243</guid>
             <pubDate>Fri, 24 Feb 2023 09:09:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/b4319ca0-d0cd-4bd8-9db6-a70117ffedea.jpg');">
-            <a href="/article/75243">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75243">
-                    대학생룩의 정석! 노윤서의 사복 패션                </a>
-            </em>
-            <p class="excerpt">&lt;일타 스캔들&gt; 남해이 학생의 따라 입고 싶은 OOTD</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75243">
+                        대학생룩의 정석! 노윤서의 사복 패션                    </a>
+                </em>
+                <p class="excerpt">&lt;일타 스캔들&gt; 남해이 학생의 따라 입고 싶은 OOTD</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/b4319ca0-d0cd-4bd8-9db6-a70117ffedea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1959,30 +1983,6 @@
                 <p class="excerpt">가수 커리어의 정점을 찍고, 또 다른 피크를 보여줄 티파니 영</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/a4e8dede-00c1-40c2-9fd2-469de928f221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<일타 스캔들> <모범택시>에 출연하며 열연 중인 핫 루키 배우는 누구? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75155</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75155</guid>
-            <pubDate>Wed, 22 Feb 2023 09:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/243089a7-2292-46be-9347-52ee12aec0af.jpg');">
-                <a href="/article/75155">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75155">
-                        &lt;일타 스캔들&gt; &lt;모범택시&gt;에 출연하며 열연 중인 핫 루키 배우는 누구?                    </a>
-                </em>
-                <p class="excerpt">비주얼은 물론, 선과 악 두 마스크를 지닌 배우 신재하</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/243089a7-2292-46be-9347-52ee12aec0af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아듀! <대행사>.. 이보영→손나은, 배우들의 종영 소감 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
