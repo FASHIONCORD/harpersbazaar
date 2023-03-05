@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 09:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2359,6 +2359,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/0829272c-a1cf-4304-81ea-c2cfd6e7d5f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인생 레깅스를 만났다! #젠비레깅스 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75141</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75141</guid>
+            <pubDate>Sun, 26 Feb 2023 09:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[나이키 FEEL YOUR ALL 캠페인에서 인생 레깅스 만난 후기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/1fa06051-5eeb-4261-8f87-339ae1699c4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제주에서 초멍 하는 법 #랄라밀랍초 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75145</link>
             <guid>https://www.harpersbazaar.co.kr/article/75145</guid>
@@ -2419,7 +2427,23 @@
             <link>https://www.harpersbazaar.co.kr/article/74694</link>
             <guid>https://www.harpersbazaar.co.kr/article/74694</guid>
             <pubDate>Wed, 15 Feb 2023 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[매달고 끼우고 걸고. 대롱대롱 키링.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/6b52ea65-6970-4ace-b2fc-1da94ea2a8a0.jpg');">
+            <a href="/article/74694">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/74694">
+                    내 가방에 착! 젠지들의 필수템, 키링                </a>
+            </em>
+            <p class="excerpt">매달고 끼우고 걸고. 대롱대롱 키링.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/6b52ea65-6970-4ace-b2fc-1da94ea2a8a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2572,22 +2596,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/74579</guid>
             <pubDate>Sat, 04 Feb 2023 15:12:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/031025c5-8aeb-42bd-a627-db34cd143210.jpg');">
-            <a href="/article/74579">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/74579">
-                    소셜여권! 이들이 인스타그램을 지운 이유는?                </a>
-            </em>
-            <p class="excerpt">모두가 SNS 아이디를 보유하는 시대에 계정을 없앤 별종들의 이야기</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/74579">
+                        소셜여권! 이들이 인스타그램을 지운 이유는?                    </a>
+                </em>
+                <p class="excerpt">모두가 SNS 아이디를 보유하는 시대에 계정을 없앤 별종들의 이야기</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/031025c5-8aeb-42bd-a627-db34cd143210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2709,30 +2733,6 @@
                 <p class="excerpt">운동 없이도 급찐살 빼는 다이어트 식단 레시피! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/473febc1-dbc6-4302-bc5a-78f78ff81780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찐여행자들이 추천하는 여행스팟 10 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74638</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74638</guid>
-            <pubDate>Wed, 15 Feb 2023 09:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/d06ec0ff-87a4-4670-8f6f-ac763d753e48.jpg');">
-                <a href="/article/74638">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74638">
-                        찐여행자들이 추천하는 여행스팟 10                    </a>
-                </em>
-                <p class="excerpt">에어비엔비 인스타그램에서 좋아요 수를 가장 많이 받은 여행지 10곳은?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/30/d06ec0ff-87a4-4670-8f6f-ac763d753e48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기후우울증을 아시나요? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
