@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 03:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 09:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1607,6 +1607,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/ebcb7fdf-bad9-4404-b52a-7b517f271a42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄날의 핑크를 좋아하세요? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75579</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75579</guid>
+            <pubDate>Wed, 08 Mar 2023 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[오직 핑크 컬러에서만 느낄 수 있는 강렬한 로맨스의 기운.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/625791f1-6741-4356-94cb-adfb97740c0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어디서나 시선 집중! 복서 슈즈 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75578</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75578</guid>
+            <pubDate>Wed, 08 Mar 2023 03:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[실험 정신과 호기심으로 충만한 패피들이 급기야 복서 슈즈까지 점령했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/855e31a1-98d8-47a7-bc7c-5bc624862117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화이트데이 선물 고민이라면? 메구가 대신 '넘버링'에서 골라드림! (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75555</link>
             <guid>https://www.harpersbazaar.co.kr/article/75555</guid>
@@ -1659,7 +1675,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75381</link>
             <guid>https://www.harpersbazaar.co.kr/article/75381</guid>
             <pubDate>Wed, 01 Mar 2023 03:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[대범할수록 멋져! 요즘 스타일로 즐기는 시스루 룩 열전.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7d2f034a-7f23-4024-9df6-24d2143d5944.jpg');">
+            <a href="/article/75381">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75381">
+                    다재다능 매력적인 시스루 룩                </a>
+            </em>
+            <p class="excerpt">대범할수록 멋져! 요즘 스타일로 즐기는 시스루 룩 열전.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7d2f034a-7f23-4024-9df6-24d2143d5944.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1667,7 +1699,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75378</link>
             <guid>https://www.harpersbazaar.co.kr/article/75378</guid>
             <pubDate>Wed, 01 Mar 2023 03:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[But, 방탄소년단 멤버들의 완전체를 기다리지요!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/b1580480-5aa1-421b-a83c-06a72c94c857.jpg');">
+            <a href="/article/75378">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75378">
+                    각자 더 바빠진 BTS, 솔로곡+예능+군입대                </a>
+            </em>
+            <p class="excerpt">But, 방탄소년단 멤버들의 완전체를 기다리지요!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/b1580480-5aa1-421b-a83c-06a72c94c857.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1796,22 +1844,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75345</guid>
             <pubDate>Tue, 28 Feb 2023 03:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/54ee83b5-188b-41f8-b980-eaddea72c913.jpg');">
-            <a href="/article/75345">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75345">
-                    방탄소년단 제이홉, 맏형 진 이어 군 입대!                </a>
-            </em>
-            <p class="excerpt">입영연기 취소한 제이홉, BTS 2번째 '군인' 된다</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75345">
+                        방탄소년단 제이홉, 맏형 진 이어 군 입대!                    </a>
+                </em>
+                <p class="excerpt">입영연기 취소한 제이홉, BTS 2번째 '군인' 된다</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/54ee83b5-188b-41f8-b980-eaddea72c913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1820,22 +1868,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75241</guid>
             <pubDate>Tue, 28 Feb 2023 03:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/343f9b59-ea37-42ea-8886-25c8ca2e8f74.jpg');">
-            <a href="/article/75241">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75241">
-                    영원한 소녀, 티파니 영                </a>
-            </em>
-            <p class="excerpt">영원한 소녀, 티파니 영이 변치 않는다고 믿는 것들에 대하여.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75241">
+                        영원한 소녀, 티파니 영                    </a>
+                </em>
+                <p class="excerpt">영원한 소녀, 티파니 영이 변치 않는다고 믿는 것들에 대하여.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/343f9b59-ea37-42ea-8886-25c8ca2e8f74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1933,54 +1981,6 @@
                 <p class="excerpt">봄을 부르는 패션 화보 공개 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/371a720b-6f19-43ee-a887-f2d5c5010b29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<일타 스캔들>, 화면 밖 우림고즈 일상 궁금해? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75303</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75303</guid>
-            <pubDate>Sun, 26 Feb 2023 03:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/1b2177d8-e162-4591-bc57-39b4ae552a38.jpg');">
-                <a href="/article/75303">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75303">
-                        &lt;일타 스캔들&gt;, 화면 밖 우림고즈 일상 궁금해?                    </a>
-                </em>
-                <p class="excerpt">단체 야구 점퍼는 기본옵션+스티커 사진은 뽀나스!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/1b2177d8-e162-4591-bc57-39b4ae552a38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향수 광고까지 섭렵한 대세 배우 송강 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75268</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75268</guid>
-            <pubDate>Sun, 26 Feb 2023 03:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/8bfb6b63-7277-4681-a466-26b5dfb7a45d.jpg');">
-                <a href="/article/75268">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75268">
-                        향수 광고까지 섭렵한 대세 배우 송강                    </a>
-                </em>
-                <p class="excerpt">아쿠아 디 파르마와 함께한 첫 화보 공개!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/8bfb6b63-7277-4681-a466-26b5dfb7a45d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유아인 빠진 <지옥2>, 어떻게 바뀌었나? (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
