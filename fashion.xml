@@ -4,9 +4,25 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 15:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 03:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실루엣에 집중한 알렉산더 맥퀸의 세계]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75510</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75510</guid>
+            <pubDate>Sat, 11 Mar 2023 03:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[해체와 재조합을 통해 새로운 재단과 드레이핑이 돋보이는 알렉산더 맥퀸]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/19ba6a2e-2977-40e2-ab23-2999a4a3a976.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 S/S 시즌의 키 룩이 궁금하다면?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75515</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75515</guid>
+            <pubDate>Sat, 11 Mar 2023 03:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[다시 찾아온 봄, 2023 S/S 시즌의 뉴 룩을 입고 파리 도심 곳곳을 누비다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/f1d8f407-6b34-4134-a760-8be0f503f424.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 카고 열풍! 이번 시즌 카고 팬츠 말고, 카고 스커트 어때? #명품네컷]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75644</link>
@@ -24,12 +40,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/1e660bc1-10aa-4a26-bc95-3cc189cad228.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이게 벌써 15년 전? 패션 아이콘이 아니었던 적 없는 티파니의 패션타임라인]]></title>
+            <title><![CDATA[이게 벌써 15년 전? 티파니가 가장 입기 싫었던 의상은 무엇?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75624</link>
             <guid>https://www.harpersbazaar.co.kr/article/75624</guid>
             <pubDate>Thu, 09 Mar 2023 15:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[티파니의 패션 피크 타임]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/c6f7c296-f517-4339-96aa-13744396aad1.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[패션 아이콘이 아니었던 적 없는 티파니의 패션타임라인]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/c6f7c296-f517-4339-96aa-13744396aad1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스프레소 바에서 만난 페라가모의 뉴 룩!]]></title>
@@ -60,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75578</link>
             <guid>https://www.harpersbazaar.co.kr/article/75578</guid>
             <pubDate>Wed, 08 Mar 2023 03:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[실험 정신과 호기심으로 충만한 패피들이 급기야 복서 슈즈까지 점령했다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/855e31a1-98d8-47a7-bc7c-5bc624862117.jpg');">
+            <a href="/article/75578">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75578">
+                    어디서나 시선 집중! 복서 슈즈                 </a>
+            </em>
+            <p class="excerpt">실험 정신과 호기심으로 충만한 패피들이 급기야 복서 슈즈까지 점령했다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/855e31a1-98d8-47a7-bc7c-5bc624862117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +100,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75555</link>
             <guid>https://www.harpersbazaar.co.kr/article/75555</guid>
             <pubDate>Tue, 07 Mar 2023 15:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 날, 친구&amp;연인 등에게 선물하기 제격인 넘버링 주얼리 추천]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/a25dc0a6-9da3-4c62-812b-d881071617f8.jpg');">
+            <a href="/article/75555">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75555">
+                    화이트데이 선물 고민이라면? 메구가 대신 '넘버링'에서 골라드림!                </a>
+            </em>
+            <p class="excerpt">특별한 날, 친구&amp;연인 등에게 선물하기 제격인 넘버링 주얼리 추천</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/a25dc0a6-9da3-4c62-812b-d881071617f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -197,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75174</guid>
             <pubDate>Mon, 06 Mar 2023 15:02:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/76afeb0c-2f00-4127-87c7-10800dc660f0.jpg');">
-            <a href="/article/75174">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75174">
-                    밖으로 탈출한 란제리                </a>
-            </em>
-            <p class="excerpt">긍정주의의 물결은 ‘가볍고 단순하게’를 지나 ‘섹시하게’를 외치며 란제리 룩에 안착했다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75174">
+                        밖으로 탈출한 란제리                    </a>
+                </em>
+                <p class="excerpt">긍정주의의 물결은 ‘가볍고 단순하게’를 지나 ‘섹시하게’를 외치며 란제리 룩에 안착했다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/76afeb0c-2f00-4127-87c7-10800dc660f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +269,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75456</guid>
             <pubDate>Sun, 05 Mar 2023 03:22:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/d62e3929-021a-4912-a615-e627e7a9476c.jpg');">
-            <a href="/article/75456">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75456">
-                    이솜과 함께한 시간                </a>
-            </em>
-            <p class="excerpt">오랜만에 인사를 건넨 배우 이솜이 그린 간결하고 담백한 봄 이야기.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75456">
+                        이솜과 함께한 시간                    </a>
+                </em>
+                <p class="excerpt">오랜만에 인사를 건넨 배우 이솜이 그린 간결하고 담백한 봄 이야기.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/d62e3929-021a-4912-a615-e627e7a9476c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -334,54 +382,6 @@
                 <p class="excerpt">영화 속 모습과 상반되는 내추럴한 모습으로 전직 모델다운 포스 뽐내 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/c650933a-e1cb-431a-9ac6-1bd5960947de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄 아우터 준비는 크롭트 트렌치 코트로!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75196</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75196</guid>
-            <pubDate>Wed, 01 Mar 2023 15:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/218eaf4b-b4df-45c3-9a18-232654a9fcc6.jpg');">
-                <a href="/article/75196">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75196">
-                        올봄 아우터 준비는 크롭트 트렌치 코트로!                    </a>
-                </em>
-                <p class="excerpt">트렌치코트의 변주는 어디까지일까. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/218eaf4b-b4df-45c3-9a18-232654a9fcc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타일 지수 업! 에어팟 맥스]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75382</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75382</guid>
-            <pubDate>Wed, 01 Mar 2023 03:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/29ec27e3-9ffd-475a-910d-54182bd1438e.jpg');">
-                <a href="/article/75382">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75382">
-                        스타일 지수 업! 에어팟 맥스                     </a>
-                </em>
-                <p class="excerpt">‘텍세서리(Techcessory)’라는 유행을 이끄는 에어팟 맥스 스타일.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/29ec27e3-9ffd-475a-910d-54182bd1438e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
