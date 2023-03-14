@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 15:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 03:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 담은 포토에세이]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75551</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75551</guid>
+            <pubDate>Tue, 14 Mar 2023 03:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[눈뜨는 봄]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/a413be1d-3667-4d27-a6e5-db868b6f730f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜻밖의 신상 제로 칼로리 음료 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75462</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75033</link>
             <guid>https://www.harpersbazaar.co.kr/article/75033</guid>
             <pubDate>Fri, 24 Feb 2023 09:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[잘 먹고 잘 노는 멋진 언니 엄정화가 추천하는 와인 4종을 소개한다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/456c9e2e-5192-48f1-aa8a-28b7a626af10.jpg');">
+            <a href="/article/75033">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75033">
+                    ‘와알못’을 위한 엄정화의 와인 추천 4                </a>
+            </em>
+            <p class="excerpt">잘 먹고 잘 노는 멋진 언니 엄정화가 추천하는 와인 4종을 소개한다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/456c9e2e-5192-48f1-aa8a-28b7a626af10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/74668</guid>
             <pubDate>Mon, 13 Feb 2023 09:06:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/02c471e6-7fd8-42a9-affe-c2af7440a21d.jpg');">
-            <a href="/article/74668">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/74668">
-                    쓰레기가 돌아왔다! P.P.E 쓰레기가 뭘까?                </a>
-            </em>
-            <p class="excerpt">코로나가 지나가고, 이제 우리는 ‘P.P.E 쓰레기’라는 딜레마 앞에 섰다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/74668">
+                        쓰레기가 돌아왔다! P.P.E 쓰레기가 뭘까?                    </a>
+                </em>
+                <p class="excerpt">코로나가 지나가고, 이제 우리는 ‘P.P.E 쓰레기’라는 딜레마 앞에 섰다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/02c471e6-7fd8-42a9-affe-c2af7440a21d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">모두가 SNS 아이디를 보유하는 시대에 계정을 없앤 별종들의 이야기</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/031025c5-8aeb-42bd-a627-db34cd143210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편의점과 콜라보한 맛집 & 신제품 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74707</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74707</guid>
-            <pubDate>Sat, 04 Feb 2023 03:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/05c849ce-b07b-412f-8e46-b3d369475991.jpg');">
-                <a href="/article/74707">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74707">
-                        편의점과 콜라보한 맛집 &amp; 신제품 3                    </a>
-                </em>
-                <p class="excerpt">미식 트렌드의 최전방, 편의점 진열대에서 맛집과 신상 먹템을 찾았다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/01/05c849ce-b07b-412f-8e46-b3d369475991.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
