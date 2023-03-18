@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 03:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 09:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가수 강승윤의 부캐가 ‘사진작가’라고?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75789</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75789</guid>
+            <pubDate>Sat, 18 Mar 2023 09:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[유연 작가의 첫 개인전이 열립니다. #하늘지붕]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/5087c0d4-8638-4b9d-a8df-6fbdffa33672.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜬금없이 웃긴 더글로리2 속 전재준의 대사 모음.zip]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75783</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75714</link>
             <guid>https://www.harpersbazaar.co.kr/article/75714</guid>
             <pubDate>Mon, 13 Mar 2023 03:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[익명의 사진가들이 남긴 일상의 흔적들]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/c7dcddf7-79f8-42f8-96be-53d1352fb4d4.jpg');">
+            <a href="/article/75714">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75714">
+                    80만장의 컬러 슬라이드 컬렉션을 만나볼 수 있는 전시는? #어노니머스프로젝트                </a>
+            </em>
+            <p class="excerpt">익명의 사진가들이 남긴 일상의 흔적들 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/c7dcddf7-79f8-42f8-96be-53d1352fb4d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75167</guid>
             <pubDate>Sat, 04 Mar 2023 03:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/4cf5d662-e141-4689-9e54-d509b3d1730f.jpg');">
-            <a href="/article/75167">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75167">
-                    칸 영화제 대상작 &lt;6번 칸&gt; 보고 왔습니다                </a>
-            </em>
-            <p class="excerpt">시베리아 횡단 열차에서 사랑에 빠질 수 있을까? 칸의 적자 유호 쿠오스마넨이 쓴 러브 스토리...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75167">
+                        칸 영화제 대상작 &lt;6번 칸&gt; 보고 왔습니다                    </a>
+                </em>
+                <p class="excerpt">시베리아 횡단 열차에서 사랑에 빠질 수 있을까? 칸의 적자 유호 쿠오스마넨이 쓴 러브 스토리...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/4cf5d662-e141-4689-9e54-d509b3d1730f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">데뷔 경험 있는 아이돌의 재도전 JTBC &lt;피크타임&gt;과 Mnet &lt;보이즈 플래닛&gt;</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/d0fd541e-97a9-4baa-9d07-4bd1e8d6ba0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변호사 된 조승우? <신성한, 이혼> 뭐가 다를까]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75346</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75346</guid>
-            <pubDate>Tue, 28 Feb 2023 09:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/117e2108-a30e-4c45-adb9-0be50a5bba74.jpg');">
-                <a href="/article/75346">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75346">
-                        변호사 된 조승우? &lt;신성한, 이혼&gt; 뭐가 다를까                    </a>
-                </em>
-                <p class="excerpt">신성한 법정에 나타난 신선한 변호사, 조승우!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/26/117e2108-a30e-4c45-adb9-0be50a5bba74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
