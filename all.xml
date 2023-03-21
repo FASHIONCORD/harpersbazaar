@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 09:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 15:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1615,6 +1615,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/74e1bbc6-00d5-48b9-9766-5e1da56dcdf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[4월, 군입대를 알린 아이돌 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75936</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75936</guid>
+            <pubDate>Tue, 21 Mar 2023 15:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[몬스타엑스 민혁부터 방탄소년단 제이홉과 옹성우까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/a4f4ea57-ad84-40fb-9f11-2aeb145bcb2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제대로 "폼 미쳤다", 웰 컴 투 '피식쇼' With. 바자 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75928</link>
             <guid>https://www.harpersbazaar.co.kr/article/75928</guid>
@@ -1675,7 +1683,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75836</link>
             <guid>https://www.harpersbazaar.co.kr/article/75836</guid>
             <pubDate>Thu, 16 Mar 2023 15:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;더 글로리&gt;2에서 ‘박연진 패션’이 궁금하다면 클릭!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/b7125b3f-4ee0-43cf-9d1a-9586bdad81d4.jpg');">
+            <a href="/article/75836">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75836">
+                    지금 가는 거, ‘박연진’ 옷 정보. 저장해 #B_STAR일링                 </a>
+            </em>
+            <p class="excerpt">&lt;더 글로리&gt;2에서 ‘박연진 패션’이 궁금하다면 클릭!  </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/b7125b3f-4ee0-43cf-9d1a-9586bdad81d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1828,22 +1852,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75732</guid>
             <pubDate>Tue, 14 Mar 2023 03:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/a690f255-230e-4cd0-872a-180d20f504f2.jpg');">
-            <a href="/article/75732">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75732">
-                    '컴백' 트와이스, 美 방송서 최초 무대.. 글로벌 행보!                </a>
-            </em>
-            <p class="excerpt">'더 투나잇쇼' 찍고, '켈리 클락슨 쇼' 출연 예고</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75732">
+                        '컴백' 트와이스, 美 방송서 최초 무대.. 글로벌 행보!                    </a>
+                </em>
+                <p class="excerpt">'더 투나잇쇼' 찍고, '켈리 클락슨 쇼' 출연 예고</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/a690f255-230e-4cd0-872a-180d20f504f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1965,30 +1989,6 @@
                 <p class="excerpt">오직 핑크 컬러에서만 느낄 수 있는 강렬한 로맨스의 기운. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/625791f1-6741-4356-94cb-adfb97740c0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서나 시선 집중! 복서 슈즈 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75578</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75578</guid>
-            <pubDate>Wed, 08 Mar 2023 03:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/855e31a1-98d8-47a7-bc7c-5bc624862117.jpg');">
-                <a href="/article/75578">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75578">
-                        어디서나 시선 집중! 복서 슈즈                     </a>
-                </em>
-                <p class="excerpt">실험 정신과 호기심으로 충만한 패피들이 급기야 복서 슈즈까지 점령했다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/855e31a1-98d8-47a7-bc7c-5bc624862117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 가는 거, ‘박연진’ 옷 정보. 저장해 #B_STAR일링 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
