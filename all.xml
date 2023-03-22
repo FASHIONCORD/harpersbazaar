@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2367,6 +2367,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/7d8211ed-cd12-4f40-8553-ceeed1ca87e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이사라 작업실, 주여정 집 어딜까? 더글로리 촬영지 5 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75853</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75853</guid>
+            <pubDate>Wed, 22 Mar 2023 09:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[동은과 여정이 사계절 바둑 두던 그 장소]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/6f376df5-41c0-4560-9874-ba13dcd216be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지수와 차은우도 갔다! 파리 방문 시 꼭 가봐야할 곳 3 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75822</link>
             <guid>https://www.harpersbazaar.co.kr/article/75822</guid>
@@ -2427,7 +2435,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75462</link>
             <guid>https://www.harpersbazaar.co.kr/article/75462</guid>
             <pubDate>Fri, 10 Mar 2023 09:04:08 GMT</pubDate>
-            <content:encoded><![CDATA[밀키스, 맥콜 등 80~90년대를 주름잡던 장수 음료들의 제로 버전 등장!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/600a995b-cc08-437d-847c-c08ce1924ec1.jpg');">
+            <a href="/article/75462">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75462">
+                    뜻밖의 신상 제로 칼로리 음료 3                </a>
+            </em>
+            <p class="excerpt">밀키스, 맥콜 등 80~90년대를 주름잡던 장수 음료들의 제로 버전 등장!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/600a995b-cc08-437d-847c-c08ce1924ec1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2580,22 +2604,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75033</guid>
             <pubDate>Fri, 17 Feb 2023 03:21:30 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/456c9e2e-5192-48f1-aa8a-28b7a626af10.jpg');">
-            <a href="/article/75033">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75033">
-                    ‘와알못’을 위한 엄정화의 와인 추천 4                </a>
-            </em>
-            <p class="excerpt">잘 먹고 잘 노는 멋진 언니 엄정화가 추천하는 와인 4종을 소개한다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75033">
+                        ‘와알못’을 위한 엄정화의 와인 추천 4                    </a>
+                </em>
+                <p class="excerpt">잘 먹고 잘 노는 멋진 언니 엄정화가 추천하는 와인 4종을 소개한다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/456c9e2e-5192-48f1-aa8a-28b7a626af10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2717,30 +2741,6 @@
                 <p class="excerpt">매달고 끼우고 걸고. 대롱대롱 키링.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/6b52ea65-6970-4ace-b2fc-1da94ea2a8a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지속가능한 이동에 대하여 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74673</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74673</guid>
-            <pubDate>Mon, 13 Feb 2023 09:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/1819e2ac-16d3-46fb-8968-678a2c62ba51.jpg');">
-                <a href="/article/74673">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74673">
-                        지속가능한 이동에 대하여                    </a>
-                </em>
-                <p class="excerpt">철도 덕후 전현우에게 물어본 기후위기 시대 지속가능한 이동에 대하여.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/1819e2ac-16d3-46fb-8968-678a2c62ba51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번 주말엔 여기 어때? #바자뉴스스탠드 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
