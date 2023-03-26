@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 09:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 15:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1991,6 +1991,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/c8302119-41f2-41b0-abbd-4fc928810b02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이선균 배우가 꼭 보여주고 싶었다는 <킬링 로맨스> 스틸 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76130</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76130</guid>
+            <pubDate>Sun, 26 Mar 2023 15:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[포스터랑 스틸만으로 이미 난리난 '大병맛' 영화 등장]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/ee9602bd-ead8-4281-a2ed-9d0a684c56de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이제훈 부캐만큼 핫한 <모범택시2> 띵곡 OST 듣기! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76123</link>
             <guid>https://www.harpersbazaar.co.kr/article/76123</guid>
@@ -2051,7 +2059,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75849</link>
             <guid>https://www.harpersbazaar.co.kr/article/75849</guid>
             <pubDate>Sat, 18 Mar 2023 09:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[말맛 살리기로 유명한 스타 영화 번역가는 원문을 어떻게 번역했을까?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/c8302119-41f2-41b0-abbd-4fc928810b02.jpg');">
+            <a href="/article/75849">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75849">
+                    스타 번역가 황석희가 번역한 화제의 RM 인터뷰                </a>
+            </em>
+            <p class="excerpt">말맛 살리기로 유명한 스타 영화 번역가는 원문을 어떻게 번역했을까?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/c8302119-41f2-41b0-abbd-4fc928810b02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2204,22 +2228,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75735</guid>
             <pubDate>Wed, 15 Mar 2023 09:04:44 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/340beed4-071c-4521-bbdd-acfad7e5f724.jpg');">
-            <a href="/article/75735">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75735">
-                    드디어 열리는 &lt;판도라&gt;, 이지아 '킬러 액션' 어떨까                </a>
-            </em>
-            <p class="excerpt">김순옥 작가×이지아, tvN 드라마 &lt;판도라&gt; D-day</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75735">
+                        드디어 열리는 &lt;판도라&gt;, 이지아 '킬러 액션' 어떨까                    </a>
+                </em>
+                <p class="excerpt">김순옥 작가×이지아, tvN 드라마 &lt;판도라&gt; D-day</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/340beed4-071c-4521-bbdd-acfad7e5f724.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2341,30 +2365,6 @@
                 <p class="excerpt">과거를 돌아보고, 과정을 중시하며, 모순을 인정하고, 연료가 되어 살고 싶다는 미술가</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/1e2ec020-710c-4cda-9226-71a61609dedd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주말 뭐 보지? 넷플릭스 기대작 4 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75545</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75545</guid>
-            <pubDate>Sun, 12 Mar 2023 03:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/c0b619d6-b94f-40bb-84b5-1e433c038601.jpg');">
-                <a href="/article/75545">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75545">
-                        이번 주말 뭐 보지? 넷플릭스 기대작 4                    </a>
-                </em>
-                <p class="excerpt">새로운 넷플릭스 시리즈! 큰 일교차, 아직 이불밖은 위험하니까 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/c0b619d6-b94f-40bb-84b5-1e433c038601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주말엔 내가 리틀 포레스트! 요나의 레시피 3 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
