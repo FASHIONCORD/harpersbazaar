@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 03:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 09:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1239,6 +1239,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/e0405428-a64d-4d6c-a3db-bb0d96caaa1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신상 선케어 제품의 특징은? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76000</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76000</guid>
+            <pubDate>Mon, 27 Mar 2023 09:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[신상 어텐션~! 바른 듯 안 바른 듯 깃털처럼 가벼운 선케어🌞 뷰티 신상 추천]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/40ccd496-3618-411d-b11b-9e3cbd52f531.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘향잘알’ <바자> 팀이 PICK한 지금 뿌리기 좋은 향수는? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/75972</link>
+            <guid>https://www.harpersbazaar.co.kr/article/75972</guid>
+            <pubDate>Mon, 27 Mar 2023 09:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[신상 향수부터 패피 사이에서 핫한 향수까지 다 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/6d149631-e95b-4033-ad5f-0d8d5d29bac6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[별빛이 내린다~ 로맨틱한 중동 스멜 조 러브스 신상 향수의 정체 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/75962</link>
             <guid>https://www.harpersbazaar.co.kr/article/75962</guid>
@@ -1291,7 +1307,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75723</link>
             <guid>https://www.harpersbazaar.co.kr/article/75723</guid>
             <pubDate>Fri, 17 Mar 2023 15:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[부드러움과 강인함이 공존한 우아한 샤넬식 터치]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/ea4c11b4-b183-41ff-bf55-8a1b384f4452.jpg');">
+            <a href="/article/75723">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75723">
+                    샤넬 2023 F/W 룩의 메이크업 키 아이템은?                 </a>
+            </em>
+            <p class="excerpt">부드러움과 강인함이 공존한 우아한 샤넬식 터치 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/ea4c11b4-b183-41ff-bf55-8a1b384f4452.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1299,7 +1331,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75708</link>
             <guid>https://www.harpersbazaar.co.kr/article/75708</guid>
             <pubDate>Wed, 15 Mar 2023 15:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[휘트니 픽의 PICK, 샤넬 코코 마드모아젤.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/28a79192-2726-41b3-b29b-31e98aa84282.jpg');">
+            <a href="/article/75708">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75708">
+                    신비로워서 더욱 매력적인 그녀의 향수                </a>
+            </em>
+            <p class="excerpt">휘트니 픽의 PICK, 샤넬 코코 마드모아젤.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/28a79192-2726-41b3-b29b-31e98aa84282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1428,22 +1476,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75313</guid>
             <pubDate>Fri, 10 Mar 2023 09:02:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/7668a648-1319-42dd-a2de-592c40a807f0.jpg');">
-            <a href="/article/75313">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75313">
-                    발각질이 고민이라면 클릭! 요즘 핫한 패디플래닝, 집에서 하는 방법                </a>
-            </em>
-            <p class="excerpt">샌들의 계절이 오기 전, 지금이 바로 발 각질을 점검할 때다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75313">
+                        발각질이 고민이라면 클릭! 요즘 핫한 패디플래닝, 집에서 하는 방법                    </a>
+                </em>
+                <p class="excerpt">샌들의 계절이 오기 전, 지금이 바로 발 각질을 점검할 때다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/7668a648-1319-42dd-a2de-592c40a807f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,22 +1500,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75589</guid>
             <pubDate>Fri, 10 Mar 2023 09:02:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/bfced0b5-82bb-49c2-ac89-1cda1009afda.jpg');">
-            <a href="/article/75589">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75589">
-                    비하인드 컷 공개! 송강의 '잘생쁨' 미모를 감상해 보세요.                </a>
-            </em>
-            <p class="excerpt">아쿠아 디 파르마와 송강의 만남은 갓벽.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75589">
+                        비하인드 컷 공개! 송강의 '잘생쁨' 미모를 감상해 보세요.                    </a>
+                </em>
+                <p class="excerpt">아쿠아 디 파르마와 송강의 만남은 갓벽.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/bfced0b5-82bb-49c2-ac89-1cda1009afda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1565,54 +1613,6 @@
                 <p class="excerpt">살빼려면 이 음식은 절대 먹지 마세요!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/1af31dc5-64c2-4f11-a23e-951278a8bcc7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS 광고에서 '이거' 보신 적 있으시죠? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75191</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75191</guid>
-            <pubDate>Tue, 07 Mar 2023 03:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ebab64ca-8fdf-4440-9676-dbcfd1583eee.jpg');">
-                <a href="/article/75191">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75191">
-                        SNS 광고에서 '이거' 보신 적 있으시죠?                     </a>
-                </em>
-                <p class="excerpt">인스타그램 저장 목록 속 제품을 리뷰해 드립니다. #내돈내산</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/ebab64ca-8fdf-4440-9676-dbcfd1583eee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 한정판 향수가 나타났다! (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75172</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75172</guid>
-            <pubDate>Sat, 04 Mar 2023 15:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/c4d3b5af-ee36-438a-b067-9a4f3210ccea.jpg');">
-                <a href="/article/75172">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75172">
-                        역대급 한정판 향수가 나타났다!                    </a>
-                </em>
-                <p class="excerpt">디자이너 사무엘 로스와 아쿠아 디 파르마의 창조적인 협업을 함께한 송강</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/c4d3b5af-ee36-438a-b067-9a4f3210ccea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS 지민, 첫 솔로음반 발표 후 첫 무대는 어디서 공개? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
