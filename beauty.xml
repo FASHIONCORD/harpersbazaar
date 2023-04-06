@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 09:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 15:07:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리에서 가장 럭셔리한 스파는 어디?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76357</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76357</guid>
+            <pubDate>Thu, 06 Apr 2023 15:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[LVMH 그룹의 첫 5성급 호텔에 있는 전 세계에 단 하나뿐인 디올 스파]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/0b2eabaa-1a2b-47dc-ad05-7f636d3380f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이래서 스케이트보드를 타는구나!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76434</link>
@@ -20,8 +28,8 @@
             <link>https://www.harpersbazaar.co.kr/article/76240</link>
             <guid>https://www.harpersbazaar.co.kr/article/76240</guid>
             <pubDate>Wed, 05 Apr 2023 15:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[제형 특유의 끈적임과 답답함이 싫어 자외선차단제 사용을 기피했던 사람이라면 주목! 올봄 수분...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/07bd345c-b47a-41dd-b635-dcaf039cbab9.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[제형 특유의 끈적임과 답답함이 싫어 자외선차단제 사용을 기피했던 사람이라면 주목]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/07bd345c-b47a-41dd-b635-dcaf039cbab9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[23년 뷰티 트렌드를 알고 싶다면? 90년대로 되돌아가야 한다]]></title>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76323</link>
             <guid>https://www.harpersbazaar.co.kr/article/76323</guid>
             <pubDate>Sun, 02 Apr 2023 03:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[식단, 운동 루틴, 반신욕부터 다이어트를 하는 마음가짐까지]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/3374d2a0-26a3-40b5-80e3-63fa35387204.jpg');">
+            <a href="/article/76323">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76323">
+                    ‘환승연애2’ 이나연이 -20kg을 감량하고 유지할 수 있었던 이유                </a>
+            </em>
+            <p class="excerpt">식단, 운동 루틴, 반신욕부터 다이어트를 하는 마음가짐까지</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/3374d2a0-26a3-40b5-80e3-63fa35387204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76051</guid>
             <pubDate>Tue, 04 Apr 2023 15:05:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e83ee33a-66cf-463a-8cc7-c415ead8fae7.jpg');">
-            <a href="/article/76051">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76051">
-                     이 조합 사랑! 에스파 지젤과 찐친 전소미의 몸 관리 루틴                 </a>
-            </em>
-            <p class="excerpt">걸그룹에게 운동이란 이런 것.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76051">
+                         이 조합 사랑! 에스파 지젤과 찐친 전소미의 몸 관리 루틴                     </a>
+                </em>
+                <p class="excerpt">걸그룹에게 운동이란 이런 것.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e83ee33a-66cf-463a-8cc7-c415ead8fae7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">탄수화물 절대 못 끊겠다면 이렇게라도 해보자.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/f903bbc6-c2db-4ef8-b53d-0b4a9538d542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환절기 스킨케어의 정석, 샤넬 N°1 DE CHANEL]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75679</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75679</guid>
-            <pubDate>Tue, 04 Apr 2023 15:05:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/d13716eb-a623-40c0-987d-71d545812927.jpg');">
-                <a href="/article/75679">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75679">
-                        환절기 스킨케어의 정석, 샤넬 N°1 DE CHANEL                    </a>
-                </em>
-                <p class="excerpt">환절기, 추위 속에서도 활짝 피어나는 레드 까멜리아의 생명력이 필요한 순간이다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/d13716eb-a623-40c0-987d-71d545812927.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

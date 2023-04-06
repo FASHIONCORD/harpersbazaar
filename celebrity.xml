@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 09:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 15:07:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 하나의 별이 지다, 세계적인 음악가 사카모토 류이치]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76433</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76433</guid>
+            <pubDate>Thu, 06 Apr 2023 15:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[끝까지 음악에 대한 열정을 놓지 않은 사카모토 류이치]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/ad7b64d5-5f83-4275-b5ae-1ae1a46c07ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차정원, 김나영, 장희령 올봄 브이넥 니트 활용법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76432</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76106</link>
             <guid>https://www.harpersbazaar.co.kr/article/76106</guid>
             <pubDate>Sun, 02 Apr 2023 09:06:24 GMT</pubDate>
-            <content:encoded><![CDATA[자신을 향한 대중의 기대를 기꺼이 충족시키고 싶다고 말하는, 배우 이봉련의 지금.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/321213ec-ae14-4e11-84a8-1f8a004eafe3.jpg');">
+            <a href="/article/76106">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76106">
+                    &lt;일타스캔들&gt;의 김영주, 배우 이봉련이 연기를 하며 깨달은 것들                </a>
+            </em>
+            <p class="excerpt">자신을 향한 대중의 기대를 기꺼이 충족시키고 싶다고 말하는, 배우 이봉련의 지금.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/321213ec-ae14-4e11-84a8-1f8a004eafe3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76100</guid>
             <pubDate>Fri, 31 Mar 2023 03:06:39 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/139c71b9-aa8f-4835-bd83-9bcde6e50ed4.jpg');">
-            <a href="/article/76100">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76100">
-                    '유니크한 맛을 내는 평양 냉면집', 피식쇼와의 인터뷰                 </a>
-            </em>
-            <p class="excerpt">K-코미디의 세계화를 꿈꿔온 &lt;피식쇼&gt;의 3인방이 마침내 미국의 심장부를 점령한 날. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76100">
+                        '유니크한 맛을 내는 평양 냉면집', 피식쇼와의 인터뷰                     </a>
+                </em>
+                <p class="excerpt">K-코미디의 세계화를 꿈꿔온 &lt;피식쇼&gt;의 3인방이 마침내 미국의 심장부를 점령한 날. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/139c71b9-aa8f-4835-bd83-9bcde6e50ed4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">美 NBC '지미 팰런쇼', 방탄소년단 지민 솔로곡 선보였다</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/daf48cc1-a006-4b6c-8fc2-85d6352b5475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 첫 SOLO! 블랙핑크 지수의 'ME' #FLOWER]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76137</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76137</guid>
-            <pubDate>Wed, 29 Mar 2023 09:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/d8e09369-0c4e-4035-9b2f-637952bcd126.jpg');">
-                <a href="/article/76137">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76137">
-                        데뷔 첫 SOLO! 블랙핑크 지수의 'ME' #FLOWER                    </a>
-                </em>
-                <p class="excerpt">블핑 지수의 인생 첫 솔로앨범, 3월 31일 발매!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/d8e09369-0c4e-4035-9b2f-637952bcd126.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
