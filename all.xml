@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 09:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 15:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -863,6 +863,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjlfMTMw/MDAxNTkzNDMxMTEzNTM3.KEGgYOW7tfp2FnFVBpWaUmlR4WRaZIVylMOoYGsjg3og.YqDWAfuSP2L2cq9D_QVKVxGwhDlsqXLDlIFmIke0noMg.PNG/IEkDQWjX3tFGgHPWDgx4xPSnGdvQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리집 댕댕이를 위한 럭셔리 아이템 #명품네컷 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76528</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76528</guid>
+            <pubDate>Mon, 10 Apr 2023 15:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[우리 댕댕이 '레디-투-웨어'는 무엇으로 할까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/8bb4c3c3-9fcc-41b0-a962-d6e4067b338c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[홍은채, 김도연, 설현의 봄맞이 카디건은? #B_STAR일링 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76519</link>
             <guid>https://www.harpersbazaar.co.kr/article/76519</guid>
@@ -923,7 +931,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76483</link>
             <guid>https://www.harpersbazaar.co.kr/article/76483</guid>
             <pubDate>Thu, 06 Apr 2023 03:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[유행템 다 있는 카리나 사복이 궁금하면 클릭!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/8dc62b8f-cf9e-4289-a576-eb985c20610f.jpg');">
+            <a href="/article/76483">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76483">
+                    AI 미모의 카리나가 공항 패션으로 입는 것? #B_STAR일링                </a>
+            </em>
+            <p class="excerpt">유행템 다 있는 카리나 사복이 궁금하면 클릭! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/8dc62b8f-cf9e-4289-a576-eb985c20610f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1076,22 +1100,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76239</guid>
             <pubDate>Mon, 10 Apr 2023 03:02:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/02672e0a-2f65-4387-9f22-84679fa75e2a.jpg');">
-            <a href="/article/76239">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76239">
-                    형형색색으로 물든 포인티드 토 힐!                </a>
-            </em>
-            <p class="excerpt">다채로운 컬러로 물든 아찔한 자태의 포인티드 토 힐을 색다른 시선에서 바라보다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76239">
+                        형형색색으로 물든 포인티드 토 힐!                    </a>
+                </em>
+                <p class="excerpt">다채로운 컬러로 물든 아찔한 자태의 포인티드 토 힐을 색다른 시선에서 바라보다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/02672e0a-2f65-4387-9f22-84679fa75e2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1213,30 +1237,6 @@
                 <p class="excerpt">이색적인 협업 백을 찾는다면, ‘토가와 포터’의 만남을 주목!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/fb7245a3-d2d3-4470-aba7-8feadbd47502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 뭄바이에서 열리는 디올의 FALL 2023 레디 투 웨어 라이브로 감상하기! (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76359</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76359</guid>
-            <pubDate>Mon, 10 Apr 2023 03:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/7a352fc7-0e0a-4d33-be88-96a1454b2304.jpg');">
-                <a href="/article/76359">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76359">
-                        인도 뭄바이에서 열리는 디올의 FALL 2023 레디 투 웨어 라이브로 감상하기!                     </a>
-                </em>
-                <p class="excerpt">장소부터 흥미진진, 오늘밤 12시 놓치지 말아야 할 디올쇼 생중계 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/7a352fc7-0e0a-4d33-be88-96a1454b2304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이어트 필수 식단! 닭가슴살 먹어야 하는 이유는? (하퍼스바자 코리아 ─ 뷰티)]]></title>
