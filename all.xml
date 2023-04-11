@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 03:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2367,6 +2367,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/205a080e-c48e-4ef5-b029-30bd3e34e237.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[옥상이 정원으로 변신! 서울가드닝클럽 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76346</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76346</guid>
+            <pubDate>Tue, 11 Apr 2023 09:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[서울의 옥상을 점유하는 서울가드닝클럽은 ‘1인 1정원’을 가꾸는 삶을 제안한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/01efc8ac-a364-4d05-9ab2-b1c64470a319.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다시 만난 세계 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76107</link>
             <guid>https://www.harpersbazaar.co.kr/article/76107</guid>
@@ -2427,7 +2435,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76373</link>
             <guid>https://www.harpersbazaar.co.kr/article/76373</guid>
             <pubDate>Mon, 03 Apr 2023 15:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[풀멍 때리며 광합성 해볼까]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/743b56ed-756f-409f-86ba-584a553abcbc.jpg');">
+            <a href="/article/76373">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76373">
+                    봄을 만끽하는 방법, 서울 피크닉 스팟 3                </a>
+            </em>
+            <p class="excerpt">풀멍 때리며 광합성 해볼까</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/743b56ed-756f-409f-86ba-584a553abcbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2580,22 +2604,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75902</guid>
             <pubDate>Fri, 31 Mar 2023 03:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/2e5bbfcd-9dac-4680-ac85-ba28dda07dbc.jpg');">
-            <a href="/article/75902">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75902">
-                    &lt;더 글로리2&gt; 손명오를 죽인 위스키 병의 실체?                </a>
-            </em>
-            <p class="excerpt">전재준의 냉장고에서 가장 비싼 술이자, 단단하고 완벽한 그립감을 자랑한 술</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75902">
+                        &lt;더 글로리2&gt; 손명오를 죽인 위스키 병의 실체?                    </a>
+                </em>
+                <p class="excerpt">전재준의 냉장고에서 가장 비싼 술이자, 단단하고 완벽한 그립감을 자랑한 술</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/2e5bbfcd-9dac-4680-ac85-ba28dda07dbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2717,30 +2741,6 @@
                 <p class="excerpt">유연 작가의 첫 개인전이 열립니다. #하늘지붕 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/5087c0d4-8638-4b9d-a8df-6fbdffa33672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[-10kg 가능! 한 가지 반죽으로 네 가지 다이어트 빵 만들기 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/75719</link>
-            <guid>https://www.harpersbazaar.co.kr/article/75719</guid>
-            <pubDate>Sun, 12 Mar 2023 09:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/d4f84e6a-a76c-4bdd-a3e0-31fe00cb7f44.jpg');">
-                <a href="/article/75719">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/75719">
-                        -10kg 가능! 한 가지 반죽으로 네 가지 다이어트 빵 만들기                     </a>
-                </em>
-                <p class="excerpt">단백질 가득해, 간단한데 맛있기까지.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/d4f84e6a-a76c-4bdd-a3e0-31fe00cb7f44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 신상 운동화의 특징 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
