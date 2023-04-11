@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 09:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 15:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1991,6 +1991,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/51b64837-0b4a-44f6-9aee-482ec80f4610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국의 민주킴, 한국인 최초로 V&A 패션쇼 참석! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76484</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76484</guid>
+            <pubDate>Thu, 06 Apr 2023 15:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;넥스트인패션 1&gt; 우승자, 세계적인 패션쇼에 초청 받아 한국 디자이너의 저력을 보여줄 예정!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/63b95e4e-198f-4519-87ce-061e7d22d293.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마침내 맞이한 슈가의 ‘D-DAY’가 기대되는 이유 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76481</link>
             <guid>https://www.harpersbazaar.co.kr/article/76481</guid>
@@ -2051,7 +2059,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76324</link>
             <guid>https://www.harpersbazaar.co.kr/article/76324</guid>
             <pubDate>Sun, 02 Apr 2023 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[엄정화 배우를 이 구역의 인맥왕으로 임명합니다!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/5701c9a0-6df2-4f8f-abb1-561ead2a47f9.jpg');">
+            <a href="/article/76324">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76324">
+                    송혜교-이효리-김혜수-이병헌-신민아..'커피차 부자' 엄정화                </a>
+            </em>
+            <p class="excerpt">엄정화 배우를 이 구역의 인맥왕으로 임명합니다!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/5701c9a0-6df2-4f8f-abb1-561ead2a47f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2204,22 +2228,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76138</guid>
             <pubDate>Sun, 09 Apr 2023 09:03:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/daf48cc1-a006-4b6c-8fc2-85d6352b5475.jpg');">
-            <a href="/article/76138">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76138">
-                    영상으로 보는 BTS 지민 'Like Crazy' 첫 무대 #지미팰런쇼                </a>
-            </em>
-            <p class="excerpt">美 NBC '지미 팰런쇼', 방탄소년단 지민 솔로곡 선보였다</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76138">
+                        영상으로 보는 BTS 지민 'Like Crazy' 첫 무대 #지미팰런쇼                    </a>
+                </em>
+                <p class="excerpt">美 NBC '지미 팰런쇼', 방탄소년단 지민 솔로곡 선보였다</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/daf48cc1-a006-4b6c-8fc2-85d6352b5475.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2341,30 +2365,6 @@
                 <p class="excerpt">기상캐스터 역할 임지연, 이번에는 진짜 '뉴스' 나간다!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f3571e3f-6486-4d94-8373-62667f7a0672.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박형식부터 려운·우도환까지..'사극 미모' 골라보는 맛 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76109</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76109</guid>
-            <pubDate>Sun, 09 Apr 2023 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/205a080e-c48e-4ef5-b029-30bd3e34e237.jpg');">
-                <a href="/article/76109">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76109">
-                        박형식부터 려운·우도환까지..'사극 미모' 골라보는 맛                    </a>
-                </em>
-                <p class="excerpt">다양한 사극+꽃미모 가득에 시청자 눈호강!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/205a080e-c48e-4ef5-b029-30bd3e34e237.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옥상이 정원으로 변신! 서울가드닝클럽 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -2743,6 +2743,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/5087c0d4-8638-4b9d-a8df-6fbdffa33672.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[환경미화원들이 전하는 작은 당부 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76345</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76345</guid>
+            <pubDate>Fri, 07 Apr 2023 09:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[쓰레기 전쟁 최전선에 서 있는 환경미화원들이 전하는 작은 당부.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/bf2552fc-c2c0-4797-bfa5-3ac820305de8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요즘 신상 운동화의 특징 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76421</link>
             <guid>https://www.harpersbazaar.co.kr/article/76421</guid>
@@ -2803,7 +2811,23 @@
             <link>https://www.harpersbazaar.co.kr/article/74022</link>
             <guid>https://www.harpersbazaar.co.kr/article/74022</guid>
             <pubDate>Thu, 09 Mar 2023 15:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[지금 성수에서 가장 핫 한 환경 팝업스토어]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/06/e4ee13cd-25d0-42dc-ae0a-5e409f1173b7.jpg');">
+            <a href="/article/74022">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/74022">
+                    이번 주말엔 여기 어때? #바자뉴스스탠드                 </a>
+            </em>
+            <p class="excerpt">지금 성수에서 가장 핫 한 환경 팝업스토어 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/06/e4ee13cd-25d0-42dc-ae0a-5e409f1173b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2956,22 +2980,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73017</guid>
             <pubDate>Tue, 03 Jan 2023 15:04:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/d484d554-6a79-454b-a7de-ed856a879532.jpg');">
-            <a href="/article/73017">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73017">
-                    '찐' 친환경 텀블러를 고르는 기준은?                 </a>
-            </em>
-            <p class="excerpt">지구를 생각하는 '착한' 텀블러 </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73017">
+                        '찐' 친환경 텀블러를 고르는 기준은?                     </a>
+                </em>
+                <p class="excerpt">지구를 생각하는 '착한' 텀블러 </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/d484d554-6a79-454b-a7de-ed856a879532.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3093,30 +3117,6 @@
                 <p class="excerpt">BCI? GOTS? GRS이 뭔가요?</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/a17c347d-9a3c-4b12-88e2-b7a2a2bc7b94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[친환경 의류 구입 시, 자주 보이는 지속가능성 인증기관 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/71805</link>
-            <guid>https://www.harpersbazaar.co.kr/article/71805</guid>
-            <pubDate>Sun, 26 Mar 2023 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/44e1c747-5564-440e-ad8b-5d0e5d4da045.jpg');">
-                <a href="/article/71805">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/71805">
-                        친환경 의류 구입 시, 자주 보이는 지속가능성 인증기관                    </a>
-                </em>
-                <p class="excerpt">BCI? GOTS? GRS? 친환경 의류 제품을 구입하거나 관련 기사를 접할 때마다 마주하는 어려운...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/10/44e1c747-5564-440e-ad8b-5d0e5d4da045.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
