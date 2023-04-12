@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 09:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 15:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1991,6 +1991,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/3374d2a0-26a3-40b5-80e3-63fa35387204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우리를 단숨에 다른 세계로 데려다 줄 신간 SF 단편집들 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76530</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76530</guid>
+            <pubDate>Wed, 12 Apr 2023 15:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[봄날의 SF를 좋아하세요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/c741e8bd-6a0a-4196-96f5-1b899234930f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국의 민주킴, 한국인 최초로 V&A 패션쇼 참석! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76484</link>
             <guid>https://www.harpersbazaar.co.kr/article/76484</guid>
@@ -2051,7 +2059,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76325</link>
             <guid>https://www.harpersbazaar.co.kr/article/76325</guid>
             <pubDate>Sun, 02 Apr 2023 15:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[파죽지세 &lt;더 글로리&gt;, 넷플릭스 역대 시청순위 6위 영예]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/588f9778-7330-43be-98b3-dea164760eb9.jpg');">
+            <a href="/article/76325">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76325">
+                    "동은과 여정의 길=복수와 파멸"..김은숙이 직접 남긴 말                </a>
+            </em>
+            <p class="excerpt">파죽지세 &lt;더 글로리&gt;, 넷플릭스 역대 시청순위 6위 영예</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/588f9778-7330-43be-98b3-dea164760eb9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2204,22 +2228,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76139</guid>
             <pubDate>Sun, 09 Apr 2023 09:03:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/4d2a9969-2e9c-4020-ae22-cf3e7954276b.jpg');">
-            <a href="/article/76139">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76139">
-                    '유퀴즈'로 더 핫해진 이도현, 의사→검사 변신 어떨까                </a>
-            </em>
-            <p class="excerpt">차기작 &lt;나쁜엄마&gt;로 라미란과 母子 호흡하는 이도현!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76139">
+                        '유퀴즈'로 더 핫해진 이도현, 의사→검사 변신 어떨까                    </a>
+                </em>
+                <p class="excerpt">차기작 &lt;나쁜엄마&gt;로 라미란과 母子 호흡하는 이도현!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/4d2a9969-2e9c-4020-ae22-cf3e7954276b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2341,30 +2365,6 @@
                 <p class="excerpt">하현우, 카더가든, 강아솔.. '믿듣' 네임드 라인업</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a6280405-45d8-4ad4-a928-810a3d2985cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 글로리> 임지연, '뉴스룸' 출연.. "멋지다 연진아!" (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76117</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76117</guid>
-            <pubDate>Sun, 09 Apr 2023 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f3571e3f-6486-4d94-8373-62667f7a0672.jpg');">
-                <a href="/article/76117">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76117">
-                        &lt;더 글로리&gt; 임지연, '뉴스룸' 출연.. "멋지다 연진아!"                    </a>
-                </em>
-                <p class="excerpt">기상캐스터 역할 임지연, 이번에는 진짜 '뉴스' 나간다!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/f3571e3f-6486-4d94-8373-62667f7a0672.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옥상이 정원으로 변신! 서울가드닝클럽 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
