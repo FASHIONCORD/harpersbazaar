@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 15:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고기 한 점에 풍경 한 모금! 야외 바베큐 핫플레이스 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35774841&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35774841&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 13 Apr 2023 03:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTJfMjIy/MDAxNjgxMjk3OTUxNzky.NmtJfUKUVU1t_gOuZPkoq5GY7pZZJsjzmDbsJMCnNzMg.9d1dz4KFTUDW-JmmucYF0YW4pwDuvJGF_nn7cwwdvxUg.JPEG/IfUYi6DUemDDSF7mznaSo9v2GZwk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[염색 잦은 연예인은 모발 관리 어떻게 할까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35746564&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:35:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDRfMjQ3/MDAxNjU5NjE2MDI3NTIy.ksgvfNFqVoTBuHZ7_mGrcFYaAruCf1EvL-p0Dvdqa6gg.t_-OTD-iuxKEme2dMdfnN14QjLNuW1yKc8MRMJJ8TD8g.JPEG/I8ldLAffiSx0-WEb3ZLMTJNgMUWs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레인보우 지숙이 항상 쟁여놓는 내돈내산 #찐템]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34240641&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34240641&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MDJfMjE2/MDAxNjU5NDIzODU5MjEw.PPzKBkpyLteBV14mz-NC0uQ9Ivo4IxD4jkNXrUibAJ4g.JoiV0yql0Btj5vAcjptmktq3cFv8CDPFw5U-j97uM-wg.JPEG/IIvqx1x_bK9BhXzGRxIgOxWxyRy8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
