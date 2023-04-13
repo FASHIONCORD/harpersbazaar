@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 09:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 15:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2743,6 +2743,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/5087c0d4-8638-4b9d-a8df-6fbdffa33672.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Thanks Earth, Happy Together (w. 그라운드시소, 서울환경연합) (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76589</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76589</guid>
+            <pubDate>Thu, 13 Apr 2023 15:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[환경과 함께하는 삶에 관심 많은 이들과의 특별한 여정]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/cf575425-f4af-4be1-93ce-a21e8164c84f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[폐기물로 만든 조각작품 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76349</link>
             <guid>https://www.harpersbazaar.co.kr/article/76349</guid>
@@ -2803,7 +2811,23 @@
             <link>https://www.harpersbazaar.co.kr/article/75294</link>
             <guid>https://www.harpersbazaar.co.kr/article/75294</guid>
             <pubDate>Wed, 15 Mar 2023 15:04:11 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계에 번지는 ‘자연 처방’의 면면을 살펴보고, &lt;바자&gt;가 이 계절의 처방법을 제안한다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/e84b8d25-a471-44f2-b437-046765dcd96c.jpg');">
+            <a href="/article/75294">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/75294">
+                    의학계가 주목하는 자연처방은 무엇일까?                </a>
+            </em>
+            <p class="excerpt">전 세계에 번지는 ‘자연 처방’의 면면을 살펴보고, &lt;바자&gt;가 이 계절의 처방법을 제안한다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/e84b8d25-a471-44f2-b437-046765dcd96c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2956,22 +2980,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/73757</guid>
             <pubDate>Wed, 12 Apr 2023 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/0b568118-86ea-43f1-a8ea-7c03a6ca301b.jpg');">
-            <a href="/article/73757">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/73757">
-                    농장에서 직접 재배한 야채로 코스요리를 선보이는 미쉐린 레스토랑                </a>
-            </em>
-            <p class="excerpt">친환경적 미식 경험을 제안하는 '기가스'의 정하완 셰프와 나눈 이야기</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73757">
+                        농장에서 직접 재배한 야채로 코스요리를 선보이는 미쉐린 레스토랑                    </a>
+                </em>
+                <p class="excerpt">친환경적 미식 경험을 제안하는 '기가스'의 정하완 셰프와 나눈 이야기</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/0b568118-86ea-43f1-a8ea-7c03a6ca301b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3093,30 +3117,6 @@
                 <p class="excerpt">지구를 생각하는 '착한' 텀블러 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/d484d554-6a79-454b-a7de-ed856a879532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알아두면 쓸데있는 리세일 플랫폼 9 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/72822</link>
-            <guid>https://www.harpersbazaar.co.kr/article/72822</guid>
-            <pubDate>Wed, 12 Apr 2023 09:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/615acb89-f828-4cd2-8461-9916fd6c439c.jpg');">
-                <a href="/article/72822">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/72822">
-                        알아두면 쓸데있는 리세일 플랫폼 9                    </a>
-                </em>
-                <p class="excerpt">전 세계 리세일 플랫폼이 궁금하다면? </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/01/615acb89-f828-4cd2-8461-9916fd6c439c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
