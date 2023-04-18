@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 09:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 15:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -863,6 +863,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjlfMTMw/MDAxNTkzNDMxMTEzNTM3.KEGgYOW7tfp2FnFVBpWaUmlR4WRaZIVylMOoYGsjg3og.YqDWAfuSP2L2cq9D_QVKVxGwhDlsqXLDlIFmIke0noMg.PNG/IEkDQWjX3tFGgHPWDgx4xPSnGdvQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크, BTS 정국이 코첼라 페스티벌에서 입은 룩은? (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76743</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76743</guid>
+            <pubDate>Tue, 18 Apr 2023 15:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 아티스트들이 총출동한 2023 코첼라 밸리 뮤직 앤 아트 페스티벌]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/34f88a29-d398-4988-bd8f-4ea256ac8c47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[발렌시아가, 해리포터 그리고 AI가 불러온 밈 열풍 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76737</link>
             <guid>https://www.harpersbazaar.co.kr/article/76737</guid>
@@ -923,7 +931,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76632</link>
             <guid>https://www.harpersbazaar.co.kr/article/76632</guid>
             <pubDate>Fri, 14 Apr 2023 15:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[꽃 같은 그들! 봄꽃 구경에 나선 스타들]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/f72f65e3-2146-4b0b-803b-7dd590312236.jpg');">
+            <a href="/article/76632">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76632">
+                    꽃 같은 그들! 봄꽃 구경에 나선 스타들                </a>
+            </em>
+            <p class="excerpt">꽃 같은 그들! 봄꽃 구경에 나선 스타들</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/f72f65e3-2146-4b0b-803b-7dd590312236.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1076,22 +1100,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76552</guid>
             <pubDate>Wed, 12 Apr 2023 09:06:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/4f214115-8677-4973-81c1-c04c089e0908.jpg');">
-            <a href="/article/76552">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76552">
-                    한소희 X 오메가, 시대를 대표하는 두 아이콘의 만남                </a>
-            </em>
-            <p class="excerpt">오메가 글로벌 앰버서더 한소희와 함께한 &lt;바자&gt; 디지털 커버</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76552">
+                        한소희 X 오메가, 시대를 대표하는 두 아이콘의 만남                    </a>
+                </em>
+                <p class="excerpt">오메가 글로벌 앰버서더 한소희와 함께한 &lt;바자&gt; 디지털 커버</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/4f214115-8677-4973-81c1-c04c089e0908.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1213,30 +1237,6 @@
                 <p class="excerpt">지수의 미모와 다채로운 의상에 눈을 못 뗄걸? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/da1ef8bc-7d49-4a58-9f6f-721fa890215b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평생 신을 수 있는 명품 플랫 슈즈 추천 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76503</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76503</guid>
-            <pubDate>Sun, 09 Apr 2023 15:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/2b3d436f-91be-4eba-833f-ad5f5d196bca.jpg');">
-                <a href="/article/76503">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76503">
-                        평생 신을 수 있는 명품 플랫 슈즈 추천                    </a>
-                </em>
-                <p class="excerpt">신상부터 베스트 셀러 아이템을 소개한다. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/2b3d436f-91be-4eba-833f-ad5f5d196bca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이렇게만 하면 살이 쭉쭉 빠져요! 의외의 다이어트 습관 10 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1615,6 +1615,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/a4fb668a-4fd7-48c8-91d1-b9b19924f34f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<바자> 5월 커버를 장식한 루이 비통의 그녀들  태연, 나연, 혜인 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76724</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76724</guid>
+            <pubDate>Tue, 18 Apr 2023 15:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[매혹적인 레드와 태연, 말간 화이트와 나연 그리고 싱그러운 그린과 혜인]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/fafa3849-11c9-43eb-aaac-88b703cc1e4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덕질하는 아이돌 모음.zip (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76711</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76711</guid>
+            <pubDate>Tue, 18 Apr 2023 15:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[축구, 레고, 그림, 스타워즈를 그들도 온 마음을 다해 ‘덕질’을 한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/ae3d542f-83ea-41a9-bc79-75662e169b3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[입대를 앞둔, BTS 제이홉의 마음 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76709</link>
             <guid>https://www.harpersbazaar.co.kr/article/76709</guid>
@@ -1667,7 +1683,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76619</link>
             <guid>https://www.harpersbazaar.co.kr/article/76619</guid>
             <pubDate>Thu, 13 Apr 2023 03:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[스포티한 아우터를 구매하고 싶다면 클릭!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/0e739469-a439-4680-b0b0-edf46413577b.jpg');">
+            <a href="/article/76619">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76619">
+                    뮤비에서 장원영이 입은 저지가 10만원대라고? #B_STAR일링                </a>
+            </em>
+            <p class="excerpt">스포티한 아우터를 구매하고 싶다면 클릭! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/0e739469-a439-4680-b0b0-edf46413577b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1675,7 +1707,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76587</link>
             <guid>https://www.harpersbazaar.co.kr/article/76587</guid>
             <pubDate>Sat, 15 Apr 2023 09:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드는 물론 세계 양대 차트인 영국까지 접수 완료!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/3fbfd9fa-676d-4673-8ce1-2e2e3c48e190.jpg');">
+            <a href="/article/76587">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76587">
+                    BTS 지민을 포함한 '해외 음원 차트'를 휩쓴 아티스트 누구?                 </a>
+            </em>
+            <p class="excerpt">빌보드는 물론 세계 양대 차트인 영국까지 접수 완료! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/3fbfd9fa-676d-4673-8ce1-2e2e3c48e190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1804,22 +1852,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76519</guid>
             <pubDate>Mon, 10 Apr 2023 09:03:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/38dcad5f-b9d2-4d97-9871-1057828c1073.jpg');">
-            <a href="/article/76519">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76519">
-                    홍은채, 김도연, 설현의 봄맞이 카디건은? #B_STAR일링                </a>
-            </em>
-            <p class="excerpt">통통 튀는 컬러의 카디건과 쉽게 구할 수 없는 희귀템까지! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76519">
+                        홍은채, 김도연, 설현의 봄맞이 카디건은? #B_STAR일링                    </a>
+                </em>
+                <p class="excerpt">통통 튀는 컬러의 카디건과 쉽게 구할 수 없는 희귀템까지! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/38dcad5f-b9d2-4d97-9871-1057828c1073.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1828,22 +1876,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76513</guid>
             <pubDate>Mon, 10 Apr 2023 03:02:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/da1ef8bc-7d49-4a58-9f6f-721fa890215b.jpg');">
-            <a href="/article/76513">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76513">
-                    꽃향기를 남긴 지수의 뮤직비디오 착장 대공개! #B_STAR일링                </a>
-            </em>
-            <p class="excerpt">지수의 미모와 다채로운 의상에 눈을 못 뗄걸? </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76513">
+                        꽃향기를 남긴 지수의 뮤직비디오 착장 대공개! #B_STAR일링                    </a>
+                </em>
+                <p class="excerpt">지수의 미모와 다채로운 의상에 눈을 못 뗄걸? </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/da1ef8bc-7d49-4a58-9f6f-721fa890215b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1943,52 +1991,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/d3370e61-7256-4e4f-9b2a-13d76cba1e9a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[또 하나의 별이 지다, 세계적인 음악가 사카모토 류이치 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76433</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76433</guid>
-            <pubDate>Sat, 15 Apr 2023 15:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/ad7b64d5-5f83-4275-b5ae-1ae1a46c07ab.jpg');">
-                <a href="/article/76433">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76433">
-                        또 하나의 별이 지다, 세계적인 음악가 사카모토 류이치                     </a>
-                </em>
-                <p class="excerpt">끝까지 음악에 대한 열정을 놓지 않은 사카모토 류이치  </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/ad7b64d5-5f83-4275-b5ae-1ae1a46c07ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차정원, 김나영, 장희령 올봄 브이넥 니트 활용법 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76432</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76432</guid>
-            <pubDate>Sat, 15 Apr 2023 15:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/b7a2be53-6f12-415c-af14-5d7ea88ed163.jpg');">
-                <a href="/article/76432">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76432">
-                        차정원, 김나영, 장희령 올봄 브이넥 니트 활용법                     </a>
-                </em>
-                <p class="excerpt">산뜻하면서도 시크하게! 다채로운 룩을 함께할 브이넥 니트 스타일링.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/b7a2be53-6f12-415c-af14-5d7ea88ed163.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김은숙→송혜교·임지연.. <더 글로리>, '백상' 트로피 안을까 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76707</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76707</guid>
+            <pubDate>Tue, 18 Apr 2023 15:03:32 GMT</pubDate>
+            <content:encoded><![CDATA[화제작 &lt;더 글로리&gt;, '제59회 백상'에서 9개 부분 후보!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/a1e2738d-616f-4f5f-92e5-8a4c3a4a164e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송중기, <화란>으로 칸영화제 간다! 송강호는 8번째 칸行 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -2051,7 +2059,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76530</link>
             <guid>https://www.harpersbazaar.co.kr/article/76530</guid>
             <pubDate>Wed, 12 Apr 2023 15:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[봄날의 SF를 좋아하세요?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/c741e8bd-6a0a-4196-96f5-1b899234930f.jpg');">
+            <a href="/article/76530">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76530">
+                    우리를 단숨에 다른 세계로 데려다 줄 신간 SF 단편집들                </a>
+            </em>
+            <p class="excerpt">봄날의 SF를 좋아하세요?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/c741e8bd-6a0a-4196-96f5-1b899234930f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2204,22 +2228,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76327</guid>
             <pubDate>Wed, 05 Apr 2023 09:04:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/b1fc379a-fc32-4b5b-8781-e5c5be0c1d43.jpg');">
-            <a href="/article/76327">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76327">
-                    에스파의 글로벌 행보! 美 페스티벌→애플 영화 OST                </a>
-            </em>
-            <p class="excerpt">SM엔터의 '메타버스 그룹', 色다른 에스파 응원해!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76327">
+                        에스파의 글로벌 행보! 美 페스티벌→애플 영화 OST                    </a>
+                </em>
+                <p class="excerpt">SM엔터의 '메타버스 그룹', 色다른 에스파 응원해!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/b1fc379a-fc32-4b5b-8781-e5c5be0c1d43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2341,30 +2365,6 @@
                 <p class="excerpt">일단 의심부터 해야될 것 같은 배우, 신재하!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/ab8b21d8-0683-4e39-8deb-3b2581bd8a96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["파트3 할까?" 끝나도 여전한 인기! <더 글로리> 후토크 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76197</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76197</guid>
-            <pubDate>Sun, 09 Apr 2023 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/5bfec6f1-7613-4b80-9f29-4754f5379423.jpg');">
-                <a href="/article/76197">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76197">
-                        "파트3 할까?" 끝나도 여전한 인기! &lt;더 글로리&gt; 후토크                    </a>
-                </em>
-                <p class="excerpt">들을수록 빠져드는 김은숙+배우들 &lt;더 글로리&gt; '찐' 코멘터리</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/5bfec6f1-7613-4b80-9f29-4754f5379423.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화장품 단계를 줄이는 것 역시 친환경 활동의 실천 법이다 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -2746,7 +2746,7 @@
             <title><![CDATA[화장품 단계를 줄이는 것 역시 친환경 활동의 실천 법이다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76629</link>
             <guid>https://www.harpersbazaar.co.kr/article/76629</guid>
-            <pubDate>Tue, 18 Apr 2023 09:04:49 GMT</pubDate>
+            <pubDate>Tue, 18 Apr 2023 09:04:37 GMT</pubDate>
             <content:encoded><![CDATA[요즘 트렌드라는 '스키니멀리즘'에 최적화 된 제품]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/6e2e3f05-589f-4ef3-90a9-5d13f3a1bbe3.jpg" length="0" type="image/jpg"/>
         </item>
