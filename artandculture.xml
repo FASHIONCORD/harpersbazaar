@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송중기, <화란>으로 칸영화제 간다! 송강호는 8번째 칸行]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76706</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76706</guid>
+            <pubDate>Tue, 18 Apr 2023 09:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[노개런티 참여 &lt;화란&gt;으로 칸 영화제 레드카펫 밟는 송중기🏆]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/8afd5154-85d7-43a6-b3ca-404710f6d2e7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레이디 제인과 결혼하는 '10살 연하' 임현태는 누구?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76704</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76484</link>
             <guid>https://www.harpersbazaar.co.kr/article/76484</guid>
             <pubDate>Tue, 11 Apr 2023 15:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;넥스트인패션 1&gt; 우승자, 세계적인 패션쇼에 초청 받아 한국 디자이너의 저력을 보여줄 예정!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/63b95e4e-198f-4519-87ce-061e7d22d293.jpg');">
+            <a href="/article/76484">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76484">
+                    한국의 민주킴, 한국인 최초로 V&amp;A 패션쇼 참석!                 </a>
+            </em>
+            <p class="excerpt">&lt;넥스트인패션 1&gt; 우승자, 세계적인 패션쇼에 초청 받아 한국 디자이너의 저력을 보여줄 예정!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/63b95e4e-198f-4519-87ce-061e7d22d293.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76325</guid>
             <pubDate>Sun, 02 Apr 2023 15:07:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/588f9778-7330-43be-98b3-dea164760eb9.jpg');">
-            <a href="/article/76325">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76325">
-                    "동은과 여정의 길=복수와 파멸"..김은숙이 직접 남긴 말                </a>
-            </em>
-            <p class="excerpt">파죽지세 &lt;더 글로리&gt;, 넷플릭스 역대 시청순위 6위 영예</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76325">
+                        "동은과 여정의 길=복수와 파멸"..김은숙이 직접 남긴 말                    </a>
+                </em>
+                <p class="excerpt">파죽지세 &lt;더 글로리&gt;, 넷플릭스 역대 시청순위 6위 영예</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/588f9778-7330-43be-98b3-dea164760eb9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">들을수록 빠져드는 김은숙+배우들 &lt;더 글로리&gt; '찐' 코멘터리</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/5bfec6f1-7613-4b80-9f29-4754f5379423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["가족 전체가 '연진이'라고 불러"..임지연 <뉴스룸> 말말말]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76141</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76141</guid>
-            <pubDate>Sun, 09 Apr 2023 09:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/5a2516aa-109c-4409-a722-01f955af981d.jpg');">
-                <a href="/article/76141">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76141">
-                        "가족 전체가 '연진이'라고 불러"..임지연 &lt;뉴스룸&gt; 말말말                    </a>
-                </em>
-                <p class="excerpt">동은아, 나 &lt;뉴스룸&gt; 나와서 되게 신나!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/5a2516aa-109c-4409-a722-01f955af981d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

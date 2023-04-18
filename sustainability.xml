@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화장품 단계를 줄이는 것 역시 친환경 활동의 실천 법이다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76629</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76629</guid>
+            <pubDate>Tue, 18 Apr 2023 09:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 트렌드라는 '스키니멀리즘'에 최적화 된 제품]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/6e2e3f05-589f-4ef3-90a9-5d13f3a1bbe3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리뷰 평점 만점을 기록 중인 바디 솝!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76628</link>
@@ -68,8 +76,24 @@
             <link>https://www.harpersbazaar.co.kr/article/76349</link>
             <guid>https://www.harpersbazaar.co.kr/article/76349</guid>
             <pubDate>Thu, 13 Apr 2023 09:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[생활 폐기물과 천연 재료로 예술품을 만드는 아티스트 3인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/10c5d7c9-c01e-45f7-8b9a-99dacab88625.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/10c5d7c9-c01e-45f7-8b9a-99dacab88625.jpg');">
+            <a href="/article/76349">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76349">
+                    폐기물로 만든 조각작품                 </a>
+            </em>
+            <p class="excerpt">생활 폐기물과 천연 재료로 예술품을 만드는 아티스트 3인.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/10c5d7c9-c01e-45f7-8b9a-99dacab88625.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해안으로 떠밀려 오는 고래의 사체들, 이유는?]]></title>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/75294</guid>
             <pubDate>Wed, 05 Apr 2023 03:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/e84b8d25-a471-44f2-b437-046765dcd96c.jpg');">
-            <a href="/article/75294">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/75294">
-                    의학계가 주목하는 자연처방은 무엇일까?                </a>
-            </em>
-            <p class="excerpt">전 세계에 번지는 ‘자연 처방’의 면면을 살펴보고, &lt;바자&gt;가 이 계절의 처방법을 제안한다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75294">
+                        의학계가 주목하는 자연처방은 무엇일까?                    </a>
+                </em>
+                <p class="excerpt">전 세계에 번지는 ‘자연 처방’의 면면을 살펴보고, &lt;바자&gt;가 이 계절의 처방법을 제안한다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/e84b8d25-a471-44f2-b437-046765dcd96c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">지금 성수에서 가장 핫 한 환경 팝업스토어 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/06/e4ee13cd-25d0-42dc-ae0a-5e409f1173b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기후우울증을 아시나요?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/73877</link>
-            <guid>https://www.harpersbazaar.co.kr/article/73877</guid>
-            <pubDate>Wed, 12 Apr 2023 09:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/62a3f932-59f7-4754-9332-400ce5de4a53.jpg');">
-                <a href="/article/73877">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/73877">
-                        기후우울증을 아시나요?                    </a>
-                </em>
-                <p class="excerpt">기후변화를 지켜보면서 깊은 무력감과 상실감을 느낀다면 당신도 기후우울증일 수 있다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/62a3f932-59f7-4754-9332-400ce5de4a53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
