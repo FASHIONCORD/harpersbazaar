@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 15:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 03:04:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#BBB 나는 건성? 지성? 지속가능성!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76755</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76755</guid>
+            <pubDate>Thu, 20 Apr 2023 03:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[2023 바자 베러 뷰티를 소개합니다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/00f238b3-c702-45d6-86eb-665242090a03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3천원을 내면 공병을 회수해가는 세럼!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76630</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76596</link>
             <guid>https://www.harpersbazaar.co.kr/article/76596</guid>
             <pubDate>Mon, 17 Apr 2023 09:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[올바른 분리배출 방법과 '찐' 환경 용기에 대해!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5911a325-e14a-4507-954d-60c7d11edec8.jpg');">
+            <a href="/article/76596">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76596">
+                    반드시 해야 하는 화장품 분리배출, 아직도 헷갈린다면?                 </a>
+            </em>
+            <p class="excerpt">올바른 분리배출 방법과 '찐' 환경 용기에 대해!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5911a325-e14a-4507-954d-60c7d11edec8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76345</guid>
             <pubDate>Tue, 11 Apr 2023 15:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/bf2552fc-c2c0-4797-bfa5-3ac820305de8.jpg');">
-            <a href="/article/76345">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76345">
-                    환경미화원들이 전하는 작은 당부                </a>
-            </em>
-            <p class="excerpt">쓰레기 전쟁 최전선에 서 있는 환경미화원들이 전하는 작은 당부.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76345">
+                        환경미화원들이 전하는 작은 당부                    </a>
+                </em>
+                <p class="excerpt">쓰레기 전쟁 최전선에 서 있는 환경미화원들이 전하는 작은 당부.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/bf2552fc-c2c0-4797-bfa5-3ac820305de8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">철도 덕후 전현우에게 물어본 기후위기 시대 지속가능한 이동에 대하여.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/1819e2ac-16d3-46fb-8968-678a2c62ba51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재활용 플라스틱의 변신, 친환경 화분 2]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/74452</link>
-            <guid>https://www.harpersbazaar.co.kr/article/74452</guid>
-            <pubDate>Mon, 03 Apr 2023 03:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/25/ab967c35-7906-49b5-8a40-e6c5d7dd462a.jpg');">
-                <a href="/article/74452">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/74452">
-                        재활용 플라스틱의 변신, 친환경 화분 2                    </a>
-                </em>
-                <p class="excerpt">따뜻한 봄을 기다리며. 개성넘치는 작은 정원을 꾸미는 방법! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/25/ab967c35-7906-49b5-8a40-e6c5d7dd462a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
