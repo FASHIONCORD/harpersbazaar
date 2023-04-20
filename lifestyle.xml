@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 09:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#BBB 클린 뷰티… 좋아하세요?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76778</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76778</guid>
+            <pubDate>Thu, 20 Apr 2023 09:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[네 아주 좋아합니다. 전, 새싹 에디터니까요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/645ea763-f1ff-4cea-b0ec-0ca226d24050.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#BBB 지구를 지키는 우리들 '새싹 에디터']]></title>
             <link>https://www.harpersbazaar.co.kr/article/76759</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76680</link>
             <guid>https://www.harpersbazaar.co.kr/article/76680</guid>
             <pubDate>Mon, 17 Apr 2023 09:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[빨간 라벨이 더해진 원소주는 오직 1만 병 한정판.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/7dff6dae-c75b-4927-8210-1e79946b2abc.jpg');">
+            <a href="/article/76680">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76680">
+                    디젤과 만난 원소주, 지금 당장 구입해야하는 이유                 </a>
+            </em>
+            <p class="excerpt">빨간 라벨이 더해진 원소주는 오직 1만 병 한정판.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/7dff6dae-c75b-4927-8210-1e79946b2abc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +196,7 @@
             <link>https://www.harpersbazaar.co.kr/article/76660</link>
             <guid>https://www.harpersbazaar.co.kr/article/76660</guid>
             <pubDate>Fri, 14 Apr 2023 15:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/68cfbde7-f2fb-4fd9-a2d8-87e723cbe8f3.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/3db16cb3-bcc8-4294-8ec9-32bb519657e4.jpg');">
             <a href="/article/76660">
                 <img alt="" src="">
             </a>
@@ -189,7 +213,7 @@
             </em>
             <p class="excerpt">5월 20일 토요일, 한강 노들섬으로 모여라! #시티포레스티벌2023</p>
         </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/68cfbde7-f2fb-4fd9-a2d8-87e723cbe8f3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/3db16cb3-bcc8-4294-8ec9-32bb519657e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환경을 생각한 전기 바이크가 예쁘기까지? 어디서 살 수 있나요?]]></title>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76649</guid>
             <pubDate>Fri, 14 Apr 2023 15:09:55 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/eadb0569-0809-4594-bc2e-6f03022fe7c6.jpg');">
-            <a href="/article/76649">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76649">
-                    한우 맛집이 모인 한남동, 여기 어때?                 </a>
-            </em>
-            <p class="excerpt">한우와 와인, 이 조합은 못참지!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76649">
+                        한우 맛집이 모인 한남동, 여기 어때?                     </a>
+                </em>
+                <p class="excerpt">한우와 와인, 이 조합은 못참지!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/eadb0569-0809-4594-bc2e-6f03022fe7c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">올바른 분리배출 방법과 '찐' 환경 용기에 대해!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/5911a325-e14a-4507-954d-60c7d11edec8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착하고 효과 좋은 고체 치약을 찾고 있다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76595</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76595</guid>
-            <pubDate>Sun, 16 Apr 2023 15:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/80569fdd-82f3-41ab-9f15-a048cd209ffe.jpg');">
-                <a href="/article/76595">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76595">
-                        착하고 효과 좋은 고체 치약을 찾고 있다면?                    </a>
-                </em>
-                <p class="excerpt">한 번 쓰면 절대 못 돌아간다는 톤 28 고체 치약을 추천합니다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/80569fdd-82f3-41ab-9f15-a048cd209ffe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
