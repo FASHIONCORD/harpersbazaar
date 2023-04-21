@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 03:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 09:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#BBB 새싹 에디터와 BBB가 함께 맞이한 첫 번째 봄]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76685</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76685</guid>
+            <pubDate>Fri, 21 Apr 2023 09:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[새싹 에디터와 2023 BBB가 손을 맞잡고 그 첫 막을 올리다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/0101bca2-0749-4e38-9924-6a973a73a375.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#BBB 에디터 꿈나무가 소개하는 '친환경 뷰티 브랜드']]></title>
             <link>https://www.harpersbazaar.co.kr/article/76827</link>
@@ -21,7 +29,7 @@
             <guid>https://www.harpersbazaar.co.kr/article/76681</guid>
             <pubDate>Thu, 20 Apr 2023 15:04:37 GMT</pubDate>
             <content:encoded><![CDATA[바자 베러 뷰티에는 어떤 제품들이 선정됐을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/27b696f7-2565-467e-bcd0-2639ea419881.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/27b696f7-2565-467e-bcd0-2639ea419881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#BBB 28살 직장인, ‘새싹’ 에디터 된 썰 풉니다.]]></title>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76735</link>
             <guid>https://www.harpersbazaar.co.kr/article/76735</guid>
             <pubDate>Wed, 19 Apr 2023 03:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[새싹 에디터가 전하는 '바자 베러 뷰티'의 첫 소식.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/802692e5-2d29-4580-aaa7-9f98d6f76d7a.jpg');">
+            <a href="/article/76735">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76735">
+                    #BBB 평범한 학생이었던 내가 오늘부터 새싹 에디터?!                </a>
+            </em>
+            <p class="excerpt">새싹 에디터가 전하는 '바자 베러 뷰티'의 첫 소식.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/802692e5-2d29-4580-aaa7-9f98d6f76d7a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76595</guid>
             <pubDate>Fri, 14 Apr 2023 03:05:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/80569fdd-82f3-41ab-9f15-a048cd209ffe.jpg');">
-            <a href="/article/76595">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76595">
-                    착하고 효과 좋은 고체 치약을 찾고 있다면?                </a>
-            </em>
-            <p class="excerpt">한 번 쓰면 절대 못 돌아간다는 톤 28 고체 치약을 추천합니다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76595">
+                        착하고 효과 좋은 고체 치약을 찾고 있다면?                    </a>
+                </em>
+                <p class="excerpt">한 번 쓰면 절대 못 돌아간다는 톤 28 고체 치약을 추천합니다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/80569fdd-82f3-41ab-9f15-a048cd209ffe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">친환경적 업사이클링 디자인으로 특별한 협업을 이뤄낸 제러미 스콧과 나눈 대화.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/a935f02c-505b-4ffd-96e5-c22dd08d5e18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경미화원들이 전하는 작은 당부]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76345</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76345</guid>
-            <pubDate>Tue, 11 Apr 2023 15:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/bf2552fc-c2c0-4797-bfa5-3ac820305de8.jpg');">
-                <a href="/article/76345">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76345">
-                        환경미화원들이 전하는 작은 당부                    </a>
-                </em>
-                <p class="excerpt">쓰레기 전쟁 최전선에 서 있는 환경미화원들이 전하는 작은 당부.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/bf2552fc-c2c0-4797-bfa5-3ac820305de8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
