@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 09:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 15:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -863,6 +863,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjlfMTMw/MDAxNTkzNDMxMTEzNTM3.KEGgYOW7tfp2FnFVBpWaUmlR4WRaZIVylMOoYGsjg3og.YqDWAfuSP2L2cq9D_QVKVxGwhDlsqXLDlIFmIke0noMg.PNG/IEkDQWjX3tFGgHPWDgx4xPSnGdvQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여행갈 땐 이렇게! 신예은의 바캉스룩 참고해 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76864</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76864</guid>
+            <pubDate>Fri, 21 Apr 2023 15:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[따라할 만 하네, 스타일리시하고 웨어러블한 여행룩 추천.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/4f6862d4-5a5f-48c7-8f65-a2b9caf8aaec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀럽들이 사랑하는 매력 쩌는 하트 백 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76860</link>
             <guid>https://www.harpersbazaar.co.kr/article/76860</guid>
@@ -923,7 +931,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76743</link>
             <guid>https://www.harpersbazaar.co.kr/article/76743</guid>
             <pubDate>Tue, 18 Apr 2023 15:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 아티스트들이 총출동한 2023 코첼라 밸리 뮤직 앤 아트 페스티벌]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/34f88a29-d398-4988-bd8f-4ea256ac8c47.jpg');">
+            <a href="/article/76743">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76743">
+                    블랙핑크, BTS 정국이 코첼라 페스티벌에서 입은 룩은?                 </a>
+            </em>
+            <p class="excerpt">글로벌 아티스트들이 총출동한 2023 코첼라 밸리 뮤직 앤 아트 페스티벌 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/34f88a29-d398-4988-bd8f-4ea256ac8c47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1076,22 +1100,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76633</guid>
             <pubDate>Fri, 14 Apr 2023 15:03:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/97ea85a8-dd95-40a9-838f-658963ae2f17.jpg');">
-            <a href="/article/76633">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76633">
-                    무심하게 툭, 볼 캡의 매력                 </a>
-            </em>
-            <p class="excerpt">무심하게 걸쳐 써도 예쁘고, 힘줘서 스타일링해도 예쁜 볼 캡의 완벽한 매력.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76633">
+                        무심하게 툭, 볼 캡의 매력                     </a>
+                </em>
+                <p class="excerpt">무심하게 걸쳐 써도 예쁘고, 힘줘서 스타일링해도 예쁜 볼 캡의 완벽한 매력.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/97ea85a8-dd95-40a9-838f-658963ae2f17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1213,30 +1237,6 @@
                 <p class="excerpt">그녀가 입은 슈트 어디거? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/34082502-8e78-47bb-8174-be41b3d48d01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양을 피하는 럭셔리한 방법 #버킷햇 추천 #명품네컷 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76581</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76581</guid>
-            <pubDate>Thu, 13 Apr 2023 03:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/0d565cda-61b3-4372-a627-fe96cee59d57.jpg');">
-                <a href="/article/76581">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76581">
-                        태양을 피하는 럭셔리한 방법 #버킷햇 추천 #명품네컷                    </a>
-                </em>
-                <p class="excerpt">휘뚜루마뚜루 원마일웨어부터 비즈니스 캐주얼까지 스타일링 가능한 모자 찾고 있다면?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/0d565cda-61b3-4372-a627-fe96cee59d57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지수처럼 꽃네일 해볼까? (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1615,6 +1615,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/262ad221-49e2-4c8f-9cbd-7837a29ad7e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[입으면 화제! 이효리 인스타그램 속 착장 정보 #B_STAR일링 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76779</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76779</guid>
+            <pubDate>Thu, 20 Apr 2023 15:02:58 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 인스타그램을 재개한 이효리는 무얼 입었을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/4cd9cb21-aa57-40e7-bd04-e42b86813988.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['16살차' 로제·강동원 열애설? YG "사실 아니다" (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76750</link>
             <guid>https://www.harpersbazaar.co.kr/article/76750</guid>
@@ -1675,7 +1683,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76706</link>
             <guid>https://www.harpersbazaar.co.kr/article/76706</guid>
             <pubDate>Mon, 17 Apr 2023 03:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[노개런티 참여 &lt;화란&gt;으로 칸 영화제 레드카펫 밟는 송중기🏆]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/8afd5154-85d7-43a6-b3ca-404710f6d2e7.jpg');">
+            <a href="/article/76706">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76706">
+                    송중기, &lt;화란&gt;으로 칸영화제 간다! 송강호는 8번째 칸行                </a>
+            </em>
+            <p class="excerpt">노개런티 참여 &lt;화란&gt;으로 칸 영화제 레드카펫 밟는 송중기🏆</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/8afd5154-85d7-43a6-b3ca-404710f6d2e7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1828,22 +1852,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76558</guid>
             <pubDate>Wed, 12 Apr 2023 09:06:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/2f81dc56-25e8-41f8-ad0c-b8e38dc501f6.jpg');">
-            <a href="/article/76558">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76558">
-                    '장원영 언니' 장다아, 연예계 데뷔 초읽기! 프로필 공개                </a>
-            </em>
-            <p class="excerpt">장원영×장다아, 연예계 '비주얼 자매' 탄생이요!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76558">
+                        '장원영 언니' 장다아, 연예계 데뷔 초읽기! 프로필 공개                    </a>
+                </em>
+                <p class="excerpt">장원영×장다아, 연예계 '비주얼 자매' 탄생이요!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/2f81dc56-25e8-41f8-ad0c-b8e38dc501f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1967,28 +1991,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/da1ef8bc-7d49-4a58-9f6f-721fa890215b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국의 민주킴, 한국인 최초로 V&A 패션쇼 참석! (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76484</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76484</guid>
-            <pubDate>Thu, 06 Apr 2023 15:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/63b95e4e-198f-4519-87ce-061e7d22d293.jpg');">
-                <a href="/article/76484">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76484">
-                        한국의 민주킴, 한국인 최초로 V&amp;A 패션쇼 참석!                     </a>
-                </em>
-                <p class="excerpt">&lt;넥스트인패션 1&gt; 우승자, 세계적인 패션쇼에 초청 받아 한국 디자이너의 저력을 보여줄 예정!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/63b95e4e-198f-4519-87ce-061e7d22d293.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[창작의 소리 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76712</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76712</guid>
+            <pubDate>Fri, 21 Apr 2023 15:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[#프로젝트해시태그 아카이브 바이닐.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/03a95a2d-fe65-4242-bdfe-b23c74e9dd2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제시, 싸이 떠나 박재범 손 잡았다! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -2051,7 +2059,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76338</link>
             <guid>https://www.harpersbazaar.co.kr/article/76338</guid>
             <pubDate>Sat, 15 Apr 2023 09:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[타인을 이해하고 싶은 투명한 마음을 이야기로 기획한 최은지 편집자와 나눈 대화]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/22722354-537c-4615-a6da-247aed5b116a.jpg');">
+            <a href="/article/76338">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76338">
+                    16가지 MBTI를 소설로 쓴다면?                </a>
+            </em>
+            <p class="excerpt">타인을 이해하고 싶은 투명한 마음을 이야기로 기획한 최은지 편집자와 나눈 대화</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/22722354-537c-4615-a6da-247aed5b116a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2204,22 +2228,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76376</guid>
             <pubDate>Mon, 03 Apr 2023 09:04:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/56ebac68-8c17-4505-8a87-c94c597c425d.jpg');">
-            <a href="/article/76376">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76376">
-                    지민의 솔로 앨범 <face>에 관한 몇 가지 사실                </face></a>
-            </em>
-            <p class="excerpt">‘최초’를 갱신하는 눈부신 성취와 지민이 직접 밝힌 앨범 비하인드</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76376">
+                        지민의 솔로 앨범 <face>에 관한 몇 가지 사실                    </face></a>
+                </em>
+                <p class="excerpt">‘최초’를 갱신하는 눈부신 성취와 지민이 직접 밝힌 앨범 비하인드</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/56ebac68-8c17-4505-8a87-c94c597c425d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2341,30 +2365,6 @@
                 <p class="excerpt">한국 말고 '세계에서 가장 많이 팔린 앨범' 차트 독식!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/f6c2dc35-a15c-4d67-866d-9cb4570bc965.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전지현×강동원, 첩보 멜로물? '작은 아씨들' 작가 신작! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76246</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76246</guid>
-            <pubDate>Thu, 30 Mar 2023 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/4e8a6958-d507-442c-b466-72ecb9380599.jpg');">
-                <a href="/article/76246">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76246">
-                        전지현×강동원, 첩보 멜로물? '작은 아씨들' 작가 신작!                    </a>
-                </em>
-                <p class="excerpt">정서경 작가 드라마 &lt;북극성&gt; 출연 물망에 오른 역대급 조합</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/4e8a6958-d507-442c-b466-72ecb9380599.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다를 위해 함께 달리는 파타고니아의 신상 아이템 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
