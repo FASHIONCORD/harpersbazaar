@@ -4,14 +4,22 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 09:04:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 제니가 입어 화제를 모은 톱 모음.zip]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77098</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77098</guid>
+            <pubDate>Thu, 27 Apr 2023 15:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[예쁘고 귀엽고 섹시하기까지한]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/637ab3ac-25c1-407d-9f4a-ca526b8cfa8b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주와 SF를 담고 새로이 등장한 샤넬 워치 컬렉션!]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76973</link>
             <guid>https://www.harpersbazaar.co.kr/article/76973</guid>
-            <pubDate>Thu, 27 Apr 2023 09:02:46 GMT</pubDate>
+            <pubDate>Thu, 27 Apr 2023 15:05:23 GMT</pubDate>
             <content:encoded><![CDATA[영원을 꿈꾸며 우주를 유영한다. 한계는 없다. 샤넬의 새로운 ‘인터스텔라’ 캡슐 컬렉션처럼.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/faadc6c6-e7fc-4e34-8533-f57189aa7b9b.jpg" length="0" type="image/jpg"/>
         </item>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76884</link>
             <guid>https://www.harpersbazaar.co.kr/article/76884</guid>
             <pubDate>Tue, 25 Apr 2023 15:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[화사한 스프링 룩을 연출하고 싶다면 플라워 아이템에 주목할 것.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4e16e0f2-6fe5-4e0f-b3b5-2bea6d229e9a.jpg');">
+            <a href="/article/76884">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76884">
+                    봄의 절정을 만끽하게 해줄 플라워 드레싱이 궁금하다면?                </a>
+            </em>
+            <p class="excerpt">화사한 스프링 룩을 연출하고 싶다면 플라워 아이템에 주목할 것. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/4e16e0f2-6fe5-4e0f-b3b5-2bea6d229e9a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76868</guid>
             <pubDate>Sat, 22 Apr 2023 15:02:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/d570e279-6ac7-4a12-bd19-f5acff07f296.jpg');">
-            <a href="/article/76868">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76868">
-                    바다를 위해 함께 달리는 파타고니아의 신상 아이템                 </a>
-            </em>
-            <p class="excerpt">지구가 유일한 주주다. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76868">
+                        바다를 위해 함께 달리는 파타고니아의 신상 아이템                     </a>
+                </em>
+                <p class="excerpt">지구가 유일한 주주다. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/d570e279-6ac7-4a12-bd19-f5acff07f296.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">2023 샤넬 J12 워치 캠페인 속 그녀들의 대화.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/05348a28-0e47-4ae8-81d7-983165947332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김고은의 시간, 샤넬 J12 워치]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76734</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76734</guid>
-            <pubDate>Thu, 20 Apr 2023 15:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/bcdea278-2e30-4f87-8628-e9407e3f7d1e.jpg');">
-                <a href="/article/76734">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76734">
-                        김고은의 시간, 샤넬 J12 워치                    </a>
-                </em>
-                <p class="excerpt">김고은이 샤넬 워치의 아이콘, J12 캠페인과 함께했다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/bcdea278-2e30-4f87-8628-e9407e3f7d1e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
