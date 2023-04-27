@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 15:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#BBB 환경과 피부를 지키기 위한 여정]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77034</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77034</guid>
+            <pubDate>Thu, 27 Apr 2023 03:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[안전하고 건강한 아름다움을 추구하는 아로마티카의 진정성]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/59daddf0-317f-4e18-bc31-fa2711a54ed0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#BBB 아름다움과 환경을 모두 리필해주는 록시땅]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77019</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76915</link>
             <guid>https://www.harpersbazaar.co.kr/article/76915</guid>
             <pubDate>Mon, 24 Apr 2023 15:04:02 GMT</pubDate>
-            <content:encoded><![CDATA[유랑 에센스 토너 찐 사용 후기]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/c378cee8-0fa5-4014-9a4b-c7ca827fb2d6.jpg');">
+            <a href="/article/76915">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76915">
+                    #BBB 내 피부와 지구를 지켜줄 에센스 토너                </a>
+            </em>
+            <p class="excerpt">유랑 에센스 토너 찐 사용 후기 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/c378cee8-0fa5-4014-9a4b-c7ca827fb2d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76802</guid>
             <pubDate>Sat, 22 Apr 2023 09:05:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/fe7ba292-8682-4170-a862-ae7e41132ddc.jpg');">
-            <a href="/article/76802">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76802">
-                    #BBB 아직 짜는 치약 쓰니? 나는 씹는 치약 쓴다!                </a>
-            </em>
-            <p class="excerpt">건강과 환경, 두 마리 토끼를 잡은 톤28 고체 치약 사용기</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76802">
+                        #BBB 아직 짜는 치약 쓰니? 나는 씹는 치약 쓴다!                    </a>
+                </em>
+                <p class="excerpt">건강과 환경, 두 마리 토끼를 잡은 톤28 고체 치약 사용기</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/fe7ba292-8682-4170-a862-ae7e41132ddc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">지구가 유일한 주주다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/d570e279-6ac7-4a12-bd19-f5acff07f296.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 새싹 에디터와 BBB가 함께 맞이한 첫 번째 봄]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76685</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76685</guid>
-            <pubDate>Fri, 21 Apr 2023 03:04:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/0101bca2-0749-4e38-9924-6a973a73a375.jpg');">
-                <a href="/article/76685">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76685">
-                        #BBB 새싹 에디터와 BBB가 함께 맞이한 첫 번째 봄                    </a>
-                </em>
-                <p class="excerpt">새싹 에디터와 2023 BBB가 손을 맞잡고 그 첫 막을 올리다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/0101bca2-0749-4e38-9924-6a973a73a375.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
