@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 15:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 스킨케어 제품이 탄생하기까지!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/76878</link>
+            <guid>https://www.harpersbazaar.co.kr/article/76878</guid>
+            <pubDate>Fri, 28 Apr 2023 03:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 스킨케어의 정수 '고자크 오픈-스카이 연구소'에 가다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/a5449ac4-a2c6-4910-8f19-81fa58313a0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단발병 치료는 윤은혜처럼! 윤은혜의 셀프 헤어 스타일링 노하우]]></title>
             <link>https://www.harpersbazaar.co.kr/article/76976</link>
@@ -21,7 +29,7 @@
             <guid>https://www.harpersbazaar.co.kr/article/76882</guid>
             <pubDate>Thu, 27 Apr 2023 03:02:59 GMT</pubDate>
             <content:encoded><![CDATA[자유롭고 힙하게! 새로운 아이디어로 무장한 리본 헤어의 시대가 열렸다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/240d61ed-3b13-466e-831e-b3183c7083ad.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/240d61ed-3b13-466e-831e-b3183c7083ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고민하다간 품절각! 지금 사야할 서머 뷰티 컬렉션]]></title>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76694</link>
             <guid>https://www.harpersbazaar.co.kr/article/76694</guid>
             <pubDate>Sat, 22 Apr 2023 03:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[꼭 지켜야 할 다이어트의 3박자]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/2cf21cdc-8281-4700-a00c-0cd6723ce401.jpg');">
+            <a href="/article/76694">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76694">
+                    83-&gt;52kg 서하얀의 30킬로 감량 루틴                 </a>
+            </em>
+            <p class="excerpt">꼭 지켜야 할 다이어트의 3박자 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/2cf21cdc-8281-4700-a00c-0cd6723ce401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76506</guid>
             <pubDate>Wed, 12 Apr 2023 03:05:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/ecd0d071-bee6-4681-b201-68f7b6bfc829.jpg');">
-            <a href="/article/76506">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76506">
-                    전 세계 모든 여자들을 사랑하는 나이키만의 방법 #나이키우먼2023                </a>
-            </em>
-            <p class="excerpt">여성의, 여성에 의한, 여성을 위한 나이키 여성 캠페인의 이야기 </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76506">
+                        전 세계 모든 여자들을 사랑하는 나이키만의 방법 #나이키우먼2023                    </a>
+                </em>
+                <p class="excerpt">여성의, 여성에 의한, 여성을 위한 나이키 여성 캠페인의 이야기 </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/ecd0d071-bee6-4681-b201-68f7b6bfc829.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">스케이트보드는 체력 단련을 위한 운동이 아닌, 우리의 인생을 하나의 담아낸 문화이다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/f7e13283-5207-4935-9a2a-fe5d1c2b5b54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에센스인줄? 산뜻, 촉촉, 가벼운 신상 자차 다 모여!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76240</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76240</guid>
-            <pubDate>Wed, 05 Apr 2023 15:03:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/07bd345c-b47a-41dd-b635-dcaf039cbab9.jpg');">
-                <a href="/article/76240">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76240">
-                        에센스인줄? 산뜻, 촉촉, 가벼운 신상 자차 다 모여!                    </a>
-                </em>
-                <p class="excerpt">제형 특유의 끈적임과 답답함이 싫어 자외선차단제 사용을 기피했던 사람이라면 주목</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/07bd345c-b47a-41dd-b635-dcaf039cbab9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
