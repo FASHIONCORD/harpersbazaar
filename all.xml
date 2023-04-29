@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 03:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 09:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2743,6 +2743,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/e0b9ca7d-3791-4bd0-9a64-110c89640675.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#BBB 피부 고민? 환경 문제? 록시땅에게 물어보세요! (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77128</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77128</guid>
+            <pubDate>Fri, 28 Apr 2023 09:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[록시땅의 A to Z까지 파헤쳐보기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/d6b6793c-579e-4573-95ec-578d77ef38a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#BBB 각질부자 강아지의 동구밭 샴푸바 사용기 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77121</link>
             <guid>https://www.harpersbazaar.co.kr/article/77121</guid>
@@ -2803,7 +2811,23 @@
             <link>https://www.harpersbazaar.co.kr/article/76923</link>
             <guid>https://www.harpersbazaar.co.kr/article/76923</guid>
             <pubDate>Tue, 25 Apr 2023 03:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[보습력과 자연 보존력이 좋은 록시땅]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/0f7bd0b0-3bb5-4507-b6e2-a1a68963def3.jpg');">
+            <a href="/article/76923">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76923">
+                    #BBB 지구온난화로 건조해진 봄, 우리 피부와 지구 지키기                </a>
+            </em>
+            <p class="excerpt">보습력과 자연 보존력이 좋은 록시땅</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/0f7bd0b0-3bb5-4507-b6e2-a1a68963def3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2956,22 +2980,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/76868</guid>
             <pubDate>Fri, 21 Apr 2023 09:04:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/d570e279-6ac7-4a12-bd19-f5acff07f296.jpg');">
-            <a href="/article/76868">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/76868">
-                    바다를 위해 함께 달리는 파타고니아의 신상 아이템                 </a>
-            </em>
-            <p class="excerpt">지구가 유일한 주주다. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/76868">
+                        바다를 위해 함께 달리는 파타고니아의 신상 아이템                     </a>
+                </em>
+                <p class="excerpt">지구가 유일한 주주다. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/d570e279-6ac7-4a12-bd19-f5acff07f296.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3093,30 +3117,6 @@
                 <p class="excerpt">네 아주 좋아합니다. 전, 새싹 에디터니까요.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/645ea763-f1ff-4cea-b0ec-0ca226d24050.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 지구를 지키는 우리들 '새싹 에디터' (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/76759</link>
-            <guid>https://www.harpersbazaar.co.kr/article/76759</guid>
-            <pubDate>Thu, 20 Apr 2023 03:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/d1fcdfc8-edd4-4daf-b8fa-bdb7ed02e324.jpg');">
-                <a href="/article/76759">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/76759">
-                        #BBB 지구를 지키는 우리들 '새싹 에디터'                     </a>
-                </em>
-                <p class="excerpt">내 손으로 만드는 지속가능한 미래</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/d1fcdfc8-edd4-4daf-b8fa-bdb7ed02e324.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
