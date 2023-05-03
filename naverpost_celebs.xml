@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 15:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부첼라티와 만난 이성경]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35882753&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35882753&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 03 May 2023 15:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MDNfNjAg/MDAxNjgzMTA1NjUzMzE4.1ZQKBX3w_EW3EFelpgLQ5IhKbcO2Dh4icU4nuArzl58g.DUPlIfDUmOwRlQFbVzQ7Sh91-HtUro-fx-bYanFfj7cg.JPEG/IHaFPuXBAHymz8f2B_4gnPZAqaBg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 정국이 만들고 매일 먹는 ‘꼬소한 불마요 들기름 막국수’ 레시피]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35863247&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 Jan 2023 03:01:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMDFfMTg1/MDAxNjc1MjE3NTk3NjYy.BC3D3Bdd57fekYXodOFBRnLf5dhW6GOEDUXlq1aJUCEg._gGmeFond3bczb4Wq_e763nLxnNpRU2Tiqze3b0Tj_Eg.JPEG/IrJWGrJyUSHjq1MJjXPsAljj4ERQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고명딸? 아니! 고혹적인 신스틸러 배우 김신록의 화보공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35195118&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35195118&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 20 Jan 2023 03:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMjBfOTUg/MDAxNjc0MTc5NDA5NTU4.Jr-E1AHrX0xKqQuF_dyV-tNentg82py4CV5GEfKhqSQg.lXOnnHhPH6tOANV-NsseH-S9qSmfcriNnJVPkSaGMegg.JPEG/IUYX2mAnP_OE2qRmUmSObAyDKZIY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
