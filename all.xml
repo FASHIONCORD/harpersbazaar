@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 03:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 09:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2367,6 +2367,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/569aeb53-c342-4e2d-8d89-fc7b849b9b27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[존재감 뿜뿜, 유니크한 화병 모음 Zip (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77095</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77095</guid>
+            <pubDate>Fri, 05 May 2023 09:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[꽂으면 작품이 되는 유니크한 화병들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b204ed4d-6be7-4380-9285-be1ecdd1db01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#BBB 다 쓴 화장품, 어떻게 버릴까? 공병 분리배출 A to Z (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77317</link>
             <guid>https://www.harpersbazaar.co.kr/article/77317</guid>
@@ -2421,14 +2429,6 @@
             <pubDate>Tue, 02 May 2023 09:05:55 GMT</pubDate>
             <content:encoded><![CDATA[나만 못 가면 서운해! 하베스트 퍼퓸 비누 전시]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/a9a00b19-7c25-464d-a2c9-337165062cba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 유랑, 나랑, 우리랑 함께 환경을 생각해볼래? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77190</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77190</guid>
-            <pubDate>Sun, 30 Apr 2023 09:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[유랑이 전하는 스키니멀리즘, 건강한 스킨케어를 제안하다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/c0bebf40-074d-4ae0-9750-94e1a6f19db9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[업계 최초! 친환경 식물성 소재로 만든 나일론 티셔츠 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
