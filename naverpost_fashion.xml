@@ -4,14 +4,22 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 15:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 03:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갖고 싶다! 생로랑의 첫 번째 파인 주얼리 컬렉션]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35918970&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35918970&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 May 2023 03:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTBfMjc4/MDAxNjgzNzI2NzU1NTEz.Mw0dhqeCNU3tkbb1PlILvAnjpOMWFhvVB1FRAE7jA5wg.bf7mzj1qo2mrORVsSH_djVw0EbxsLFC_58zLZQff9KQg.JPEG/Iyt1uUT9eFoaUc_417E00-5dZi9I.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보부상들은 주목! 빅 백을 든 여인과 파파라치의 전쟁]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35918964&amp;memberNo=41829949&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35918964&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 10 May 2023 15:02:22 GMT</pubDate>
+            <pubDate>Thu, 11 May 2023 03:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTBfMTkz/MDAxNjgzNzI2NjE3MTk1.t1sgeAZstt0_mDms_iJyX_TGaGyO8qes4W00iLIxI_4g.yERgS47Hza6MLmfuI-MuLcdm_6YGN3jvx4rrgCeOCPIg.JPEG/Iv7k0u9N2rP_gfLTONPYbIWKyn1M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 03:02:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTBfMjcz/MDAxNjc4NDI0MzU5ODE2.xZHIoshYlQxf-IoRpSnXAh8mlTJnBU71rSo_-uOwSVkg.2PTW6D2PZk4ixHZJ-7XLu8flbXQcSwNp4UmdWR1SdQog.JPEG/IFWxYN5agdcEY3BAnprjJjllfcaI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄날의 핑크를 좋아하세요?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35584050&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35584050&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 08 Mar 2023 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDdfNTAg/MDAxNjc4MTY4MTU1MDE1.x0tRFqB_Ni64vPkmjNK_o51OshG0gF26SU_H96ygaPYg.WbGHgQS8D0xkjo5cLhR7_rqpA4PfGGDSJAlrIusGWrQg.JPEG/Is_6HsakMTE5AQOKEs1KVyE_yxZ8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
