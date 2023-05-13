@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 09:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 15:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1743,6 +1743,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c0acc562-16b8-4f70-82d4-6c53a5f25069.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올해 안에 큰거 온다! '팀홀튼' 한국 상륙! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77459</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77459</guid>
+            <pubDate>Sat, 13 May 2023 15:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[더블더블과 팀빗 애타게 기다리는 이라면 주목!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/782f7193-425c-463d-a439-0e0e29ebe598.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#BBB ‘리필’에 숨겨진 1석 3조 이야기 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77449</link>
             <guid>https://www.harpersbazaar.co.kr/article/77449</guid>
@@ -1803,7 +1811,23 @@
             <link>https://www.harpersbazaar.co.kr/article/77374</link>
             <guid>https://www.harpersbazaar.co.kr/article/77374</guid>
             <pubDate>Tue, 09 May 2023 15:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[신제품 힛 헤어 브러쉬부터 리프팅 기기까지.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/3aeee90b-f3d5-4090-9687-450973aca62f.jpg');">
+            <a href="/article/77374">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77374">
+                    아직 늦지 않았어! 가격대별 어버이날 선물 모음                </a>
+            </em>
+            <p class="excerpt">신제품 힛 헤어 브러쉬부터 리프팅 기기까지. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/3aeee90b-f3d5-4090-9687-450973aca62f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1956,22 +1980,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77095</guid>
             <pubDate>Fri, 12 May 2023 09:16:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b204ed4d-6be7-4380-9285-be1ecdd1db01.jpg');">
-            <a href="/article/77095">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77095">
-                    존재감 뿜뿜, 유니크한 화병 모음 Zip                </a>
-            </em>
-            <p class="excerpt">꽂으면 작품이 되는 유니크한 화병들.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77095">
+                        존재감 뿜뿜, 유니크한 화병 모음 Zip                    </a>
+                </em>
+                <p class="excerpt">꽂으면 작품이 되는 유니크한 화병들.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b204ed4d-6be7-4380-9285-be1ecdd1db01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2093,30 +2117,6 @@
                 <p class="excerpt">샘크래프트 블루 세럼으로 실천하는 비건 뷰티 챌린지</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/68a53f5d-0ac4-4fdf-8e27-fffc13fc2c7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 짜지 마세요, 씹으세요 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77203</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77203</guid>
-            <pubDate>Wed, 03 May 2023 15:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/443ab002-e7b6-46c3-b183-89f395267b31.jpg');">
-                <a href="/article/77203">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77203">
-                        #BBB 짜지 마세요, 씹으세요                    </a>
-                </em>
-                <p class="excerpt">톤28과 함께 한 친환경 활동</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/443ab002-e7b6-46c3-b183-89f395267b31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#BBB 왜요? 제가 고체치약 처음 써 본 사람처럼 보이나요? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
