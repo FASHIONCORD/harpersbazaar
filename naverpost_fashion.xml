@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 15:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:04:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주목해야 할 에르메스, 불가리, 롤렉스의 새로운 타임피스들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35930030&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35930030&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 15 May 2023 03:01:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTJfNTYg/MDAxNjgzODc1OTgwODkw.LXVJPB2p7M-WZ5ap7MzClRQHbXNrTQK4V77X5PjRxqwg.nsfqqjCS7DGhyWwW2ND5wwODxszZS_kevqFS9fSA4DUg.JPEG/IeYRdRn5T4l_NlIQvaO7mHMkTKTY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갖고 싶다! 생로랑의 첫 번째 파인 주얼리 컬렉션]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35918970&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Mar 2023 03:01:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTVfNzgg/MDAxNjc4ODY2MTA0NTIz.1ugTbOHLd7-IeWzLlZ3z5VFObHI6u4QgL0q0tg8LVR0g.ZpgNP8lQBhsxs6JvWBqWWPAnnLfUeQNUQknF0j6uiIwg.JPEG/IKSF1qtX-8D-f0EhVsyv_k387KfE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어디서나 시선 집중! 복서 슈즈]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35601193&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35601193&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Mon, 13 Mar 2023 03:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTBfMjcz/MDAxNjc4NDI0MzU5ODE2.xZHIoshYlQxf-IoRpSnXAh8mlTJnBU71rSo_-uOwSVkg.2PTW6D2PZk4ixHZJ-7XLu8flbXQcSwNp4UmdWR1SdQog.JPEG/IFWxYN5agdcEY3BAnprjJjllfcaI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
