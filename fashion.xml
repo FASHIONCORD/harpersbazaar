@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 09:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 15:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마도 두렵지 않아! 비오는 날을 위한 근사한 스타일링 법]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77575</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77575</guid>
+            <pubDate>Wed, 17 May 2023 15:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[곧 다가올 여름의 장마, 비 내리는 궂은 날씨에도 근사하게 빛나는 스타일링 모음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/9c58c334-11ed-4b5f-b1e3-4b9d1afa8951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불가리와 함께한 내츄럴한 리사의 모습들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77555</link>
@@ -29,7 +37,7 @@
             <guid>https://www.harpersbazaar.co.kr/article/77544</guid>
             <pubDate>Wed, 17 May 2023 03:02:48 GMT</pubDate>
             <content:encoded><![CDATA[5월의 주목해야 할 신상 신발들!  #신상신Go]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/3813652d-a6d7-4cd0-a45a-3d8b60e1e491.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/3813652d-a6d7-4cd0-a45a-3d8b60e1e491.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오니츠카타이거가 선보이는 첫번째 여성복, OTIGER™ 컬렉션]]></title>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/77514</link>
             <guid>https://www.harpersbazaar.co.kr/article/77514</guid>
             <pubDate>Mon, 15 May 2023 15:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[어떻게 입어도 예뻐!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/b66ca30c-a822-45e0-a00a-fb94b47bbd71.jpg');">
+            <a href="/article/77514">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77514">
+                    시원하게, 당당하게! 리사부터 허윤진까지 셀럽들의 크롭탑                 </a>
+            </em>
+            <p class="excerpt">어떻게 입어도 예뻐!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/b66ca30c-a822-45e0-a00a-fb94b47bbd71.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77476</guid>
             <pubDate>Fri, 12 May 2023 15:02:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/ba79dc04-9b6a-42f5-b8b4-5cffab04fdc2.jpg');">
-            <a href="/article/77476">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77476">
-                    헬무트 랭의 새로운 크리에이티브 디렉터, 피터 도                </a>
-            </em>
-            <p class="excerpt">"헬무트 랭의 정신을 이어받아 브랜드의 다음 장을 여는 일을 맡아 영광이다."</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77476">
+                        헬무트 랭의 새로운 크리에이티브 디렉터, 피터 도                    </a>
+                </em>
+                <p class="excerpt">"헬무트 랭의 정신을 이어받아 브랜드의 다음 장을 여는 일을 맡아 영광이다."</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/ba79dc04-9b6a-42f5-b8b4-5cffab04fdc2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">찍지 마! 빅 백을 든 여인과 끈질기게 따라붙는 파파라치의 숨막히는 플래시 전쟁.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/8c577c3f-6fa0-4488-9448-6295a890e283.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패피들이 찾는다는 명품 스니커즈 4 #명품네컷]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77425</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77425</guid>
-            <pubDate>Fri, 12 May 2023 15:02:48 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2f51cafc-050a-433d-888c-54443fdeba14.jpg');">
-                <a href="/article/77425">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77425">
-                        패피들이 찾는다는 명품 스니커즈 4 #명품네컷                    </a>
-                </em>
-                <p class="excerpt">기본에 충실한 디자인부터 하우스의 헤리티지를 담아낸 새로운 실루엣의 디자인까지! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/2f51cafc-050a-433d-888c-54443fdeba14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
