@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 03:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1615,6 +1615,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/9f17a115-787c-4ad1-a834-73f3bbc55b11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[순수함을 향하여, 류승범의 고백 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77628</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77628</guid>
+            <pubDate>Mon, 22 May 2023 09:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;바자&gt; 6월호에서 앞으로의 연기 방향을 드러낸 류승범]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/be7146a2-b392-48b4-8041-1c11e8faaeac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Spicy한 에스파의 하이틴 룩, 어디 거? #B_STAR일링 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77602</link>
             <guid>https://www.harpersbazaar.co.kr/article/77602</guid>
@@ -1674,7 +1682,23 @@
             <link>https://www.harpersbazaar.co.kr/article/77353</link>
             <guid>https://www.harpersbazaar.co.kr/article/77353</guid>
             <pubDate>Tue, 16 May 2023 03:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[병무청 규정 변경에.. 카이 일주일 뒤 입대한다]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/a28304ff-b5a1-4ca8-b027-eb044069d638.jpg');">
+            <a href="/article/77353">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77353">
+                    엑소 카이 '돌연' 군입대? 눈물→완전체 차질                </a>
+            </em>
+            <p class="excerpt">병무청 규정 변경에.. 카이 일주일 뒤 입대한다</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/a28304ff-b5a1-4ca8-b027-eb044069d638.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1827,22 +1851,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77273</guid>
             <pubDate>Thu, 04 May 2023 09:06:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/54b46930-c509-4a0f-859f-6da8dfba4e58.jpg');">
-            <a href="/article/77273">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77273">
-                    송혜교-최소라-제니, 美 '멧 갈라' 매료시키다!                </a>
-            </em>
-            <p class="excerpt">뉴욕 빛낸 치명적인 쓰리샷! '월드 클래스' 미모란 이런 것</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77273">
+                        송혜교-최소라-제니, 美 '멧 갈라' 매료시키다!                    </a>
+                </em>
+                <p class="excerpt">뉴욕 빛낸 치명적인 쓰리샷! '월드 클래스' 미모란 이런 것</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/54b46930-c509-4a0f-859f-6da8dfba4e58.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1964,30 +1988,6 @@
                 <p class="excerpt">박은빈부터 송혜교·탕웨이까지..찬란했던 '백상예술대상'🏆</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/600d4d16-932a-4f0a-b774-c140632e0f41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌이 선택한 디저트 숍은 어디? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77189</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77189</guid>
-            <pubDate>Tue, 16 May 2023 09:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/6631d708-1a87-4256-9bef-3eacc4cd3ac1.jpg');">
-                <a href="/article/77189">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77189">
-                        르세라핌이 선택한 디저트 숍은 어디?                    </a>
-                </em>
-                <p class="excerpt">디저트 덕후들도 기꺼이 줄을 서게 만든 라인업. 르세라핌과 함께 디저트를 만든 서울의 디저트...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/6631d708-1a87-4256-9bef-3eacc4cd3ac1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<바자 아트> 에디터들이 꼽은 베스트 칼럼 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
