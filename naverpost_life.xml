@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 15:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이나영 복귀작 <박하경 여행기>, 알고보면 더 재미남!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36004563&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36004563&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Sun, 28 May 2023 03:01:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjdfMjgx/MDAxNjg1MTIyODI0ODY2.lFJFrCJCumTribEr3FML3Wv7UJhFbP1RMevHpHeaXFUg.nsSJX3_w3DZ97BCEAWy1notVXBEDJGyTiZqkqf4yOSAg.JPEG/IFS9rpU1oRmuEX-B_G6GpiqFnTP0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강 노들섬에서 열린 23가지 운동 페스티벌, 시포레 2023 현장 공개]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36000974&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 22 Apr 2023 03:02:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjFfMjU5/MDAxNjgyMDg5MDU2OTgw.PxascCNsPC1ICE7p0JwnWzs9pjK3oEPB7oteWfcpFJAg.5ebPdcz-6B2wDBBuZz4s4_kcerf0Vkc-n6fJlK7SaLIg.JPEG/IL7TKn612qKt1auy5Ih_EgYq42QM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제로 콜라가 뇌졸중을 유발한다고? 먹거리 X-File.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35792678&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35792678&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 18 Apr 2023 03:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTZfMTg2/MDAxNjgxNjUwMDkwMDk5.6vIzmiTFZ08wS15pJwfWsDJyZwv8Qf6Ff2lpvAmIm44g.H4KMmXlJ9TlI_7OW8CbLq-5ZywDqtk2Mx6azoXNHSCYg.JPEG/IgQ7Z-JleMIRN3ygyXvCzMVVxgRY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
