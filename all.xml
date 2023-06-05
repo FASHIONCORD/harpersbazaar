@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 09:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 15:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1239,6 +1239,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/19245cad-d87c-4265-94f6-5741aef0608d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해외 직구로 만났던 '시미헤이즈 뷰티'가 한국에 상륙한다? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/78089</link>
+            <guid>https://www.harpersbazaar.co.kr/article/78089</guid>
+            <pubDate>Mon, 05 Jun 2023 15:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[시미헤이즈의 매장 좌표는 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/2763a0aa-51a2-4960-9482-764a20564771.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나흘만에 새 피부된다? 스킨사이클링 직접 해봤다 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77863</link>
             <guid>https://www.harpersbazaar.co.kr/article/77863</guid>
@@ -1299,7 +1307,23 @@
             <link>https://www.harpersbazaar.co.kr/article/77848</link>
             <guid>https://www.harpersbazaar.co.kr/article/77848</guid>
             <pubDate>Tue, 30 May 2023 09:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬이 보여주는 서머 헬시 글로우 룩의 신세계]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/29bfc19f-531e-4990-93fe-22f10bc8551d.jpg');">
+            <a href="/article/77848">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77848">
+                    지금은 글로우가 대세                </a>
+            </em>
+            <p class="excerpt">샤넬이 보여주는 서머 헬시 글로우 룩의 신세계</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/29bfc19f-531e-4990-93fe-22f10bc8551d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,22 +1476,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77560</guid>
             <pubDate>Mon, 05 Jun 2023 03:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/9ad0ddf2-faf1-4acc-9560-2f9059f44347.jpg');">
-            <a href="/article/77560">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77560">
-                    블루 드 샤넬의 새로운 얼굴                </a>
-            </em>
-            <p class="excerpt">자신만의 길을 개척하는 남성을 위한 강렬한 향, 블루 드 샤넬과 티모시 샬라메는 닮았다</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77560">
+                        블루 드 샤넬의 새로운 얼굴                    </a>
+                </em>
+                <p class="excerpt">자신만의 길을 개척하는 남성을 위한 강렬한 향, 블루 드 샤넬과 티모시 샬라메는 닮았다</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/9ad0ddf2-faf1-4acc-9560-2f9059f44347.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,30 +1613,6 @@
                 <p class="excerpt">아침을 이렇게 보내면 된다!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/51e49bd6-4e23-4eb9-92cd-adfa47522b8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자들이 폴댄스를 해야하는 의외의 이유 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77518</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77518</guid>
-            <pubDate>Mon, 05 Jun 2023 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a9f52530-06b8-479c-a49e-201b36356db8.jpg');">
-                <a href="/article/77518">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77518">
-                        남자들이 폴댄스를 해야하는 의외의 이유                     </a>
-                </em>
-                <p class="excerpt">폴댄스, 남자들도 할 수 있다! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a9f52530-06b8-479c-a49e-201b36356db8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송민호, 동생 송단아 美 결혼식 참석..父대신 동반입장 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
