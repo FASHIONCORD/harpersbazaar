@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 03:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1239,6 +1239,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/7a965c9a-6214-4b2c-bbf8-8c9a086b0b0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[실패 없이 다이어트하기. 하루에 당 20g? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/78104</link>
+            <guid>https://www.harpersbazaar.co.kr/article/78104</guid>
+            <pubDate>Wed, 07 Jun 2023 09:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[배고픈 다이어트는 실패하기 쉬워요. 배부르게 먹고 건강하게 빼는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/daf5f32b-8d0d-4862-8df4-6c455fbad798.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해외 직구로 만났던 '시미헤이즈 뷰티'가 한국에 상륙한다? (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/78089</link>
             <guid>https://www.harpersbazaar.co.kr/article/78089</guid>
@@ -1299,7 +1307,23 @@
             <link>https://www.harpersbazaar.co.kr/article/77871</link>
             <guid>https://www.harpersbazaar.co.kr/article/77871</guid>
             <pubDate>Sat, 27 May 2023 09:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[마! 이게 바로 K-헤어다!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/cfa074bd-16b4-4f88-b2be-444cca5fbd48.jpg');">
+            <a href="/article/77871">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77871">
+                    제니, 송혜교, 세븐틴은 ‘헤어스타일’로 국위선양했다?                </a>
+            </em>
+            <p class="excerpt">마! 이게 바로 K-헤어다! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/cfa074bd-16b4-4f88-b2be-444cca5fbd48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,22 +1476,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77691</guid>
             <pubDate>Mon, 05 Jun 2023 03:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/7017c860-22d2-4b56-90ec-899589d0319d.jpg');">
-            <a href="/article/77691">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77691">
-                    다이어트할 때 꿀, 10년차 트레이너의 스벅 메뉴 추천                </a>
-            </em>
-            <p class="excerpt">카페에서도 식단관리 완전 가능!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77691">
+                        다이어트할 때 꿀, 10년차 트레이너의 스벅 메뉴 추천                    </a>
+                </em>
+                <p class="excerpt">카페에서도 식단관리 완전 가능!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/7017c860-22d2-4b56-90ec-899589d0319d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1589,30 +1613,6 @@
                 <p class="excerpt">매일 해도 예쁜 봄 라이트 메이크업, 이 컬러는 절대로 하지마세요!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/5f9ed8e1-a65d-40ed-ad56-c1663a527d3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[61년생 최화정의 최강 동안 비결 #모닝루틴 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77535</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77535</guid>
-            <pubDate>Mon, 05 Jun 2023 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/51e49bd6-4e23-4eb9-92cd-adfa47522b8b.jpg');">
-                <a href="/article/77535">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77535">
-                        61년생 최화정의 최강 동안 비결 #모닝루틴                    </a>
-                </em>
-                <p class="excerpt">아침을 이렇게 보내면 된다!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/51e49bd6-4e23-4eb9-92cd-adfa47522b8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원하라, 김동욱의 소년미! 모든게 완벽한 김동욱 인터뷰 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
