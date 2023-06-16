@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 15:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 03:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키티부터 쿠로미까지, 캐릭터에 푹 빠진 스타들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36094590&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36094590&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 16 Jun 2023 03:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTRfMTIg/MDAxNjg2NzM0NjEwODY5.wweTBH0FCCSGNaQeLwVxrD1Z5X52qXkOaLey4qmzWvIg.O_8nBZUpscb7-iIn42u4nMFJTE33DNND6j01wMfD6OMg.JPEG/I3BVt7sNLqRRMR5DMeM_1JIFQVoI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국보급 얼굴 천재, 송혜교와 차은우가 함께한 이유]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36088661&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Apr 2023 03:02:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjBfODYg/MDAxNjgxOTUwNDQ3MDM3.MCn8hdulMqEMYk_wWR1qqIkscEZW_g61rLhWh3HCSacg.Bcun8Nx9sdXCr4Apft2tm7_5Ee4XYB-UojkgBczlHV8g.JPEG/IPiTz9QPES3034okuVcn2O8204ww.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크, BTS 정국이 코첼라 페스티벌에서 입은 룩은?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35806220&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35806220&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 19 Apr 2023 03:03:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MTlfMjA1/MDAxNjgxODYyMDMzNTY5.LxcFAMvAFK9kCx_eLvRe2Z-W0hzck_n3OMiRnWcDMDsg.JJNS36m9EoqYjxwqdOg6l8T5Lp8Pc0yWR1sitCV2uMUg.JPEG/I3NfLnT-_drL1_JihS7UFo8tUcGA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
