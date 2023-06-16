@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 15:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2742,6 +2742,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/e0de746c-183f-41f6-bd46-832b36309fcf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#BBB ‘리필’에 숨겨진 1석 3조 이야기 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/77449</link>
+            <guid>https://www.harpersbazaar.co.kr/article/77449</guid>
+            <pubDate>Fri, 16 Jun 2023 15:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[새싹 에디터의 록시땅 리필 스테이션 방문기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/34934d95-760c-4570-992e-22292db56586.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[#BBB 우리가 비누를 사용해야 하는 이유 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/77423</link>
             <guid>https://www.harpersbazaar.co.kr/article/77423</guid>
@@ -2802,7 +2810,23 @@
             <link>https://www.harpersbazaar.co.kr/article/77104</link>
             <guid>https://www.harpersbazaar.co.kr/article/77104</guid>
             <pubDate>Sat, 06 May 2023 03:05:37 GMT</pubDate>
-            <content:encoded><![CDATA[연금 개혁에 반대하는 청소 노동자들의 파업이 만들어낸 진풍경이다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/13eca497-5ac8-4389-a663-0b5386f35630.jpg');">
+            <a href="/article/77104">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77104">
+                    지금 파리의 거리가 쓰레기로 뒤덮인 이유                </a>
+            </em>
+            <p class="excerpt">연금 개혁에 반대하는 청소 노동자들의 파업이 만들어낸 진풍경이다. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/13eca497-5ac8-4389-a663-0b5386f35630.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2955,22 +2979,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77155</guid>
             <pubDate>Mon, 15 May 2023 15:13:30 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/0d5d2290-a6fd-4f4d-b10b-9e53055f825b.jpg');">
-            <a href="/article/77155">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77155">
-                    업계 최초! 친환경 식물성 소재로 만든 나일론 티셔츠                 </a>
-            </em>
-            <p class="excerpt">룰루레몬에서 선보인 신제품 티셔츠의 스펙</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77155">
+                        업계 최초! 친환경 식물성 소재로 만든 나일론 티셔츠                     </a>
+                </em>
+                <p class="excerpt">룰루레몬에서 선보인 신제품 티셔츠의 스펙</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/0d5d2290-a6fd-4f4d-b10b-9e53055f825b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3092,30 +3116,6 @@
                 <p class="excerpt">안전하고 건강한 아름다움을 추구하는 아로마티카의 진정성</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/59daddf0-317f-4e18-bc31-fa2711a54ed0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 아름다움과 환경을 모두 리필해주는 록시땅 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77019</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77019</guid>
-            <pubDate>Mon, 15 May 2023 15:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/ca15388d-db70-4386-96e0-703a1d1fea2f.jpg');">
-                <a href="/article/77019">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77019">
-                        #BBB 아름다움과 환경을 모두 리필해주는 록시땅                    </a>
-                </em>
-                <p class="excerpt">록시땅의 에코 리필 제품부터 리필 스테이션까지 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/ca15388d-db70-4386-96e0-703a1d1fea2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
