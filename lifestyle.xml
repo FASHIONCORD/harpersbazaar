@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 15:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악요정 겸 요리요정 정재형의 오이 샐러드 레시피]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/78737</link>
+            <guid>https://www.harpersbazaar.co.kr/article/78737</guid>
+            <pubDate>Mon, 03 Jul 2023 03:31:51 GMT</pubDate>
+            <content:encoded><![CDATA[공효진이 극찬하고 SNS ‘맛잘알’들이 인정한 간단하고 맛있는 여름 요리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/0429d1d7-2506-454f-965b-e9a77540dc80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고레에다 히로카즈가 찍은 환경 다큐]]></title>
             <link>https://www.harpersbazaar.co.kr/article/78699</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/78560</link>
             <guid>https://www.harpersbazaar.co.kr/article/78560</guid>
             <pubDate>Sat, 01 Jul 2023 15:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[홍대 뉴플레이스! 맥주 먹고, 쇼핑하고!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/a64438ba-9091-47b9-b63e-f61de6b1adfb.jpg');">
+            <a href="/article/78560">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/78560">
+                    이번 주말, 홍대에 가야 하는 이유?                </a>
+            </em>
+            <p class="excerpt">홍대 뉴플레이스! 맥주 먹고, 쇼핑하고!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/a64438ba-9091-47b9-b63e-f61de6b1adfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/78417</guid>
             <pubDate>Sun, 25 Jun 2023 09:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/b36e123b-07fd-49a9-af89-b81bc6f7658d.jpg');">
-            <a href="/article/78417">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/78417">
-                    이번주까지만 하는 서울시 '팝업동', 성수 팝업 스토어 #팝업여지도                </a>
-            </em>
-            <p class="excerpt">6월 18일까지. 패션, 뷰티, 라이프스타일 브랜드 팝업 스토어가 모두 모였다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/78417">
+                        이번주까지만 하는 서울시 '팝업동', 성수 팝업 스토어 #팝업여지도                    </a>
+                </em>
+                <p class="excerpt">6월 18일까지. 패션, 뷰티, 라이프스타일 브랜드 팝업 스토어가 모두 모였다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/b36e123b-07fd-49a9-af89-b81bc6f7658d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">고물가 시대 떠오르는 짠테크 #이슈있슈</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/b34dcc29-c781-48c1-a71f-45a6c075d77f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공부왕찐천재 홍진경이 추천하는 살림 찐템 4]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78356</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78356</guid>
-            <pubDate>Sun, 25 Jun 2023 09:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/1746a969-3f94-4df4-b887-06d0c0e30354.jpg');">
-                <a href="/article/78356">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/78356">
-                        공부왕찐천재 홍진경이 추천하는 살림 찐템 4                    </a>
-                </em>
-                <p class="excerpt">살림이 쉬워지는 아이템들!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/1746a969-3f94-4df4-b887-06d0c0e30354.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
