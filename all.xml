@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 03:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 09:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1614,6 +1614,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/15e4c5ef-74ec-4b37-b9dc-8916a5a15de8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿨한 여름 룩의 정석, 빈티지 티셔츠 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/78918</link>
+            <guid>https://www.harpersbazaar.co.kr/article/78918</guid>
+            <pubDate>Fri, 07 Jul 2023 09:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[한여름의 스타일을 ‘쿨’하게 업그레이드해줄 빈티지 티셔츠의 세계]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/04/8c866118-0756-4447-ae25-49604a6822cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인간 바비 그 잡채! 마고 로비 내한 스타일 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/78903</link>
             <guid>https://www.harpersbazaar.co.kr/article/78903</guid>
@@ -1674,7 +1682,23 @@
             <link>https://www.harpersbazaar.co.kr/article/78721</link>
             <guid>https://www.harpersbazaar.co.kr/article/78721</guid>
             <pubDate>Fri, 30 Jun 2023 15:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[어쩌면 내년 &lt;오징어 게임&gt; 시즌2로 만날 세 사람의 매력을 미리 파헤쳐 본다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/ea921c97-df50-4796-ba5d-ac008a20143b.jpg');">
+            <a href="/article/78721">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/78721">
+                    김시은, 박규영, 조유리는 ‘오징어 게임2’에서 볼 수 있을까?                </a>
+            </em>
+            <p class="excerpt">어쩌면 내년 &lt;오징어 게임&gt; 시즌2로 만날 세 사람의 매력을 미리 파헤쳐 본다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/ea921c97-df50-4796-ba5d-ac008a20143b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1827,22 +1851,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/78525</guid>
             <pubDate>Sat, 01 Jul 2023 15:09:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/5e6fdbc7-7594-4d67-a87e-e8a95bafdad7.jpg');">
-            <a href="/article/78525">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/78525">
-                    '청춘'이라는 날개를 달고 날아오를 리즈                </a>
-            </em>
-            <p class="excerpt">소녀다운 리즈의 사랑스러움을 담아낸 &lt;하퍼스 바자&gt;7월호</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/78525">
+                        '청춘'이라는 날개를 달고 날아오를 리즈                    </a>
+                </em>
+                <p class="excerpt">소녀다운 리즈의 사랑스러움을 담아낸 &lt;하퍼스 바자&gt;7월호</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/5e6fdbc7-7594-4d67-a87e-e8a95bafdad7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1964,30 +1988,6 @@
                 <p class="excerpt">정신이 육체를 지배한다! 축구 다이어트의 장점.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/7553701c-5697-4b4b-9e85-c40422a524c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통의 키폴 캠페인, 자유로이 춤추는 제이홉과의 만남 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78388</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78388</guid>
-            <pubDate>Tue, 20 Jun 2023 15:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/183d5730-c12c-47c5-8fbf-691165a51b08.jpg');">
-                <a href="/article/78388">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/78388">
-                        루이 비통의 키폴 캠페인, 자유로이 춤추는 제이홉과의 만남                    </a>
-                </em>
-                <p class="excerpt">자유로운 춤사위의 제이홉을 더 빛나게 하는 키폴 가방</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/183d5730-c12c-47c5-8fbf-691165a51b08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['유부돌' 누구누구 있나? 최강창민×황찬성×손동운 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
