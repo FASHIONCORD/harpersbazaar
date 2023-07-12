@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 03:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 09:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1238,6 +1238,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/6d3eacc1-6734-4d3b-88d9-2335dded5e3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두 달 만에 -9kg? 엔조이커플 임라라의 다이어트 식단 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79008</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79008</guid>
+            <pubDate>Wed, 12 Jul 2023 09:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[결혼식에서 리즈사진 찍을 수 있었던 비결]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/1ba5cf92-40ef-4fa0-9a44-50215a6f1de0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[휴가철이 코앞으로! 다이어트 유산균으로 빼지 말고 채우자 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/78989</link>
             <guid>https://www.harpersbazaar.co.kr/article/78989</guid>
@@ -1298,7 +1306,23 @@
             <link>https://www.harpersbazaar.co.kr/article/78764</link>
             <guid>https://www.harpersbazaar.co.kr/article/78764</guid>
             <pubDate>Wed, 05 Jul 2023 15:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[때로는 여행보다 낯선 향기로 다이빙.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/3f0d9f19-81e0-4e3b-8392-4ab7e30112b6.jpg');">
+            <a href="/article/78764">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/78764">
+                    고급지고 청량한 신상 여름 향수 추천                 </a>
+            </em>
+            <p class="excerpt">때로는 여행보다 낯선 향기로 다이빙.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/3f0d9f19-81e0-4e3b-8392-4ab7e30112b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1451,22 +1475,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/78585</guid>
             <pubDate>Fri, 30 Jun 2023 03:14:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/347e36d4-d336-49f1-b40b-f8128d4b446a.jpg');">
-            <a href="/article/78585">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/78585">
-                    52세 실화? 20년 동안 2kg 이상 쪄본 적 없다는 미나의 관리법                 </a>
-            </em>
-            <p class="excerpt">이렇게 관리하면 20살 젊게 살 수 있다고?</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/78585">
+                        52세 실화? 20년 동안 2kg 이상 쪄본 적 없다는 미나의 관리법                     </a>
+                </em>
+                <p class="excerpt">이렇게 관리하면 20살 젊게 살 수 있다고?</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/347e36d4-d336-49f1-b40b-f8128d4b446a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1590,28 +1614,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/0a883832-574d-4460-9048-44103561fe92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데뷔 후 임신, 출산까지 겪고 46kg 유지하는 우혜림 다이어트법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78272</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78272</guid>
-            <pubDate>Tue, 20 Jun 2023 03:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/09506412-9e95-4cf2-b4fc-b07ccfa037a8.jpg');">
-                <a href="/article/78272">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/78272">
-                         데뷔 후 임신, 출산까지 겪고 46kg 유지하는 우혜림 다이어트법                    </a>
-                </em>
-                <p class="excerpt">-22kg?! 걸그룹의 관리법 대공개</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/09506412-9e95-4cf2-b4fc-b07ccfa037a8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[요즘 핫한 유튜버 수스의 스타일링 팁은? #B_STAR일링 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/78941</link>
+            <guid>https://www.harpersbazaar.co.kr/article/78941</guid>
+            <pubDate>Mon, 10 Jul 2023 15:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[청순한 화이트부터 러블리한 무드까지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/de97f3a0-1205-4a47-8cda-e700e404967a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악을 좇는 <형사록> 시즌2로 돌아온 다섯 배우들 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1674,7 +1682,23 @@
             <link>https://www.harpersbazaar.co.kr/article/78750</link>
             <guid>https://www.harpersbazaar.co.kr/article/78750</guid>
             <pubDate>Mon, 03 Jul 2023 15:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[중국집에 '임지연 정식' 생겼다는 거 실화임?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/90362c26-a788-4113-aa75-a382430fb30a.jpg');">
+            <a href="/article/78750">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/78750">
+                    요즘 난리난 임지연 먹방.. '하정우 긴장해!'                </a>
+            </em>
+            <p class="excerpt">중국집에 '임지연 정식' 생겼다는 거 실화임?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/90362c26-a788-4113-aa75-a382430fb30a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1827,22 +1851,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/78597</guid>
             <pubDate>Sat, 01 Jul 2023 15:09:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/e4857d05-e6c8-4e94-8faf-f76c4946b0c7.jpg');">
-            <a href="/article/78597">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/78597">
-                    수지의 우아한 비행(飛行)은 진행 중                </a>
-            </em>
-            <p class="excerpt">자신만의 속도와 고유한 태도로 진심을 쏟으며 더욱 높게, 멀리 나아가는 배우 수지</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/78597">
+                        수지의 우아한 비행(飛行)은 진행 중                    </a>
+                </em>
+                <p class="excerpt">자신만의 속도와 고유한 태도로 진심을 쏟으며 더욱 높게, 멀리 나아가는 배우 수지</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/e4857d05-e6c8-4e94-8faf-f76c4946b0c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1964,30 +1988,6 @@
                 <p class="excerpt">뜨거운 그들의 열정을 담아낸 &lt;하퍼스 바자&gt; 7월호</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/de516e0c-9793-4db9-aee1-4bd281098d4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임시완·강하늘→박성훈·양동근 <오징어게임2> 참가 확정! (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78453</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78453</guid>
-            <pubDate>Fri, 23 Jun 2023 03:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/7aa8daf6-390c-4518-bac4-1bdd0e0a9ba7.jpg');">
-                <a href="/article/78453">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/78453">
-                        임시완·강하늘→박성훈·양동근 &lt;오징어게임2&gt; 참가 확정!                    </a>
-                </em>
-                <p class="excerpt">베일 벗은 &lt;오겜&gt; 시즌2! 강렬한 티저로 캐스팅 발표</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/7aa8daf6-390c-4518-bac4-1bdd0e0a9ba7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트와이스가 미국에서 쓴 'K팝 걸그룹 최초' 기록들 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
