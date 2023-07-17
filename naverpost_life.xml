@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 15:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 03:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 바젤에서 가장 핫한 레스토랑]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36251842&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36251842&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 17 Jul 2023 03:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTVfMjIz/MDAxNjg5MzgwNzkyOTE5.v05uVWj7_FsTp6hA_xItkZNPN119pIyapQP3qNb1CH8g.WGUjYI_JofxRBKYDBQORFwbex3wnXQtKc8yeQmET7OUg.JPEG/IBaZKcvOe5d6B0bM9FFIRT4-Suzk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인천공항에서 여권 없이 안면인식으로 출국을?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36251832&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 May 2023 03:01:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjdfMjgx/MDAxNjg1MTIyODI0ODY2.lFJFrCJCumTribEr3FML3Wv7UJhFbP1RMevHpHeaXFUg.nsSJX3_w3DZ97BCEAWy1notVXBEDJGyTiZqkqf4yOSAg.JPEG/IFS9rpU1oRmuEX-B_G6GpiqFnTP0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강 노들섬에서 열린 23가지 운동 페스티벌, 시포레 2023 현장 공개]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36000974&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36000974&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 26 May 2023 09:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfMTY3/MDAxNjg1MDc2NzE5MjUy.MiMBGRPx9Bha7V-E_Jf80WrAGnntq0a5PbcG0gtk_DQg.gE02RQJosQ2g9_L73pF5FLmcO2hJx48NlidSAS4k6yUg.JPEG/Iyq_D_6sL0c4vn9VR72Rv2L8zqUU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
