@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 03:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 09:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2366,6 +2366,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/ab9f81a6-4af1-40ce-9e30-1a012c8667c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<스포주의> 이 중에 상금 1000만원의 주인공이 있어 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79103</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79103</guid>
+            <pubDate>Mon, 17 Jul 2023 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA['Re,Think' 프로젝트 업사이클링 작품 제작 비하인드]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/dda1eb3d-fc95-43b4-a148-2960e1672341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재활용이 어려운 일회용 쇼핑백이 가구로 변신했다? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/79150</link>
             <guid>https://www.harpersbazaar.co.kr/article/79150</guid>
@@ -2426,7 +2434,23 @@
             <link>https://www.harpersbazaar.co.kr/article/79087</link>
             <guid>https://www.harpersbazaar.co.kr/article/79087</guid>
             <pubDate>Thu, 13 Jul 2023 03:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[환상적인 풍경이 파노라마처럼 펼쳐지는 호주의 블루마운틴!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/31e40da8-0e1c-4124-a570-4d244e6d9819.jpg');">
+            <a href="/article/79087">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79087">
+                    최근, 제니가 인스타에 올린 아찔 명소는 어디?                </a>
+            </em>
+            <p class="excerpt">환상적인 풍경이 파노라마처럼 펼쳐지는 호주의 블루마운틴! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/31e40da8-0e1c-4124-a570-4d244e6d9819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2579,22 +2603,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79013</guid>
             <pubDate>Tue, 11 Jul 2023 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/6133ee9f-41eb-4aa5-8f6e-e4306d2fe98a.jpg');">
-            <a href="/article/79013">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79013">
-                    지금 가장 핫한 SNS, 스레드 알아보기                </a>
-            </em>
-            <p class="excerpt">벌써 스레드(Threads) 신조어까지 생겨났다고? </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79013">
+                        지금 가장 핫한 SNS, 스레드 알아보기                    </a>
+                </em>
+                <p class="excerpt">벌써 스레드(Threads) 신조어까지 생겨났다고? </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/6133ee9f-41eb-4aa5-8f6e-e4306d2fe98a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2716,30 +2740,6 @@
                 <p class="excerpt">열대과일에 장미를 더했다!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/3767fbad-4e36-4d2c-91b7-d662980600be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴가철이 코앞으로! 다이어트 유산균으로 빼지 말고 채우자 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78989</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78989</guid>
-            <pubDate>Sat, 08 Jul 2023 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/2892f69f-024d-4a12-b5cd-2a4e25dcacd8.jpg');">
-                <a href="/article/78989">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/78989">
-                        휴가철이 코앞으로! 다이어트 유산균으로 빼지 말고 채우자                    </a>
-                </em>
-                <p class="excerpt">장 건강과 체지방 감소를 동시에 챙길 수 있는 프리미엄 기능성 유산균은?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/2892f69f-024d-4a12-b5cd-2a4e25dcacd8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미학을 넘어 윤리적인 이슈에 다가간 주얼리 업계의 따뜻한 행보 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
