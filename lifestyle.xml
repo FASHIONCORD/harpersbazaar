@@ -4,16 +4,24 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 15:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 04:00:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국 호텔을 추천합니다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/78807</link>
+            <guid>https://www.harpersbazaar.co.kr/article/78807</guid>
+            <pubDate>Wed, 19 Jul 2023 03:57:41 GMT</pubDate>
+            <content:encoded><![CDATA[미식 여행, 스파 그 무엇이든. 영국의 매력을 파헤치다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a3593ae8-a097-4866-b100-8149158247ac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<스포주의> 이 중에 상금 1000만원의 주인공이 있어]]></title>
             <link>https://www.harpersbazaar.co.kr/article/79103</link>
             <guid>https://www.harpersbazaar.co.kr/article/79103</guid>
             <pubDate>Mon, 17 Jul 2023 09:16:42 GMT</pubDate>
             <content:encoded><![CDATA['Re,Think' 프로젝트 업사이클링 작품 제작 비하인드]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/dda1eb3d-fc95-43b4-a148-2960e1672341.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/dda1eb3d-fc95-43b4-a148-2960e1672341.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재활용이 어려운 일회용 쇼핑백이 가구로 변신했다?]]></title>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/79088</link>
             <guid>https://www.harpersbazaar.co.kr/article/79088</guid>
             <pubDate>Thu, 13 Jul 2023 03:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[이효리, 이상순 부부를 따라 바젤에 간다면 요즘 바젤리안이 고른 주말 맛집으로!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/af8605b0-b4da-4a14-91b7-0a1036661588.jpg');">
+            <a href="/article/79088">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79088">
+                    지금 바젤에서 가장 핫한 레스토랑                </a>
+            </em>
+            <p class="excerpt">이효리, 이상순 부부를 따라 바젤에 간다면 요즘 바젤리안이 고른 주말 맛집으로! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/af8605b0-b4da-4a14-91b7-0a1036661588.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/78746</guid>
             <pubDate>Tue, 11 Jul 2023 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/9b4520da-1ec7-41e2-a390-3a34b77f0730.jpg');">
-            <a href="/article/78746">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/78746">
-                    포토제닉 고성                </a>
-            </em>
-            <p class="excerpt">시선을 붙드는 고성 속 한 장면.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/78746">
+                        포토제닉 고성                    </a>
+                </em>
+                <p class="excerpt">시선을 붙드는 고성 속 한 장면.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/9b4520da-1ec7-41e2-a390-3a34b77f0730.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">톡! 붙이면 탁! 떠오르는 그때 그 여행의 기억들.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/59c37e1b-1ede-45fd-8a0f-91e8e5e206c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오설록과 구딸이 만나 탄생한 여름 한정 티칵테일]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78992</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78992</guid>
-            <pubDate>Sat, 08 Jul 2023 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/3767fbad-4e36-4d2c-91b7-d662980600be.jpg');">
-                <a href="/article/78992">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/78992">
-                        오설록과 구딸이 만나 탄생한 여름 한정 티칵테일                    </a>
-                </em>
-                <p class="excerpt">열대과일에 장미를 더했다!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/3767fbad-4e36-4d2c-91b7-d662980600be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
