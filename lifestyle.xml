@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 15:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 03:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인천공항에서 여권 없이 안면인식으로 출국을?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79160</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79160</guid>
+            <pubDate>Tue, 25 Jul 2023 03:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[역시 빨리빨리의 민족!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/6162ebb3-4545-4e2f-85af-f4ed4acc4ade.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀란 쿤데라, 그가 남긴 문장들]]></title>
             <link>https://www.harpersbazaar.co.kr/article/79159</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/78803</link>
             <guid>https://www.harpersbazaar.co.kr/article/78803</guid>
             <pubDate>Fri, 14 Jul 2023 09:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[코모호수의 고풍스러운 빌라에서 18세기 이탈리아 귀족의 삶을 체험하다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/632a4ce9-8d36-476d-9992-48029134f433.jpg');">
+            <a href="/article/78803">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/78803">
+                    이탈리아 코모호수에서 18세기 귀족의 삶을 체험하다                </a>
+            </em>
+            <p class="excerpt">코모호수의 고풍스러운 빌라에서 18세기 이탈리아 귀족의 삶을 체험하다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/632a4ce9-8d36-476d-9992-48029134f433.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79057</guid>
             <pubDate>Thu, 20 Jul 2023 15:09:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/aa09eb9c-6c78-4698-a6ea-7af052bfc8e6.jpg');">
-            <a href="/article/79057">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79057">
-                    하트시그널 신민규가 눈물까지 흘린 장소는 어디?                </a>
-            </em>
-            <p class="excerpt">마음이 심난할 때 이곳으로! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79057">
+                        하트시그널 신민규가 눈물까지 흘린 장소는 어디?                    </a>
+                </em>
+                <p class="excerpt">마음이 심난할 때 이곳으로! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/aa09eb9c-6c78-4698-a6ea-7af052bfc8e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">벌써 스레드(Threads) 신조어까지 생겨났다고? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/6133ee9f-41eb-4aa5-8f6e-e4306d2fe98a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정재형 씨 그 접시 어디 제품이에요?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79007</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79007</guid>
-            <pubDate>Thu, 20 Jul 2023 15:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/2bd2cced-3763-4dc0-96a0-447f8283d926.jpg');">
-                <a href="/article/79007">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79007">
-                        정재형 씨 그 접시 어디 제품이에요?                    </a>
-                </em>
-                <p class="excerpt">‘요정재형’ 구독자들의 물음에 정재형이 답했다. 정재형의 감각이 돋보이는 그릇 10종.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/2bd2cced-3763-4dc0-96a0-447f8283d926.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
