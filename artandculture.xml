@@ -1,387 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 09:16:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[부모의 끼와 재능을 물려받은 2세 아이돌 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79317</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79317</guid>
-            <pubDate>Sun, 23 Jul 2023 09:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[누구의 ‘아이’보다 자신의 이름으로 빛날 3명.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/2b8971c8-94cb-4a05-99c1-8e5969cad50f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호연→양조위, 뉴진스 신곡 MV 출연..'역대급 만남']]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79310</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79310</guid>
-            <pubDate>Sun, 23 Jul 2023 09:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 ★ 호흡..뉴진스 'Cool With You' 뮤직비디오!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/d38a1ea5-6545-4c6b-acfd-fdff58bbbc26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송혜교 대상, 하정우·수지 남녀 주연상 [제2회 청룡시리즈어워즈]]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79306</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79306</guid>
-            <pubDate>Fri, 21 Jul 2023 09:09:16 GMT</pubDate>
-            <content:encoded><![CDATA["수고했다. 혜교야!" 인상 깊었던 송혜교 셀프 칭찬!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/5646d7e9-22d4-4a99-97e8-dd4fad77835f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화제의 <이생잘> 이채민은 누구? <일타 스캔들> 美소년!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79291</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79291</guid>
-            <pubDate>Fri, 21 Jul 2023 09:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[너무 잘생겨서 이슈..드라마 검색 키워드 1위 꿰찼다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/56ac4a8a-ff0b-47cc-bfe0-d5a2297aa5cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백 앞둔 뉴진스, '업데이트'가 시급합니다!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79287</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79287</guid>
-            <pubDate>Fri, 21 Jul 2023 03:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[뉴진스를 기다리는 올바른 자세!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/b53f9eb8-9cee-4e7b-bcbb-c4e9b7f806f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낭독으로 사람을 치유하는 방법은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79265</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79265</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[매일 30분. 책을 낭독하는 누군가의 목소리에서 발견하는 것은, 사랑의 모양이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/70dd6e6f-e1e8-43ae-a947-90c8981daedf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 MC는 배우 김민하! 돌아온 #알쓸별잡 관전 포인트 3]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79248</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79248</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[지구별로 온 ‘알쓸’ 시리즈. 영화평론가 이동진, 건축가 유현준이 새로운 전문가로 함께한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/01135055-82fe-4cfb-aeea-c6f7669acc05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 배우 누구지?"..신선해서 궁금증 돋는 3인]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79192</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79192</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;킹더랜드&gt;, &lt;악귀&gt;, &lt;이생잘&gt; 시청자라면 일단 집중!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/f7af8c72-3a8a-42c6-9038-6ddc46316a2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼수록 카메오 맛집 <악귀>]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79191</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79191</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/f6f83710-7cf3-4630-bc3a-9e1670c23e5f.jpg');">
-            <a href="/article/79191">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79191">
-                    볼수록 카메오 맛집 &lt;악귀&gt;                </a>
-            </em>
-            <p class="excerpt">김성규, 표예진, 조현철, 이유준, 최귀화...'Who is Next?'</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/f6f83710-7cf3-4630-bc3a-9e1670c23e5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 글로리> 악역 5인방, 요즘 뭐해?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79188</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79188</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/aa644de2-2d54-4e8c-a7f6-9941f2d662ad.jpg');">
-            <a href="/article/79188">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79188">
-                    &lt;더 글로리&gt; 악역 5인방, 요즘 뭐해?                </a>
-            </em>
-            <p class="excerpt">동은5적.. 강렬한 '악역' 이미지, 씻어내거나 덧칠하거나!</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/aa644de2-2d54-4e8c-a7f6-9941f2d662ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["커밍쑨!"..<경소문2>와 <힙하게>, 그리고 <소옆경2>]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79187</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79187</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/6cd60358-6063-488b-b0f7-668003f87aac.jpg');">
-            <a href="/article/79187">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79187">
-                    "커밍쑨!"..&lt;경소문2&gt;와 &lt;힙하게&gt;, 그리고 &lt;소옆경2&gt;                </a>
-            </em>
-            <p class="excerpt">지금 핫한 드라마의 더 핫한 '후속작'들만 모아봄!</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/6cd60358-6063-488b-b0f7-668003f87aac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 정국의 'Seven', 키워드 셋]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79184</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79184</guid>
-            <pubDate>Tue, 18 Jul 2023 15:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/6e9d7741-b6d2-4285-be2d-33249ef2861b.jpg');">
-            <a href="/article/79184">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79184">
-                    BTS 정국의 'Seven', 키워드 셋                </a>
-            </em>
-            <p class="excerpt">정국의 첫 공식 #솔로 데뷔! #MV_한소희 #태생부터_글로벌</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/6e9d7741-b6d2-4285-be2d-33249ef2861b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플TV+에 전설의 수퍼모델이 등장한 이유는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79179</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79179</guid>
-            <pubDate>Sun, 16 Jul 2023 09:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/70d5fbe0-8a8a-482c-8ad2-739cc40c4e6f.jpg');">
-            <a href="/article/79179">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79179">
-                    애플TV+에 전설의 수퍼모델이 등장한 이유는?                </a>
-            </em>
-            <p class="excerpt">왕년의 쎈언니들이 돌아왔다.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/70d5fbe0-8a8a-482c-8ad2-739cc40c4e6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재활용이 어려운 일회용 쇼핑백이 가구로 변신했다?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79150</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79150</guid>
-            <pubDate>Sun, 16 Jul 2023 09:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/aeb06857-873f-4145-affc-96ac14f5749e.jpg');">
-            <a href="/article/79150">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79150">
-                    재활용이 어려운 일회용 쇼핑백이 가구로 변신했다?                  </a>
-            </em>
-            <p class="excerpt">김하늘 작가의 손길이 닿아 가구로 변신한 폐기 위기의 쇼핑백들. </p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/aeb06857-873f-4145-affc-96ac14f5749e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뭘 볼까?"..여름에 몰려오는 한국영화 빅4]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79114</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79114</guid>
-            <pubDate>Sat, 15 Jul 2023 09:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/a4c9c20f-914a-40d9-8b34-07da44e55d34.jpg');">
-            <a href="/article/79114">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79114">
-                    "뭘 볼까?"..여름에 몰려오는 한국영화 빅4                </a>
-            </em>
-            <p class="excerpt">김혜수·염정아부터 설경구·하정우·이병헌까지..어마어마하다!</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/a4c9c20f-914a-40d9-8b34-07da44e55d34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 글로리' 찢고 '마당집' 하드캐리한 임지연, 차기작은?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79093</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79093</guid>
-            <pubDate>Sat, 15 Jul 2023 09:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/a1d977c1-1a8d-4bb5-b1fa-7d5575c11d31.jpg');">
-                <a href="/article/79093">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79093">
-                        '더 글로리' 찢고 '마당집' 하드캐리한 임지연, 차기작은?                    </a>
-                </em>
-                <p class="excerpt">임지연이 박해진×박성웅과 호흡하는 &lt;국민사형투표&gt;</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/a1d977c1-1a8d-4bb5-b1fa-7d5575c11d31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니도 들른 도쿄 여행 ‘인생 샷’ 필수 코스는 어디?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79085</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79085</guid>
-            <pubDate>Sat, 15 Jul 2023 09:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/258001b2-a6bb-4874-8e84-017622a3b04d.jpg');">
-                <a href="/article/79085">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79085">
-                        제니도 들른 도쿄 여행 ‘인생 샷’ 필수 코스는 어디?                     </a>
-                </em>
-                <p class="excerpt">시간 가는 줄 모른다는 teamLab 플래닛 전시!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/11/258001b2-a6bb-4874-8e84-017622a3b04d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대 미술의 흐름을 한자리에서 파악할 수 있는 전시의 정체는?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79070</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79070</guid>
-            <pubDate>Fri, 14 Jul 2023 15:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/95f7080c-936e-4f87-a2e1-700cea9d8d75.jpg');">
-                <a href="/article/79070">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79070">
-                        현대 미술의 흐름을 한자리에서 파악할 수 있는 전시의 정체는?                     </a>
-                </em>
-                <p class="excerpt">아모레퍼시픽 미술관의 제 4막이 열리다. #바자예술산책 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/95f7080c-936e-4f87-a2e1-700cea9d8d75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현재 방영중인 드라마 속 '연기돌' 모음.Zip]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79026</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79026</guid>
-            <pubDate>Thu, 13 Jul 2023 15:06:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/443c5078-1a09-44a4-8741-83efbbefb402.jpg');">
-                <a href="/article/79026">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79026">
-                        현재 방영중인 드라마 속 '연기돌' 모음.Zip                    </a>
-                </em>
-                <p class="excerpt">2PM 준호부터 인피니트 엘..'믿보배'로 거듭난 '연기돌'</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/443c5078-1a09-44a4-8741-83efbbefb402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<행복배틀>과 <악귀>, 박효주 죽음으로 흥미+몰입감 UP!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79025</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79025</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/62d7938b-a353-4287-9a00-52dd1bf18dfb.jpg');">
-                <a href="/article/79025">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79025">
-                        &lt;행복배틀&gt;과 &lt;악귀&gt;, 박효주 죽음으로 흥미+몰입감 UP!                    </a>
-                </em>
-                <p class="excerpt">김갑수 배우의 뒤를 잇는 '죽음' 전문(?) 배역</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/62d7938b-a353-4287-9a00-52dd1bf18dfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스가 미국에서 쓴 'K팝 걸그룹 최초' 기록들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79024</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79024</guid>
-            <pubDate>Thu, 20 Jul 2023 09:06:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/42f20662-1748-4b8a-aa67-c884bab50ffe.jpg');">
-                <a href="/article/79024">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79024">
-                        트와이스가 미국에서 쓴 'K팝 걸그룹 최초' 기록들                    </a>
-                </em>
-                <p class="excerpt">美 유명 모닝쇼 출연→뉴욕 스타디움 공연 성료🎉</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/42f20662-1748-4b8a-aa67-c884bab50ffe.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.harpersbazaar.co.kr/artandculture</id>
+    <title>하퍼스바자 코리아 ─ 아트&amp;컬쳐</title>
+    <updated>2023-07-26T15:12:08.581Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.harpersbazaar.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤상 '훈남 아들' 이찬영, SM 보이그룹 데뷔 임박?!]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79349</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79349"/>
+        <updated>2023-07-26T15:08:14.087Z</updated>
+        <content type="html"><![CDATA[윤상 아들, 보이그룹 데뷔? SM엔터 "8월 1일 공개"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 미니 2집 타이틀곡 'ETA'에 숨겨진 비밀!]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79338</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79338"/>
+        <updated>2023-07-26T15:08:14.088Z</updated>
+        <content type="html"><![CDATA[100% '아이폰 14 프로'로 촬영했다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뉴이스트 출신' 황민현 & 렌, 드라마로 나란히 안방行]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79324</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79324"/>
+        <updated>2023-07-26T15:08:14.104Z</updated>
+        <content type="html"><![CDATA[월화는 황민현, 수목은 렌...배우길도 응원합니다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부모의 끼와 재능을 물려받은 2세 아이돌 3]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79317</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79317"/>
+        <updated>2023-07-23T09:04:29.193Z</updated>
+        <content type="html"><![CDATA[누구의 ‘아이’보다 자신의 이름으로 빛날 3명.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정호연→양조위, 뉴진스 신곡 MV 출연..'역대급 만남']]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79310</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79310"/>
+        <updated>2023-07-23T09:04:29.194Z</updated>
+        <content type="html"><![CDATA[글로벌 ★ 호흡..뉴진스 'Cool With You' 뮤직비디오!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송혜교 대상, 하정우·수지 남녀 주연상 [제2회 청룡시리즈어워즈]]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79306</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79306"/>
+        <updated>2023-07-21T09:09:16.042Z</updated>
+        <content type="html"><![CDATA["수고했다. 혜교야!" 인상 깊었던 송혜교 셀프 칭찬!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화제의 <이생잘> 이채민은 누구? <일타 스캔들> 美소년!]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79291</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79291"/>
+        <updated>2023-07-21T09:09:16.044Z</updated>
+        <content type="html"><![CDATA[너무 잘생겨서 이슈..드라마 검색 키워드 1위 꿰찼다!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컴백 앞둔 뉴진스, '업데이트'가 시급합니다!]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79287</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79287"/>
+        <updated>2023-07-21T03:06:08.565Z</updated>
+        <content type="html"><![CDATA[뉴진스를 기다리는 올바른 자세!]]></content>
+    </entry>
+</feed>

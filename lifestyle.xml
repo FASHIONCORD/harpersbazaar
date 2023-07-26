@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>하퍼스바자 코리아 ─ 라이프스타일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 09:16:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[인천공항에서 여권 없이 안면인식으로 출국을?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79160</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79160</guid>
-            <pubDate>Tue, 25 Jul 2023 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[역시 빨리빨리의 민족!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/6162ebb3-4545-4e2f-85af-f4ed4acc4ade.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀란 쿤데라, 그가 남긴 문장들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79159</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79159</guid>
-            <pubDate>Fri, 21 Jul 2023 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[소설가인 동시에 철학자였던 작가]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/987adb97-6b61-4c21-9f39-8da992dacb54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비 오는 지금, 가볼 만한 서울 전 맛집 5]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79157</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79157</guid>
-            <pubDate>Thu, 20 Jul 2023 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[비오는 날 최고의 안주]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/16/7a26c1f1-b6bc-4c1f-9dd2-2e2e2c2b5abd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나일강 룩소르에서 만나는 애거서 크리스티]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78805</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78805</guid>
-            <pubDate>Thu, 20 Jul 2023 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[초호화 여객선을 타고 나일강을 유람하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/5ea56663-fcb5-4b9a-8623-340c21661e60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 호텔을 추천합니다]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78807</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78807</guid>
-            <pubDate>Wed, 19 Jul 2023 03:57:41 GMT</pubDate>
-            <content:encoded><![CDATA[미식 여행, 스파 그 무엇이든. 영국의 매력을 파헤치다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a3593ae8-a097-4866-b100-8149158247ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스포주의> 이 중에 상금 1000만원의 주인공이 있어]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79103</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79103</guid>
-            <pubDate>Mon, 17 Jul 2023 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA['Re,Think' 프로젝트 업사이클링 작품 제작 비하인드]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/dda1eb3d-fc95-43b4-a148-2960e1672341.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재활용이 어려운 일회용 쇼핑백이 가구로 변신했다?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79150</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79150</guid>
-            <pubDate>Fri, 14 Jul 2023 09:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[김하늘 작가의 손길이 닿아 가구로 변신한 폐기 위기의 쇼핑백들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/aeb06857-873f-4145-affc-96ac14f5749e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코모도 국립공원과 발리의 섬들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78802</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78802</guid>
-            <pubDate>Fri, 14 Jul 2023 09:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[야생 생물과 자연, 헤리티지로 가득한 코모도국립공원과 발리의 섬들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/d2a7b69e-b118-425a-8b07-d95873b0b245.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.harpersbazaar.co.kr/lifestyle</id>
+    <title>하퍼스바자 코리아 ─ 라이프스타일</title>
+    <updated>2023-07-26T15:12:08.564Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.harpersbazaar.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천공항에서 여권 없이 안면인식으로 출국을?]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79160</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79160"/>
+        <updated>2023-07-25T03:12:07.122Z</updated>
+        <content type="html"><![CDATA[역시 빨리빨리의 민족!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀란 쿤데라, 그가 남긴 문장들]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79159</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79159"/>
+        <updated>2023-07-21T09:09:48.726Z</updated>
+        <content type="html"><![CDATA[소설가인 동시에 철학자였던 작가]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비 오는 지금, 가볼 만한 서울 전 맛집 5]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79157</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79157"/>
+        <updated>2023-07-20T03:12:31.678Z</updated>
+        <content type="html"><![CDATA[비오는 날 최고의 안주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나일강 룩소르에서 만나는 애거서 크리스티]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/78805</id>
+        <link href="https://www.harpersbazaar.co.kr/article/78805"/>
+        <updated>2023-07-20T03:12:31.689Z</updated>
+        <content type="html"><![CDATA[초호화 여객선을 타고 나일강을 유람하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 호텔을 추천합니다]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/78807</id>
+        <link href="https://www.harpersbazaar.co.kr/article/78807"/>
+        <updated>2023-07-19T03:57:41.974Z</updated>
+        <content type="html"><![CDATA[미식 여행, 스파 그 무엇이든. 영국의 매력을 파헤치다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<스포주의> 이 중에 상금 1000만원의 주인공이 있어]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79103</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79103"/>
+        <updated>2023-07-17T09:16:42.500Z</updated>
+        <content type="html"><![CDATA['Re,Think' 프로젝트 업사이클링 작품 제작 비하인드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재활용이 어려운 일회용 쇼핑백이 가구로 변신했다?]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79150</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79150"/>
+        <updated>2023-07-14T09:03:55.133Z</updated>
+        <content type="html"><![CDATA[김하늘 작가의 손길이 닿아 가구로 변신한 폐기 위기의 쇼핑백들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코모도 국립공원과 발리의 섬들]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/78802</id>
+        <link href="https://www.harpersbazaar.co.kr/article/78802"/>
+        <updated>2023-07-14T09:03:55.133Z</updated>
+        <content type="html"><![CDATA[야생 생물과 자연, 헤리티지로 가득한 코모도국립공원과 발리의 섬들.]]></content>
+    </entry>
+</feed>
