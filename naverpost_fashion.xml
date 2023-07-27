@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 15:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 03:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 제니의 베스트 룩이 궁금하다면?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36314437&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36314437&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 27 Jul 2023 03:02:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjdfMjI4/MDAxNjkwNDE5NTQ1Njcw.UGVH4IVnQH9oXkoAiro_GNHmtAmt1-TOuiK8OeAVlQIg.Vfun4-s081Yfnxr_krqPCxWW3T4az5QO1GKYypBNUgQg.JPEG/ITuHuxTACe_wvd-v7b_gNLdN1Q_I.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['Seven' 뮤비 속 정국&한소희 옷은 어디꺼?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36281835&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 May 2023 15:02:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjVfMjky/MDAxNjg1MDA2OTI5OTE2.-KlTEyOr_-YBcCU_lNflKgoUX3qfGHvGa-QWpVFfKO4g.hD78F01bE4DCSEr4Dfcn4HAyN7Wz271lSXEXdZBwOuwg.JPEG/InVaLY4g7s8OO4sU4uMs5X8hXgOQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제니부터 트래비스 스캇까지, 칸 애프터 파티 스타일]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36001421&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36001421&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 26 May 2023 09:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjZfOSAg/MDAxNjg1MDgwMjM5OTk1.HyZTMIUBCjlhHvRtX232Df3ubU6q0gbhLQpGQPWN3m4g.yoabBPEOEuxvZjSINIPZLZqykGQYYuxhB2ifiFii-iwg.JPEG/IaeqePxoQKDT1bUpCYLPx-mYN0lg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
