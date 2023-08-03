@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 03:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 09:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리 여행을 즐기는 리사의 근사한 여행자 룩]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36348444&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36348444&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 03 Aug 2023 09:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDNfMjc0/MDAxNjkwOTk2NTg5Njg4._qBAfS36xTx7zMpk8zUWET77CAqkOwBXPnHzZQaTNJ0g.LY1yGo1mOYA1J_cInUmTVUsMZHJ3GErJSkyh47Z6akYg.JPEG/IolhDstbLJ1De4zv9fLiXvpG75YQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[켄분하다! 영화 <바비> 속 샤넬룩은 어떻게 탄생했을까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36323011&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Jun 2023 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDNfMjYx/MDAxNjg1NzI5MTU4ODQz.0SeerjnQPjmZDl-gdHozaxeBLeMgl1H4QsBwFHLYTfUg.T5eEkBHaeh4PDJWq3-198CRMGzbjf9puqkpL21DPWKYg.JPEG/I_N_tDrZAzrsX7X10ZbEhBP8ESuI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더이상 핫할 수 없는 해외 셀럽들의 비키니 모음]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36004560&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36004560&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Sat, 27 May 2023 03:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MjdfNzgg/MDAxNjg1MTIyNjA4OTc1.ouHITY5W9WdORw13XeJioY5pQ_ZL-gLVFQ_phfI9m88g.hi1wHVTKIXzsjYorRV-4HqRVjiqFRJgcRZZvVUvlLxYg.JPEG/I8L-EmxCcwiTFoRRiwHIA_JYvxkM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

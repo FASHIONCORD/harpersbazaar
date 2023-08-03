@@ -1,387 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>하퍼스바자 코리아 ─ 패션</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 03:20:56 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[더워도 포기할 수 없어! 서머 니트]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79585</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79585</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[무더위에 더욱 빛을 발하는 서머 니트 스타일링]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/5cf95b44-aac3-4760-bfaa-91b632900cc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리 여행을 즐기는 리사의 근사한 여행자 룩]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79584</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79584</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[낭만의 파리, 그리고 리사]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/8fb0cf6c-8c18-4956-9901-1c8ef1054880.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우아하게 부상한 올드 머니 패션]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79357</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79357</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[올가을, 최상류층의 스타일을 상징하는 ‘올드 머니’ 패션이 메가 트렌드로 떠올랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/2e530d74-2cb3-4e6a-b079-e1f54aba5817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<하퍼스바자> 27살 생일을 축하해!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79354</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79354</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[티아라를 올려라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d33d03c4-d427-41d9-b89a-1fbf83e2f744.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기능성과 디자인을 모두 잡은 '신상 러닝화' 2 #B_신상신GO]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79580</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79580</guid>
-            <pubDate>Mon, 31 Jul 2023 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[오래 뛰어도 지치지 않아요!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/30/64429f5b-63ee-4ab0-b1b6-228999f17016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티파니의 2023년 블루 북 컬렉션이 공개됐다!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79414</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79414</guid>
-            <pubDate>Mon, 31 Jul 2023 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[여름이었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/f954c02f-edd1-40fd-a79a-4f96553fc6f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 놓칠 수 없는 바디수트 스타일]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79549</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79549</guid>
-            <pubDate>Mon, 31 Jul 2023 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[제니부터 닝닝까지, 바디수트를 선택한 스타들의 룩]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b13cafb5-da73-43b5-8b60-0f3dc8c6c124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클래식할수록 트렌디한 올드머니 스타일]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79547</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79547</guid>
-            <pubDate>Mon, 31 Jul 2023 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[‘찐 부자’ 분위기를 발하는 올드머니 룩의 귀환]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/2b13f603-5592-474b-b9e2-55bd2bab5fa3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1996년생 주목! <바자>와 태어난 패션&뷰티템]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79390</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79390</guid>
-            <pubDate>Mon, 31 Jul 2023 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/84c1b910-37f2-42fa-8a52-cdd177ece8a9.jpg');">
-            <a href="/article/79390">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79390">
-                    1996년생 주목! &lt;바자&gt;와 태어난 패션&amp;뷰티템                </a>
-            </em>
-            <p class="excerpt">&lt;바자&gt;처럼 탄생 이래 지금까지도 사랑받는 1996년생들을 소개한다. </p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/84c1b910-37f2-42fa-8a52-cdd177ece8a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희부터 장원영까지, 셀럽들의 하트 목걸이 어디거?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79476</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79476</guid>
-            <pubDate>Mon, 31 Jul 2023 15:03:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/a821a818-c14e-4a11-8032-79d40e813f40.jpg');">
-            <a href="/article/79476">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79476">
-                    한소희부터 장원영까지, 셀럽들의 하트 목걸이 어디거?                </a>
-            </em>
-            <p class="excerpt"> 옷 잘 입는 셀럽들은 하나씩 다 가지고 있다던데.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/a821a818-c14e-4a11-8032-79d40e813f40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 제니, 조이의 발레코어룩은? #B_STAR일링]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79443</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79443</guid>
-            <pubDate>Sat, 29 Jul 2023 09:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/80dd7ec0-a62f-4b83-ae21-5b516ae91f91.jpg');">
-            <a href="/article/79443">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79443">
-                    뉴진스, 제니, 조이의 발레코어룩은? #B_STAR일링                </a>
-            </em>
-            <p class="excerpt">패션 트렌드인 ‘발레코어룩’에 도전하고 싶다면 클릭!</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/80dd7ec0-a62f-4b83-ae21-5b516ae91f91.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 제니의 베스트 룩이 궁금하다면?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79388</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79388</guid>
-            <pubDate>Fri, 28 Jul 2023 15:03:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/45ed35a6-45f6-4377-8285-1e06cb1def49.jpg');">
-            <a href="/article/79388">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79388">
-                    블랙핑크 제니의 베스트 룩이 궁금하다면?                </a>
-            </em>
-            <p class="excerpt">STEAL THE SHOW</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/45ed35a6-45f6-4377-8285-1e06cb1def49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[켄분하다! 영화 <바비> 속 샤넬룩은 어떻게 탄생했을까?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79436</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79436</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/df435098-d063-4097-9ecf-c7726c44f122.jpg');">
-            <a href="/article/79436">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79436">
-                    켄분하다! 영화 &lt;바비&gt; 속 샤넬룩은 어떻게 탄생했을까?                 </a>
-            </em>
-            <p class="excerpt">사랑스러움 그 자체! 머리부터 발끝까지 핑크로 물들인 샤넬의 바비코어룩! </p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/df435098-d063-4097-9ecf-c7726c44f122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙 타이를 한 발렌티노의 디바(DI.VAs) 손예진]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79344</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79344</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/3859c980-3c69-4b79-baeb-fb4fd8f5caba.jpg');">
-            <a href="/article/79344">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79344">
-                    블랙 타이를 한 발렌티노의 디바(DI.VAs) 손예진                </a>
-            </em>
-            <p class="excerpt">블랙 타이는 관습을 해방시키고 유희적인 뉘앙스를 지닌다. </p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/3859c980-3c69-4b79-baeb-fb4fd8f5caba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 2023 F/W 오트 쿠튀르 컬렉션에 관한 지극히 주관적인 시각과 해석들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79358</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79358</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/12b56af1-403d-4d01-8103-fd0791a79177.jpg');">
-            <a href="/article/79358">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79358">
-                    샤넬 2023 F/W 오트 쿠튀르 컬렉션에 관한 지극히 주관적인 시각과 해석들                </a>
-            </em>
-            <p class="excerpt">패션은 자신은 물론 타인을 바라보는 시각과 세상을 탐색하는 방식에도 영향을 미친다. </p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/12b56af1-403d-4d01-8103-fd0791a79177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민니, 아이린도 입은 민소매 원피스 어디거?  #명품네컷]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79419</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79419</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c4d04c01-2f48-40fc-a93d-04df8f66c6fe.jpg');">
-                <a href="/article/79419">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79419">
-                        민니, 아이린도 입은 민소매 원피스 어디거?  #명품네컷                     </a>
-                </em>
-                <p class="excerpt">몸에 딱 붙는 시스 드레스, 준비물은 몸몸몸매~ </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c4d04c01-2f48-40fc-a93d-04df8f66c6fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 곳에서 가장 소중한 여권을 지켜줄 여권지갑 #명품네컷]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79396</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79396</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/4a774d32-c75f-428b-90b2-d960ca0e1364.jpg');">
-                <a href="/article/79396">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79396">
-                        낯선 곳에서 가장 소중한 여권을 지켜줄 여권지갑 #명품네컷                    </a>
-                </em>
-                <p class="excerpt">트래블 메이트, 오래 간직할 수 있는 명품 여권지갑 추천 4</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/4a774d32-c75f-428b-90b2-d960ca0e1364.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 동안 <바자> 인스타그램에 놀러 온 한소희?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79383</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79383</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/0ad52224-8044-4d77-b958-70df10449d5d.jpg');">
-                <a href="/article/79383">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79383">
-                        주말 동안 &lt;바자&gt; 인스타그램에 놀러 온 한소희?                    </a>
-                </em>
-                <p class="excerpt">한소희가 주말 &lt;바자&gt; 에디터로 변신했다!? 비하인드 컷 대 공개</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/0ad52224-8044-4d77-b958-70df10449d5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이주얼리의 도전정신이란 이런 것! 부쉐론의 기술력과 창조성]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79339</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79339</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/daf7226a-6296-49a1-af77-4ca81f1d67ed.jpg');">
-                <a href="/article/79339">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79339">
-                        하이주얼리의 도전정신이란 이런 것! 부쉐론의 기술력과 창조성                    </a>
-                </em>
-                <p class="excerpt">창의적이고 대담한 부쉐론의 2023 까르뜨 블량슈 컬렉션 '모어 이즈 모어'를 만났다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/daf7226a-6296-49a1-af77-4ca81f1d67ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<셀러브리티> 윤시현! 이청아의 온앤오프 룩은 어디거?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79370</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79370</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/6ac83ec2-a1f1-4669-87bb-f22c0360465a.jpg');">
-                <a href="/article/79370">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79370">
-                        &lt;셀러브리티&gt; 윤시현! 이청아의 온앤오프 룩은 어디거?                    </a>
-                </em>
-                <p class="excerpt">올드머니 룩의 정석과 힙스터 그 사이. 같은 사람 맞나요? </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/6ac83ec2-a1f1-4669-87bb-f22c0360465a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['한소희' 브라 톱, 레드 타이츠에 하이주얼리를 착용하고 매혹미 발산]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79318</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79318</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/c90de4ae-9e7e-47e8-b228-7345de33aa00.jpg');">
-                <a href="/article/79318">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79318">
-                        '한소희' 브라 톱, 레드 타이츠에 하이주얼리를 착용하고 매혹미 발산                    </a>
-                </em>
-                <p class="excerpt">파리의 밤. 경계 없는 순수한 눈빛, 매혹적인 표정과 몸짓의 한소희가 반짝인다. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/c90de4ae-9e7e-47e8-b228-7345de33aa00.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.harpersbazaar.co.kr/fashion</id>
+    <title>하퍼스바자 코리아 ─ 패션</title>
+    <updated>2023-08-03T09:15:03.141Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.harpersbazaar.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프라다의 뉴 룩을 스마~트하게 쇼핑하기!]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79360</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79360"/>
+        <updated>2023-08-03T09:02:35.842Z</updated>
+        <content type="html"><![CDATA[클래식하지만 한 끗의 디테일이 더해진 아이템으로 스타일을 업그레이드해볼 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다가올 가을을 위한 트렌드 키워드 6]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79451</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79451"/>
+        <updated>2023-08-03T09:02:35.844Z</updated>
+        <content type="html"><![CDATA[다가오는 FW 시즌, 눈여겨봐야 할 트렌드 총정리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치아도 스타일리시하게, 투스젬]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79587</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79587"/>
+        <updated>2023-08-03T09:02:35.846Z</updated>
+        <content type="html"><![CDATA[빛나는 치아로 완성한 셀럽들의 유니크한 스타일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더워도 포기할 수 없어! 서머 니트]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79585</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79585"/>
+        <updated>2023-08-02T03:03:04.537Z</updated>
+        <content type="html"><![CDATA[무더위에 더욱 빛을 발하는 서머 니트 스타일링]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파리 여행을 즐기는 리사의 근사한 여행자 룩]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79584</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79584"/>
+        <updated>2023-08-02T03:03:04.541Z</updated>
+        <content type="html"><![CDATA[낭만의 파리, 그리고 리사]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아하게 부상한 올드 머니 패션]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79357</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79357"/>
+        <updated>2023-08-02T03:03:04.544Z</updated>
+        <content type="html"><![CDATA[올가을, 최상류층의 스타일을 상징하는 ‘올드 머니’ 패션이 메가 트렌드로 떠올랐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<하퍼스바자> 27살 생일을 축하해!]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79354</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79354"/>
+        <updated>2023-08-02T03:03:04.548Z</updated>
+        <content type="html"><![CDATA[티아라를 올려라.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기능성과 디자인을 모두 잡은 '신상 러닝화' 2 #B_신상신GO]]></title>
+        <id>https://www.harpersbazaar.co.kr/article/79580</id>
+        <link href="https://www.harpersbazaar.co.kr/article/79580"/>
+        <updated>2023-07-31T15:03:41.802Z</updated>
+        <content type="html"><![CDATA[오래 뛰어도 지치지 않아요!]]></content>
+    </entry>
+</feed>
