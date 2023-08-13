@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 09:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 15:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -861,6 +861,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MjlfMTk3/MDAxNjAxMzQ2NzI1ODM0.1hmF8vAwAmMqifyC06Hnkpn3pVDgnWZlFZpmc1xpjzcg.77RydLfLrVm2sZBozFGvlf0tVm3v9mAAhfQfd-sZTT0g.PNG/I4w0zzT7dmIGUM9FW05Y9-Zk93ww.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보기만 해도 시원한 서머 주얼리 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79753</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79753</guid>
+            <pubDate>Sun, 13 Aug 2023 15:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[푹푹 찌는 무더위 속 한 줄기 빛, 서머 주얼리]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/2c45221b-d8f5-410f-94a0-45ff3aea17b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유니크 한 스푼! 빈티지 안경 스타일링 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/79752</link>
             <guid>https://www.harpersbazaar.co.kr/article/79752</guid>
@@ -921,7 +929,23 @@
             <link>https://www.harpersbazaar.co.kr/article/79404</link>
             <guid>https://www.harpersbazaar.co.kr/article/79404</guid>
             <pubDate>Tue, 08 Aug 2023 03:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[손목에 착 감기는 브레이슬릿 백으로 서머 룩에 경쾌한 포인트를 더하라.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/3a454d06-aa18-4899-bb15-ef8c393e7e63.jpg');">
+            <a href="/article/79404">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79404">
+                    뜨거운 여름날, 자유를 선사할 브레이슬릿 백 4                </a>
+            </em>
+            <p class="excerpt">손목에 착 감기는 브레이슬릿 백으로 서머 룩에 경쾌한 포인트를 더하라.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/3a454d06-aa18-4899-bb15-ef8c393e7e63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1074,22 +1098,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79360</guid>
             <pubDate>Thu, 03 Aug 2023 09:02:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/676a8e06-7945-46d3-8f9a-6861a8de2077.jpg');">
-            <a href="/article/79360">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79360">
-                    프라다의 뉴 룩을 스마~트하게 쇼핑하기!                </a>
-            </em>
-            <p class="excerpt">클래식하지만 한 끗의 디테일이 더해진 아이템으로 스타일을 업그레이드해볼 것.  </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79360">
+                        프라다의 뉴 룩을 스마~트하게 쇼핑하기!                    </a>
+                </em>
+                <p class="excerpt">클래식하지만 한 끗의 디테일이 더해진 아이템으로 스타일을 업그레이드해볼 것.  </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/676a8e06-7945-46d3-8f9a-6861a8de2077.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,30 +1235,6 @@
                 <p class="excerpt">올가을, 최상류층의 스타일을 상징하는 ‘올드 머니’ 패션이 메가 트렌드로 떠올랐다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/2e530d74-2cb3-4e6a-b079-e1f54aba5817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<하퍼스바자> 27살 생일을 축하해! (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79354</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79354</guid>
-            <pubDate>Wed, 02 Aug 2023 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d33d03c4-d427-41d9-b89a-1fbf83e2f744.jpg');">
-                <a href="/article/79354">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79354">
-                        &lt;하퍼스바자&gt; 27살 생일을 축하해!                    </a>
-                </em>
-                <p class="excerpt">티아라를 올려라.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d33d03c4-d427-41d9-b89a-1fbf83e2f744.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[7080년 생이라면 클릭! 그 시절을 소환하는 추억의 립스틱 (하퍼스바자 코리아 ─ 뷰티)]]></title>
