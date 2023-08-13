@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 15:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을날의 마라톤을 좋아하세요?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79597</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79597</guid>
+            <pubDate>Sun, 13 Aug 2023 03:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[어느새 가을 마라톤을 준비하는 시기가 됐다. 우리를 기다리는 가을 마라톤 대회를 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/4e4a3880-d045-45a7-beec-5fbe67fd5330.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘전시’ 여는 쇼룸 3]]></title>
             <link>https://www.harpersbazaar.co.kr/article/79564</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/79499</link>
             <guid>https://www.harpersbazaar.co.kr/article/79499</guid>
             <pubDate>Sat, 29 Jul 2023 09:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[도망간 여름 입맛 잡아줄 상큼하고 시원한 국수 요리 대령이요~]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fd94bb66-4243-4242-a61e-cad823ad941a.jpg');">
+            <a href="/article/79499">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79499">
+                    쉽고 맛있다! 김나영의 초간단 국수 레시피                </a>
+            </em>
+            <p class="excerpt">도망간 여름 입맛 잡아줄 상큼하고 시원한 국수 요리 대령이요~</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/fd94bb66-4243-4242-a61e-cad823ad941a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79159</guid>
             <pubDate>Tue, 08 Aug 2023 03:05:39 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/987adb97-6b61-4c21-9f39-8da992dacb54.jpg');">
-            <a href="/article/79159">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79159">
-                    밀란 쿤데라, 그가 남긴 문장들                </a>
-            </em>
-            <p class="excerpt">소설가인 동시에 철학자였던 작가</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79159">
+                        밀란 쿤데라, 그가 남긴 문장들                    </a>
+                </em>
+                <p class="excerpt">소설가인 동시에 철학자였던 작가</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/987adb97-6b61-4c21-9f39-8da992dacb54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">김하늘 작가의 손길이 닿아 가구로 변신한 폐기 위기의 쇼핑백들. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/aeb06857-873f-4145-affc-96ac14f5749e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코모도 국립공원과 발리의 섬들]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/78802</link>
-            <guid>https://www.harpersbazaar.co.kr/article/78802</guid>
-            <pubDate>Tue, 08 Aug 2023 03:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/d2a7b69e-b118-425a-8b07-d95873b0b245.jpg');">
-                <a href="/article/78802">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/78802">
-                        코모도 국립공원과 발리의 섬들                    </a>
-                </em>
-                <p class="excerpt">야생 생물과 자연, 헤리티지로 가득한 코모도국립공원과 발리의 섬들.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/d2a7b69e-b118-425a-8b07-d95873b0b245.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
