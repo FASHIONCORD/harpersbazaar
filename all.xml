@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 09:03:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 15:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -861,6 +861,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MjlfMTk3/MDAxNjAxMzQ2NzI1ODM0.1hmF8vAwAmMqifyC06Hnkpn3pVDgnWZlFZpmc1xpjzcg.77RydLfLrVm2sZBozFGvlf0tVm3v9mAAhfQfd-sZTT0g.PNG/I4w0zzT7dmIGUM9FW05Y9-Zk93ww.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘국힙원탑’ 아이유의 힙스터 룩 어디 거? #B_STAR일링 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79935</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79935</guid>
+            <pubDate>Mon, 21 Aug 2023 15:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[힙한 무드를 뽐내는 아이유, 노윤서, 전소연의 코디를 참고해 보세요]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/11fd80ba-15ca-4def-9b3b-3678dc4ac515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[입을 옷 없을땐 ?  장원영, 유나도 입은 흰티에 청바지 룩 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/79927</link>
             <guid>https://www.harpersbazaar.co.kr/article/79927</guid>
@@ -921,7 +929,23 @@
             <link>https://www.harpersbazaar.co.kr/article/79465</link>
             <guid>https://www.harpersbazaar.co.kr/article/79465</guid>
             <pubDate>Wed, 16 Aug 2023 09:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[쿨한 데님, 경쾌한 스트라이프, 선명한 컬러 그리고 청량한 소재들이 함께 어우러진 서머 룩.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/97da2e17-a1ac-44d3-9781-8fa1af266888.jpg');">
+            <a href="/article/79465">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79465">
+                    한 여름의  해변가, 서머 룩과 함께 웃고 즐기고 뛰다.                </a>
+            </em>
+            <p class="excerpt">쿨한 데님, 경쾌한 스트라이프, 선명한 컬러 그리고 청량한 소재들이 함께 어우러진 서머 룩.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/97da2e17-a1ac-44d3-9781-8fa1af266888.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1074,22 +1098,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79459</guid>
             <pubDate>Sat, 19 Aug 2023 03:03:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/40ddceb5-4181-44bd-89ca-c4576b734e39.jpg');">
-            <a href="/article/79459">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79459">
-                    을지로 거리를 부유하는 펜디의 뉴 백!                </a>
-            </em>
-            <p class="excerpt">빛바랜 추억 속 을지로 거리 곳곳을 거닌 시간여행자.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79459">
+                        을지로 거리를 부유하는 펜디의 뉴 백!                    </a>
+                </em>
+                <p class="excerpt">빛바랜 추억 속 을지로 거리 곳곳을 거닌 시간여행자.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/40ddceb5-4181-44bd-89ca-c4576b734e39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,30 +1235,6 @@
                 <p class="excerpt">다가오는 F/W 시즌 유행할 컬러는? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/9b1585d2-205b-404b-864a-df8cf6084d25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에디 슬리먼의 '인디 슬리즈'가 가득한 셀린느 23 F/W 컬렉션 영상 공개 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79666</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79666</guid>
-            <pubDate>Sat, 19 Aug 2023 03:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/ea83da83-da87-4987-b66b-3f7f15fdce23.jpg');">
-                <a href="/article/79666">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79666">
-                        에디 슬리먼의 '인디 슬리즈'가 가득한 셀린느 23 F/W 컬렉션 영상 공개                     </a>
-                </em>
-                <p class="excerpt">올 하반기에 유행할, '찐' 인디 슬리즈가 궁금하다면, 셀린느 컬렉션을 참고하자. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/ea83da83-da87-4987-b66b-3f7f15fdce23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뒷모습을 더 예쁘게! 여기 타투 어때요? (하퍼스바자 코리아 ─ 뷰티)]]></title>
