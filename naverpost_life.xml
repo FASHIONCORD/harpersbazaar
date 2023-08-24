@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 15:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 03:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소문난 연기 맛집 <마스크걸>..'아! 이 배우가 걔였어?']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36455852&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36455852&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 24 Aug 2023 03:01:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjRfMjQ2/MDAxNjkyODM2OTQ4MTI0.lnqvgqQ169RgnfBv8MBCF67MJeXVtBo0kN65xUUMtwIg.OGsUUm2IeRC170nKx74HhFVh-rR1SSrwdrTqZuRIBcAg.JPEG/Ikxc0wq_EPGsGlJPvh84m5tP3PFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석 영화, 미리 찜! 강동원 vs 하정우 vs 송강호.. 당신의 선택은?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36444839&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Jul 2023 09:01:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjFfMTI5/MDAxNjg5OTI0NjcwMzU2.HY9JXBOgbcvXNZqqPV3Lo6SlSuZ6KEgOCulitfudBIkg._xl-Hr8enXYF8lKLOpfvdDZw_lL9sqrFvD869fvwu6Ug.JPEG/Ibzg03yGtl-7xV6NZvcJEQ-Lp85g.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["커밍쑨!"..<경소문2>와 <힙하게>, 그리고 <소옆경2>]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36262260&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36262260&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 18 Jul 2023 03:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTdfMTMg/MDAxNjg5NTkwODY1NDk3.QKS0smokpaLYPfL_9eJxOFFXZzOp-DzcYY3_E6Nng8Ug.ussdDPZ4-UG05-PD4KKfpzG4IbCkhilh2ux5zCI09HEg.JPEG/IPsOZFHAiq2k_wbxb_AarNevxXx4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
