@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 09:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 15:04:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -861,20 +861,20 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MjlfMTk3/MDAxNjAxMzQ2NzI1ODM0.1hmF8vAwAmMqifyC06Hnkpn3pVDgnWZlFZpmc1xpjzcg.77RydLfLrVm2sZBozFGvlf0tVm3v9mAAhfQfd-sZTT0g.PNG/I4w0zzT7dmIGUM9FW05Y9-Zk93ww.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["감성 가득" 가을을 닮은 초콜릿 브라운 워치 4 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80096</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80096</guid>
-            <pubDate>Tue, 29 Aug 2023 03:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[가을을 닮은, 이 계절에 착용하기 좋은 초콜릿 브라운 시계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/49c24efc-bf57-4d48-8846-48dd9d4ba484.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가을의 시작을 알리는 김세정과 롱샴의 조우 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80076</link>
             <guid>https://www.harpersbazaar.co.kr/article/80076</guid>
             <pubDate>Tue, 29 Aug 2023 03:07:27 GMT</pubDate>
             <content:encoded><![CDATA[승마에서 모티프를 가져온 클래식하면서도 스포티한 영감으로 이 가을의 시작을 알린다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/91be163c-2e5d-4bd5-b7f2-22aead337c96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["감성 가득" 가을을 닮은 초콜릿 브라운 워치 4 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80096</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80096</guid>
+            <pubDate>Tue, 29 Aug 2023 03:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[가을을 닮은, 이 계절에 착용하기 좋은 초콜릿 브라운 시계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/49c24efc-bf57-4d48-8846-48dd9d4ba484.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김고은부터 한효주까지, 샤넬과 빛난 스타들 (하퍼스바자 코리아 ─ 패션)]]></title>
