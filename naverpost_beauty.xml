@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Beauty</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 15:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[익숙한데 새롭고 짜릿한 뉴 퍼퓸]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36478735&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36478735&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 29 Aug 2023 03:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjhfMTcw/MDAxNjkzMjA4OTcyNTgx.6yX8t823D0S1TK8S-GlvHFtrZIhHdLisX7xOs54VYCsg.yv7ijo4q8lzML9MhQv5lkJIaHtEUt5ZPxo42nqnjhsYg.JPEG/ItSFWyJBz3g4MieONt2q9KaBpz-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인형 미모, 코 섀딩이 가장 중요하다는 배우 이열음의 뷰티 꿀팁 대공개!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36421248&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Mar 2023 03:02:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjlfNDkg/MDAxNjgwMDUzODQ1MTQz.r6i2jfPGKYd4DRT6bQ3-PuvpYrXJUUgeAOXqzWZWfF8g.Jn3s-eG9UvHnK54uh7bbfRrynvPRG5M_uvENnix-94gg.JPEG/IiKHuoADPi1PcmP5qJD4LYpSbbeE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이거 알면 찐 향덕후! 요즘 주목받는 향수는?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35618978&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35618978&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 15 Mar 2023 03:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTRfMjk1/MDAxNjc4NzY2MzQ4MDMy.Z_wxzKr79EdDxuHRuPK8novy_vKwfhZbTO16UVqxcP0g.y8Mco3KFQRglzyJZMYy9mOt-yoJErgFJ2TDxXCSVDPQg.JPEG/Ia33FVpWwZArl69cP0flmdpFW-7w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
