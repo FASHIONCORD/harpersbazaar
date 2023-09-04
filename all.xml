@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 03:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 09:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -860,6 +860,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMjlfNCAg/MDAxNjA2NjI2NzkwNTE4.1uPOUCdIk06pg7lKBGqnEcaeTun2NN4aCuiot2K3mNog.5_1PLi8C_xd5XhNTkcSdbG1zY119p9cKGd5UeeOyFecg.PNG/ILHfrmaJCaDG6xaywsx3qPl7dBwM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[펑크 패션에도 우아함이 필요한 시대 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80106</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80106</guid>
+            <pubDate>Mon, 04 Sep 2023 09:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[과격함보다는 우아함을, 반항심보다는 쿨한 애티튜드를 탑재한 2023년의 펑크 패션에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/8485c7cb-2a3e-4f65-bbcf-bc0111f9e2e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 시에나 리조트에서 출시하는 프리미엄 골프 웨어 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80314</link>
             <guid>https://www.harpersbazaar.co.kr/article/80314</guid>
@@ -920,7 +928,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80222</link>
             <guid>https://www.harpersbazaar.co.kr/article/80222</guid>
             <pubDate>Wed, 30 Aug 2023 15:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[한소희부터 리사까지, 행복한 유럽 여행 중인 스타들의 룩]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/9500cd26-0d96-4614-8c56-d5a48d9d6a32.jpg');">
+            <a href="/article/80222">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80222">
+                    유럽에서의 망중한을 즐기는 스타들                </a>
+            </em>
+            <p class="excerpt">한소희부터 리사까지, 행복한 유럽 여행 중인 스타들의 룩</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/9500cd26-0d96-4614-8c56-d5a48d9d6a32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1073,22 +1097,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/80070</guid>
             <pubDate>Mon, 28 Aug 2023 15:02:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/fc312e47-0690-41ee-8906-7e119664693e.jpg');">
-            <a href="/article/80070">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/80070">
-                    김고은부터 한효주까지, 샤넬과 빛난 스타들                </a>
-            </em>
-            <p class="excerpt">‘Tweed de Chanel’을 만나볼 수 있는 특별한 이벤트에서 포착한 일곱 배우들의 반짝이는 순...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80070">
+                        김고은부터 한효주까지, 샤넬과 빛난 스타들                    </a>
+                </em>
+                <p class="excerpt">‘Tweed de Chanel’을 만나볼 수 있는 특별한 이벤트에서 포착한 일곱 배우들의 반짝이는 순...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/fc312e47-0690-41ee-8906-7e119664693e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1210,30 +1234,6 @@
                 <p class="excerpt">Y2K 트렌드의 끝에서 마주한 헤어밴드 스타일링.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/c18895b5-6260-4fa7-b465-6d55a4f3d736.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉산더 맥퀸 2023 가을/겨울 컬렉션 캠페인 공개 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80144</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80144</guid>
-            <pubDate>Fri, 25 Aug 2023 15:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/0a45a731-7af5-4118-ad4b-125c50d61c9c.jpg');">
-                <a href="/article/80144">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80144">
-                        알렉산더 맥퀸 2023 가을/겨울 컬렉션 캠페인 공개                     </a>
-                </em>
-                <p class="excerpt">글로벌 슈퍼스타 총출동! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/0a45a731-7af5-4118-ad4b-125c50d61c9c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임지연이 ‘살 너무 많이 빠져서 그만뒀다’는 다이어트 방법? (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1612,6 +1612,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/21c07092-a6e0-470f-b054-502014765877.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[바자 독자들이 찌드래곤을 웨이링하신다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80202</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80202</guid>
+            <pubDate>Mon, 04 Sep 2023 09:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[좌심방과 우심방이 방방 뛰게 만든 소울... 그 이름은 찌드래곤]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/ea4a9ed3-d27f-4ba9-9fb0-0b09f4969804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다채로운 빛을 발하는 김세정과 롱샴 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80184</link>
             <guid>https://www.harpersbazaar.co.kr/article/80184</guid>
@@ -1672,7 +1680,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80012</link>
             <guid>https://www.harpersbazaar.co.kr/article/80012</guid>
             <pubDate>Sat, 26 Aug 2023 15:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[소년미 가득한 김종현의 화보를 &lt;하퍼스 바자&gt; 9월호 속에 담아냈다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/3a7298ca-5eca-48b0-8064-4aed4d22ba5c.jpg');">
+            <a href="/article/80012">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80012">
+                    다양한 도전의 연속, 김종현의 모험                </a>
+            </em>
+            <p class="excerpt">소년미 가득한 김종현의 화보를 &lt;하퍼스 바자&gt; 9월호 속에 담아냈다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/3a7298ca-5eca-48b0-8064-4aed4d22ba5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1825,22 +1849,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79811</guid>
             <pubDate>Mon, 21 Aug 2023 03:03:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/4227b416-4839-471d-896f-dbba1cc5de6d.jpg');">
-            <a href="/article/79811">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79811">
-                    아무도 켄들 제너를 궁지에 몰지 않았다                </a>
-            </em>
-            <p class="excerpt">켄들 제너 인터뷰 #BAZAARICONS</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79811">
+                        아무도 켄들 제너를 궁지에 몰지 않았다                    </a>
+                </em>
+                <p class="excerpt">켄들 제너 인터뷰 #BAZAARICONS</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/4227b416-4839-471d-896f-dbba1cc5de6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1962,30 +1986,6 @@
                 <p class="excerpt">민희진이 총괄 프로듀서를 맡았다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/21bf433e-81ec-4f56-865a-559f223d4015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크가 데뷔 7주년을 기념하는 방법? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79760</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79760</guid>
-            <pubDate>Wed, 16 Aug 2023 15:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/032244c3-5f88-40f6-b058-0a2d8016a6e6.jpg');">
-                <a href="/article/79760">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79760">
-                         블랙핑크가 데뷔 7주년을 기념하는 방법?                    </a>
-                </em>
-                <p class="excerpt">지수, 제니, 로제, 리사의 어린시절 모습 공개!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/032244c3-5f88-40f6-b058-0a2d8016a6e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<무빙> '류승룡♥' 곽선영 누구? <슬의생> 익순이! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>

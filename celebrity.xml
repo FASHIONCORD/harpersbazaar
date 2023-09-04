@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 셀레브리티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 03:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 09:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바자 독자들이 찌드래곤을 웨이링하신다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80202</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80202</guid>
+            <pubDate>Mon, 04 Sep 2023 09:03:01 GMT</pubDate>
+            <content:encoded><![CDATA[좌심방과 우심방이 방방 뛰게 만든 소울... 그 이름은 찌드래곤]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/ea4a9ed3-d27f-4ba9-9fb0-0b09f4969804.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다채로운 빛을 발하는 김세정과 롱샴]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80184</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80012</link>
             <guid>https://www.harpersbazaar.co.kr/article/80012</guid>
             <pubDate>Sat, 26 Aug 2023 15:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[소년미 가득한 김종현의 화보를 &lt;하퍼스 바자&gt; 9월호 속에 담아냈다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/3a7298ca-5eca-48b0-8064-4aed4d22ba5c.jpg');">
+            <a href="/article/80012">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80012">
+                    다양한 도전의 연속, 김종현의 모험                </a>
+            </em>
+            <p class="excerpt">소년미 가득한 김종현의 화보를 &lt;하퍼스 바자&gt; 9월호 속에 담아냈다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/22/3a7298ca-5eca-48b0-8064-4aed4d22ba5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79811</guid>
             <pubDate>Mon, 21 Aug 2023 03:03:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/4227b416-4839-471d-896f-dbba1cc5de6d.jpg');">
-            <a href="/article/79811">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79811">
-                    아무도 켄들 제너를 궁지에 몰지 않았다                </a>
-            </em>
-            <p class="excerpt">켄들 제너 인터뷰 #BAZAARICONS</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79811">
+                        아무도 켄들 제너를 궁지에 몰지 않았다                    </a>
+                </em>
+                <p class="excerpt">켄들 제너 인터뷰 #BAZAARICONS</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/4227b416-4839-471d-896f-dbba1cc5de6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">민희진이 총괄 프로듀서를 맡았다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/21bf433e-81ec-4f56-865a-559f223d4015.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크가 데뷔 7주년을 기념하는 방법?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79760</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79760</guid>
-            <pubDate>Wed, 16 Aug 2023 15:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/032244c3-5f88-40f6-b058-0a2d8016a6e6.jpg');">
-                <a href="/article/79760">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79760">
-                         블랙핑크가 데뷔 7주년을 기념하는 방법?                    </a>
-                </em>
-                <p class="excerpt">지수, 제니, 로제, 리사의 어린시절 모습 공개!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/032244c3-5f88-40f6-b058-0a2d8016a6e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
