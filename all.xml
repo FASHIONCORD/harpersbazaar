@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 15:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 03:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -860,6 +860,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMjlfNCAg/MDAxNjA2NjI2NzkwNTE4.1uPOUCdIk06pg7lKBGqnEcaeTun2NN4aCuiot2K3mNog.5_1PLi8C_xd5XhNTkcSdbG1zY119p9cKGd5UeeOyFecg.PNG/ILHfrmaJCaDG6xaywsx3qPl7dBwM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지수부터 태연까지 셀럽들의 스포티룩 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80345</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80345</guid>
+            <pubDate>Tue, 05 Sep 2023 03:02:53 GMT</pubDate>
+            <content:encoded><![CDATA[계절이 바뀌어도 운동은 계속된다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/7ee4e0e0-ca47-4a80-9ad8-fa1d6e56e8d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[펑크 패션에도 우아함이 필요한 시대 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80106</link>
             <guid>https://www.harpersbazaar.co.kr/article/80106</guid>
@@ -920,7 +928,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80075</link>
             <guid>https://www.harpersbazaar.co.kr/article/80075</guid>
             <pubDate>Wed, 30 Aug 2023 15:02:45 GMT</pubDate>
-            <content:encoded><![CDATA[블랙과 화이트의 극명한 힘! 상반된 컬러가 빚어낸 환상적인 앙상블을 감상하라.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/0c802170-e714-4494-b4d3-6b51fba79cd5.jpg');">
+            <a href="/article/80075">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80075">
+                    클래식과 트렌드를 겸비한 블랙앤화이트!                </a>
+            </em>
+            <p class="excerpt">블랙과 화이트의 극명한 힘! 상반된 컬러가 빚어낸 환상적인 앙상블을 감상하라. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/0c802170-e714-4494-b4d3-6b51fba79cd5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1073,22 +1097,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/80096</guid>
             <pubDate>Tue, 29 Aug 2023 03:07:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/49c24efc-bf57-4d48-8846-48dd9d4ba484.jpg');">
-            <a href="/article/80096">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/80096">
-                    "감성 가득" 가을을 닮은 초콜릿 브라운 워치 4                </a>
-            </em>
-            <p class="excerpt">가을을 닮은, 이 계절에 착용하기 좋은 초콜릿 브라운 시계.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80096">
+                        "감성 가득" 가을을 닮은 초콜릿 브라운 워치 4                    </a>
+                </em>
+                <p class="excerpt">가을을 닮은, 이 계절에 착용하기 좋은 초콜릿 브라운 시계.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/49c24efc-bf57-4d48-8846-48dd9d4ba484.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1210,30 +1234,6 @@
                 <p class="excerpt">얼마 남지 않은 여름도 시원하게~</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/a204e178-46a7-429e-9d5e-45d6b969aa3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패피처럼 모자 대신 헤어밴드 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80145</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80145</guid>
-            <pubDate>Sat, 26 Aug 2023 15:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/c18895b5-6260-4fa7-b465-6d55a4f3d736.jpg');">
-                <a href="/article/80145">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80145">
-                        패피처럼 모자 대신 헤어밴드                     </a>
-                </em>
-                <p class="excerpt">Y2K 트렌드의 끝에서 마주한 헤어밴드 스타일링.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/c18895b5-6260-4fa7-b465-6d55a4f3d736.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세상 가장 시원한 다이어트 방법! 혜리의 리얼 후기 (하퍼스바자 코리아 ─ 뷰티)]]></title>
