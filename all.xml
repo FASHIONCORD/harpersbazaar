@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 09:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1612,6 +1612,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/ded6ba1e-8cec-475a-af04-c1975eb3c10d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김종현의 새로운 도전 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80105</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80105</guid>
+            <pubDate>Sun, 10 Sep 2023 09:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[숱한 밤 고요히 자신에게 말을 걸어온 김종현은 이제 더 높은 곳을 바라본다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/0fd784d3-de46-4d58-b6fc-088689dbed70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세상 사랑하는 세정의 경이로운 패션 타임라인 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80207</link>
             <guid>https://www.harpersbazaar.co.kr/article/80207</guid>
@@ -1672,7 +1680,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80064</link>
             <guid>https://www.harpersbazaar.co.kr/article/80064</guid>
             <pubDate>Mon, 28 Aug 2023 03:03:58 GMT</pubDate>
-            <content:encoded><![CDATA[담백하게, 조인성과 한효주. 그럴 듯한 미사여구는 뒤로한 채 오직 두 사람만 남은 무구한 순간...]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/807cc488-28cf-4183-b401-bf27a9abf2be.jpg');">
+            <a href="/article/80064">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80064">
+                    무빙의 부부 케미, 조인성과 한효주                </a>
+            </em>
+            <p class="excerpt">담백하게, 조인성과 한효주. 그럴 듯한 미사여구는 뒤로한 채 오직 두 사람만 남은 무구한 순간...</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/807cc488-28cf-4183-b401-bf27a9abf2be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1825,22 +1849,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/79910</guid>
             <pubDate>Tue, 22 Aug 2023 03:03:20 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/c986260d-d767-491b-9f1b-588e6e1d0932.jpg');">
-            <a href="/article/79910">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/79910">
-                    8월 26일, '타임 애프터 타임'과 '테이스트 앤 테이스트'에 가야 하는 이유?                </a>
-            </em>
-            <p class="excerpt">성수동 연무장길에 열릴 힙한 공간 ‘and After’는 무엇? 각 ‘T.A.T’ 대표와 나눈 이야기...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79910">
+                        8월 26일, '타임 애프터 타임'과 '테이스트 앤 테이스트'에 가야 하는 이유?                    </a>
+                </em>
+                <p class="excerpt">성수동 연무장길에 열릴 힙한 공간 ‘and After’는 무엇? 각 ‘T.A.T’ 대표와 나눈 이야기...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/c986260d-d767-491b-9f1b-588e6e1d0932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1962,30 +1986,6 @@
                 <p class="excerpt">태연, 슬기, 임현주의 각양각색 슬리브리스 코디까지. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/f9941acc-0e81-4410-8f42-032706e48bf2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무튼 조인성..! <밀수>와 <무빙>으로 존재감↑ (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/79764</link>
-            <guid>https://www.harpersbazaar.co.kr/article/79764</guid>
-            <pubDate>Wed, 16 Aug 2023 15:02:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/953e3a96-e3e8-4c57-b083-da2261917dbf.jpg');">
-                <a href="/article/79764">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79764">
-                        아무튼 조인성..! &lt;밀수&gt;와 &lt;무빙&gt;으로 존재감↑                    </a>
-                </em>
-                <p class="excerpt">조인성은 역시 조인성! '멋짐'으로 분량 씹어먹는 중</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/953e3a96-e3e8-4c57-b083-da2261917dbf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<연인> 파트2 기다리며 보기 좋은 남궁민's 대표작 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
