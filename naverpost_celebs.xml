@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 03:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자크뮈스와 함께한 제니의 화보와 인터뷰 만나보기!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36640877&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36640877&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Sep 2023 09:02:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjZfODQg/MDAxNjk1NjkxMzU1NzQx.FU7h7EoYEg5irv-iKaNwima0-WbBFHHLd49WxJGx-68g.zeHeAFrxy6WnLtl8ehIWp08cXrw1kTII2i_qRtkitNMg.JPEG/Ic4DMjAxy41h2pnfIedLLdZVnTno.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JYP가 선보인 New 걸그룹, 6인조 VCHA 알아보기!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36635530&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 12 Jun 2023 03:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTBfMjA5/MDAxNjg2MzY4MzY5MDMw.jLEbgI7ihGObbPmAPhzQF-204iMfree54HHWASQqomUg.2yIWOcGxHpGCNZyBnFRIkKU-K8jJfc7TKRoJ7OMC8nQg.JPEG/Ic929BpPd5l9k0cemz4qi_jCTKug.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘생쁨 미모의 정석, 황민현의 빛나는 뷰티 화보]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36036319&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36036319&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 02 Jun 2023 15:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDJfMTkz/MDAxNjg1Njk2OTM0NjI5.rOGakXsYWBgznCi7sYb3J6UWpq3UIVpOA-sdHlIcjrAg.Uh723KsLaLs904tWDoAebspshgE0ldb3S0c00C_6aZkg.JPEG/IlmG4ovUSvwwGI3x7aweeFdLvhhA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
