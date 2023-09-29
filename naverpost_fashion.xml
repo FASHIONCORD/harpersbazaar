@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 15:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 03:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제니, 민니도 신은 바이커 부츠, 어떻게 코디할까?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36655068&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36655068&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 29 Sep 2023 03:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjlfMTM2/MDAxNjk1OTQzMzU2MTAw.e4EBbjzqCrEfTaWQNPE77RzDZE-5WnOnQl78S0luk8cg.leeSXn0csuzmADopANtUKOdNDvBqCh4oFuqx1xuhTaEg.JPEG/IVhOoK5AgSncUPDQa1Nn-EHIdsYY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초가, 오버사이즈 셔츠 어떻게 입을까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36648247&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Aug 2023 09:01:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzFfMjIy/MDAxNjkzNDY5ODU2Mjkx.RhIdc0owa_x8cVa0i85AX--3xjRF1p8spPFNxeR7cGMg.XFejea68-mVM1FlcRKy1UTnpJD6jhUWWxS5D8wkiAJog.JPEG/IzzcRQFDHRuqx4Rpzr26dbs9lKQY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4개의 페르소나에 담긴 보테가 베네타의 뉴 컬렉션!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36476068&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36476068&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Mon, 28 Aug 2023 03:02:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjhfMTE3/MDAxNjkzMTg4MDEwMDk0.58TyVnl5Kj33wLGMrivCyXoRnT9SZbLNs9AjuaYMqeAg.eOcNJDLtuo-dsynrAdlFJKVP0zGgqs01wl9IfNVtrT0g.JPEG/IbNcCarXzqyWjDca1sT5n8JOW5mQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
