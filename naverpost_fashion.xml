@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 03:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 09:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Y2K에 빼놓을 수 없는 플레어 팬츠, 어떻게 스타일링 할까?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36657524&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36657524&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Sat, 30 Sep 2023 09:01:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MzBfMTA3/MDAxNjk2MDI4NjgyMjM3.9yLOt9EHhOiryAxFIVL3JE7EsmYhktiHwys6jbSwGlkg.p6acKTTu_sf-f580s8D1xuA6wQsR-ZNaxe5HmL-0tEog.JPEG/IOrx0MtRmWVpU_AqGyl88LZJ1G7o.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이두나!에서 레전드 찍은 수지의 헤어, 메이크업, 코디 파헤치기!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36655746&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Sep 2023 09:02:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDdfMTEg/MDAxNjk0MDYzNDY3ODE0.VozRstUcmNw8BzuZKj78C22AdsceTrkBRmoamT9UogAg.8BvwT_9EsrXgU6ugNmr5EypObvh27MWCRAqQVgYCjbYg.JPEG/ISARv10HmOEFw6I0c8LIogeC5zug.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100% 재활용에 한 걸음 더 가까워진 가방]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36499222&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36499222&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 01 Sep 2023 03:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MzFfMTQ1/MDAxNjkzNDY5OTQzNTA3.PDLxAQFyq72-1JLRd1QEc_J_Pft0VmLR9273u8A6r3Ag.fM5i1D9kbtiJUC5irIYQjGlepeYIr__EozFuWose9HAg.JPEG/IhTzwo8Kb0aS8LfMgvmdBYMWMl2M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
