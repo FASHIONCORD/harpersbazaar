@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 09:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 15:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -860,6 +860,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMjlfNCAg/MDAxNjA2NjI2NzkwNTE4.1uPOUCdIk06pg7lKBGqnEcaeTun2NN4aCuiot2K3mNog.5_1PLi8C_xd5XhNTkcSdbG1zY119p9cKGd5UeeOyFecg.PNG/ILHfrmaJCaDG6xaywsx3qPl7dBwM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[런던 여행 예정이라면 꼭 가야할 전시회 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80892</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80892</guid>
+            <pubDate>Sat, 30 Sep 2023 15:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[올가을 런던으로의 여행을 계획하고 있다면 주목해보길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/91c96426-4979-41d6-8653-332372bfe451.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디카프리오의 연인, 모델 비토리아의 이모저모 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81005</link>
             <guid>https://www.harpersbazaar.co.kr/article/81005</guid>
@@ -920,7 +928,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80936</link>
             <guid>https://www.harpersbazaar.co.kr/article/80936</guid>
             <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
-            <content:encoded><![CDATA[벌써 기다려지는 디올의 새 시즌 뉴룩은 어떤 모습일까?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/c24589b6-8eb0-46fd-8d38-6b2271e19eb5.jpg');">
+            <a href="/article/80936">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80936">
+                    오늘 밤 10시 LIVE, 디올 2024 S/S 실시간으로 감상하려면?                </a>
+            </em>
+            <p class="excerpt">벌써 기다려지는 디올의 새 시즌 뉴룩은 어떤 모습일까?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/c24589b6-8eb0-46fd-8d38-6b2271e19eb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1073,22 +1097,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/80872</guid>
             <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/64a7585f-a046-4e7d-bc3a-77b2a914f4fd.jpg');">
-            <a href="/article/80872">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/80872">
-                    뉴 구찌 뉴 크리에이티브 디렉터 24 S/S 컬렉션                </a>
-            </em>
-            <p class="excerpt">심플함 속에 강인함, 사바토 데 사르노의 첫 번째 컬렉션이 공개됐다</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80872">
+                        뉴 구찌 뉴 크리에이티브 디렉터 24 S/S 컬렉션                    </a>
+                </em>
+                <p class="excerpt">심플함 속에 강인함, 사바토 데 사르노의 첫 번째 컬렉션이 공개됐다</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/64a7585f-a046-4e7d-bc3a-77b2a914f4fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1210,30 +1234,6 @@
                 <p class="excerpt">샤넬이 프리즈를 후원해 제작한 비디오 시리즈 ‘나우 &amp; 넥스트’ 공개를 기념해 문화예술계 인...</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8259a646-abe7-435d-9db9-bc3b6348f559.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올가을 주목해야 할 컬래버레이션 3 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80817</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80817</guid>
-            <pubDate>Sat, 30 Sep 2023 03:03:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/454eaac4-76a6-49ba-9570-5025058091ce.jpg');">
-                <a href="/article/80817">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80817">
-                        올가을 주목해야 할 컬래버레이션 3                     </a>
-                </em>
-                <p class="excerpt">눈길을 끄는 컬래버레이션 아이템 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/454eaac4-76a6-49ba-9570-5025058091ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시아 최초 프레데릭말 서울 플래그십 스토어 오픈 (하퍼스바자 코리아 ─ 뷰티)]]></title>
