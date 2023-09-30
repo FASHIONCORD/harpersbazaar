@@ -1,64 +1,387 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.harpersbazaar.co.kr/fashion</id>
-    <title>하퍼스바자 코리아 ─ 패션</title>
-    <updated>2023-09-29T15:15:37.166Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.harpersbazaar.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[제니와 민니도 신은 매력적인 바이커 부츠]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/81002</id>
-        <link href="https://www.harpersbazaar.co.kr/article/81002"/>
-        <updated>2023-09-28T15:03:59.925Z</updated>
-        <content type="html"><![CDATA[바이커 코어 트렌드에 발맞춘 부츠의 유행. 계절을 막론하고 매일 신고 싶다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레전드 경신한 이두나! 속 수지 헤메코 정보 대방출]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80996</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80996"/>
-        <updated>2023-09-28T15:03:59.931Z</updated>
-        <content type="html"><![CDATA[천생 아이돌 그 자체.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발목까지 내려오는 데님 스커트를 입은 스타들]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80963</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80963"/>
-        <updated>2023-09-28T15:03:59.934Z</updated>
-        <content type="html"><![CDATA[길수록 좋아 데님 스커트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 세기말 트렌드, 카무플라주]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80961</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80961"/>
-        <updated>2023-09-28T15:03:59.937Z</updated>
-        <content type="html"><![CDATA[세기말 트렌드를 이끌던 카무플라주 패턴의 귀환.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댜가오는 F/W 시즌, 놓치지 말아야 할 컬래버레이션 아이템은?]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80946</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80946"/>
-        <updated>2023-09-28T15:03:59.941Z</updated>
-        <content type="html"><![CDATA[또 만났네, 또 만났어!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 밤 10시 LIVE, 디올 2024 S/S 실시간으로 감상하려면?]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80936</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80936"/>
-        <updated>2023-09-28T15:03:59.944Z</updated>
-        <content type="html"><![CDATA[벌써 기다려지는 디올의 새 시즌 뉴룩은 어떤 모습일까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 플레어 팬츠, 스타일링 모음]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80911</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80911"/>
-        <updated>2023-09-28T15:03:59.946Z</updated>
-        <content type="html"><![CDATA[에센셜 아이템으로 떠오른 복고풍 플레어 팬츠의 활약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초가을 다양한 스타일을 선사할 오버사이즈 셔츠]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80907</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80907"/>
-        <updated>2023-09-28T15:03:59.949Z</updated>
-        <content type="html"><![CDATA[거거익선, 오버사이즈 셔츠]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>하퍼스바자 코리아 ─ 패션</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 30 Sep 2023 03:08:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디카프리오의 연인, 모델 비토리아의 이모저모]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81005</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81005</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[알수록 반한다. ‘디카프리오의 새로운 연인’ 타이틀을 차지한 톱 모델.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/eb8c0e9a-4df7-4e51-89cf-c361eec452cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을에는 트렌치 코트 이렇게 입어보세요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81003</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81003</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[어떻게 입어도 근사하다. 트렌치 코트로 멋을 낸 스타들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/6c584fc1-81c4-4a71-b44d-a2fc6a560223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니와 민니도 신은 매력적인 바이커 부츠]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81002</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81002</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[바이커 코어 트렌드에 발맞춘 부츠의 유행. 계절을 막론하고 매일 신고 싶다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/479e9044-0200-482d-bed6-dd19f93e4678.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레전드 경신한 이두나! 속 수지 헤메코 정보 대방출]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80996</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80996</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[천생 아이돌 그 자체.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/0a86a0a1-dde0-4d6c-a599-3b6e8af8039b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발목까지 내려오는 데님 스커트를 입은 스타들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80963</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80963</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[길수록 좋아 데님 스커트]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/6b338d3d-3ce1-4d2e-adf1-cca06bba16de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 세기말 트렌드, 카무플라주]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80961</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80961</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[세기말 트렌드를 이끌던 카무플라주 패턴의 귀환.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/a0268c2f-5aaa-4c58-b670-bc7e05dba132.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댜가오는 F/W 시즌, 놓치지 말아야 할 컬래버레이션 아이템은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80946</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80946</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[또 만났네, 또 만났어!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/4c596613-6544-46ac-8f0f-1009b89657f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 밤 10시 LIVE, 디올 2024 S/S 실시간으로 감상하려면?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80936</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80936</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[벌써 기다려지는 디올의 새 시즌 뉴룩은 어떤 모습일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/c24589b6-8eb0-46fd-8d38-6b2271e19eb5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 플레어 팬츠, 스타일링 모음]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80911</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80911</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/56c42992-6572-4c13-a270-f1df32300916.jpg');">
+            <a href="/article/80911">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80911">
+                    돌아온 플레어 팬츠, 스타일링 모음                </a>
+            </em>
+            <p class="excerpt">에센셜 아이템으로 떠오른 복고풍 플레어 팬츠의 활약</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/56c42992-6572-4c13-a270-f1df32300916.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초가을 다양한 스타일을 선사할 오버사이즈 셔츠]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80907</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80907</guid>
+            <pubDate>Thu, 28 Sep 2023 15:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/a4b1d2cc-7fba-4507-abe5-08ea7358e2e0.jpg');">
+            <a href="/article/80907">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80907">
+                    초가을 다양한 스타일을 선사할 오버사이즈 셔츠                </a>
+            </em>
+            <p class="excerpt">거거익선, 오버사이즈 셔츠</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/a4b1d2cc-7fba-4507-abe5-08ea7358e2e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깜빡 속을 뻔! 트롱프뢰유를 즐기는 스타들]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80906</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80906</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/d7e02290-997f-4505-b41e-c7f6d1f22d93.jpg');">
+            <a href="/article/80906">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80906">
+                    깜빡 속을 뻔! 트롱프뢰유를 즐기는 스타들                </a>
+            </em>
+            <p class="excerpt">난이도 100 트롱프뢰유 패션을 멋지게 소화한 스타들.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/d7e02290-997f-4505-b41e-c7f6d1f22d93.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을이면 생각나는 블레이저 스타일]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80904</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80904</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/616126a0-b5fe-4cf7-b575-a801340c471f.jpg');">
+            <a href="/article/80904">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80904">
+                    가을이면 생각나는 블레이저 스타일                </a>
+            </em>
+            <p class="excerpt">오버사이즈 재킷의 유행은 유효하다. 매해 돌아오는 베이식 아이템을 취향껏 즐긴 스타들. </p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/616126a0-b5fe-4cf7-b575-a801340c471f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황금연휴 때 서울에 있다면? #팝업여지도 핫플을 참고해 봐!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80897</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80897</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/4eb31542-ca5c-43f8-9a7c-f0b14187d021.jpg');">
+            <a href="/article/80897">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80897">
+                    황금연휴 때 서울에 있다면? #팝업여지도 핫플을 참고해 봐!                </a>
+            </em>
+            <p class="excerpt">스트리트 무드의 캐주얼 아이템부터 스니커즈까지.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/4eb31542-ca5c-43f8-9a7c-f0b14187d021.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인사동에 상륙한 프라다 모드]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80809</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80809</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/0f0249cb-e0d7-4de7-97cd-4271fb065c54.jpg');">
+            <a href="/article/80809">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80809">
+                    인사동에 상륙한 프라다 모드                </a>
+            </em>
+            <p class="excerpt">무한한 가능성을 펼쳐낸 프라다 모드 서울의 순간을 목격했다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/0f0249cb-e0d7-4de7-97cd-4271fb065c54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴 구찌 뉴 크리에이티브 디렉터 24 S/S 컬렉션]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80872</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80872</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/64a7585f-a046-4e7d-bc3a-77b2a914f4fd.jpg');">
+            <a href="/article/80872">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80872">
+                    뉴 구찌 뉴 크리에이티브 디렉터 24 S/S 컬렉션                </a>
+            </em>
+            <p class="excerpt">심플함 속에 강인함, 사바토 데 사르노의 첫 번째 컬렉션이 공개됐다</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/64a7585f-a046-4e7d-bc3a-77b2a914f4fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을가을해, 라떼 컬러 패션]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80861</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80861</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/11e2189a-e53c-40f8-a8a6-67df99a69194.jpg');">
+                <a href="/article/80861">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80861">
+                        가을가을해, 라떼 컬러 패션                     </a>
+                </em>
+                <p class="excerpt">부드러운 라떼처럼, 브라운 컬러 패션을 즐기는 셀럽들</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/11e2189a-e53c-40f8-a8a6-67df99a69194.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간, 더없이 눈부신 제니]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80791</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80791</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/c926e2ca-bcc6-40fe-b9d5-1ef12ddd01ae.jpg');">
+                <a href="/article/80791">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80791">
+                        지금 이 순간, 더없이 눈부신 제니                    </a>
+                </em>
+                <p class="excerpt">'JENNIE is Here'. 자크뮈스와 함께한 제니의 화보와 인터뷰를 공개한다.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/c926e2ca-bcc6-40fe-b9d5-1ef12ddd01ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내리거나 입지 말거나]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80797</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80797</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/7b619744-adf9-4f01-80a1-e83d878884d2.jpg');">
+                <a href="/article/80797">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80797">
+                        내리거나 입지 말거나                    </a>
+                </em>
+                <p class="excerpt">올 시즌 압도적인 트렌드, 로 슬렁과 팬츠리스. 당신의 선택은?</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/7b619744-adf9-4f01-80a1-e83d878884d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멀버리 백이 형형색색으로 물든 이유 #웰컴BAG]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80833</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80833</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/0ad76d33-b461-44b9-87ca-e87660acdc3f.jpg');">
+                <a href="/article/80833">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80833">
+                        멀버리 백이 형형색색으로 물든 이유 #웰컴BAG                    </a>
+                </em>
+                <p class="excerpt">영국을 대표하는 스테판 쿡과 멀버리가 만나 다채로운 백 캡슐 컬렉션을 선보인다. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/0ad76d33-b461-44b9-87ca-e87660acdc3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술가 6인이 이야기하는 현재와 미래]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80798</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80798</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8259a646-abe7-435d-9db9-bc3b6348f559.jpg');">
+                <a href="/article/80798">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80798">
+                        예술가 6인이 이야기하는 현재와 미래                    </a>
+                </em>
+                <p class="excerpt">샤넬이 프리즈를 후원해 제작한 비디오 시리즈 ‘나우 &amp; 넥스트’ 공개를 기념해 문화예술계 인...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8259a646-abe7-435d-9db9-bc3b6348f559.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올가을 주목해야 할 컬래버레이션 3]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80817</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80817</guid>
+            <pubDate>Sat, 30 Sep 2023 03:03:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/454eaac4-76a6-49ba-9570-5025058091ce.jpg');">
+                <a href="/article/80817">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80817">
+                        올가을 주목해야 할 컬래버레이션 3                     </a>
+                </em>
+                <p class="excerpt">눈길을 끄는 컬래버레이션 아이템 </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/454eaac4-76a6-49ba-9570-5025058091ce.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
