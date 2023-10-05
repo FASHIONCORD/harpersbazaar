@@ -1,64 +1,387 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.harpersbazaar.co.kr/lifestyle</id>
-    <title>하퍼스바자 코리아 ─ 라이프스타일</title>
-    <updated>2023-10-05T09:16:16.993Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.harpersbazaar.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[설거지 폼 미쳤다! 유니크한 고무장갑 어디 거?]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80274</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80274"/>
-        <updated>2023-10-04T15:13:09.799Z</updated>
-        <content type="html"><![CDATA[각양각색의 고무장갑, 여기 다 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나는 솔로’ 16기 촬영지를 따라]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80532</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80532"/>
-        <updated>2023-09-28T03:12:45.948Z</updated>
-        <content type="html"><![CDATA[경북 오지 마을, 안동으로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는솔로 촬영지인 안동에서 뭐 먹지?]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80528</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80528"/>
-        <updated>2023-09-25T15:10:44.593Z</updated>
-        <content type="html"><![CDATA[안동의 추천 향토 음식점부터 모던 식당까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주4일제 찐후기]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80233</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80233"/>
-        <updated>2023-09-21T03:08:15.374Z</updated>
-        <content type="html"><![CDATA[근로자의 꿈인 주4일제를 경험한 회사원들에게 생생한 후기를 물었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛과 분위기를 모두 갖춘, 심야 맛집 5]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80231</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80231"/>
-        <updated>2023-09-14T15:10:03.805Z</updated>
-        <content type="html"><![CDATA[홀로 또는 여럿이, 아득한 새벽을 온전하게 즐기고 싶을 때 찾는 심야의 미식 공간들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 첫 주, 놓치지 말아야할 #팝업여지도]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80438</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80438"/>
-        <updated>2023-09-12T15:15:47.047Z</updated>
-        <content type="html"><![CDATA[각양각색 콘셉트로 시선 강탈! 성수동, 압구정, 용산에서 가볼 만한 팝업만 꼽았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 친구를 먹지 마세요]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80226</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80226"/>
-        <updated>2023-09-12T03:15:15.696Z</updated>
-        <content type="html"><![CDATA[가죽과 모피가 범람하는 F/W 런웨이에서도 지속가능성을 추구하는 이들의 열망은 거셌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최애의 아이는 있을까?]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80229</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80229"/>
-        <updated>2023-09-12T03:15:15.709Z</updated>
-        <content type="html"><![CDATA[망설이는 사랑, 망설이는 덕질.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>하퍼스바자 코리아 ─ 라이프스타일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 05 Oct 2023 15:16:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플(Apple) 최초의 탄소 중립 제품 공개]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80741</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80741</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능성을 위한 애플의 꾸준한 노력]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/afe5b485-ce1c-461e-8b85-8c557a9468b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰 15 시리즈, 뭐가 달라졌나?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80612</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80612</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[가격은 동결하고, 하드웨어와 내부 기능은 다채롭게 업그레이드해 승부수를 던졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/cf2694fe-4e71-4a18-9bbf-491007ee0bc4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설거지 폼 미쳤다! 유니크한 고무장갑 어디 거?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80274</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80274</guid>
+            <pubDate>Wed, 04 Oct 2023 15:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[각양각색의 고무장갑, 여기 다 있다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/32cac958-3386-4990-a5d9-0c48b25193c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘나는 솔로’ 16기 촬영지를 따라]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80532</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80532</guid>
+            <pubDate>Thu, 28 Sep 2023 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[경북 오지 마을, 안동으로]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/1000733e-55a7-42a4-86b5-e1d75c7f6c73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는솔로 촬영지인 안동에서 뭐 먹지?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80528</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80528</guid>
+            <pubDate>Mon, 25 Sep 2023 15:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[안동의 추천 향토 음식점부터 모던 식당까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/1b95fd9b-dc50-47bb-ae36-ba03e9f79d17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주4일제 찐후기]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80233</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80233</guid>
+            <pubDate>Thu, 21 Sep 2023 03:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[근로자의 꿈인 주4일제를 경험한 회사원들에게 생생한 후기를 물었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/751bc699-6037-4f1c-958b-5505efef303e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛과 분위기를 모두 갖춘, 심야 맛집 5]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80231</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80231</guid>
+            <pubDate>Thu, 14 Sep 2023 15:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[홀로 또는 여럿이, 아득한 새벽을 온전하게 즐기고 싶을 때 찾는 심야의 미식 공간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/35d729e4-2a2b-4392-b494-0d2ddb6781df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 첫 주, 놓치지 말아야할 #팝업여지도]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80438</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80438</guid>
+            <pubDate>Tue, 12 Sep 2023 15:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[각양각색 콘셉트로 시선 강탈! 성수동, 압구정, 용산에서 가볼 만한 팝업만 꼽았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/b2961694-0bcb-4c17-a94e-6b4771964390.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 친구를 먹지 마세요]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80226</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80226</guid>
+            <pubDate>Tue, 12 Sep 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/7608aee6-929d-497c-9393-d6ead6ce9d1a.jpg');">
+            <a href="/article/80226">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80226">
+                    내 친구를 먹지 마세요                </a>
+            </em>
+            <p class="excerpt">가죽과 모피가 범람하는 F/W 런웨이에서도 지속가능성을 추구하는 이들의 열망은 거셌다. </p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/7608aee6-929d-497c-9393-d6ead6ce9d1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최애의 아이는 있을까?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80229</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80229</guid>
+            <pubDate>Tue, 12 Sep 2023 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/80f3b699-0ca6-4f1d-b4c6-45e64726b9b7.jpg');">
+            <a href="/article/80229">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80229">
+                    최애의 아이는 있을까?                </a>
+            </em>
+            <p class="excerpt">망설이는 사랑, 망설이는 덕질.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/80f3b699-0ca6-4f1d-b4c6-45e64726b9b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헌옷으로 타워를 세울수 있다고?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80225</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80225</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/46c21b06-f6a4-4916-a997-fa3b2f071699.jpg');">
+            <a href="/article/80225">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80225">
+                    헌옷으로 타워를 세울수 있다고?                </a>
+            </em>
+            <p class="excerpt">보다 기술적이고 창의적인 방향으로 진화 중인 지속가능한 패션의 현주소를 들여다보다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/46c21b06-f6a4-4916-a997-fa3b2f071699.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상금 1천만원의 주인공을 소개합니다]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80236</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80236</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/ec60e815-ccb1-405c-94f9-5e64c00a0a55.jpg');">
+            <a href="/article/80236">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80236">
+                    상금 1천만원의 주인공을 소개합니다                </a>
+            </em>
+            <p class="excerpt">‘찐’환경 뷰티 브랜드 록시땅과 함께 약 6개월간의 대장정을 거친 업사이클링 아티스트 발굴 ...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/ec60e815-ccb1-405c-94f9-5e64c00a0a55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주도에 오픈하는 7성급 초호화 리조트의 정체!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80313</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80313</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/d96c5974-0d82-4722-ac25-82b4c3ad4b6a.jpg');">
+            <a href="/article/80313">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80313">
+                    제주도에 오픈하는 7성급 초호화 리조트의 정체!                </a>
+            </em>
+            <p class="excerpt">프레스티지 리조트 ‘더 시에나’에서 보내는 완벽한 휴양.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/d96c5974-0d82-4722-ac25-82b4c3ad4b6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘페라리 컬렉션’, 옷과 자동차가 아닌 오디오 컬렉션?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80294</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80294</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/ede5236c-0d5a-4b80-9e8c-4f495a6afb5c.jpg');">
+            <a href="/article/80294">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80294">
+                    ‘페라리 컬렉션’, 옷과 자동차가 아닌 오디오 컬렉션?                </a>
+            </em>
+            <p class="excerpt">럭셔리 브랜드 페라리와 뱅앤올룹슨이 만나 ‘페라리 컬렉션’을 출시했다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/ede5236c-0d5a-4b80-9e8c-4f495a6afb5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛집 성지 잠실 롯데월드몰에 가야할 또 다른 이유는? #신상맛집]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80213</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80213</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/138aab34-04a2-4773-97c6-55dc0d54f732.jpg');">
+            <a href="/article/80213">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80213">
+                    맛집 성지 잠실 롯데월드몰에 가야할 또 다른 이유는? #신상맛집                </a>
+            </em>
+            <p class="excerpt">오픈런은 선택, 웨이팅은 필수? </p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/138aab34-04a2-4773-97c6-55dc0d54f732.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100% 재활용에 한 걸음 더 가까워진 가방]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80193</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80193</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/8f6bbd3c-3060-4fd9-8aa3-c863b17e2887.jpg');">
+                <a href="/article/80193">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80193">
+                        100% 재활용에 한 걸음 더 가까워진 가방                    </a>
+                </em>
+                <p class="excerpt">파타고니아 '블랙 홀 컬렉션' 새롭게 출시</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/8f6bbd3c-3060-4fd9-8aa3-c863b17e2887.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피트 위스키의 표본, '탈리스커'가 해양 환경 단체 '팔리'와 함께한 이유는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80079</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80079</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/0f2b5911-8115-4c15-8be4-0b3cf53ce239.jpg');">
+                <a href="/article/80079">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80079">
+                        피트 위스키의 표본, '탈리스커'가 해양 환경 단체 '팔리'와 함께한 이유는?                     </a>
+                </em>
+                <p class="excerpt">바다에서 태어난 위스키 '탈리스커', 이제는 바다를 가장 먼저 생각한다. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/0f2b5911-8115-4c15-8be4-0b3cf53ce239.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 딱 좋은 마지막 여름 계곡]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80136</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80136</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/f4a29d92-45f9-43b3-abf0-4fdf8df0e029.jpg');">
+                <a href="/article/80136">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80136">
+                        지금 딱 좋은 마지막 여름 계곡                    </a>
+                </em>
+                <p class="excerpt">여름 휴가 북새통이 지나고 지금 딱 떠날 시간. 여름의 끝을 잡고 남쪽의 청정 계곡으로 가자...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/f4a29d92-45f9-43b3-abf0-4fdf8df0e029.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바자전 프리뷰 파티, 그 날의 뜨거운 분위기!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80061</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80061</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/544f917d-e6e1-4a26-9415-ad817ca8b9ad.jpg');">
+                <a href="/article/80061">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80061">
+                        바자전 프리뷰 파티, 그 날의 뜨거운 분위기!                    </a>
+                </em>
+                <p class="excerpt"> &lt;바자 아트&gt; 한국어판 창간 10주년을 맞이해 진행한 8월 ≪바자전≫</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/544f917d-e6e1-4a26-9415-ad817ca8b9ad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8년만에 공개된 서울의 새 브랜드 ‘서울, 마이 소울']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79923</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79923</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/a65a8e6b-237d-4c70-afb7-81e7ffafceb6.jpg');">
+                <a href="/article/79923">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79923">
+                        8년만에 공개된 서울의 새 브랜드 ‘서울, 마이 소울'                    </a>
+                </em>
+                <p class="excerpt">85만 여 명이 참여해 만들어낸 결과물!</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/a65a8e6b-237d-4c70-afb7-81e7ffafceb6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8월 26일, '타임 애프터 타임'과 '테이스트 앤 테이스트'에 가야 하는 이유?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/79910</link>
+            <guid>https://www.harpersbazaar.co.kr/article/79910</guid>
+            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/c986260d-d767-491b-9f1b-588e6e1d0932.jpg');">
+                <a href="/article/79910">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79910">
+                        8월 26일, '타임 애프터 타임'과 '테이스트 앤 테이스트'에 가야 하는 이유?                    </a>
+                </em>
+                <p class="excerpt">성수동 연무장길에 열릴 힙한 공간 ‘and After’는 무엇? 각 ‘T.A.T’ 대표와 나눈 이야기...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/c986260d-d767-491b-9f1b-588e6e1d0932.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
