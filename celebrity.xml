@@ -1,64 +1,387 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.harpersbazaar.co.kr/celebrity</id>
-    <title>하퍼스바자 코리아 ─ 셀레브리티</title>
-    <updated>2023-10-13T15:20:50.297Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.harpersbazaar.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[배우 전여빈의 시간 속으로 10월호 화보 공개]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80922</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80922"/>
-        <updated>2023-10-11T09:06:46.105Z</updated>
-        <content type="html"><![CDATA[‘저의 그리움과 안부를 사진으로 실어 보냅니다.’ 10월에 쓰인 전여빈의 편지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파비앙이 '파비생제르망' 유튜브를 개설한 이유는?]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80933</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80933"/>
-        <updated>2023-10-11T09:06:46.107Z</updated>
-        <content type="html"><![CDATA[대체로 객관적으로 때론 열광적으로. 15년째 서울과 파리를 대하는 파비앙의 자세.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍진경의 데뷔 30주년을 축하하며!]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80899</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80899"/>
-        <updated>2023-10-08T15:09:27.413Z</updated>
-        <content type="html"><![CDATA[모델로, 예능인으로, 사업가로, 유튜버로. 똑똑한 진화를 거듭해온 홍진경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자크뮈스의 뮤즈! 제니의 레전드 커버 촬영 현장 비하인드 공개!]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/81014</id>
-        <link href="https://www.harpersbazaar.co.kr/article/81014"/>
-        <updated>2023-10-08T15:09:27.416Z</updated>
-        <content type="html"><![CDATA[사랑스러우면서도 매혹적인, 온갖 매력으로 무장한 제니의 모습이 궁금하다면?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김민하가 오밤중에 성수동에 나타난 이유는?]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80818</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80818"/>
-        <updated>2023-10-06T03:09:23.990Z</updated>
-        <content type="html"><![CDATA[늦은 밤, 김민하가 디올 성수를 찾은 이유. 한국에 상륙한 ‘디올 레이디 아트’ 여덟 번째 에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디카프리오의 연인, 모델 비토리아의 이모저모]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/81005</id>
-        <link href="https://www.harpersbazaar.co.kr/article/81005"/>
-        <updated>2023-10-04T15:09:27.260Z</updated>
-        <content type="html"><![CDATA[알수록 반한다. ‘디카프리오의 새로운 연인’ 타이틀을 차지한 톱 모델.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬란한 햇살 속, 전여빈의 서정적인 순간]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80958</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80958"/>
-        <updated>2023-10-03T03:09:18.289Z</updated>
-        <content type="html"><![CDATA[영화 '거미집'으로 돌아온 전여빈과의 인터뷰를 &lt;하퍼스 바자&gt; 10월호에 담아냈다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 제노와 페라가모의 갓벽한 만남]]></title>
-        <id>https://www.harpersbazaar.co.kr/article/80806</id>
-        <link href="https://www.harpersbazaar.co.kr/article/80806"/>
-        <updated>2023-09-29T03:06:26.773Z</updated>
-        <content type="html"><![CDATA[푸른 밤하늘 아래 검게 빛나는 바다가 넘실댄다. 블루에서 블랙으로 물든 공간. 페라가모의 202...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>하퍼스바자 코리아 ─ 셀레브리티</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 14 Oct 2023 03:08:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시대의 아이콘 윤복희와 청춘, 그 시간을 초월한 순간]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81169</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81169</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[전설적인 대중문화·패션의 아이콘, 윤복희와 MCM이 함께한 <harper’s bazaar=""> KOREA 10월호...                                    </harper’s>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/684bd2ce-b95d-48bd-82a4-d8821f2fadaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 전여빈의 시간 속으로 10월호 화보 공개]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80922</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80922</guid>
+            <pubDate>Wed, 11 Oct 2023 09:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘저의 그리움과 안부를 사진으로 실어 보냅니다.’ 10월에 쓰인 전여빈의 편지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/88f67890-09ff-4ed8-a67e-8a8d6a7e4572.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파비앙이 '파비생제르망' 유튜브를 개설한 이유는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80933</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80933</guid>
+            <pubDate>Wed, 11 Oct 2023 09:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[대체로 객관적으로 때론 열광적으로. 15년째 서울과 파리를 대하는 파비앙의 자세.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/2253442a-60e6-41b1-a64b-341c13345aef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍진경의 데뷔 30주년을 축하하며!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80899</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80899</guid>
+            <pubDate>Sun, 08 Oct 2023 15:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[모델로, 예능인으로, 사업가로, 유튜버로. 똑똑한 진화를 거듭해온 홍진경]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/9efbdbe1-80ce-4093-b872-cc6c7cace876.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자크뮈스의 뮤즈! 제니의 레전드 커버 촬영 현장 비하인드 공개!]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81014</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81014</guid>
+            <pubDate>Sun, 08 Oct 2023 15:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[사랑스러우면서도 매혹적인, 온갖 매력으로 무장한 제니의 모습이 궁금하다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/f9822b5d-9a9e-499c-9adc-78b7ce975fbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김민하가 오밤중에 성수동에 나타난 이유는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80818</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80818</guid>
+            <pubDate>Fri, 06 Oct 2023 03:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[늦은 밤, 김민하가 디올 성수를 찾은 이유. 한국에 상륙한 ‘디올 레이디 아트’ 여덟 번째 에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/71ba5909-cc7b-4e72-b61b-8a93aedc4dc7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디카프리오의 연인, 모델 비토리아의 이모저모]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81005</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81005</guid>
+            <pubDate>Wed, 04 Oct 2023 15:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[알수록 반한다. ‘디카프리오의 새로운 연인’ 타이틀을 차지한 톱 모델.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/eb8c0e9a-4df7-4e51-89cf-c361eec452cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬란한 햇살 속, 전여빈의 서정적인 순간]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80958</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80958</guid>
+            <pubDate>Tue, 03 Oct 2023 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[영화 '거미집'으로 돌아온 전여빈과의 인터뷰를 &lt;하퍼스 바자&gt; 10월호에 담아냈다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/9f6e0143-93d2-4fd7-bd95-36518055688e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 제노와 페라가모의 갓벽한 만남]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80806</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80806</guid>
+            <pubDate>Fri, 29 Sep 2023 03:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/3ca48672-2353-4e60-b5ec-e139c3029919.jpg');">
+            <a href="/article/80806">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80806">
+                    NCT 제노와 페라가모의 갓벽한 만남                </a>
+            </em>
+            <p class="excerpt">푸른 밤하늘 아래 검게 빛나는 바다가 넘실댄다. 블루에서 블랙으로 물든 공간. 페라가모의 202...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/3ca48672-2353-4e60-b5ec-e139c3029919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행운의 부적이 되어줄 넘버 5 화인 주얼리와 뉴진스 민지]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80799</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80799</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/e4e37396-ea2b-4100-a841-e302faff5e84.jpg');">
+            <a href="/article/80799">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80799">
+                    행운의 부적이 되어줄 넘버 5 화인 주얼리와 뉴진스 민지                </a>
+            </em>
+            <p class="excerpt">PIECE OF LUCK 5</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/e4e37396-ea2b-4100-a841-e302faff5e84.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한외국인, 파비앙의 축구 인생]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80849</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80849</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/332f5a0d-e640-4068-b672-4b6331dc2ed9.jpg');">
+            <a href="/article/80849">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80849">
+                    대한외국인, 파비앙의 축구 인생                </a>
+            </em>
+            <p class="excerpt">파리에서 한국으로, 축구 덕후 파비앙과 함께한 하퍼스 바자 10월호</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/332f5a0d-e640-4068-b672-4b6331dc2ed9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간, 더없이 눈부신 제니]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80791</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80791</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/c926e2ca-bcc6-40fe-b9d5-1ef12ddd01ae.jpg');">
+            <a href="/article/80791">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80791">
+                    지금 이 순간, 더없이 눈부신 제니                </a>
+            </em>
+            <p class="excerpt">'JENNIE is Here'. 자크뮈스와 함께한 제니의 화보와 인터뷰를 공개한다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/c926e2ca-bcc6-40fe-b9d5-1ef12ddd01ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈을 현실로 만드는 디자이너 시몽 포르테 자크뮈스와 나눈 이야기]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80796</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80796</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/812afe9f-3b97-4bc5-b3db-5222acacbaf9.jpg');">
+            <a href="/article/80796">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80796">
+                    꿈을 현실로 만드는 디자이너 시몽 포르테 자크뮈스와 나눈 이야기                </a>
+            </em>
+            <p class="excerpt">이토록 낭만적인 몽상가, 꿈을 현실로 만드는 디자이너 시몽 포르테 자크뮈스(Simon Porte Jacq...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/812afe9f-3b97-4bc5-b3db-5222acacbaf9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['초보 아빠' 송중기, <화란> 간담회에서 언급한 #2세 #케이티❤️]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80829</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80829</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/ce0691e5-5975-4578-949c-7084435853a2.jpg');">
+            <a href="/article/80829">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80829">
+                    '초보 아빠' 송중기, &lt;화란&gt; 간담회에서 언급한 #2세 #케이티❤️                </a>
+            </em>
+            <p class="excerpt">"아기 옆에서 지내며 '좋은 사람이 되어야겠다' 생각 많이해"</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/ce0691e5-5975-4578-949c-7084435853a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 슈가, 軍 대체복무 시작! 진→제이홉→슈가..다음은?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80795</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80795</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/08c5a5d0-ee04-4fdb-8b75-d332912ad940.jpg');">
+            <a href="/article/80795">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80795">
+                    BTS 슈가, 軍 대체복무 시작! 진→제이홉→슈가..다음은?                </a>
+            </em>
+            <p class="excerpt">"2025년에 봅시다!" 방탄소년단 슈가, 병역의무 이행!</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/08c5a5d0-ee04-4fdb-8b75-d332912ad940.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모자를 애정하는 한지민의 사복패션은? #B_STAR일링]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80785</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80785</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/997a260d-4576-474c-94f9-a72c04ec3504.jpg');">
+                <a href="/article/80785">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80785">
+                        모자를 애정하는 한지민의 사복패션은? #B_STAR일링                    </a>
+                </em>
+                <p class="excerpt">일상에서 캐주얼한 룩을 즐기는 한지민! 그의 코디를 구경해 보세요! </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/997a260d-4576-474c-94f9-a72c04ec3504.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외유내강, 홍진경의 빛나는 일대기]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80784</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80784</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/bc06e3b9-7836-4534-bbca-d85c9ee76e74.jpg');">
+                <a href="/article/80784">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80784">
+                        외유내강, 홍진경의 빛나는 일대기                     </a>
+                </em>
+                <p class="excerpt">홍진경의 데뷔 30주년을 기념하여 하퍼스 바자와의 10월호 화보를 진행했다. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/bc06e3b9-7836-4534-bbca-d85c9ee76e74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고윤정, 또 고윤정! <무빙> 끝나고, <슬의생> 스핀오프 行]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80774</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80774</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/fcf27675-dba0-457e-a1af-a8a24e3a6971.jpg');">
+                <a href="/article/80774">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80774">
+                        고윤정, 또 고윤정! &lt;무빙&gt; 끝나고, &lt;슬의생&gt; 스핀오프 行                    </a>
+                </em>
+                <p class="excerpt">홍자매 신작 &lt;이 사랑 통 되나요?&gt; 출연 검토중! '요즘 대세=고윤정'</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/fcf27675-dba0-457e-a1af-a8a24e3a6971.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디올 레이디, 김민하가 품은 '디올 레이디 아트']]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80756</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80756</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/70027a6f-a12c-4796-8695-90ba2145474b.jpg');">
+                <a href="/article/80756">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80756">
+                        디올 레이디, 김민하가 품은 '디올 레이디 아트'                    </a>
+                </em>
+                <p class="excerpt">현대미술로 재해석한 '레이디 디올' 백을 착용한 김민하를 &lt;하퍼스 바자&gt; 10월호에 담아냈다.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/70027a6f-a12c-4796-8695-90ba2145474b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽시양♥임현주, 연예계 공식커플 탄생! #커플링 #럽스타]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80750</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80750</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/9604fcc8-7f56-4f32-99b6-82846fbb3b94.jpg');">
+                <a href="/article/80750">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80750">
+                        곽시양♥임현주, 연예계 공식커플 탄생! #커플링 #럽스타                    </a>
+                </em>
+                <p class="excerpt">'하트시그널' 임현주, 곽시양과 초고속으로 열애 인정!</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/9604fcc8-7f56-4f32-99b6-82846fbb3b94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검푸른 시간 속, NCT 제노]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80715</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80715</guid>
+            <pubDate>Sat, 14 Oct 2023 03:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/fef4336b-58d7-4172-b9e6-589003fbc3f8.jpg');">
+                <a href="/article/80715">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80715">
+                        검푸른 시간 속, NCT 제노                    </a>
+                </em>
+                <p class="excerpt">페라가모와 제노의 검게 빛나는 만남을 &lt;하퍼스 바자&gt; 10월호에 담아냈다. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/fef4336b-58d7-4172-b9e6-589003fbc3f8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
