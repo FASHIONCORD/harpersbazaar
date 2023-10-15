@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 03:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 09:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2364,6 +2364,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/b268d984-b676-490a-96d3-57db9fb0abb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[맛잘알, 찐맛천재 홍진경의 단골 맛집 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81131</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81131</guid>
+            <pubDate>Sun, 15 Oct 2023 09:04:52 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 30주년을 맞은 홍진경, 바자 유튜브에서 최애 맛집을 공개하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/9b554aaf-183b-4da1-b16c-f088f7d1ce3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[당신이 몰랐던 '찐'환경 뷰티 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80971</link>
             <guid>https://www.harpersbazaar.co.kr/article/80971</guid>
@@ -2424,7 +2432,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80528</link>
             <guid>https://www.harpersbazaar.co.kr/article/80528</guid>
             <pubDate>Mon, 25 Sep 2023 15:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[안동의 추천 향토 음식점부터 모던 식당까지.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/1b95fd9b-dc50-47bb-ae36-ba03e9f79d17.jpg');">
+            <a href="/article/80528">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80528">
+                    나는솔로 촬영지인 안동에서 뭐 먹지?                </a>
+            </em>
+            <p class="excerpt">안동의 추천 향토 음식점부터 모던 식당까지.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/1b95fd9b-dc50-47bb-ae36-ba03e9f79d17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2577,22 +2601,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/80236</guid>
             <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/ec60e815-ccb1-405c-94f9-5e64c00a0a55.jpg');">
-            <a href="/article/80236">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/80236">
-                    상금 1천만원의 주인공을 소개합니다                </a>
-            </em>
-            <p class="excerpt">‘찐’환경 뷰티 브랜드 록시땅과 함께 약 6개월간의 대장정을 거친 업사이클링 아티스트 발굴 ...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80236">
+                        상금 1천만원의 주인공을 소개합니다                    </a>
+                </em>
+                <p class="excerpt">‘찐’환경 뷰티 브랜드 록시땅과 함께 약 6개월간의 대장정을 거친 업사이클링 아티스트 발굴 ...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/ec60e815-ccb1-405c-94f9-5e64c00a0a55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2714,30 +2738,6 @@
                 <p class="excerpt">바다에서 태어난 위스키 '탈리스커', 이제는 바다를 가장 먼저 생각한다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/0f2b5911-8115-4c15-8be4-0b3cf53ce239.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 딱 좋은 마지막 여름 계곡 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80136</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80136</guid>
-            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/f4a29d92-45f9-43b3-abf0-4fdf8df0e029.jpg');">
-                <a href="/article/80136">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80136">
-                        지금 딱 좋은 마지막 여름 계곡                    </a>
-                </em>
-                <p class="excerpt">여름 휴가 북새통이 지나고 지금 딱 떠날 시간. 여름의 끝을 잡고 남쪽의 청정 계곡으로 가자...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/f4a29d92-45f9-43b3-abf0-4fdf8df0e029.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상금 1천만원의 주인공을 소개합니다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
