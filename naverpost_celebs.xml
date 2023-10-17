@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 03:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 09:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리의 아침 장원영과 서울의 저녁 민니, 하퍼스 바자 11월호]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36735439&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36735439&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 17 Oct 2023 09:01:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMTdfMTYx/MDAxNjk3NTA2ODM3NjIx.Ph2hXqr-SQd69mutCGrj8C1pnWRk93-ObqlYcxbP3ZIg.1LrpX8ML__ru20ST1aWh-FwNm1lMU24lHkPhgw6LA6Eg.JPEG/IKNxv8yzjSAEpfC7t7F5BMoZjSYk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 디카프리오의 연인, 모델 비토리아]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36661457&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 13 Jul 2023 03:20:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTNfMjcx/MDAxNjg5MjExODg5NTQ2.GFFKSAIoIeILOCA7tlnunE8_nLj9g9WFJgjG4rdbS3wg.qfThLQQlBNMiBf9fkn_Ke2ZWkNH4eDzKp-Ojwmu2Vt4g.JPEG/IE9XqMaCuA6TpxfjyXkslf2OFR_U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스가 미국에서 쓴 'K팝 걸그룹 최초' 기록들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36216670&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36216670&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Sun, 09 Jul 2023 03:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MDhfMTE1/MDAxNjg4ODAxMTIwMDU2.4VLqZE0IxrP4_ZZr68GFoadNgiXNs0KjT-Y7wBORbkkg.MM_qmcFBr2ZZDezFpzawVZNWyb26AKwm5-Ikt_UEW_Qg.JPEG/IdKdPOfOtr0SSwQTy7Lr5mit1boA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
