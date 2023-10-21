@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 15:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무인도의 디바로 돌아온 박은빈, 하퍼스 바자 11월 호에서]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36754433&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36754433&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Sat, 21 Oct 2023 03:01:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjBfMTI2/MDAxNjk3NzY1Nzk5MjUw.MfFIxR5BkjctCJvXcH0Bzc1_V9aIFrgH6ow3urwFIyMg.PmIBYYnpf-2lpz-ePPsPO-t962gQ_fZigOZewLQt7I0g.JPEG/IyxbBKpFhd0U0-XkL9yKI7Gvf2yw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 뷔가 추천한 남아공 뮤지션 타일러, 누구일까?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36747938&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jul 2023 15:02:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMzEg/MDAxNjg5ODQ4NzM0NjU0.Hv40_ocjRai-Jd_HadbMSUAOAum5pLUtyYmKlMgrXskg.aAVp4RbUR7DQbXQBnGlK26gcgYqdW4THfS9cLQg54nYg.JPEG/IWxJROr-A33YSsAmIH7SYpNubTMo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀란 쿤데라, 그가 남긴 문장들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36251838&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36251838&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Sun, 16 Jul 2023 03:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTVfMTM0/MDAxNjg5MzgwNTk4NTMw.gSIIF4GFYKru4LlEWuHCEzK0EPx50IjrJHuWZGwWgUwg.Ct1UBeoVq7ZaeJyOh3K1u6yy9lCxYblSOQV-UvQyVrYg.JPEG/IN9dC-WPgUKVAOzQC7vhNvNV60TQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
