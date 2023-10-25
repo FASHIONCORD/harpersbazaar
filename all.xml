@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 03:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 09:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1988,6 +1988,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/9efbdbe1-80ce-4093-b872-cc6c7cace876.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<지붕킥> 기억나? 신세경→황정음..반가워서 모아본 근황작! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81516</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81516</guid>
+            <pubDate>Wed, 25 Oct 2023 09:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[시트콤 &lt;지붕뚫고 하이킥&gt;, 종영 13년 반..여전히 핫한 그들🔥]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/b0de63e4-36e7-41fd-9675-d6688c8d7355.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<연인> 남궁민, 이다인·박진우→이청아..다시 만난 '궁라인' (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81515</link>
             <guid>https://www.harpersbazaar.co.kr/article/81515</guid>
@@ -2048,7 +2056,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81135</link>
             <guid>https://www.harpersbazaar.co.kr/article/81135</guid>
             <pubDate>Fri, 20 Oct 2023 09:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 라이징 우먼 아티스트들의 세계관이 펼쳐진 작업실을 찾았다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/ac0bfe91-454e-49cc-b243-b493f228e469.jpg');">
+            <a href="/article/81135">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81135">
+                    떠오르는 여성 아티스트4                </a>
+            </em>
+            <p class="excerpt">한국의 라이징 우먼 아티스트들의 세계관이 펼쳐진 작업실을 찾았다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/ac0bfe91-454e-49cc-b243-b493f228e469.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2201,22 +2225,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81119</guid>
             <pubDate>Sat, 14 Oct 2023 15:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c9a4cf0f-7710-47ca-a098-de72bd104fa9.jpg');">
-            <a href="/article/81119">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81119">
-                    아르누보? 아트누보!                </a>
-            </em>
-            <p class="excerpt">새로운 예술의 선도자였던 알폰스 무하의 일생을 눈과 귀와 피부로 느끼는 시간. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81119">
+                        아르누보? 아트누보!                    </a>
+                </em>
+                <p class="excerpt">새로운 예술의 선도자였던 알폰스 무하의 일생을 눈과 귀와 피부로 느끼는 시간. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c9a4cf0f-7710-47ca-a098-de72bd104fa9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2338,30 +2362,6 @@
                 <p class="excerpt">아무것도 하지 않기, 시간 보내기, 살아내기가 그의 주된 작업이다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/9984140a-3fec-4978-996b-8f20790cf264.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍이현숙 연대기 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80990</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80990</guid>
-            <pubDate>Thu, 19 Oct 2023 03:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c1795aa6-03e1-4252-8979-8953a0676865.jpg');">
-                <a href="/article/80990">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80990">
-                        홍이현숙 연대기                    </a>
-                </em>
-                <p class="excerpt">지난 35년간 전방위적으로 한국 미술계를 종횡무진한 홍이현숙 작가의 예술 세계</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/c1795aa6-03e1-4252-8979-8953a0676865.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박보검도 반한 안동에서 가을 꽃 구경, 물 구경 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
