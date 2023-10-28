@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 03:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 09:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2740,6 +2740,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/46c21b06-f6a4-4916-a997-fa3b2f071699.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[헌옷으로 타워를 세울수 있다고? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80225</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80225</guid>
+            <pubDate>Fri, 20 Oct 2023 15:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[보다 기술적이고 창의적인 방향으로 진화 중인 지속가능한 패션의 현주소를 들여다보다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/46c21b06-f6a4-4916-a997-fa3b2f071699.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[상금 1천만원의 주인공을 소개합니다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80236</link>
             <guid>https://www.harpersbazaar.co.kr/article/80236</guid>
@@ -2800,7 +2808,23 @@
             <link>https://www.harpersbazaar.co.kr/article/78699</link>
             <guid>https://www.harpersbazaar.co.kr/article/78699</guid>
             <pubDate>Tue, 08 Aug 2023 03:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적인 거장이 되기 전 감독은 환경 파괴 등 주요 사회문제를 다큐멘터리로 담아냈다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/f9b7ff9d-ceef-49f8-bdf3-5ea94e09ce2b.jpg');">
+            <a href="/article/78699">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/78699">
+                    고레에다 히로카즈가 찍은 환경 다큐                </a>
+            </em>
+            <p class="excerpt">전 세계적인 거장이 되기 전 감독은 환경 파괴 등 주요 사회문제를 다큐멘터리로 담아냈다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/f9b7ff9d-ceef-49f8-bdf3-5ea94e09ce2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2953,22 +2977,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77423</guid>
             <pubDate>Wed, 20 Sep 2023 03:11:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/35873e7e-7004-4407-8962-2635b2734888.jpg');">
-            <a href="/article/77423">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77423">
-                    #BBB 우리가 비누를 사용해야 하는 이유                </a>
-            </em>
-            <p class="excerpt">고체 바, 사용 후기가 궁금하세요? (feat.아로마티카 매장 방문기)</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77423">
+                        #BBB 우리가 비누를 사용해야 하는 이유                    </a>
+                </em>
+                <p class="excerpt">고체 바, 사용 후기가 궁금하세요? (feat.아로마티카 매장 방문기)</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/35873e7e-7004-4407-8962-2635b2734888.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3090,30 +3114,6 @@
                 <p class="excerpt">재고를 업사이클링하고 쇼에 사용된 자원은 재활용하는 윤리적이고 지속가능한 패션쇼</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/147f0520-29df-4ec5-8ade-f96803a5de97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 처음 사용해 본 바디 바! 생생한 후기 알려드립니다 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77327</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77327</guid>
-            <pubDate>Wed, 20 Sep 2023 03:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/0cba6af5-08da-444a-9e3f-255026a036dc.jpg');">
-                <a href="/article/77327">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77327">
-                        #BBB 처음 사용해 본 바디 바! 생생한 후기 알려드립니다                    </a>
-                </em>
-                <p class="excerpt">아로마티카 바디 바를 사용해본 솔직 후기</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/0cba6af5-08da-444a-9e3f-255026a036dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
