@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 15:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 03:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1612,6 +1612,22 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/bba37f87-1814-4fdb-a547-de3e0fdc9d94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생애 첫 LP 앨범을 발매한 이승윤 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81586</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81586</guid>
+            <pubDate>Tue, 31 Oct 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[선명하고 담대하게. 이승윤의 목소리가 점점 증폭할 때 드러나는 것들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/d1e2d569-6b81-4260-a876-a37a9015a03f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민니의 밤은 낮보다 아름답다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81580</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81580</guid>
+            <pubDate>Tue, 31 Oct 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[검붉게 물든 하늘이 도시의 불빛으로 가득 채워지고 11시 55분, 그녀 혼자만의 파티가 시작되었...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/938d354d-a242-460d-8def-e99074e99877.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올해 나이 열아홉. 눈 부시도록 아름다운 파리의 장원영 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81577</link>
             <guid>https://www.harpersbazaar.co.kr/article/81577</guid>
@@ -1664,7 +1680,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81491</link>
             <guid>https://www.harpersbazaar.co.kr/article/81491</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 도영이 돌체앤가바나의 새로운 뮤즈가 됐다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/7785db80-1a58-4fbe-ab43-dff6775e39a5.jpg');">
+            <a href="/article/81491">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81491">
+                    돌체앤가바나의 새로운 글로벌 앰배서더는? NCT 도영                </a>
+            </em>
+            <p class="excerpt">NCT 도영이 돌체앤가바나의 새로운 뮤즈가 됐다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/7785db80-1a58-4fbe-ab43-dff6775e39a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1672,7 +1704,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81484</link>
             <guid>https://www.harpersbazaar.co.kr/article/81484</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[20여년 간 구찌의 여성복 수석 디자이너로 활동했다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/a1d1ad5f-3b92-4298-9678-9852d8560543.jpg');">
+            <a href="/article/81484">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81484">
+                    모스키노의 새로운 크리에이티브 디렉터, ‘다비드 렌’은 누구?                </a>
+            </em>
+            <p class="excerpt">20여년 간 구찌의 여성복 수석 디자이너로 활동했다.  </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/a1d1ad5f-3b92-4298-9678-9852d8560543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1801,22 +1849,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81417</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:12 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b41e1b9f-aeb9-4ee7-a405-ba997d414c57.jpg');">
-            <a href="/article/81417">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81417">
-                    무인도의 디바, 박은빈의 우아한 오라                </a>
-            </em>
-            <p class="excerpt">'무인도의 디바'로 돌아온 박은빈과 함께한 화보를 &lt;하퍼스 바자&gt; 11월호에서 만나볼 수 있다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81417">
+                        무인도의 디바, 박은빈의 우아한 오라                    </a>
+                </em>
+                <p class="excerpt">'무인도의 디바'로 돌아온 박은빈과 함께한 화보를 &lt;하퍼스 바자&gt; 11월호에서 만나볼 수 있다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b41e1b9f-aeb9-4ee7-a405-ba997d414c57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1825,22 +1873,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81392</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:12 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/81e6ed98-76c1-4c97-85f4-5ec9e83ec863.jpg');">
-            <a href="/article/81392">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81392">
-                    ‘파리의 장원영, 서울의 민니’,  2인 4색의 미우미우                </a>
-            </em>
-            <p class="excerpt">파리의 아침 장원영과 서울의 저녁 민니, 미우미우와 함께한 &lt;바자&gt; 11월호 </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81392">
+                        ‘파리의 장원영, 서울의 민니’,  2인 4색의 미우미우                    </a>
+                </em>
+                <p class="excerpt">파리의 아침 장원영과 서울의 저녁 민니, 미우미우와 함께한 &lt;바자&gt; 11월호 </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/81e6ed98-76c1-4c97-85f4-5ec9e83ec863.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1938,54 +1986,6 @@
                 <p class="excerpt">제니, 월드투어 솔로 무대! 3분 압축 믹스비디오=보너스💎</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/04396a8f-5f75-441d-a316-e226caf40e37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오겜> 이유미, <지우학>부터 <강남순>까지 '대세' 굳히기 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81211</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81211</guid>
-            <pubDate>Tue, 10 Oct 2023 09:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/d60c9955-359c-4aaa-8339-f282324ce476.jpg');">
-                <a href="/article/81211">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81211">
-                        &lt;오겜&gt; 이유미, &lt;지우학&gt;부터 &lt;강남순&gt;까지 '대세' 굳히기                    </a>
-                </em>
-                <p class="excerpt">조연에서 타이틀롤까지..배우 이유미의 찬란한 성장史✨</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/d60c9955-359c-4aaa-8339-f282324ce476.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걸스데이 소진♥이동하, 깜짝 결혼발표! 직접 전한 소감은? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81202</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81202</guid>
-            <pubDate>Sun, 15 Oct 2023 03:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/fa34f6d0-83e7-4321-8091-5aee50a1413d.jpg');">
-                <a href="/article/81202">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81202">
-                        걸스데이 소진♥이동하, 깜짝 결혼발표! 직접 전한 소감은?                    </a>
-                </em>
-                <p class="excerpt">영화 &lt;괴기맨션&gt;으로 연인 호흡했던 소진-이동하, 실제 부부 된다!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/fa34f6d0-83e7-4321-8091-5aee50a1413d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남궁민·황정민→아이브·뉴진스..'2023 대중문화예술상' 영예 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
