@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 03:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 09:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1612,6 +1612,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/bba37f87-1814-4fdb-a547-de3e0fdc9d94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일과 사랑, 모두 성공한 카일리 제너의 새로운 도전은? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81669</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81669</guid>
+            <pubDate>Sat, 28 Oct 2023 03:03:15 GMT</pubDate>
+            <content:encoded><![CDATA[어포더블 럭셔리를 대표할 새로운 브랜드, KHY 론칭]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/aa553ac1-8efd-4d0e-b694-ea5e7fe035ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[생애 첫 LP 앨범을 발매한 이승윤 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81586</link>
             <guid>https://www.harpersbazaar.co.kr/article/81586</guid>
@@ -1672,7 +1680,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81497</link>
             <guid>https://www.harpersbazaar.co.kr/article/81497</guid>
             <pubDate>Wed, 25 Oct 2023 03:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[할리우드 배우 부부 탄생! 다니엘 헤니❤️루 쿠마가이]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/14541b1d-2c23-4917-88f0-b6dab6d88645.jpg');">
+            <a href="/article/81497">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81497">
+                    다니엘 헤니, 극비 결혼!! 신부 '루 쿠마가이'는 누구?                </a>
+            </em>
+            <p class="excerpt">할리우드 배우 부부 탄생! 다니엘 헤니❤️루 쿠마가이</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/14541b1d-2c23-4917-88f0-b6dab6d88645.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1825,22 +1849,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81425</guid>
             <pubDate>Sat, 21 Oct 2023 09:02:43 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/21c88300-9fdd-4c7f-b868-2475cde41348.jpg');">
-            <a href="/article/81425">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81425">
-                    열 개의 주얼리를 대신하는 ‘헤드셋’                </a>
-            </em>
-            <p class="excerpt">젠지 세대의 필수 패션 액세서리가 된 헤드셋 스타일링. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81425">
+                        열 개의 주얼리를 대신하는 ‘헤드셋’                    </a>
+                </em>
+                <p class="excerpt">젠지 세대의 필수 패션 액세서리가 된 헤드셋 스타일링. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/21c88300-9fdd-4c7f-b868-2475cde41348.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1962,30 +1986,6 @@
                 <p class="excerpt">신기록이 취미인 뉴진스, 이번엔 뭐뭐 갈아치웠을까</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/03542a6b-3919-4d00-8461-0890c25e8aba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블핑 제니의 특별한 싱글 'You & Me'가 궁금하다면 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81222</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81222</guid>
-            <pubDate>Thu, 19 Oct 2023 03:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/04396a8f-5f75-441d-a316-e226caf40e37.jpg');">
-                <a href="/article/81222">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81222">
-                        블핑 제니의 특별한 싱글 'You &amp; Me'가 궁금하다면                    </a>
-                </em>
-                <p class="excerpt">제니, 월드투어 솔로 무대! 3분 압축 믹스비디오=보너스💎</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/04396a8f-5f75-441d-a316-e226caf40e37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남궁민·황정민→아이브·뉴진스..'2023 대중문화예술상' 영예 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
