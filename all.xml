@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 09:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 15:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2364,6 +2364,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/04396a8f-5f75-441d-a316-e226caf40e37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타들은 평소에 무엇을 할까? 스타들의 취미생활 모음! (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81530</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81530</guid>
+            <pubDate>Wed, 01 Nov 2023 15:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[벨라 하디드부터 수지까지, 스타의 일상을 엿봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2c647da-710f-4e3a-a6af-f1b554a4a890.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MZ 세대들이 가장 많이 검색한 전 세계 인기 가을 여행지는? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81499</link>
             <guid>https://www.harpersbazaar.co.kr/article/81499</guid>
@@ -2424,7 +2432,23 @@
             <link>https://www.harpersbazaar.co.kr/article/80971</link>
             <guid>https://www.harpersbazaar.co.kr/article/80971</guid>
             <pubDate>Sat, 14 Oct 2023 03:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[지구에 이로운 방향으로 나아가는 뷰티 업계의 착한 행보를 모았다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/7da6160a-1725-4f29-bead-c71e5acea009.jpg');">
+            <a href="/article/80971">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80971">
+                    당신이 몰랐던 '찐'환경 뷰티                 </a>
+            </em>
+            <p class="excerpt">지구에 이로운 방향으로 나아가는 뷰티 업계의 착한 행보를 모았다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/7da6160a-1725-4f29-bead-c71e5acea009.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2577,22 +2601,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/80528</guid>
             <pubDate>Fri, 20 Oct 2023 15:14:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/1b95fd9b-dc50-47bb-ae36-ba03e9f79d17.jpg');">
-            <a href="/article/80528">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/80528">
-                    나는솔로 촬영지인 안동에서 뭐 먹지?                </a>
-            </em>
-            <p class="excerpt">안동의 추천 향토 음식점부터 모던 식당까지.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80528">
+                        나는솔로 촬영지인 안동에서 뭐 먹지?                    </a>
+                </em>
+                <p class="excerpt">안동의 추천 향토 음식점부터 모던 식당까지.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/1b95fd9b-dc50-47bb-ae36-ba03e9f79d17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2714,30 +2738,6 @@
                 <p class="excerpt">망설이는 사랑, 망설이는 덕질.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/80f3b699-0ca6-4f1d-b4c6-45e64726b9b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌옷으로 타워를 세울수 있다고? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80225</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80225</guid>
-            <pubDate>Fri, 20 Oct 2023 15:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/46c21b06-f6a4-4916-a997-fa3b2f071699.jpg');">
-                <a href="/article/80225">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80225">
-                        헌옷으로 타워를 세울수 있다고?                    </a>
-                </em>
-                <p class="excerpt">보다 기술적이고 창의적인 방향으로 진화 중인 지속가능한 패션의 현주소를 들여다보다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/05/46c21b06-f6a4-4916-a997-fa3b2f071699.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌옷으로 타워를 세울수 있다고? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
