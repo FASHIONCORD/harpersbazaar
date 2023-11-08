@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 지속가능성</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 15:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 03:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 몰랐던 '찐'환경 뷰티]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/80971</link>
+            <guid>https://www.harpersbazaar.co.kr/article/80971</guid>
+            <pubDate>Wed, 08 Nov 2023 03:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[지구에 이로운 방향으로 나아가는 뷰티 업계의 착한 행보를 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/7da6160a-1725-4f29-bead-c71e5acea009.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 친구를 먹지 마세요]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80226</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/79150</link>
             <guid>https://www.harpersbazaar.co.kr/article/79150</guid>
             <pubDate>Fri, 01 Sep 2023 03:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[김하늘 작가의 손길이 닿아 가구로 변신한 폐기 위기의 쇼핑백들.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/aeb06857-873f-4145-affc-96ac14f5749e.jpg');">
+            <a href="/article/79150">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79150">
+                    재활용이 어려운 일회용 쇼핑백이 가구로 변신했다?                  </a>
+            </em>
+            <p class="excerpt">김하늘 작가의 손길이 닿아 가구로 변신한 폐기 위기의 쇼핑백들. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/aeb06857-873f-4145-affc-96ac14f5749e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77478</guid>
             <pubDate>Wed, 20 Sep 2023 03:11:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/78173419-696e-4d52-925c-576abf5edc4b.jpg');">
-            <a href="/article/77478">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77478">
-                    소장욕구를 높이는 비비안 웨스트우드의 보온병은?                </a>
-            </em>
-            <p class="excerpt">제로 웨이스트를 실천하는 클라이마 보틀</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77478">
+                        소장욕구를 높이는 비비안 웨스트우드의 보온병은?                    </a>
+                </em>
+                <p class="excerpt">제로 웨이스트를 실천하는 클라이마 보틀</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/78173419-696e-4d52-925c-576abf5edc4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">고체치약 사용 첫 주의 기록들</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/a9158fbb-8ba8-4c75-829f-0a55ef735b2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 고체치약으로 지구 지키기 가보자고!]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77358</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77358</guid>
-            <pubDate>Wed, 20 Sep 2023 03:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/f1f27ea8-a2c0-4728-bb88-b339c0520203.jpg');">
-                <a href="/article/77358">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77358">
-                        #BBB 고체치약으로 지구 지키기 가보자고!                    </a>
-                </em>
-                <p class="excerpt">고체뷰티의 선구자 톤28, 환경 혁명의 시대를 열다</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/f1f27ea8-a2c0-4728-bb88-b339c0520203.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
