@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 15:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 03:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -860,6 +860,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTZfODgg/MDAxNjE4NTQ2MTU1NjEy.BEjWpaw9FHJTrg_xevFSx-IlPGcaG2uVdrES-r0skAwg.n7hIV0eUDVPmqor37A4YJ1y2uGiuw0Kt3yfQ7kuMxwcg.PNG/IZJ9Xw60mvc4S0AfwVtA8XbAaE1Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["X세대? Z세대!" '요즘' 핫한 '마리떼 프랑소와 저버' 창립자 등판 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81705</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81705</guid>
+            <pubDate>Thu, 09 Nov 2023 03:02:31 GMT</pubDate>
+            <content:encoded><![CDATA["어우 웬일이니, 아저씨도 패션을 좀 아시는구나?"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/208a51bf-1a9a-4115-baeb-6bcf040e18cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[런던에서 펼쳐진 구찌의 세계 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81683</link>
             <guid>https://www.harpersbazaar.co.kr/article/81683</guid>
@@ -920,7 +928,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81845</link>
             <guid>https://www.harpersbazaar.co.kr/article/81845</guid>
             <pubDate>Sat, 04 Nov 2023 03:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[아날로그로 돌아간 패셔너들의 '줄 이어폰' 패션]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/87098b31-efc4-4172-9f9d-2d8c316b23a6.jpg');">
+            <a href="/article/81845">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81845">
+                    일명 '줄 이어폰', 이어팟으로 스타일을 완성한 스타들                </a>
+            </em>
+            <p class="excerpt">아날로그로 돌아간 패셔너들의 '줄 이어폰' 패션</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/87098b31-efc4-4172-9f9d-2d8c316b23a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1073,22 +1097,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81767</guid>
             <pubDate>Thu, 02 Nov 2023 03:03:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/84b06f98-d557-473d-9613-03895fd22c6e.jpg');">
-            <a href="/article/81767">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81767">
-                     &lt;이두나!&gt; 속 '돈 많은 백수룩', 아이돌 두나 패션 어디꺼?                 </a>
-            </em>
-            <p class="excerpt">지금 당장 손민수 하고 싶은 두나의 스웨터부터 원피스까지.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81767">
+                         &lt;이두나!&gt; 속 '돈 많은 백수룩', 아이돌 두나 패션 어디꺼?                     </a>
+                </em>
+                <p class="excerpt">지금 당장 손민수 하고 싶은 두나의 스웨터부터 원피스까지.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/84b06f98-d557-473d-9613-03895fd22c6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1210,30 +1234,6 @@
                 <p class="excerpt">출근 룩 고민 덜어드립니다. 직장인들 모두 월요팅!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/24e27ad6-c0b9-4ed4-8af5-239ff99c672d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구찌와 다시 사랑에 빠질 시간이 왔다! (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81648</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81648</guid>
-            <pubDate>Wed, 01 Nov 2023 03:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/18aabfc1-9f70-4dc1-8b20-5c0c9f5a43ef.jpg');">
-                <a href="/article/81648">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81648">
-                        구찌와 다시 사랑에 빠질 시간이 왔다!                    </a>
-                </em>
-                <p class="excerpt">새로운 크리에이티브 디렉터 사바토 데 사르노가 해석하는 뉴 버전의 구찌.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/18aabfc1-9f70-4dc1-8b20-5c0c9f5a43ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이어트 중 먹어도 되는 시판 과자는? 핏블리가 직접 33종 비교해봤다. (하퍼스바자 코리아 ─ 뷰티)]]></title>
