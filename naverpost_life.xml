@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 03:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 09:03:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI가 살려낸 비틀즈의 마지막 신곡]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36864406&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36864406&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 10 Nov 2023 09:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTBfMTg3/MDAxNjk5NTkzOTAyODUz._RhwM71LBZ_PqhUVN8yV3GH6thlsAIUTOEjwWaVXJzgg.nZ4OePBAyiUKhcKmlQIOYLen0F_wGAA630fRG8g7-QMg.JPEG/IdqKhdw2BS-ohaypd6Ikl-scI7oA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떠오르는 케이블 ENA <유괴의 날>부터 <우영우>까지!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36779021&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 03 Aug 2023 03:02:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDNfNTIg/MDAxNjkwOTk2NDcwOTk3.foOUdVcupz2zGZCJkErMmGa8OJNojw2H6ScjfWwq9DYg.hrmI2eQKmCw3e_OQ3hrVTGz8J-Ra2-ZYD1JzxyhtU2Ig.JPEG/IKYBUeKFlxuwEeHZGlTmfmm8FpyU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘전시’ 여는 쇼룸 3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36334783&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36334783&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 01 Aug 2023 03:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MzFfMTIg/MDAxNjkwNzk0NzQ4MzA1.ihxwZFQC9uIM3wPTpas0YeP8ja5G5qSf9du9jZPNiF4g.MRI-JCjQ2_YkXIvkt8wMYFnGU28qQ4i9jNDAjawzf3sg.JPEG/I8hqTfx_FNvEFJliO7B0aoKnOiYY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
