@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 15:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 03:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘바르는 레티놀’에서 ‘먹는 레티놀’로의 새로운 패러다임]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81901</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81901</guid>
+            <pubDate>Sat, 11 Nov 2023 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[레티놀 명가, 아모레퍼시픽의 29년 연구 기술로 개발한 ‘먹는 레티놀’.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/96629bd5-af68-4f90-b676-35f7d1df84a8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이돌 출신 유튜버 웨이의 45kg 평생 유지 비법]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81899</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81702</link>
             <guid>https://www.harpersbazaar.co.kr/article/81702</guid>
             <pubDate>Fri, 03 Nov 2023 03:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[꾸레쥬 바이닐 재킷의 컬러와 텍스처가 그대로! '더 컬러라마 컬렉션']]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/805da588-2482-45b6-a09f-967ea2ca9148.jpg');">
+            <a href="/article/81702">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81702">
+                    커플 향수로 추천! 11월, 국내 론칭을 알린 꾸레쥬 퍼퓸                </a>
+            </em>
+            <p class="excerpt">꾸레쥬 바이닐 재킷의 컬러와 텍스처가 그대로! '더 컬러라마 컬렉션'</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/805da588-2482-45b6-a09f-967ea2ca9148.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81385</guid>
             <pubDate>Wed, 25 Oct 2023 15:05:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/355c32ef-a20a-44a8-b805-987b4ff4facd.jpg');">
-            <a href="/article/81385">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81385">
-                    초럭셔리 오트 쿠튀르 립스틱의 탄생! 샤넬VS디올, 당신의 선택은?                </a>
-            </em>
-            <p class="excerpt">하우스의 헤리티지를 담은 12가지 컬러의 립스틱이 궁금하다면?</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81385">
+                        초럭셔리 오트 쿠튀르 립스틱의 탄생! 샤넬VS디올, 당신의 선택은?                    </a>
+                </em>
+                <p class="excerpt">하우스의 헤리티지를 담은 12가지 컬러의 립스틱이 궁금하다면?</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/355c32ef-a20a-44a8-b805-987b4ff4facd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">한혜진부터 심으뜸까지, 운동 전도사들이 알려주는 리얼타임 홈트 추천</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1b3a8065-3c8b-43ed-befe-b0b5c792cf46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앞머리와 함께 돌아온 장원영, 이효리, 손나은의 3인 3색 스타일링]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81290</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81290</guid>
-            <pubDate>Fri, 03 Nov 2023 15:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/581f9e8d-78b8-4dfb-9527-f40b4fd970ce.jpg');">
-                <a href="/article/81290">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81290">
-                         앞머리와 함께 돌아온 장원영, 이효리, 손나은의 3인 3색 스타일링                     </a>
-                </em>
-                <p class="excerpt">앞머리 유행도 돌고 돈다</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/581f9e8d-78b8-4dfb-9527-f40b4fd970ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

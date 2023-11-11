@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 15:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 03:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1236,6 +1236,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/50633e57-fd0f-4cb2-b1e9-3d49461e7100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘바르는 레티놀’에서 ‘먹는 레티놀’로의 새로운 패러다임 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81901</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81901</guid>
+            <pubDate>Sat, 11 Nov 2023 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[레티놀 명가, 아모레퍼시픽의 29년 연구 기술로 개발한 ‘먹는 레티놀’.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/96629bd5-af68-4f90-b676-35f7d1df84a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이돌 출신 유튜버 웨이의 45kg 평생 유지 비법 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81899</link>
             <guid>https://www.harpersbazaar.co.kr/article/81899</guid>
@@ -1296,7 +1304,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81702</link>
             <guid>https://www.harpersbazaar.co.kr/article/81702</guid>
             <pubDate>Fri, 03 Nov 2023 03:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[꾸레쥬 바이닐 재킷의 컬러와 텍스처가 그대로! '더 컬러라마 컬렉션']]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/805da588-2482-45b6-a09f-967ea2ca9148.jpg');">
+            <a href="/article/81702">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81702">
+                    커플 향수로 추천! 11월, 국내 론칭을 알린 꾸레쥬 퍼퓸                </a>
+            </em>
+            <p class="excerpt">꾸레쥬 바이닐 재킷의 컬러와 텍스처가 그대로! '더 컬러라마 컬렉션'</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/805da588-2482-45b6-a09f-967ea2ca9148.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1449,22 +1473,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81385</guid>
             <pubDate>Wed, 25 Oct 2023 15:05:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/355c32ef-a20a-44a8-b805-987b4ff4facd.jpg');">
-            <a href="/article/81385">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81385">
-                    초럭셔리 오트 쿠튀르 립스틱의 탄생! 샤넬VS디올, 당신의 선택은?                </a>
-            </em>
-            <p class="excerpt">하우스의 헤리티지를 담은 12가지 컬러의 립스틱이 궁금하다면?</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81385">
+                        초럭셔리 오트 쿠튀르 립스틱의 탄생! 샤넬VS디올, 당신의 선택은?                    </a>
+                </em>
+                <p class="excerpt">하우스의 헤리티지를 담은 12가지 컬러의 립스틱이 궁금하다면?</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/355c32ef-a20a-44a8-b805-987b4ff4facd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1586,30 +1610,6 @@
                 <p class="excerpt">한혜진부터 심으뜸까지, 운동 전도사들이 알려주는 리얼타임 홈트 추천</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1b3a8065-3c8b-43ed-befe-b0b5c792cf46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앞머리와 함께 돌아온 장원영, 이효리, 손나은의 3인 3색 스타일링 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81290</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81290</guid>
-            <pubDate>Fri, 03 Nov 2023 15:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/581f9e8d-78b8-4dfb-9527-f40b4fd970ce.jpg');">
-                <a href="/article/81290">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81290">
-                         앞머리와 함께 돌아온 장원영, 이효리, 손나은의 3인 3색 스타일링                     </a>
-                </em>
-                <p class="excerpt">앞머리 유행도 돌고 돈다</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/581f9e8d-78b8-4dfb-9527-f40b4fd970ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[케플러의 매직아워 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1988,6 +1988,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b41e1b9f-aeb9-4ee7-a405-ba997d414c57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여섯 명의 감독이 만든 여성 서사, 임선애 인터뷰 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81773</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81773</guid>
+            <pubDate>Sat, 11 Nov 2023 03:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[영화라는 예술은 그 어느 때보다 어려운 시기에 봉착해있다. OTT 서비스와 AI 크리에이션의 시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/eefb953f-5bb1-4cc1-b160-371c1fb1a2a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비틀즈의 마지막 신곡 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81966</link>
             <guid>https://www.harpersbazaar.co.kr/article/81966</guid>
@@ -2048,7 +2056,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81634</link>
             <guid>https://www.harpersbazaar.co.kr/article/81634</guid>
             <pubDate>Sat, 04 Nov 2023 03:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[퀄리티 폼 미쳤다! &lt;오징어 게임: 더 챌린지&gt; 11월 22일 공개]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/fa1c783f-cb15-480a-be0a-f87ab698c01b.jpg');">
+            <a href="/article/81634">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81634">
+                    &lt;오징어 게임&gt;, 서바이벌 게임으로 탄생! 상금 456만 달러💲                </a>
+            </em>
+            <p class="excerpt">퀄리티 폼 미쳤다! &lt;오징어 게임: 더 챌린지&gt; 11월 22일 공개</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/fa1c783f-cb15-480a-be0a-f87ab698c01b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2201,22 +2225,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81505</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/90a78313-119c-4950-ae1a-e085f0988edc.jpg');">
-            <a href="/article/81505">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81505">
-                    한효주의 변신! 초능력 엄마→잔인한 조직원(feat.틀니)                </a>
-            </em>
-            <p class="excerpt">&lt;무빙&gt; 벗고 &lt;독전2&gt; 입은 한효주의 도전은 ing!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81505">
+                        한효주의 변신! 초능력 엄마→잔인한 조직원(feat.틀니)                    </a>
+                </em>
+                <p class="excerpt">&lt;무빙&gt; 벗고 &lt;독전2&gt; 입은 한효주의 도전은 ing!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/90a78313-119c-4950-ae1a-e085f0988edc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2338,30 +2362,6 @@
                 <p class="excerpt">리플릿을 간직하는 행위는 어떤 의미일까? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/c3907be6-353e-4979-8680-ddba606b66dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠오르는 여성 아티스트4 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81135</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81135</guid>
-            <pubDate>Sat, 04 Nov 2023 03:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/ac0bfe91-454e-49cc-b243-b493f228e469.jpg');">
-                <a href="/article/81135">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81135">
-                        떠오르는 여성 아티스트4                    </a>
-                </em>
-                <p class="excerpt">한국의 라이징 우먼 아티스트들의 세계관이 펼쳐진 작업실을 찾았다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/ac0bfe91-454e-49cc-b243-b493f228e469.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[번아웃이 왔다면, 웰니스 여행 도시로 선정된 정선으로 가보자 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
