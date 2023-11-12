@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 15:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 03:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -860,6 +860,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTZfODgg/MDAxNjE4NTQ2MTU1NjEy.BEjWpaw9FHJTrg_xevFSx-IlPGcaG2uVdrES-r0skAwg.n7hIV0eUDVPmqor37A4YJ1y2uGiuw0Kt3yfQ7kuMxwcg.PNG/IZJ9Xw60mvc4S0AfwVtA8XbAaE1Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[옷 잘 입는 그녀들의 그래니 룩 연출법 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82028</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82028</guid>
+            <pubDate>Sun, 12 Nov 2023 03:01:53 GMT</pubDate>
+            <content:encoded><![CDATA[할머니의 옷장에서 꺼내 입은 것처럼. 유독 빈티지한 니트가 눈에 들어오는 계절이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/e4caab09-5f06-43a3-aee9-4ed5d95d13f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[머플러를 꺼내들 시간 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82011</link>
             <guid>https://www.harpersbazaar.co.kr/article/82011</guid>
@@ -920,7 +928,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81705</link>
             <guid>https://www.harpersbazaar.co.kr/article/81705</guid>
             <pubDate>Thu, 09 Nov 2023 03:02:31 GMT</pubDate>
-            <content:encoded><![CDATA["어우 웬일이니, 아저씨도 패션을 좀 아시는구나?"]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/208a51bf-1a9a-4115-baeb-6bcf040e18cd.jpg');">
+            <a href="/article/81705">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81705">
+                    "X세대? Z세대!" '요즘' 핫한 '마리떼 프랑소와 저버' 창립자 등판                </a>
+            </em>
+            <p class="excerpt">"어우 웬일이니, 아저씨도 패션을 좀 아시는구나?"</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/208a51bf-1a9a-4115-baeb-6bcf040e18cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1073,22 +1097,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81847</guid>
             <pubDate>Sat, 04 Nov 2023 03:02:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/a8b66976-95b3-4cd9-a8a7-28125761d3fa.jpg');">
-            <a href="/article/81847">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81847">
-                    스쿨존을 벗어난, 스타들의 타이 스타일링                </a>
-            </em>
-            <p class="excerpt">어엿한 패션 액세서리로 자리매김한 타이 활용법. 개성을 드러내기에도 좋다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81847">
+                        스쿨존을 벗어난, 스타들의 타이 스타일링                    </a>
+                </em>
+                <p class="excerpt">어엿한 패션 액세서리로 자리매김한 타이 활용법. 개성을 드러내기에도 좋다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/a8b66976-95b3-4cd9-a8a7-28125761d3fa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1210,30 +1234,6 @@
                 <p class="excerpt">10월 30일은 #피비파일로데이 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/c696fe65-e7b2-4d49-b6f8-eddcfc3f7a26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보테가 베네타의 신상, 쌍둥이 백의 정체는? #웰컴BAG (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81794</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81794</guid>
-            <pubDate>Sat, 04 Nov 2023 03:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/50633e57-fd0f-4cb2-b1e9-3d49461e7100.jpg');">
-                <a href="/article/81794">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81794">
-                        보테가 베네타의 신상, 쌍둥이 백의 정체는? #웰컴BAG                    </a>
-                </em>
-                <p class="excerpt">보테가 베네타가 새로운 ‘제멜리 백’ 출시와 함께 새로운 앰배서더를 공개했다. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/50633e57-fd0f-4cb2-b1e9-3d49461e7100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘바르는 레티놀’에서 ‘먹는 레티놀’로의 새로운 패러다임 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1988,6 +1988,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b41e1b9f-aeb9-4ee7-a405-ba997d414c57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<정신병동에도 아침이 와요> 정주행 위한 체크 포인트 3 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82041</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82041</guid>
+            <pubDate>Sun, 12 Nov 2023 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA['정신병' 편견 걷어내고, 마침내 힐링 안겨주는 강력한 '인생작'🌄]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/dc59ef31-aa18-4674-b448-75e376c65d2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국 최초! 메디치상 탄 작가 한강의 책 3 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82036</link>
             <guid>https://www.harpersbazaar.co.kr/article/82036</guid>
@@ -2048,7 +2056,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81873</link>
             <guid>https://www.harpersbazaar.co.kr/article/81873</guid>
             <pubDate>Fri, 10 Nov 2023 03:03:07 GMT</pubDate>
-            <content:encoded><![CDATA[전시 보기 좋은 계절, 가을의 전시들]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/f0a0f8ab-3347-49e6-95c4-c2f30a0d86eb.jpg');">
+            <a href="/article/81873">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81873">
+                    이번 주말, 놓치지 말아야 할 서울의 전시들                 </a>
+            </em>
+            <p class="excerpt">전시 보기 좋은 계절, 가을의 전시들 </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/f0a0f8ab-3347-49e6-95c4-c2f30a0d86eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2201,22 +2225,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81521</guid>
             <pubDate>Sat, 28 Oct 2023 03:05:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/ebfd2f0c-dfb8-44df-8230-034979da768d.jpg');">
-            <a href="/article/81521">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81521">
-                    남궁민·황정민→아이브·뉴진스..'2023 대중문화예술상' 영예                </a>
-            </em>
-            <p class="excerpt">대중문화예술상? 최고 권위의 정부포상제도 "자긍심 고취"</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81521">
+                        남궁민·황정민→아이브·뉴진스..'2023 대중문화예술상' 영예                    </a>
+                </em>
+                <p class="excerpt">대중문화예술상? 최고 권위의 정부포상제도 "자긍심 고취"</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/22/ebfd2f0c-dfb8-44df-8230-034979da768d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2338,30 +2362,6 @@
                 <p class="excerpt">&lt;더킹&gt; 신인상 이후 6년..&lt;올빼미&gt;로 남우주연상 '쾌거'</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/c2829a32-c3f3-4612-b860-8bf340380267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베니스 비엔날레가 인정한 구정아 작가의 개인전 <공중부양> (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81472</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81472</guid>
-            <pubDate>Tue, 24 Oct 2023 03:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/1e7cb879-3153-4d3b-9d15-921845b4c30c.jpg');">
-                <a href="/article/81472">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81472">
-                        베니스 비엔날레가 인정한 구정아 작가의 개인전 &lt;공중부양&gt;                    </a>
-                </em>
-                <p class="excerpt">그저 평범한 것은 없다. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/1e7cb879-3153-4d3b-9d15-921845b4c30c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[번아웃이 왔다면, 웰니스 여행 도시로 선정된 정선으로 가보자 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
