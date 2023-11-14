@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 15:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 03:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1612,6 +1612,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/1b3a8065-3c8b-43ed-befe-b0b5c792cf46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보테가 베네타의 신상, 쌍둥이 백의 정체는? #웰컴BAG (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81794</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81794</guid>
+            <pubDate>Tue, 14 Nov 2023 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[보테가 베네타가 새로운 ‘제멜리 백’ 출시와 함께 새로운 앰배서더를 공개했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/50633e57-fd0f-4cb2-b1e9-3d49461e7100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[케플러의 매직아워 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81654</link>
             <guid>https://www.harpersbazaar.co.kr/article/81654</guid>
@@ -1672,7 +1680,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81577</link>
             <guid>https://www.harpersbazaar.co.kr/article/81577</guid>
             <pubDate>Sat, 28 Oct 2023 03:04:51 GMT</pubDate>
-            <content:encoded><![CDATA[가을비가 촉촉히 내린 화요일 아침, 파리의 한적한 공원을 그녀와 함께 거닐었다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/a7250176-dcc0-45e2-9df8-c1e4d3d96c50.jpg');">
+            <a href="/article/81577">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81577">
+                    올해 나이 열아홉. 눈 부시도록 아름다운 파리의 장원영                </a>
+            </em>
+            <p class="excerpt">가을비가 촉촉히 내린 화요일 아침, 파리의 한적한 공원을 그녀와 함께 거닐었다. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/a7250176-dcc0-45e2-9df8-c1e4d3d96c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1825,22 +1849,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81484</guid>
             <pubDate>Tue, 07 Nov 2023 03:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/a1d1ad5f-3b92-4298-9678-9852d8560543.jpg');">
-            <a href="/article/81484">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81484">
-                    모스키노의 새로운 크리에이티브 디렉터, ‘다비드 렌’은 누구?                </a>
-            </em>
-            <p class="excerpt">20여년 간 구찌의 여성복 수석 디자이너로 활동했다.  </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81484">
+                        모스키노의 새로운 크리에이티브 디렉터, ‘다비드 렌’은 누구?                    </a>
+                </em>
+                <p class="excerpt">20여년 간 구찌의 여성복 수석 디자이너로 활동했다.  </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/a1d1ad5f-3b92-4298-9678-9852d8560543.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1962,30 +1986,6 @@
                 <p class="excerpt">젠지 세대의 필수 패션 액세서리가 된 헤드셋 스타일링. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/21c88300-9fdd-4c7f-b868-2475cde41348.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무인도의 디바, 박은빈의 우아한 오라 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81417</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81417</guid>
-            <pubDate>Tue, 07 Nov 2023 03:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b41e1b9f-aeb9-4ee7-a405-ba997d414c57.jpg');">
-                <a href="/article/81417">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81417">
-                        무인도의 디바, 박은빈의 우아한 오라                    </a>
-                </em>
-                <p class="excerpt">'무인도의 디바'로 돌아온 박은빈과 함께한 화보를 &lt;하퍼스 바자&gt; 11월호에서 만나볼 수 있다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b41e1b9f-aeb9-4ee7-a405-ba997d414c57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여섯 명의 감독이 만든 여성 서사, 감독 누라 니아사리 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
