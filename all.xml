@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 09:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 15:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1235,6 +1235,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/208a51bf-1a9a-4115-baeb-6bcf040e18cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[촉촉 베이스와 찰떡궁합! 리퀴드 블러셔 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81714</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81714</guid>
+            <pubDate>Thu, 16 Nov 2023 15:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[수분감 높은 파운데이션과 환상의 케미를 이루는 리퀴드 블러셔!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/9e299e08-9a0c-4d1d-b250-0c0e3c1d5a48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코르가즘 일으키는 향수 레이어링 (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81777</link>
             <guid>https://www.harpersbazaar.co.kr/article/81777</guid>
@@ -1295,7 +1303,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81823</link>
             <guid>https://www.harpersbazaar.co.kr/article/81823</guid>
             <pubDate>Fri, 03 Nov 2023 15:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[산뜻하게 잘라 볼까 싶을 때는?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/8c65461d-d06d-4888-934c-be5a55c65b6a.jpg');">
+            <a href="/article/81823">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81823">
+                    김태리, 안유진도 자른 레이어드 숏 보브, 이런 사람들은 하지 마세요!                </a>
+            </em>
+            <p class="excerpt">산뜻하게 잘라 볼까 싶을 때는?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/8c65461d-d06d-4888-934c-be5a55c65b6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1448,22 +1472,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81474</guid>
             <pubDate>Tue, 24 Oct 2023 03:07:12 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/440f4823-53bf-483e-841c-73b49abacb6e.jpg');">
-            <a href="/article/81474">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81474">
-                    가을에 찰떡! 윈터, 나연, 해원, 선미의 립스틱 어디 거? #스포메이션                </a>
-            </em>
-            <p class="excerpt">담당 메이크업 아티스트가 전하는 립 메이크업 팁까지! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81474">
+                        가을에 찰떡! 윈터, 나연, 해원, 선미의 립스틱 어디 거? #스포메이션                    </a>
+                </em>
+                <p class="excerpt">담당 메이크업 아티스트가 전하는 립 메이크업 팁까지! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/440f4823-53bf-483e-841c-73b49abacb6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1585,30 +1609,6 @@
                 <p class="excerpt">아하바 기절세럼을 오랜기간 써온 언니들의 추천을 믿어봐! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/fa68663c-9341-454b-9acb-bdd406f4c0fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펌 하기 전 필독! BTS 뷔, 덱스, 최정훈, 이수혁의 장발, 나도 해볼까? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81337</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81337</guid>
-            <pubDate>Mon, 23 Oct 2023 09:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/151499da-fc33-4a15-af8d-3cf8ee8748f9.jpg');">
-                <a href="/article/81337">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81337">
-                        펌 하기 전 필독! BTS 뷔, 덱스, 최정훈, 이수혁의 장발, 나도 해볼까?                     </a>
-                </em>
-                <p class="excerpt">담당 헤어 아티스트가 전하는 커트 방법부터 스타일링 팁까지! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/151499da-fc33-4a15-af8d-3cf8ee8748f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제니, 정유미, 김나영, 이혜영이 신은 명품 부츠 어디거? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
