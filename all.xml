@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 03:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 09:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -705,7 +705,7 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화 보고 강연 듣는 <예술영화산책> 얼리버드 티켓 절찬 판매 중! (네이버 포스트 ─ 하퍼스바자 ─ Art)]]></title>
+            <title><![CDATA[영화 보고 강연 듣는 <예술영화산책> 블랙프라이데이 티켓 절찬 판매 중! (네이버 포스트 ─ 하퍼스바자 ─ Art)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36839308&amp;memberNo=41829949&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36839308&amp;memberNo=41829949&amp;navigationType=push</guid>
             <pubDate>Mon, 06 Nov 2023 09:03:08 GMT</pubDate>
@@ -859,6 +859,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MzBfMjYz/MDAxNjE5NzUyNjkxMTk3.YxMPYFDk53BAleatgNIAo2YNpg7c0c9CcHqR7us7rcQg.RhPLoCaYWtGzny4VbNig1vkkSvE5psCFWzZsE4PyMjog.PNG/Ij-xVexlQ01pGNWqTxWaPxx7WKq4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[컬래버레이션 장인 포켓몬, 함께한 브랜드는? (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82121</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82121</guid>
+            <pubDate>Fri, 17 Nov 2023 09:02:27 GMT</pubDate>
+            <content:encoded><![CDATA[포켓몬의 변신은 무죄! 패션 아이템으로 재탄생한 피카츄.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/db371cd7-b1ba-4067-a37b-bb3065f611e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무섭지 않아요! 지수, 신현지, 이호정이 호피를 즐기는 방식 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82114</link>
             <guid>https://www.harpersbazaar.co.kr/article/82114</guid>
@@ -919,7 +927,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81793</link>
             <guid>https://www.harpersbazaar.co.kr/article/81793</guid>
             <pubDate>Wed, 15 Nov 2023 09:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[이질적인 아이템이 조화롭게 믹스된 룩에서 이번 시즌 트렌드인 맥시 키워드를 읽어낼 수 있다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/ebeeb683-0b42-4c74-81cc-f13a4c6f2d0f.jpg');">
+            <a href="/article/81793">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81793">
+                    메가 트렌드인 맥시 키워드를 즐기고 싶다면?                </a>
+            </em>
+            <p class="excerpt">이질적인 아이템이 조화롭게 믹스된 룩에서 이번 시즌 트렌드인 맥시 키워드를 읽어낼 수 있다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/ebeeb683-0b42-4c74-81cc-f13a4c6f2d0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1072,22 +1096,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82011</guid>
             <pubDate>Fri, 10 Nov 2023 15:02:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/9155c5b4-ce8d-453b-9778-68e10921ca7e.jpg');">
-            <a href="/article/82011">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82011">
-                    머플러를 꺼내들 시간                </a>
-            </em>
-            <p class="excerpt">보온과 실용을 겸비한 겨울의 필수템.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82011">
+                        머플러를 꺼내들 시간                    </a>
+                </em>
+                <p class="excerpt">보온과 실용을 겸비한 겨울의 필수템.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/9155c5b4-ce8d-453b-9778-68e10921ca7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1211,28 +1235,20 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/3759b883-fd15-4590-8976-8cdd20176303.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구찌의 새로운 이브닝웨어, 앙코라 노떼 공개 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81933</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81933</guid>
-            <pubDate>Thu, 09 Nov 2023 09:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/72d064a7-13a9-4de5-a998-6870dfaa9580.jpg');">
-                <a href="/article/81933">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81933">
-                        구찌의 새로운 이브닝웨어, 앙코라 노떼 공개                     </a>
-                </em>
-                <p class="excerpt">구찌의 크리에이티브 디렉터 사바토 데 사르노의 첫 이브닝웨어 컬렉션이다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/72d064a7-13a9-4de5-a998-6870dfaa9580.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[품절대란 예감! 2023년 뷰티 홀리데이 에디션 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81787</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81787</guid>
+            <pubDate>Fri, 17 Nov 2023 09:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[화장대는 물론 마음까지 반짝반짝 설레게 만드는 2023 홀리데이 에디션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/97243f65-5369-4eb5-805f-f201caa4600b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줄리엔강과 결혼 앞둔 제이제이의 30대 마지막 다이어트법은? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82012</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82012</guid>
+            <pubDate>Fri, 17 Nov 2023 09:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[건강까지 챙기는 사람의 다이어트법은 이렇게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/09/dafdd5aa-ed60-435e-8d25-f93bae525456.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[촉촉 베이스와 찰떡궁합! 리퀴드 블러셔 (하퍼스바자 코리아 ─ 뷰티)]]></title>
@@ -1287,7 +1303,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81790</link>
             <guid>https://www.harpersbazaar.co.kr/article/81790</guid>
             <pubDate>Mon, 06 Nov 2023 09:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[앰풀 용기를 부러뜨러 사용하는 향수의 정체?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/2af01eff-635d-45d4-bd20-1fe974fc7307.jpg');">
+            <a href="/article/81790">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81790">
+                    앰풀 용기를 부러뜨러 사용하는 향수의 정체?                </a>
+            </em>
+            <p class="excerpt">앰풀 용기를 부러뜨러 사용하는 향수의 정체?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/2af01eff-635d-45d4-bd20-1fe974fc7307.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1295,7 +1327,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81788</link>
             <guid>https://www.harpersbazaar.co.kr/article/81788</guid>
             <pubDate>Mon, 06 Nov 2023 09:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 향수는 이렇게 만들어진다]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/43e44416-d5a2-400f-bb1c-7131cb3f5f49.jpg');">
+            <a href="/article/81788">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81788">
+                    프레데릭 말 향수를 쓰거나 쓸 계획이라면 클릭!                </a>
+            </em>
+            <p class="excerpt">당신의 향수는 이렇게 만들어진다</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/02/43e44416-d5a2-400f-bb1c-7131cb3f5f49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1424,22 +1472,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81657</guid>
             <pubDate>Thu, 02 Nov 2023 03:04:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/31ac23e3-7c2b-4321-9be1-2c4c48bdd94b.jpg');">
-            <a href="/article/81657">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81657">
-                    톱모델 한혜진의 쫀쫀한 피부 비결                 </a>
-            </em>
-            <p class="excerpt">자기관리에 철저한 한혜진의 나이트 루틴</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81657">
+                        톱모델 한혜진의 쫀쫀한 피부 비결                     </a>
+                </em>
+                <p class="excerpt">자기관리에 철저한 한혜진의 나이트 루틴</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/31ac23e3-7c2b-4321-9be1-2c4c48bdd94b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1448,22 +1496,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81501</guid>
             <pubDate>Wed, 25 Oct 2023 03:03:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/cd9d6a54-7a8f-4932-a8a1-5701f855e321.jpg');">
-            <a href="/article/81501">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81501">
-                    ‘이것’만 있으면 제니의 'YOU &amp; ME' 메이크업 완성? #스포메이션                </a>
-            </em>
-            <p class="excerpt">제니의 '세일러문 메이크업'에 도전해 보세요! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81501">
+                        ‘이것’만 있으면 제니의 'YOU &amp; ME' 메이크업 완성? #스포메이션                    </a>
+                </em>
+                <p class="excerpt">제니의 '세일러문 메이크업'에 도전해 보세요! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/cd9d6a54-7a8f-4932-a8a1-5701f855e321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1561,54 +1609,6 @@
                 <p class="excerpt">하우스의 헤리티지를 담은 12가지 컬러의 립스틱이 궁금하다면?</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/355c32ef-a20a-44a8-b805-987b4ff4facd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거품처럼 사라지지 않길! 각양각색 비누 모음 zip (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81136</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81136</guid>
-            <pubDate>Fri, 03 Nov 2023 15:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/06b0b8ef-1f35-4d30-8f68-4364bd5486de.jpg');">
-                <a href="/article/81136">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81136">
-                        거품처럼 사라지지 않길! 각양각색 비누 모음 zip                    </a>
-                </em>
-                <p class="excerpt">자꾸 손에 쥐고 싶네~?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/06b0b8ef-1f35-4d30-8f68-4364bd5486de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환절기 악건성 피부로 고통받고 있다면? 아하바 기절세럼이 정답! (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81349</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81349</guid>
-            <pubDate>Fri, 03 Nov 2023 15:05:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/fa68663c-9341-454b-9acb-bdd406f4c0fb.jpg');">
-                <a href="/article/81349">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81349">
-                        환절기 악건성 피부로 고통받고 있다면? 아하바 기절세럼이 정답!                     </a>
-                </em>
-                <p class="excerpt">아하바 기절세럼을 오랜기간 써온 언니들의 추천을 믿어봐! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/fa68663c-9341-454b-9acb-bdd406f4c0fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트레이 키즈 현진의 치명적인 매력 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1999,8 +1999,8 @@
             <link>https://www.harpersbazaar.co.kr/article/81783</link>
             <guid>https://www.harpersbazaar.co.kr/article/81783</guid>
             <pubDate>Thu, 16 Nov 2023 09:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[영화라는 예술은 그 어느 때보다 어려운 시기에 봉착해있다. OTT 서비스와 AI 크리에이션의 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/15/8dcb0a58-1da4-4a7e-920d-aca0d43725e9.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[28회 부산국제영화제에서 추출한 반짝거리는 이야기들. 우리에게 여전히 영화가 필요한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/8dcb0a58-1da4-4a7e-920d-aca0d43725e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금서 대상에 오른 미국의 작가들 (1) (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -2031,8 +2031,8 @@
             <link>https://www.harpersbazaar.co.kr/article/81782</link>
             <guid>https://www.harpersbazaar.co.kr/article/81782</guid>
             <pubDate>Wed, 15 Nov 2023 09:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[영화라는 예술은 그 어느 때보다 어려운 시기에 봉착해있다. OTT 서비스와 AI 크리에이션의 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/f6816cd3-d7d8-4f9a-96d4-e98417b83eea.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[28회 부산국제영화제에서 추출한 반짝거리는 이야기들. 우리에게 여전히 영화가 필요한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/f6816cd3-d7d8-4f9a-96d4-e98417b83eea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국도 이제 '크리처물' 가능! <스위트홈2> & <경성크리처> (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -2047,15 +2047,15 @@
             <link>https://www.harpersbazaar.co.kr/article/81781</link>
             <guid>https://www.harpersbazaar.co.kr/article/81781</guid>
             <pubDate>Wed, 15 Nov 2023 09:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[영화라는 예술은 그 어느 때보다 어려운 시기에 봉착해있다. OTT 서비스와 AI 크리에이션의 시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/8b32e85a-bcbf-48b6-8b39-28bf8680c7e3.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[28회 부산국제영화제에서 추출한 반짝거리는 이야기들. 우리에게 여전히 영화가 필요한 이유]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/8b32e85a-bcbf-48b6-8b39-28bf8680c7e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여섯 명의 감독이 만든 여성 서사, 김혜영 인터뷰 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81780</link>
             <guid>https://www.harpersbazaar.co.kr/article/81780</guid>
             <pubDate>Wed, 15 Nov 2023 09:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/12/4ee85b77-f5a5-492b-92ae-e02fa521680f.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/4ee85b77-f5a5-492b-92ae-e02fa521680f.jpg');">
             <a href="/article/81780">
                 <img alt="" src="">
             </a>
@@ -2070,9 +2070,9 @@
                 <a href="/article/81780">
                     여섯 명의 감독이 만든 여성 서사, 김혜영 인터뷰                </a>
             </em>
-            <p class="excerpt">영화라는 예술은 그 어느 때보다 어려운 시기에 봉착해있다. OTT 서비스와 AI 크리에이션의 시...</p>
+            <p class="excerpt">28회 부산국제영화제에서 추출한 반짝거리는 이야기들. 우리에게 여전히 영화가 필요한 이유</p>
         </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/12/4ee85b77-f5a5-492b-92ae-e02fa521680f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/4ee85b77-f5a5-492b-92ae-e02fa521680f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<강남순>부터 <무인도의 디바>까지..'워맨스'가 대세! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
@@ -2271,7 +2271,7 @@
             <link>https://www.harpersbazaar.co.kr/article/81773</link>
             <guid>https://www.harpersbazaar.co.kr/article/81773</guid>
             <pubDate>Sat, 11 Nov 2023 03:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/eefb953f-5bb1-4cc1-b160-371c1fb1a2a8.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/eefb953f-5bb1-4cc1-b160-371c1fb1a2a8.jpg');">
                 <a href="/article/81773">
                     <img alt="" src="">
                 </a>
@@ -2286,9 +2286,9 @@
                     <a href="/article/81773">
                         여섯 명의 감독이 만든 여성 서사, 임선애 인터뷰                    </a>
                 </em>
-                <p class="excerpt">영화라는 예술은 그 어느 때보다 어려운 시기에 봉착해있다. OTT 서비스와 AI 크리에이션의 시...</p>
+                <p class="excerpt">28회 부산국제영화제에서 추출한 반짝거리는 이야기들. 우리에게 여전히 영화가 필요한 이유</p>
             </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/eefb953f-5bb1-4cc1-b160-371c1fb1a2a8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/eefb953f-5bb1-4cc1-b160-371c1fb1a2a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비틀즈의 마지막 신곡 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
