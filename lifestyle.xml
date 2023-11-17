@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 라이프스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 09:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 15:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팝업 스토어가 끝난 뒤, 남은 쓰레기는 어디로?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81707</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81707</guid>
+            <pubDate>Fri, 17 Nov 2023 15:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[팝업스토어와 축제, 파인 다이닝의 화려한 막이 내리고 난 뒤, 그 쓰레기는 어디로 가는가?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/bd2d476e-1a8f-4bc8-bfa6-d9e78f7800b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[필립 스탁이 만든 페리에 보틀은 어떤 모습?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81927</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81530</link>
             <guid>https://www.harpersbazaar.co.kr/article/81530</guid>
             <pubDate>Wed, 01 Nov 2023 15:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[벨라 하디드부터 수지까지, 스타의 일상을 엿봤다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2c647da-710f-4e3a-a6af-f1b554a4a890.jpg');">
+            <a href="/article/81530">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81530">
+                    스타들은 평소에 무엇을 할까? 스타들의 취미생활 모음!                </a>
+            </em>
+            <p class="excerpt">벨라 하디드부터 수지까지, 스타의 일상을 엿봤다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/c2c647da-710f-4e3a-a6af-f1b554a4a890.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81131</guid>
             <pubDate>Sun, 15 Oct 2023 09:04:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/9b554aaf-183b-4da1-b16c-f088f7d1ce3b.jpg');">
-            <a href="/article/81131">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81131">
-                    맛잘알, 찐맛천재 홍진경의 단골 맛집                 </a>
-            </em>
-            <p class="excerpt">데뷔 30주년을 맞은 홍진경, 바자 유튜브에서 최애 맛집을 공개하다. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81131">
+                        맛잘알, 찐맛천재 홍진경의 단골 맛집                     </a>
+                </em>
+                <p class="excerpt">데뷔 30주년을 맞은 홍진경, 바자 유튜브에서 최애 맛집을 공개하다. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/9b554aaf-183b-4da1-b16c-f088f7d1ce3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">가격은 동결하고, 하드웨어와 내부 기능은 다채롭게 업그레이드해 승부수를 던졌다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/cf2694fe-4e71-4a18-9bbf-491007ee0bc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설거지 폼 미쳤다! 유니크한 고무장갑 어디 거?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80274</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80274</guid>
-            <pubDate>Wed, 04 Oct 2023 15:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/32cac958-3386-4990-a5d9-0c48b25193c2.jpg');">
-                <a href="/article/80274">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80274">
-                        설거지 폼 미쳤다! 유니크한 고무장갑 어디 거?                    </a>
-                </em>
-                <p class="excerpt">각양각색의 고무장갑, 여기 다 있다</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/32cac958-3386-4990-a5d9-0c48b25193c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
