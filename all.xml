@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 09:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 15:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2363,6 +2363,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/11/dc59ef31-aa18-4674-b448-75e376c65d2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<무인도의 디바> 촬영지는 어디? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82026</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82026</guid>
+            <pubDate>Tue, 21 Nov 2023 15:04:13 GMT</pubDate>
+            <content:encoded><![CDATA[아무도 나를 모르는 곳으로 떠나고 싶을 땐 여기! 현생에 지친 어른이들이 가보면 좋을 &lt;무인도...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/10/4b8ec95c-bec4-4d89-8525-47ee7383dbb7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[30년 후 맞이하게 될 초밥의 모습? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/81715</link>
             <guid>https://www.harpersbazaar.co.kr/article/81715</guid>
@@ -2423,7 +2431,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81671</link>
             <guid>https://www.harpersbazaar.co.kr/article/81671</guid>
             <pubDate>Mon, 06 Nov 2023 09:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[PBG한남에서 이수미 작가 개인전이 열린다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/bab3cdcd-17ca-4c70-8707-43da41c40d1f.jpg');">
+            <a href="/article/81671">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81671">
+                    캘박필수! 11월에 꼭 봐야할 전시                 </a>
+            </em>
+            <p class="excerpt">PBG한남에서 이수미 작가 개인전이 열린다. </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/bab3cdcd-17ca-4c70-8707-43da41c40d1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2576,22 +2600,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/80985</guid>
             <pubDate>Tue, 24 Oct 2023 03:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/79217936-f6ce-4a13-b191-52f2b65e6956.jpg');">
-            <a href="/article/80985">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/80985">
-                    바다를 바라는 사람들                </a>
-            </em>
-            <p class="excerpt">군산 새만금에는 여전히 갯벌을 지키고 있는 생태조사단이 있다. 다큐 &lt;수라&gt;는 그 경이로운 현...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80985">
+                        바다를 바라는 사람들                    </a>
+                </em>
+                <p class="excerpt">군산 새만금에는 여전히 갯벌을 지키고 있는 생태조사단이 있다. 다큐 &lt;수라&gt;는 그 경이로운 현...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/79217936-f6ce-4a13-b191-52f2b65e6956.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2713,30 +2737,6 @@
                 <p class="excerpt">스트리트 무드의 캐주얼 아이템부터 스니커즈까지.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/4eb31542-ca5c-43f8-9a7c-f0b14187d021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플(Apple) 최초의 탄소 중립 제품 공개 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/80741</link>
-            <guid>https://www.harpersbazaar.co.kr/article/80741</guid>
-            <pubDate>Thu, 05 Oct 2023 15:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/afe5b485-ce1c-461e-8b85-8c557a9468b2.jpg');">
-                <a href="/article/80741">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/80741">
-                        애플(Apple) 최초의 탄소 중립 제품 공개                     </a>
-                </em>
-                <p class="excerpt">지속가능성을 위한 애플의 꾸준한 노력 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/afe5b485-ce1c-461e-8b85-8c557a9468b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미래를 위한 뷰티 업계의 착한 행보 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
