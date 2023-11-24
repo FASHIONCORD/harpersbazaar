@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 09:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 15:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙스터들의 성지, 꽁티드툴레아에서 출시한 바디&핸드 케어는?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82137</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82137</guid>
+            <pubDate>Fri, 24 Nov 2023 15:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[미식, 공간 그리고 향. 트렌드를 완성하는 3박자를 모두 갖춘 꽁티드툴레아.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/21/d40cba91-5b85-4c8e-805c-f6707d8e97e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송윤아, 2~3주 식단 해도 안 빠진다는 나잇살의 원인과 해결책은?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82135</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81899</link>
             <guid>https://www.harpersbazaar.co.kr/article/81899</guid>
             <pubDate>Thu, 09 Nov 2023 09:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[습관만 잘 들이면 평생 요요 없이 다이어트 종결.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/56f3e1d1-f43f-48c5-b00e-05c4b3bf6a32.jpg');">
+            <a href="/article/81899">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81899">
+                     아이돌 출신 유튜버 웨이의 45kg 평생 유지 비법                 </a>
+            </em>
+            <p class="excerpt">습관만 잘 들이면 평생 요요 없이 다이어트 종결.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/56f3e1d1-f43f-48c5-b00e-05c4b3bf6a32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81702</guid>
             <pubDate>Fri, 03 Nov 2023 03:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/805da588-2482-45b6-a09f-967ea2ca9148.jpg');">
-            <a href="/article/81702">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81702">
-                    커플 향수로 추천! 11월, 국내 론칭을 알린 꾸레쥬 퍼퓸                </a>
-            </em>
-            <p class="excerpt">꾸레쥬 바이닐 재킷의 컬러와 텍스처가 그대로! '더 컬러라마 컬렉션'</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81702">
+                        커플 향수로 추천! 11월, 국내 론칭을 알린 꾸레쥬 퍼퓸                    </a>
+                </em>
+                <p class="excerpt">꾸레쥬 바이닐 재킷의 컬러와 텍스처가 그대로! '더 컬러라마 컬렉션'</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/805da588-2482-45b6-a09f-967ea2ca9148.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">특이한 모양과 깜찍한 패키지, 실력만으로 조회수 갱신 중! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/ad23910f-9f8f-497f-a56b-6c091f795769.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어트 도와주는 탄수화물이 따로 있다?]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81431</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81431</guid>
-            <pubDate>Wed, 25 Oct 2023 15:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/ef465677-b2b0-497d-87f3-cff6020bb6f9.jpg');">
-                <a href="/article/81431">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81431">
-                         다이어트 도와주는 탄수화물이 따로 있다?                     </a>
-                </em>
-                <p class="excerpt">다이어트의 적? 다이어트 도우미? 살 빠지고 건강에도 좋은 탄수화물 월드컵</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/ef465677-b2b0-497d-87f3-cff6020bb6f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
