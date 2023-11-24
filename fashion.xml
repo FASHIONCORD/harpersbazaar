@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 03:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 09:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말을 위한 레드 패션]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82365</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82365</guid>
+            <pubDate>Fri, 24 Nov 2023 09:02:33 GMT</pubDate>
+            <content:encoded><![CDATA[다가오는 연말을 따스하게 완성할 레드 컬러의 매력]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/8ecec6ff-2a2d-4bac-be59-676f14ab47f1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의외로 데일리로 입기 좋은 '바이커' 재킷 스타일링]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82284</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82222</link>
             <guid>https://www.harpersbazaar.co.kr/article/82222</guid>
             <pubDate>Wed, 22 Nov 2023 09:02:24 GMT</pubDate>
-            <content:encoded><![CDATA[조이가 조이했다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/21/2b58aa85-d3c6-497e-8dfe-1398f29bd130.jpg');">
+            <a href="/article/82222">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82222">
+                    조이의 휴일은 어떤 모습일까? 조이의 휴일을 포착한 토즈 화보                </a>
+            </em>
+            <p class="excerpt">조이가 조이했다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/21/2b58aa85-d3c6-497e-8dfe-1398f29bd130.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82141</guid>
             <pubDate>Fri, 17 Nov 2023 15:02:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/e30e78bd-9fc3-4800-bee9-505c22d47deb.jpg');">
-            <a href="/article/82141">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82141">
-                    이 조합 실화? 엠포리오 아르마니와의 협업 주인공은?                </a>
-            </em>
-            <p class="excerpt">아워레가시와 엠포리오 아르마니가 색다른 협업을 선보인다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82141">
+                        이 조합 실화? 엠포리오 아르마니와의 협업 주인공은?                    </a>
+                </em>
+                <p class="excerpt">아워레가시와 엠포리오 아르마니가 색다른 협업을 선보인다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/e30e78bd-9fc3-4800-bee9-505c22d47deb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">이번 시즌 하이주얼리는 단숨에 당신의 옷장 속 데일리 웨어를 호화롭게 물들일 것!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/0e247f84-957b-4820-9363-646e158af87f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나는 재미없다! 뭉쳐야 사는 키 링 레이어드]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82087</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82087</guid>
-            <pubDate>Wed, 15 Nov 2023 09:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/d9104467-8281-4b65-b1a0-fc28a0bd8127.jpg');">
-                <a href="/article/82087">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82087">
-                        하나는 재미없다! 뭉쳐야 사는 키 링 레이어드                    </a>
-                </em>
-                <p class="excerpt">여러 개를 겹쳐 연출하는 것이 열쇠고리를 즐기는 방법</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/13/d9104467-8281-4b65-b1a0-fc28a0bd8127.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
