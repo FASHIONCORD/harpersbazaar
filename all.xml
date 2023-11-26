@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 03:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 09:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1611,6 +1611,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/ad23910f-9f8f-497f-a56b-6c091f795769.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두번 째 스위트홈에 갇힌 이진욱&고민시&진영 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82287</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82287</guid>
+            <pubDate>Sun, 26 Nov 2023 09:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[두 번째 스위트홈에 갇힌 세 남녀. 이진욱, 고민시, 진영이 어둠 속에서 다시 태어난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/6463232a-438c-4541-a026-98c3f8ae4290.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ROCK AND ROYALTY (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82277</link>
             <guid>https://www.harpersbazaar.co.kr/article/82277</guid>
@@ -1671,7 +1679,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82246</link>
             <guid>https://www.harpersbazaar.co.kr/article/82246</guid>
             <pubDate>Thu, 23 Nov 2023 03:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;웡카&gt; 홍보차 일본에 방문했던 티모시 샬라메의 옷이 궁금하다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/0051ff6b-475c-453c-9e12-ae733f7b73d0.jpg');">
+            <a href="/article/82246">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82246">
+                    "스타일리스트 필요 없어!" 티모시 샬라메의 스타일링법은?                </a>
+            </em>
+            <p class="excerpt">&lt;웡카&gt; 홍보차 일본에 방문했던 티모시 샬라메의 옷이 궁금하다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/20/0051ff6b-475c-453c-9e12-ae733f7b73d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1824,22 +1848,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82120</guid>
             <pubDate>Sun, 19 Nov 2023 09:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/219c5221-5834-4cef-bfd9-b53495e058d5.jpg');">
-            <a href="/article/82120">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82120">
-                    갓모델 등장! 구찌, 발렌시아가의 뉴 앰배서더는?                </a>
-            </em>
-            <p class="excerpt">힙합의 대부 박재범과 23 아카데미 여우주연상 양자경이 그 주인공.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82120">
+                        갓모델 등장! 구찌, 발렌시아가의 뉴 앰배서더는?                    </a>
+                </em>
+                <p class="excerpt">힙합의 대부 박재범과 23 아카데미 여우주연상 양자경이 그 주인공.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/219c5221-5834-4cef-bfd9-b53495e058d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1961,30 +1985,6 @@
                 <p class="excerpt">Talk Saxy로 컴백한 라이즈의 스타일은? </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/5235b69f-55e7-4ba9-bace-30ab9e1381d3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보테가 베네타의 신상, 쌍둥이 백의 정체는? #웰컴BAG (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81794</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81794</guid>
-            <pubDate>Tue, 14 Nov 2023 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/50633e57-fd0f-4cb2-b1e9-3d49461e7100.jpg');">
-                <a href="/article/81794">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81794">
-                        보테가 베네타의 신상, 쌍둥이 백의 정체는? #웰컴BAG                    </a>
-                </em>
-                <p class="excerpt">보테가 베네타가 새로운 ‘제멜리 백’ 출시와 함께 새로운 앰배서더를 공개했다. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/50633e57-fd0f-4cb2-b1e9-3d49461e7100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<지우학> 출신, 이유미→조이현...K-콘텐츠 이끄는 주역들! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
