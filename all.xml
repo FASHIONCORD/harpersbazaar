@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 09:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1235,6 +1235,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/db371cd7-b1ba-4067-a37b-bb3065f611e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에르메스 신제품 아이섀도, 브러쉬가 특별한 이유 (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82172</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82172</guid>
+            <pubDate>Mon, 27 Nov 2023 15:05:48 GMT</pubDate>
+            <content:encoded><![CDATA[연말 기프트는 바로 너!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/34133997-c393-4dbe-a066-26db8e68f6c3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[힙스터들의 성지, 꽁티드툴레아에서 출시한 바디&핸드 케어는? (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82137</link>
             <guid>https://www.harpersbazaar.co.kr/article/82137</guid>
@@ -1295,7 +1303,23 @@
             <link>https://www.harpersbazaar.co.kr/article/81901</link>
             <guid>https://www.harpersbazaar.co.kr/article/81901</guid>
             <pubDate>Sat, 11 Nov 2023 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[레티놀 명가, 아모레퍼시픽의 29년 연구 기술로 개발한 ‘먹는 레티놀’.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/96629bd5-af68-4f90-b676-35f7d1df84a8.jpg');">
+            <a href="/article/81901">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81901">
+                    ‘바르는 레티놀’에서 ‘먹는 레티놀’로의 새로운 패러다임                </a>
+            </em>
+            <p class="excerpt">레티놀 명가, 아모레퍼시픽의 29년 연구 기술로 개발한 ‘먹는 레티놀’.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/96629bd5-af68-4f90-b676-35f7d1df84a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1448,22 +1472,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81720</guid>
             <pubDate>Fri, 03 Nov 2023 15:05:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/2ca3c9e4-2a2c-41e5-8e2e-59a569df92f6.jpg');">
-            <a href="/article/81720">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81720">
-                    5분 만에 부기 쫙 빼는 윤혜진의 매직 마사지                 </a>
-            </em>
-            <p class="excerpt">손가락만 있으면 가능해요  </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81720">
+                        5분 만에 부기 쫙 빼는 윤혜진의 매직 마사지                     </a>
+                </em>
+                <p class="excerpt">손가락만 있으면 가능해요  </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/2ca3c9e4-2a2c-41e5-8e2e-59a569df92f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1585,30 +1609,6 @@
                 <p class="excerpt">담당 메이크업 아티스트가 전하는 립 메이크업 팁까지! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/440f4823-53bf-483e-841c-73b49abacb6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에 이런 제품이! #틱톡인기템 (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81460</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81460</guid>
-            <pubDate>Sat, 28 Oct 2023 03:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/ad23910f-9f8f-497f-a56b-6c091f795769.jpg');">
-                <a href="/article/81460">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81460">
-                        세상에 이런 제품이! #틱톡인기템                    </a>
-                </em>
-                <p class="excerpt">특이한 모양과 깜찍한 패키지, 실력만으로 조회수 갱신 중! </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/ad23910f-9f8f-497f-a56b-6c091f795769.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두번 째 스위트홈에 갇힌 이진욱&고민시&진영 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
