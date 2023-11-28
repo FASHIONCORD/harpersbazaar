@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 09:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 15:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하나는 재미없다! 여러 개를 겹쳐 연출하는 키 링 레이어]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36956424&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36956424&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 28 Nov 2023 15:01:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjhfMTkz/MDAxNzAxMTYzNzE3NDI3.oO4gCNv0Rtu0u1U4B5PtBebgaYu2QiezFqzJ50V-MMcg.pO7yikMnLhq-5NVTk-efMIBfRNe0EzWRpwI9ENvpeDMg.JPEG/IumPGeMDG2XJSyEayDns7JIvpxdw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[각양각색 아이웨어 스타일링, 셀럽들의 '안경' 모음]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36956203&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Oct 2023 15:01:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzFfNCAg/MDAxNjk4NzQ1MTg1ODk5.CovZG2vrKep5JllPsxFFBeNziIcp2A82mL2u6iU3Ox8g.M0cyTNDIwE4QcKLZwoco7PVuAU8g5CTIesNO7I3gBlEg.JPEG/IQnwJAOMfbokUxC-7qMu25QRs4yA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 겨울, 당신을 위한 아름다운 코트]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36811450&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36811450&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 31 Oct 2023 15:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMzFfMTM4/MDAxNjk4NzQ0ODkyOTE4.3MxxS-njlWhW5bbDkGlsFVpB85d7OjzBW8YBtZE1jm4g.tU0OPesY6056pWrJt8N-_wxoakACws1unPrbgYFDHZAg.JPEG/I_BvnnNJVYKNWM6viQNcjd7Q_ZtQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
