@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 09:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 15:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2739,6 +2739,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/f30b9c03-ef56-4e33-9507-a48b87c364d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배스킨라빈스의 첫 비건 아이스크림, 어떤 맛? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/81711</link>
+            <guid>https://www.harpersbazaar.co.kr/article/81711</guid>
+            <pubDate>Wed, 08 Nov 2023 03:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[골라먹는 재미가 있는 배스킨라빈스, 비건들을 위한 선택지가 생겼다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/df545117-aa12-4bea-b262-84f18765d582.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[바다를 바라는 사람들 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/80985</link>
             <guid>https://www.harpersbazaar.co.kr/article/80985</guid>
@@ -2799,7 +2807,23 @@
             <link>https://www.harpersbazaar.co.kr/article/79364</link>
             <guid>https://www.harpersbazaar.co.kr/article/79364</guid>
             <pubDate>Thu, 05 Oct 2023 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[창조적이고 지속가능한 삶을 실현하는 이들의 이야기.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/260d5ab0-11ec-4708-a4f2-a44e986688b5.jpg');">
+            <a href="/article/79364">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79364">
+                    버려진 신발에 새 생명을!                 </a>
+            </em>
+            <p class="excerpt">창조적이고 지속가능한 삶을 실현하는 이들의 이야기.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/260d5ab0-11ec-4708-a4f2-a44e986688b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2952,22 +2976,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/77965</guid>
             <pubDate>Mon, 17 Jul 2023 15:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/fba04325-492f-46bd-83b4-a2f2bf126ec1.jpg');">
-            <a href="/article/77965">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/77965">
-                    착한 주얼리                </a>
-            </em>
-            <p class="excerpt">지속가능한 미래를 꿈꾸는 주얼리 업계의 따뜻한 행보</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/77965">
+                        착한 주얼리                    </a>
+                </em>
+                <p class="excerpt">지속가능한 미래를 꿈꾸는 주얼리 업계의 따뜻한 행보</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/fba04325-492f-46bd-83b4-a2f2bf126ec1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3089,30 +3113,6 @@
                 <p class="excerpt">고체 바, 사용 후기가 궁금하세요? (feat.아로마티카 매장 방문기)</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/35873e7e-7004-4407-8962-2635b2734888.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#BBB 새싹에디터가 직접 다녀온 서울 제로웨이스트샵 5 (하퍼스바자 코리아 ─ 지속가능성)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/77388</link>
-            <guid>https://www.harpersbazaar.co.kr/article/77388</guid>
-            <pubDate>Wed, 20 Sep 2023 03:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/21199bda-00f3-4462-b066-f6568520f694.jpg');">
-                <a href="/article/77388">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/77388">
-                        #BBB 새싹에디터가 직접 다녀온 서울 제로웨이스트샵 5                    </a>
-                </em>
-                <p class="excerpt">친환경 핫 플레이스를 소개합니다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/21199bda-00f3-4462-b066-f6568520f694.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
