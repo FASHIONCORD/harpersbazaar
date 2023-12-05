@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 09:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 15:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1987,6 +1987,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/16/219c5221-5834-4cef-bfd9-b53495e058d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대규모 개인전 《구본창의 항해》를 앞두고 작가와 나눈 대화 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82361</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82361</guid>
+            <pubDate>Tue, 05 Dec 2023 15:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[45년간 이어진 그의 항해는 지금도 현재진행형이다. 저 먼 곳으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/c99e3f1e-0da9-4b8b-b259-244b04786e3d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023년 파리 플러스 파 아트바젤에 가다 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82358</link>
             <guid>https://www.harpersbazaar.co.kr/article/82358</guid>
@@ -2047,7 +2055,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82540</link>
             <guid>https://www.harpersbazaar.co.kr/article/82540</guid>
             <pubDate>Fri, 01 Dec 2023 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[일촉즉발의 9시간을 담은 141분짜리 영화가 14분처럼 느껴진다고?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/be1c6d3e-aee1-4cd8-bd85-e8037bc9aeda.jpg');">
+            <a href="/article/82540">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82540">
+                    200만 돌파한 영화 '서울의 봄', '심박수 챌린지'는 무엇?                </a>
+            </em>
+            <p class="excerpt">일촉즉발의 9시간을 담은 141분짜리 영화가 14분처럼 느껴진다고?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/be1c6d3e-aee1-4cd8-bd85-e8037bc9aeda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2200,22 +2224,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82307</guid>
             <pubDate>Fri, 01 Dec 2023 03:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/6af64d86-64ad-4130-ad9f-0c4e4a92c60b.jpg');">
-            <a href="/article/82307">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82307">
-                    가장 미국적인 작가 헨리 테일러가 파리에 있다                </a>
-            </em>
-            <p class="excerpt">지금, 가장 미국적인 작가 헨리 테일러가 파리에 있다. 약간의 우울감을 동반한 채.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82307">
+                        가장 미국적인 작가 헨리 테일러가 파리에 있다                    </a>
+                </em>
+                <p class="excerpt">지금, 가장 미국적인 작가 헨리 테일러가 파리에 있다. 약간의 우울감을 동반한 채.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/6af64d86-64ad-4130-ad9f-0c4e4a92c60b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2337,30 +2361,6 @@
                 <p class="excerpt">에미상 노미네이트로 증명한 K-콘텐츠의 힘...수상은 아쉽게 '불발'</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/023ac7fb-f506-481c-b026-52dee33102e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<지우학> 출신, 이유미→조이현...K-콘텐츠 이끄는 주역들! (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82368</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82368</guid>
-            <pubDate>Sat, 25 Nov 2023 09:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/c06c5f98-eba3-4738-a95f-4c8602d6d4c1.jpg');">
-                <a href="/article/82368">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82368">
-                        &lt;지우학&gt; 출신, 이유미→조이현...K-콘텐츠 이끄는 주역들!                    </a>
-                </em>
-                <p class="excerpt">효산고 좀비 사태, 그날 이후...학생들은 '주연 배우'로 쭉~ 상승세🔥</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/c06c5f98-eba3-4738-a95f-4c8602d6d4c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 올해 포토 스폿은 어디? 백화점 연말 디스플레이 모음zip (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
