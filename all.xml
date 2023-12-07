@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 09:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 15:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1611,6 +1611,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/96629bd5-af68-4f90-b676-35f7d1df84a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[토즈와 지방시의 크리에이티브 디렉터가 바뀐다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82709</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82709</guid>
+            <pubDate>Wed, 06 Dec 2023 15:02:12 GMT</pubDate>
+            <content:encoded><![CDATA[굿바이 지방시, 헬로 토즈]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/d64e13b0-0f38-42c3-984c-1ce6cc097e73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지민×정국 동반입대! BTS 7인, 병역의무 이행 #2025년_군필돌 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82708</link>
             <guid>https://www.harpersbazaar.co.kr/article/82708</guid>
@@ -1671,7 +1679,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82544</link>
             <guid>https://www.harpersbazaar.co.kr/article/82544</guid>
             <pubDate>Sun, 03 Dec 2023 09:02:27 GMT</pubDate>
-            <content:encoded><![CDATA[환상적이고 비현실적인 꽃 오키드를 조각적인 오브제로 재해석한 지미추 2023 윈터 컬렉션.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/231a1224-3223-4595-9588-3c3a9066dd9b.jpg');">
+            <a href="/article/82544">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82544">
+                    지미추와 (여자)아이들 미연의 대담한 만남                </a>
+            </em>
+            <p class="excerpt">환상적이고 비현실적인 꽃 오키드를 조각적인 오브제로 재해석한 지미추 2023 윈터 컬렉션.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/231a1224-3223-4595-9588-3c3a9066dd9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1824,22 +1848,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82408</guid>
             <pubDate>Wed, 29 Nov 2023 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/dc2cebd9-98cf-4e28-982c-c8d8d96493eb.jpg');">
-            <a href="/article/82408">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82408">
-                    티모시 샬라메의 영화로운 행보                </a>
-            </em>
-            <p class="excerpt">사막 속에서 빛나는 티모시를 빠른 시일 내에 볼 수 있을 전망이다</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82408">
+                        티모시 샬라메의 영화로운 행보                    </a>
+                </em>
+                <p class="excerpt">사막 속에서 빛나는 티모시를 빠른 시일 내에 볼 수 있을 전망이다</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/dc2cebd9-98cf-4e28-982c-c8d8d96493eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1961,30 +1985,6 @@
                 <p class="excerpt">긴 공백을 깨고 드러내는 선명한 자부심</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/da09d4b8-a49d-4910-88a2-42c9d2ba9e3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스우파 2' 히로인, 바다&커스틴&레드릭&하리무 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82288</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82288</guid>
-            <pubDate>Fri, 24 Nov 2023 09:03:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/1149d799-c714-4861-a850-582408556e2a.jpg');">
-                <a href="/article/82288">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82288">
-                        '스우파 2' 히로인, 바다&amp;커스틴&amp;레드릭&amp;하리무                    </a>
-                </em>
-                <p class="excerpt">&lt;스우파 2&gt;의 히로인에서 &lt;스걸파 2&gt;의 마스터로 변신한 바다, 커스틴, 레드릭, 하리무.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/1149d799-c714-4861-a850-582408556e2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아를에서 이우환을 경험한다는 것 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
