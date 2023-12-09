@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 15:03:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 03:03:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1987,6 +1987,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/23/da09d4b8-a49d-4910-88a2-42c9d2ba9e3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['반말하는 사이' 아이유×뷔, 호흡 어게인! "이번엔 MV다!" (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82736</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82736</guid>
+            <pubDate>Sat, 09 Dec 2023 03:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 뷔, 아이유 신곡 뮤직비디오 출연! 입대 전 열일 V]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/14d13dbf-7cd7-4f56-9f2f-357d23a0cfdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지민×정국 동반입대! BTS 7인, 병역의무 이행 #2025년_군필돌 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82708</link>
             <guid>https://www.harpersbazaar.co.kr/article/82708</guid>
@@ -2047,7 +2055,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82584</link>
             <guid>https://www.harpersbazaar.co.kr/article/82584</guid>
             <pubDate>Tue, 05 Dec 2023 09:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[러브스토리 장인! 일러스트레이터 브라이언 레의 국내 첫 개인전.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/cee3948e-df9e-4897-b11c-c345b56701b2.jpg');">
+            <a href="/article/82584">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82584">
+                    사랑을 기록하는 법                </a>
+            </em>
+            <p class="excerpt">러브스토리 장인! 일러스트레이터 브라이언 레의 국내 첫 개인전.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/30/cee3948e-df9e-4897-b11c-c345b56701b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2200,22 +2224,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82336</guid>
             <pubDate>Fri, 01 Dec 2023 03:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/2816cbfe-5dfd-444a-8d37-3dd68b4ec452.jpg');">
-            <a href="/article/82336">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82336">
-                    용감한 사랑과 우정에 대한 영화, &lt;클레오의 세계&gt;                </a>
-            </em>
-            <p class="excerpt">햇살 아래 부서지는 파도 앞에 두 사람이 서 있다. 이 바다는 서아프리카 카보베르데의 해안이...</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82336">
+                        용감한 사랑과 우정에 대한 영화, &lt;클레오의 세계&gt;                    </a>
+                </em>
+                <p class="excerpt">햇살 아래 부서지는 파도 앞에 두 사람이 서 있다. 이 바다는 서아프리카 카보베르데의 해안이...</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/2816cbfe-5dfd-444a-8d37-3dd68b4ec452.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2339,28 +2363,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/6af64d86-64ad-4130-ad9f-0c4e4a92c60b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이성민 '청룡영화상'에서 재회한 아들·손자..도경수→송중기 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82417</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82417</guid>
-            <pubDate>Fri, 01 Dec 2023 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/25/1843b53b-df32-476f-9710-52c9370ecb84.jpg');">
-                <a href="/article/82417">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82417">
-                        이성민 '청룡영화상'에서 재회한 아들·손자..도경수→송중기                    </a>
-                </em>
-                <p class="excerpt">다작왕? 이 구역의 인맥왕! 도경수·박정민·송중기부터 김혜수·이병헌까지!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/25/1843b53b-df32-476f-9710-52c9370ecb84.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[겨울엔 방콕이지! 카펠라 방콕이 버킷리스트 1순위인 이유 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82505</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82505</guid>
+            <pubDate>Sat, 09 Dec 2023 03:03:09 GMT</pubDate>
+            <content:encoded><![CDATA[도심 속 오아시스, 카펠라 방콕.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/28/963dfcf6-e5fe-46cc-81db-a4ebffffa8f5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환경을 생각한 새로운 가방 브랜드 '아라바그'를 아시나요? (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
@@ -2423,7 +2431,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82101</link>
             <guid>https://www.harpersbazaar.co.kr/article/82101</guid>
             <pubDate>Wed, 22 Nov 2023 15:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[라멘의 본고장 일본부터 한국까지 다양한 라멘 맛집으로 추천했다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/7dace1e9-a7cf-4037-acb7-1b66360a4f15.jpg');">
+            <a href="/article/82101">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82101">
+                    면귀신 하석진이 추천하는 찐라멘 맛집 모음.zip                </a>
+            </em>
+            <p class="excerpt">라멘의 본고장 일본부터 한국까지 다양한 라멘 맛집으로 추천했다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/14/7dace1e9-a7cf-4037-acb7-1b66360a4f15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2576,22 +2600,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/81711</guid>
             <pubDate>Wed, 08 Nov 2023 03:03:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/df545117-aa12-4bea-b262-84f18765d582.jpg');">
-            <a href="/article/81711">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/81711">
-                    배스킨라빈스의 첫 비건 아이스크림, 어떤 맛?                 </a>
-            </em>
-            <p class="excerpt">골라먹는 재미가 있는 배스킨라빈스, 비건들을 위한 선택지가 생겼다! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81711">
+                        배스킨라빈스의 첫 비건 아이스크림, 어떤 맛?                     </a>
+                </em>
+                <p class="excerpt">골라먹는 재미가 있는 배스킨라빈스, 비건들을 위한 선택지가 생겼다! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/df545117-aa12-4bea-b262-84f18765d582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2713,30 +2737,6 @@
                 <p class="excerpt">여행을 더욱 즐겁게 만들어 줄 숙소 추천 </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/5c4c76fd-6283-448c-a270-4c17e6887910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈렉> 팬이면, 무조건 여기! 늪지대 하룻밤(feat.호스트 동키) (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81350</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81350</guid>
-            <pubDate>Fri, 27 Oct 2023 15:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/07846189-8f82-41b6-b062-f6d3947502c0.jpg');">
-                <a href="/article/81350">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81350">
-                        &lt;슈렉&gt; 팬이면, 무조건 여기! 늪지대 하룻밤(feat.호스트 동키)                    </a>
-                </em>
-                <p class="excerpt">슈렉 집+호스트 동키, 각종 특전과 '슈렉 화장실'은 덤!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/07846189-8f82-41b6-b062-f6d3947502c0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배스킨라빈스의 첫 비건 아이스크림, 어떤 맛? (하퍼스바자 코리아 ─ 지속가능성)]]></title>
