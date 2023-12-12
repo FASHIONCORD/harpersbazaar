@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 09:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 15:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1611,6 +1611,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/20e5a90d-bdfe-4e94-aed8-aea1b77f48e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['반말하는 사이' 아이유×뷔, 호흡 어게인! "이번엔 MV다!" (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82736</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82736</guid>
+            <pubDate>Sat, 09 Dec 2023 03:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단 뷔, 아이유 신곡 뮤직비디오 출연! 입대 전 열일 V]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/14d13dbf-7cd7-4f56-9f2f-357d23a0cfdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전 세계 단 5명만 가능? 티모시 샬라메와 나이키의 협업 덩크 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82733</link>
             <guid>https://www.harpersbazaar.co.kr/article/82733</guid>
@@ -1671,7 +1679,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82631</link>
             <guid>https://www.harpersbazaar.co.kr/article/82631</guid>
             <pubDate>Wed, 06 Dec 2023 03:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;카레이도 스타&gt;에 이어 추천하는 애니메이션은 무엇?]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/01/088b01ab-880e-4c34-89b1-75dca78fe5cb.jpg');">
+            <a href="/article/82631">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82631">
+                    서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만나면?                </a>
+            </em>
+            <p class="excerpt">&lt;카레이도 스타&gt;에 이어 추천하는 애니메이션은 무엇?</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/01/088b01ab-880e-4c34-89b1-75dca78fe5cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1824,22 +1848,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82325</guid>
             <pubDate>Wed, 29 Nov 2023 15:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/26/e8094b67-e153-4aec-9899-f23a5a23a8ff.jpg');">
-            <a href="/article/82325">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82325">
-                    &lt;3일의 휴가&gt; 엄마와 딸, 김해숙과 신민아                 </a>
-            </em>
-            <p class="excerpt">차와 침묵과 사랑을 나누는 두 사람의 깊고 푸른 겨울밤.   </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82325">
+                        &lt;3일의 휴가&gt; 엄마와 딸, 김해숙과 신민아                     </a>
+                </em>
+                <p class="excerpt">차와 침묵과 사랑을 나누는 두 사람의 깊고 푸른 겨울밤.   </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/26/e8094b67-e153-4aec-9899-f23a5a23a8ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1961,30 +1985,6 @@
                 <p class="excerpt">두 번째 스위트홈에 갇힌 세 남녀. 이진욱, 고민시, 진영이 어둠 속에서 다시 태어난다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/24/6463232a-438c-4541-a026-98c3f8ae4290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ROCK AND ROYALTY (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82277</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82277</guid>
-            <pubDate>Sat, 25 Nov 2023 03:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/9b9b0f59-656f-4087-b1cd-0beb2f3e8a2b.jpg');">
-                <a href="/article/82277">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82277">
-                        ROCK AND ROYALTY                    </a>
-                </em>
-                <p class="excerpt">미니 앨범 &lt;樂-STAR(락스타)&gt;로 컴백한 스트레이 키즈(Stray Kids) 현진과의 프라이빗 홀리데이. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/9b9b0f59-656f-4087-b1cd-0beb2f3e8a2b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<무인도의 디바> 은모래 역 배강희, 전작? <더 글로리>와 <환혼> (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
