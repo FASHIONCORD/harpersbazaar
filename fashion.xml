@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 09:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 15:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 팬츠도 패딩 시대]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82961</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82961</guid>
+            <pubDate>Thu, 14 Dec 2023 15:02:07 GMT</pubDate>
+            <content:encoded><![CDATA[스키장을 벗어나 거리를 점령한 패딩 팬츠의 질주]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/abc4b20a-62a3-4a5b-a5bf-5b44f0a4252e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오데마 피게, 파텍 필립, 태그호이어의 복각 워치는?]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82501</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82400</link>
             <guid>https://www.harpersbazaar.co.kr/article/82400</guid>
             <pubDate>Tue, 12 Dec 2023 03:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[지금 단 한 가지 아이템을 쇼핑해야 한다면? 정답은 진주다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/048a27fc-02e3-41f9-9ae7-8b2904ec3e79.jpg');">
+            <a href="/article/82400">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82400">
+                    올드머니부터 젠더리스 트렌드까지, 당신이 알아야 할 '진주'에 관한 모든 것                </a>
+            </em>
+            <p class="excerpt">지금 단 한 가지 아이템을 쇼핑해야 한다면? 정답은 진주다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/048a27fc-02e3-41f9-9ae7-8b2904ec3e79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +172,7 @@
             <link>https://www.harpersbazaar.co.kr/article/82778</link>
             <guid>https://www.harpersbazaar.co.kr/article/82778</guid>
             <pubDate>Fri, 08 Dec 2023 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/4493e5b8-3036-4129-9635-e76504cb37d5.jpg');">
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/4493e5b8-3036-4129-9635-e76504cb37d5.jpg');">
             <a href="/article/82778">
                 <img alt="" src="">
             </a>
@@ -165,7 +189,7 @@
             </em>
             <p class="excerpt">LA를 주름잡는 ‘EREWHON 마켓’과의 협업을 보여줬다.</p>
         </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/4493e5b8-3036-4129-9635-e76504cb37d5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/4493e5b8-3036-4129-9635-e76504cb37d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023년을 빛낸 디자이너들은 누구?]]></title>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82394</guid>
             <pubDate>Thu, 07 Dec 2023 09:02:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/a1024cf9-a466-4239-ab30-b6e792e9c501.jpg');">
-            <a href="/article/82394">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82394">
-                    이토록 컬러풀한 배우 김다미                </a>
-            </em>
-            <p class="excerpt">보테가 베네타의  2024 프리-스프링(Pre-Spring) 컬렉션을 입고 그만의 색(色)을 드러내다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82394">
+                        이토록 컬러풀한 배우 김다미                    </a>
+                </em>
+                <p class="excerpt">보테가 베네타의  2024 프리-스프링(Pre-Spring) 컬렉션을 입고 그만의 색(色)을 드러내다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/a1024cf9-a466-4239-ab30-b6e792e9c501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">조종사들이 입을 법한 재킷으로 멋을 낸 스타들.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/2e92d306-5cad-49cc-87c5-120aaf837ad4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일상에 녹아든 바라클라바]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82644</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82644</guid>
-            <pubDate>Tue, 05 Dec 2023 03:02:43 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/07/79d1044e-7148-45db-87af-542c3c24d4f1.jpg');">
-                <a href="/article/82644">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82644">
-                        일상에 녹아든 바라클라바                    </a>
-                </em>
-                <p class="excerpt">우수한 보온력 덕분에 자꾸만 손이 간다.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/07/79d1044e-7148-45db-87af-542c3c24d4f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
