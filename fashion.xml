@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 15:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 03:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경쾌한 포인트, 컬러 코트]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82962</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82962</guid>
+            <pubDate>Fri, 15 Dec 2023 03:02:20 GMT</pubDate>
+            <content:encoded><![CDATA[비타민처럼 톡! 쏘는 컬러 코트의 무한한 매력]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/1ca79c58-42c1-4cf0-94dd-af01f5eab878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 팬츠도 패딩 시대]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82961</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82842</link>
             <guid>https://www.harpersbazaar.co.kr/article/82842</guid>
             <pubDate>Tue, 12 Dec 2023 09:02:22 GMT</pubDate>
-            <content:encoded><![CDATA[말간 복숭아 컬러, '봄웜'의 시대가 왔다!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/e9f9e935-9207-4fcd-97dd-3fabb4e92378.jpg');">
+            <a href="/article/82842">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82842">
+                     2024 올해의 컬러는 무엇?                </a>
+            </em>
+            <p class="excerpt">말간 복숭아 컬러, '봄웜'의 시대가 왔다! </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/e9f9e935-9207-4fcd-97dd-3fabb4e92378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82768</guid>
             <pubDate>Thu, 07 Dec 2023 09:02:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/2589b6f9-7176-41b2-84a3-bd587d53e0d0.jpg');">
-            <a href="/article/82768">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82768">
-                    샤넬 컬처 펀드와 함께한 리움미술관, 어떤 프로그램일까?                 </a>
-            </em>
-            <p class="excerpt">샤넬과 만난 리움미술관 </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82768">
+                        샤넬 컬처 펀드와 함께한 리움미술관, 어떤 프로그램일까?                     </a>
+                </em>
+                <p class="excerpt">샤넬과 만난 리움미술관 </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/2589b6f9-7176-41b2-84a3-bd587d53e0d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">디올의 마리아 그라치아 치우리는 2024 크루즈 컬렉션을 위해 멕시코로의 여정을 택했다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/04/c282f3cd-dc71-47d9-bc7e-399eb637f1f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패딩과 코트 말고, 봄버 재킷]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82645</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82645</guid>
-            <pubDate>Wed, 06 Dec 2023 15:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/2e92d306-5cad-49cc-87c5-120aaf837ad4.jpg');">
-                <a href="/article/82645">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82645">
-                        패딩과 코트 말고, 봄버 재킷                    </a>
-                </em>
-                <p class="excerpt">조종사들이 입을 법한 재킷으로 멋을 낸 스타들.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/2e92d306-5cad-49cc-87c5-120aaf837ad4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
