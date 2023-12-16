@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 15:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 03:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -859,6 +859,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MzBfMjYz/MDAxNjE5NzUyNjkxMTk3.YxMPYFDk53BAleatgNIAo2YNpg7c0c9CcHqR7us7rcQg.RhPLoCaYWtGzny4VbNig1vkkSvE5psCFWzZsE4PyMjog.PNG/Ij-xVexlQ01pGNWqTxWaPxx7WKq4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우아한 생로랑의 겨울 스타일링 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82615</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82615</guid>
+            <pubDate>Sat, 16 Dec 2023 03:02:15 GMT</pubDate>
+            <content:encoded><![CDATA[대담한 시선과 몸짓, 그 속에 깃든 생로랑의 우아한 오라(Aura).]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/1426b0a5-149d-4b62-88eb-b415ab62e6c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오메가, 몽블랑, 제니스, 바쉐론 콘스탄틴의 복각 워치는? (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82503</link>
             <guid>https://www.harpersbazaar.co.kr/article/82503</guid>
@@ -919,7 +927,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82549</link>
             <guid>https://www.harpersbazaar.co.kr/article/82549</guid>
             <pubDate>Wed, 13 Dec 2023 09:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[볼드한 커프나 브로치로 고정시키는 것이 포인트]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/9f28436f-ac72-467f-89eb-56be2a72c138.jpg');">
+            <a href="/article/82549">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82549">
+                    흐르듯 우아하게, 케이프 스타일링                </a>
+            </em>
+            <p class="excerpt">볼드한 커프나 브로치로 고정시키는 것이 포인트</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/9f28436f-ac72-467f-89eb-56be2a72c138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1072,22 +1096,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82778</guid>
             <pubDate>Fri, 08 Dec 2023 09:02:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/4493e5b8-3036-4129-9635-e76504cb37d5.jpg');">
-            <a href="/article/82778">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82778">
-                    그래서 발렌시아가랑 협업한 'EREWHON 마켓'이 뭔데?                </a>
-            </em>
-            <p class="excerpt">LA를 주름잡는 ‘EREWHON 마켓’과의 협업을 보여줬다.</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82778">
+                        그래서 발렌시아가랑 협업한 'EREWHON 마켓'이 뭔데?                    </a>
+                </em>
+                <p class="excerpt">LA를 주름잡는 ‘EREWHON 마켓’과의 협업을 보여줬다.</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/4493e5b8-3036-4129-9635-e76504cb37d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1209,30 +1233,6 @@
                 <p class="excerpt">굿바이 지방시, 헬로 토즈</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/d64e13b0-0f38-42c3-984c-1ce6cc097e73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한겨울에도 트렌치코트를 즐기는 방법 (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82474</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82474</guid>
-            <pubDate>Wed, 06 Dec 2023 15:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/07/276658a2-dc29-4b26-bf16-ead67d65a3c5.jpg');">
-                <a href="/article/82474">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82474">
-                        한겨울에도 트렌치코트를 즐기는 방법                    </a>
-                </em>
-                <p class="excerpt">트렌치코트를 한겨울에도 즐기고 싶다면? 스포트막스가 제시한 스타일링을 참고할 것. </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/07/276658a2-dc29-4b26-bf16-ead67d65a3c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[춥고 외로운 겨울밤, 이것만 있으면 괜찮아 (하퍼스바자 코리아 ─ 뷰티)]]></title>
