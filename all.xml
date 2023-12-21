@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 09:03:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 15:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -859,6 +859,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MzBfMjYz/MDAxNjE5NzUyNjkxMTk3.YxMPYFDk53BAleatgNIAo2YNpg7c0c9CcHqR7us7rcQg.RhPLoCaYWtGzny4VbNig1vkkSvE5psCFWzZsE4PyMjog.PNG/Ij-xVexlQ01pGNWqTxWaPxx7WKq4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SWEET SPOT, 눈으로 맛보는 호화로운 하이주얼리 귀고리 (하퍼스바자 코리아 ─ 패션)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82561</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82561</guid>
+            <pubDate>Thu, 21 Dec 2023 15:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[비비드한 컬러의 젬스톤이 감각을 자극하는 호화로운 하이주얼리 귀고리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/16/2cc85e24-1e63-4fb2-832d-15d6ecd08211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LA에서 열린 프리미어 행사장에서 만난 '인간 루이 비통'  배두나 (하퍼스바자 코리아 ─ 패션)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/83031</link>
             <guid>https://www.harpersbazaar.co.kr/article/83031</guid>
@@ -919,7 +927,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82961</link>
             <guid>https://www.harpersbazaar.co.kr/article/82961</guid>
             <pubDate>Thu, 14 Dec 2023 15:02:07 GMT</pubDate>
-            <content:encoded><![CDATA[스키장을 벗어나 거리를 점령한 패딩 팬츠의 질주]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/abc4b20a-62a3-4a5b-a5bf-5b44f0a4252e.jpg');">
+            <a href="/article/82961">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82961">
+                    이제 팬츠도 패딩 시대                </a>
+            </em>
+            <p class="excerpt">스키장을 벗어나 거리를 점령한 패딩 팬츠의 질주</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/abc4b20a-62a3-4a5b-a5bf-5b44f0a4252e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1072,22 +1096,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82842</guid>
             <pubDate>Tue, 12 Dec 2023 09:02:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/e9f9e935-9207-4fcd-97dd-3fabb4e92378.jpg');">
-            <a href="/article/82842">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82842">
-                     2024 올해의 컬러는 무엇?                </a>
-            </em>
-            <p class="excerpt">말간 복숭아 컬러, '봄웜'의 시대가 왔다! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82842">
+                         2024 올해의 컬러는 무엇?                    </a>
+                </em>
+                <p class="excerpt">말간 복숭아 컬러, '봄웜'의 시대가 왔다! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/08/e9f9e935-9207-4fcd-97dd-3fabb4e92378.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1209,30 +1233,6 @@
                 <p class="excerpt">LA를 주름잡는 ‘EREWHON 마켓’과의 협업을 보여줬다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/14/4493e5b8-3036-4129-9635-e76504cb37d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년을 빛낸 디자이너들은 누구? (하퍼스바자 코리아 ─ 패션)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82776</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82776</guid>
-            <pubDate>Fri, 08 Dec 2023 03:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/07/7500b9ff-60ee-4789-bb89-a91d9cb86c27.jpg');">
-                <a href="/article/82776">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82776">
-                        2023년을 빛낸 디자이너들은 누구?                     </a>
-                </em>
-                <p class="excerpt">'패션계 오스카'에서 올해의 디자이너상을 받은 두 주인공!  </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/07/7500b9ff-60ee-4789-bb89-a91d9cb86c27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올 해 가장 핫했던 뷰티템은 무엇? (하퍼스바자 코리아 ─ 뷰티)]]></title>
