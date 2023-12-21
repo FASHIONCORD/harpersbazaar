@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 03:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 09:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 해 가장 핫했던 뷰티템은 무엇?]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/82395</link>
+            <guid>https://www.harpersbazaar.co.kr/article/82395</guid>
+            <pubDate>Thu, 21 Dec 2023 09:02:24 GMT</pubDate>
+            <content:encoded><![CDATA[올해의 베스트셀러, 최고 인기 컬러, 유튜브 속 화제의 아이템, 나 빼고 다 있는 품절템까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/a6d08461-e7e7-469b-9912-2a6fbc798f84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춥고 외로운 겨울밤, 이것만 있으면 괜찮아]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82393</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82388</link>
             <guid>https://www.harpersbazaar.co.kr/article/82388</guid>
             <pubDate>Tue, 05 Dec 2023 03:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[하루에 하나 씩 열어보는 재미!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/5a6e61c3-d0be-4ea2-a567-c1dc249fa3b6.jpg');">
+            <a href="/article/82388">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82388">
+                    연말 선물 끝판왕! 홀리데이 뷰티 캘린더                </a>
+            </em>
+            <p class="excerpt">하루에 하나 씩 열어보는 재미!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/5a6e61c3-d0be-4ea2-a567-c1dc249fa3b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82172</guid>
             <pubDate>Mon, 27 Nov 2023 15:05:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/34133997-c393-4dbe-a066-26db8e68f6c3.jpg');">
-            <a href="/article/82172">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82172">
-                    에르메스 신제품 아이섀도, 브러쉬가 특별한 이유                </a>
-            </em>
-            <p class="excerpt">연말 기프트는 바로 너! </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82172">
+                        에르메스 신제품 아이섀도, 브러쉬가 특별한 이유                    </a>
+                </em>
+                <p class="excerpt">연말 기프트는 바로 너! </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/34133997-c393-4dbe-a066-26db8e68f6c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">수분감 높은 파운데이션과 환상의 케미를 이루는 리퀴드 블러셔!</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/9e299e08-9a0c-4d1d-b250-0c0e3c1d5a48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코르가즘 일으키는 향수 레이어링]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/81777</link>
-            <guid>https://www.harpersbazaar.co.kr/article/81777</guid>
-            <pubDate>Wed, 15 Nov 2023 09:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/05/19d4c9d2-d6ee-4d8e-b5a0-06cd7ca4abd8.jpg');">
-                <a href="/article/81777">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/81777">
-                        코르가즘 일으키는 향수 레이어링                    </a>
-                </em>
-                <p class="excerpt">향수 페어링으로 나만의 향수 찾기!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/05/19d4c9d2-d6ee-4d8e-b5a0-06cd7ca4abd8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
