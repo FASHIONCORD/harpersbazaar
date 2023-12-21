@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 15:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 03:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['죽음'에서 벗어난, 티없이 맑은 박소담의 오라]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37070902&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37070902&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 21 Dec 2023 03:01:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjFfMjgg/MDAxNzAzMTE5NjA4Nzkx.r1lQyCRceJh2LOb329Dx0GgLiJQX9LCvbrPcP7jBa-Ig.2i41yHD7UwgLfZs9Hm_I4EiYQyIZL2zYpJgZBh_RYJIg.JPEG/IXzRpPxX7mnL_w-Nl6l6QdoHkF0k.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거부할 수 없는 매력의 그녀, 한효주의 아우라]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37064439&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Sep 2023 03:01:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjhfODQg/MDAxNjk1ODU1NDYyNzky.4a9GJWC4zJdfNNG3_VN1jriL8t-LMctwttBDGMLj6D8g.KzhkjjXLOQ19ovxdaxG8KmYba_DeTB3QE9m78P45SAkg.JPEG/I_fRWnaZOwBMD85ycR9H_iqtyRjI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자크뮈스와 함께한 제니의 화보와 인터뷰 만나보기!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36640877&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36640877&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 26 Sep 2023 09:02:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjZfODQg/MDAxNjk1NjkxMzU1NzQx.FU7h7EoYEg5irv-iKaNwima0-WbBFHHLd49WxJGx-68g.zeHeAFrxy6WnLtl8ehIWp08cXrw1kTII2i_qRtkitNMg.JPEG/Ic4DMjAxy41h2pnfIedLLdZVnTno.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
