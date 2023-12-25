@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Dec 2023 15:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 03:03:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1611,6 +1611,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/9e299e08-9a0c-4d1d-b250-0c0e3c1d5a48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[거부할 수 없는 매력의 그녀, 한효주의 아우라 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/83101</link>
+            <guid>https://www.harpersbazaar.co.kr/article/83101</guid>
+            <pubDate>Mon, 25 Dec 2023 03:02:57 GMT</pubDate>
+            <content:encoded><![CDATA[한효주와 막스마라 아이웨어가 함께한 화보를 &lt;바자&gt; 1월호에서 만나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/19/5025da09-1ffc-43f6-a1a1-8fbf65b2c78d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이런 모습 처음이야! 문가영 x 캘빈 클라인, 흑과 백의 순간 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/83058</link>
             <guid>https://www.harpersbazaar.co.kr/article/83058</guid>
@@ -1671,7 +1679,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82733</link>
             <guid>https://www.harpersbazaar.co.kr/article/82733</guid>
             <pubDate>Thu, 07 Dec 2023 03:02:20 GMT</pubDate>
-            <content:encoded><![CDATA[콘테스트를 통해 단 5명만 특별한 ‘웡카 에디션’을 가질 수 있다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/51b14a7f-0f58-4b1e-8061-6b8ed7a4cc83.jpg');">
+            <a href="/article/82733">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82733">
+                    전 세계 단 5명만 가능? 티모시 샬라메와 나이키의 협업 덩크                </a>
+            </em>
+            <p class="excerpt">콘테스트를 통해 단 5명만 특별한 ‘웡카 에디션’을 가질 수 있다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/51b14a7f-0f58-4b1e-8061-6b8ed7a4cc83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1824,22 +1848,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82631</guid>
             <pubDate>Wed, 06 Dec 2023 03:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/01/088b01ab-880e-4c34-89b1-75dca78fe5cb.jpg');">
-            <a href="/article/82631">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82631">
-                    서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만나면?                </a>
-            </em>
-            <p class="excerpt">&lt;카레이도 스타&gt;에 이어 추천하는 애니메이션은 무엇?</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82631">
+                        서커스 단원을 꿈꿨던 (여자)아이들 전소연과 태양의서커스가 만나면?                    </a>
+                </em>
+                <p class="excerpt">&lt;카레이도 스타&gt;에 이어 추천하는 애니메이션은 무엇?</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/01/088b01ab-880e-4c34-89b1-75dca78fe5cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1961,30 +1985,6 @@
                 <p class="excerpt">서커스 단원이 되고 싶던 소녀의 바람이 이루어진 어느 날. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/28/784d0251-7caf-438e-93ae-e268bcc3409e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려함과 우아함의 경계에서, 태양의서커스X전소연 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82428</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82428</guid>
-            <pubDate>Wed, 06 Dec 2023 03:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/6a914b31-14b9-4b80-ac9d-434f488b5408.jpg');">
-                <a href="/article/82428">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82428">
-                        화려함과 우아함의 경계에서, 태양의서커스X전소연                    </a>
-                </em>
-                <p class="excerpt">‘태양의서커스’와 (여자)아이들 ‘전소연’이 함께한 &lt;바자&gt; 12월호.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/6a914b31-14b9-4b80-ac9d-434f488b5408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유재석×블랙핑크 제니→'무빙' 이정하×차태현 ...<아파트 404> (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
