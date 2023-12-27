@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 09:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 15:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1987,6 +1987,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/231a1224-3223-4595-9588-3c3a9066dd9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새 앨범 Tour를 발매한 마이큐와 나눈 대화 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/83187</link>
+            <guid>https://www.harpersbazaar.co.kr/article/83187</guid>
+            <pubDate>Wed, 27 Dec 2023 15:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[현실에 발을 붙이고, 비현실적인 그림과 노래를 만들며, 초현실적인 사랑을 믿는 사람.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/26/5dbe3b77-92b9-4a24-aab9-5b7036f9f05b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<상속자들> 이후 10년만! 박형식×박신혜 재회작 #닥터슬럼프 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/83255</link>
             <guid>https://www.harpersbazaar.co.kr/article/83255</guid>
@@ -2047,7 +2055,23 @@
             <link>https://www.harpersbazaar.co.kr/article/83054</link>
             <guid>https://www.harpersbazaar.co.kr/article/83054</guid>
             <pubDate>Fri, 22 Dec 2023 09:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '범죄도시3'로 시작해 '서울의 봄'으로 장식한 2023 K-무비]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/17/034a4ca1-4202-4286-bee6-4fa963eeb52d.jpg');">
+            <a href="/article/83054">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/83054">
+                    천만 노리는 &lt;서울의 봄&gt;...2023년 한국영화 관객수 톱5는?                </a>
+            </em>
+            <p class="excerpt">영화 '범죄도시3'로 시작해 '서울의 봄'으로 장식한 2023 K-무비</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/17/034a4ca1-4202-4286-bee6-4fa963eeb52d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2200,22 +2224,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/83026</guid>
             <pubDate>Sun, 17 Dec 2023 09:02:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/7ae2c462-77bf-4cd1-bdde-7f63c69bf0df.jpg');">
-            <a href="/article/83026">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/83026">
-                    이중 생활이 꿀잼! &lt;혼례대첩&gt; 조이현→&lt;마이데몬&gt; 송강                </a>
-            </em>
-            <p class="excerpt">드라마 속도 '부캐'가 풍년이로다! #조이현 #남주혁 #송강</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/83026">
+                        이중 생활이 꿀잼! &lt;혼례대첩&gt; 조이현→&lt;마이데몬&gt; 송강                    </a>
+                </em>
+                <p class="excerpt">드라마 속도 '부캐'가 풍년이로다! #조이현 #남주혁 #송강</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/7ae2c462-77bf-4cd1-bdde-7f63c69bf0df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2337,30 +2361,6 @@
                 <p class="excerpt">사진가 민현우와 장덕화에게 물었다. '당신의 책장에 단 한 권의 사진집만 남긴다면?' </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/1ad2a2d6-d272-4d29-893a-f7b13c705973.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로데트 존슨의 회고전 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82606</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82606</guid>
-            <pubDate>Fri, 15 Dec 2023 09:03:23 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/12/52a69578-3750-4ad6-a7c4-874ec74681ca.jpg');">
-                <a href="/article/82606">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82606">
-                        클로데트 존슨의 회고전                    </a>
-                </em>
-                <p class="excerpt">런던 코톨드갤러리에서 열리는 전시는 그가 예술적인 소명을 다시 발견하게 된 과정을 담았다. ...</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/12/52a69578-3750-4ad6-a7c4-874ec74681ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[댕댕이도 함께 즐기는 한겨울 스파 여행 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
