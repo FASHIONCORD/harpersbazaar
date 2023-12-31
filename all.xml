@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 15:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 03:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1235,6 +1235,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/13/0e22339b-3a9e-42e8-8204-5fd5166c44af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미적분의 왕자, 카이스트 출신 모델 허성범은 누구? (하퍼스바자 코리아 ─ 뷰티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/83220</link>
+            <guid>https://www.harpersbazaar.co.kr/article/83220</guid>
+            <pubDate>Sun, 31 Dec 2023 03:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[미적분 영상덕분에 머릿속에 주판이 생겼습니다. ☆]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/9ae0c3bb-e022-4d7c-a175-0a3ed26f1d9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[퍼렐 윌리엄스는 뱀파이어다? (하퍼스바자 코리아 ─ 뷰티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/82612</link>
             <guid>https://www.harpersbazaar.co.kr/article/82612</guid>
@@ -1295,7 +1303,23 @@
             <link>https://www.harpersbazaar.co.kr/article/82389</link>
             <guid>https://www.harpersbazaar.co.kr/article/82389</guid>
             <pubDate>Thu, 07 Dec 2023 03:02:33 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 피부가 간지러운 이유는 단순히 건조한 날씨 때문이 아니다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/a02e37fb-a00e-44e2-b33b-e73d9d10914d.jpg');">
+            <a href="/article/82389">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/82389">
+                    보습 크림을 아무리 발라도 얼굴이 가려운 이유                </a>
+            </em>
+            <p class="excerpt">당신의 피부가 간지러운 이유는 단순히 건조한 날씨 때문이 아니다.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/a02e37fb-a00e-44e2-b33b-e73d9d10914d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1448,22 +1472,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82315</guid>
             <pubDate>Sat, 02 Dec 2023 15:05:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/279d946a-ab8c-4843-8346-9d2eecb6180d.jpg');">
-            <a href="/article/82315">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82315">
-                    튈르리 정원에서 영감을 받은 디올 홀리데이 에디션                </a>
-            </em>
-            <p class="excerpt">크리스챤 디올 뷰티의 2023 홀리데이 컬렉션에 담긴 찬란한 컬러들이 황홀하게 빛난다</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82315">
+                        튈르리 정원에서 영감을 받은 디올 홀리데이 에디션                    </a>
+                </em>
+                <p class="excerpt">크리스챤 디올 뷰티의 2023 홀리데이 컬렉션에 담긴 찬란한 컬러들이 황홀하게 빛난다</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/27/279d946a-ab8c-4843-8346-9d2eecb6180d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1585,30 +1609,6 @@
                 <p class="excerpt">연말 기프트는 바로 너! </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/17/34133997-c393-4dbe-a066-26db8e68f6c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙스터들의 성지, 꽁티드툴레아에서 출시한 바디&핸드 케어는? (하퍼스바자 코리아 ─ 뷰티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82137</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82137</guid>
-            <pubDate>Fri, 24 Nov 2023 15:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202311/21/d40cba91-5b85-4c8e-805c-f6707d8e97e2.jpg');">
-                <a href="/article/82137">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82137">
-                        힙스터들의 성지, 꽁티드툴레아에서 출시한 바디&amp;핸드 케어는?                      </a>
-                </em>
-                <p class="excerpt">미식, 공간 그리고 향. 트렌드를 완성하는 3박자를 모두 갖춘 꽁티드툴레아.  </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/21/d40cba91-5b85-4c8e-805c-f6707d8e97e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새 앨범 Tour를 발매한 마이큐와 나눈 대화 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
