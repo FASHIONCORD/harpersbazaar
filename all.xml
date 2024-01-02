@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 03:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 09:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1987,6 +1987,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/ee3c1581-036c-4fce-867d-491febb12e29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023년 돌아보기, 이동진이 선정한 최고의 영화가 궁금하다 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/83366</link>
+            <guid>https://www.harpersbazaar.co.kr/article/83366</guid>
+            <pubDate>Tue, 02 Jan 2024 09:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[언제나 영화처럼 살아가는 평론가 이동진이 엄선했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/29/4aa7143e-cac0-44ed-8db5-6c9607c2d651.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미리보는 1월 드라마 남주 라인업 #박지훈 #조정석 #안보현 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/83349</link>
             <guid>https://www.harpersbazaar.co.kr/article/83349</guid>
@@ -2047,7 +2055,23 @@
             <link>https://www.harpersbazaar.co.kr/article/83316</link>
             <guid>https://www.harpersbazaar.co.kr/article/83316</guid>
             <pubDate>Thu, 28 Dec 2023 09:03:16 GMT</pubDate>
-            <content:encoded><![CDATA['갓을 쓴 검객' 배두나→'플랫탑 헤어' 헨리 카빌...화면을 꽉 채운 풍성함!]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/27/c34cc42f-bfb0-4377-abc6-a3d6cbfee106.jpg');">
+            <a href="/article/83316">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/83316">
+                    압도적 스케일 원해? &lt;레벨 문&gt;부터 &lt;외+계인&gt;, &lt;아가일&gt;까지!                </a>
+            </em>
+            <p class="excerpt">'갓을 쓴 검객' 배두나→'플랫탑 헤어' 헨리 카빌...화면을 꽉 채운 풍성함!</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/27/c34cc42f-bfb0-4377-abc6-a3d6cbfee106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2200,22 +2224,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/83128</guid>
             <pubDate>Tue, 02 Jan 2024 03:03:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/3622b679-4656-40f5-b853-3dc4a8f5f35b.jpg');">
-            <a href="/article/83128">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/83128">
-                    힐마 아프 클린트 영화가 개봉한다                </a>
-            </em>
-            <p class="excerpt">칸딘스키가 추상화를 자신의 발명품이라 선언하기 전 이미 추상화를 시도한 화가가 있었다. </p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/83128">
+                        힐마 아프 클린트 영화가 개봉한다                    </a>
+                </em>
+                <p class="excerpt">칸딘스키가 추상화를 자신의 발명품이라 선언하기 전 이미 추상화를 시도한 화가가 있었다. </p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/3622b679-4656-40f5-b853-3dc4a8f5f35b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2337,30 +2361,6 @@
                 <p class="excerpt">웬만한 주연배우들이 다 모인 &lt;이재, 곧 죽습니다&gt;</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/18/28659a71-189d-4fca-b6ca-4ce3670882db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 김석훈, 의외의 근황? <놀뭐> 등장한 '나의 쓰저씨' (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/83052</link>
-            <guid>https://www.harpersbazaar.co.kr/article/83052</guid>
-            <pubDate>Tue, 02 Jan 2024 03:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/17/ff2266d0-ca62-4b7d-848f-20d8a22feb34.jpg');">
-                <a href="/article/83052">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/83052">
-                        배우 김석훈, 의외의 근황? &lt;놀뭐&gt; 등장한 '나의 쓰저씨'                    </a>
-                </em>
-                <p class="excerpt">'홍길동'과 'Y'는 잊어라! '나의 쓰레기 아저씨' 된 김석훈!</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/17/ff2266d0-ca62-4b7d-848f-20d8a22feb34.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인스타그램 인증샷 성지! 낭만과 설렘 가득한 #크리스마스마켓 3 (하퍼스바자 코리아 ─ 라이프스타일)]]></title>
