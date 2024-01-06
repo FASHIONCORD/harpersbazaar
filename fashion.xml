@@ -4,9 +4,17 @@
         <title>하퍼스바자 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 09:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 15:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혹한기에도 끄떡없을 트루퍼햇]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/83442</link>
+            <guid>https://www.harpersbazaar.co.kr/article/83442</guid>
+            <pubDate>Sat, 06 Jan 2024 15:02:22 GMT</pubDate>
+            <content:encoded><![CDATA[푹 눌러쓰면 끝! 따스하고 멋진 군밤 장수 모자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/03/d7115a21-7ac2-4720-ab56-b4ee7bafe851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['영앤리치' 키코와 카일리 제너의 브랜드 론칭 소식]]></title>
             <link>https://www.harpersbazaar.co.kr/article/83440</link>
@@ -68,7 +76,23 @@
             <link>https://www.harpersbazaar.co.kr/article/83371</link>
             <guid>https://www.harpersbazaar.co.kr/article/83371</guid>
             <pubDate>Wed, 03 Jan 2024 03:03:04 GMT</pubDate>
-            <content:encoded><![CDATA[프리뷰 파티에 앞서 도쿄를 찾은 크리에이티브 디렉터 빅터 산즈를 &lt;바자&gt;가 직접 만났다.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202401/02/02e0315a-92e7-4b2a-b281-2ea5fd6692a5.jpg');">
+            <a href="/article/83371">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/83371">
+                    도쿄 오모테산도에 오픈한 투미 플래그십 스토어                 </a>
+            </em>
+            <p class="excerpt"> 프리뷰 파티에 앞서 도쿄를 찾은 크리에이티브 디렉터 빅터 산즈를 &lt;바자&gt;가 직접 만났다.  </p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/02/02e0315a-92e7-4b2a-b281-2ea5fd6692a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -221,22 +245,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/83198</guid>
             <pubDate>Sat, 30 Dec 2023 03:02:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202401/02/953d9dc7-9e6d-469a-a761-be4e60c9cb42.jpg');">
-            <a href="/article/83198">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/83198">
-                    오직 오메가 홍콩 부티크에서만 경험할 수 있는 것은?                 </a>
-            </em>
-            <p class="excerpt">‘즉각적인 경험’과 ‘집 같은 편안함’으로 한 차원 높은 서비스를 제공하는 오메가 뉴 부티크</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/83198">
+                        오직 오메가 홍콩 부티크에서만 경험할 수 있는 것은?                     </a>
+                </em>
+                <p class="excerpt">‘즉각적인 경험’과 ‘집 같은 편안함’으로 한 차원 높은 서비스를 제공하는 오메가 뉴 부티크</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/02/953d9dc7-9e6d-469a-a761-be4e60c9cb42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,30 +382,6 @@
                 <p class="excerpt">이제부터 문가영을 정의하는 수식어에 ‘파격’이라는 키워드를 추가해야 할 것이다. </p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/22/12a1e751-b01d-4501-8fd2-abe7c2c7771e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스텔스 럭셔리'란 이런 것! 막스마라 아이웨어와 함께한 한효주의 찬란한 오라]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/83165</link>
-            <guid>https://www.harpersbazaar.co.kr/article/83165</guid>
-            <pubDate>Sun, 24 Dec 2023 03:02:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/be6b7f79-c6b7-4a8e-96c5-664e6fa67fc8.jpg');">
-                <a href="/article/83165">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/83165">
-                        '스텔스 럭셔리'란 이런 것! 막스마라 아이웨어와 함께한 한효주의 찬란한 오라                     </a>
-                </em>
-                <p class="excerpt">저물지 않는 트렌드, 클래식한 디자인의 막스마라 아이웨어</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/21/be6b7f79-c6b7-4a8e-96c5-664e6fa67fc8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
