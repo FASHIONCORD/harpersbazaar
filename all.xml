@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 03:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1611,6 +1611,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/29/70d13cfa-8a38-46e4-89d2-ff787edec1de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑스러운 기운 가득, 뉴진스 민지와 샤넬 뷰티의 만남 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <link>https://www.harpersbazaar.co.kr/article/83463</link>
+            <guid>https://www.harpersbazaar.co.kr/article/83463</guid>
+            <pubDate>Mon, 08 Jan 2024 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2024년을 여는 뉴진스 민지 &lt;바자&gt; 디지털 커버 &amp; 화보 공개]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/04/5462e081-e0e3-430d-ad25-fdbd0e573c28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[美 빌보드 선정 '2023년 최고의 K-pop'은 무엇? (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/83450</link>
             <guid>https://www.harpersbazaar.co.kr/article/83450</guid>
@@ -1651,12 +1659,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/27/67852bbc-0f2f-42cf-bc5e-f559fc9a8e19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신입생, 여섯 스테이씨의 명량한 순간 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
+            <title><![CDATA[THE FRESHMEN 신입생 여섯 스테이씨의 명랑한 순간 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
             <link>https://www.harpersbazaar.co.kr/article/83288</link>
             <guid>https://www.harpersbazaar.co.kr/article/83288</guid>
             <pubDate>Thu, 04 Jan 2024 03:06:09 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;하퍼스 바자 &gt;1월호에 스테이씨의 밝고 명량한 순간을 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/26/2c4d481c-eeb2-4b8e-89f5-934d47987c63.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[하퍼스 바자 1월호에 스테이씨의 밝고 명랑한 순간을 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/06/2c4d481c-eeb2-4b8e-89f5-934d47987c63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['죽음'으로 변신한 박소담이 지금 하고 싶은 말 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
@@ -1671,7 +1679,23 @@
             <link>https://www.harpersbazaar.co.kr/article/83187</link>
             <guid>https://www.harpersbazaar.co.kr/article/83187</guid>
             <pubDate>Wed, 27 Dec 2023 15:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[현실에 발을 붙이고, 비현실적인 그림과 노래를 만들며, 초현실적인 사랑을 믿는 사람.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/26/5dbe3b77-92b9-4a24-aab9-5b7036f9f05b.jpg');">
+            <a href="/article/83187">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/83187">
+                    새 앨범 Tour를 발매한 마이큐와 나눈 대화                </a>
+            </em>
+            <p class="excerpt">현실에 발을 붙이고, 비현실적인 그림과 노래를 만들며, 초현실적인 사랑을 믿는 사람.</p>
+        </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/26/5dbe3b77-92b9-4a24-aab9-5b7036f9f05b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1824,22 +1848,22 @@
             <guid>https://www.harpersbazaar.co.kr/article/82896</guid>
             <pubDate>Fri, 22 Dec 2023 03:02:36 GMT</pubDate>
             <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/e38d910b-e9a7-4aa4-9e37-07e3838b4235.jpg');">
-            <a href="/article/82896">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
                 <a href="/article/82896">
-                    "미래에서 만나!"...입대 전 BTS 뷔·RM이 남긴 말                </a>
-            </em>
-            <p class="excerpt">방탄소년단, 줄줄이 현역 입대..2025년에 완전체로 만날 날 기약!</p>
-        </div>]]></content:encoded>
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/82896">
+                        "미래에서 만나!"...입대 전 BTS 뷔·RM이 남긴 말                    </a>
+                </em>
+                <p class="excerpt">방탄소년단, 줄줄이 현역 입대..2025년에 완전체로 만날 날 기약!</p>
+            </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/11/e38d910b-e9a7-4aa4-9e37-07e3838b4235.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1961,30 +1985,6 @@
                 <p class="excerpt">콘테스트를 통해 단 5명만 특별한 ‘웡카 에디션’을 가질 수 있다.</p>
             </div>]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/05/51b14a7f-0f58-4b1e-8061-6b8ed7a4cc83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토즈와 지방시의 크리에이티브 디렉터가 바뀐다 (하퍼스바자 코리아 ─ 셀레브리티)]]></title>
-            <link>https://www.harpersbazaar.co.kr/article/82709</link>
-            <guid>https://www.harpersbazaar.co.kr/article/82709</guid>
-            <pubDate>Tue, 02 Jan 2024 03:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/d64e13b0-0f38-42c3-984c-1ce6cc097e73.jpg');">
-                <a href="/article/82709">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/82709">
-                        토즈와 지방시의 크리에이티브 디렉터가 바뀐다                    </a>
-                </em>
-                <p class="excerpt">굿바이 지방시, 헬로 토즈</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202312/06/d64e13b0-0f38-42c3-984c-1ce6cc097e73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘Born This Way’로 찢은 스타들 (하퍼스바자 코리아 ─ 아트&컬쳐)]]></title>
