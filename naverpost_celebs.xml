@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 03:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[푸른 바다 위, 오직 뷔(V). 김태형의 '숨멎' 모멘트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37231794&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37231794&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 23 Jan 2024 09:01:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjNfMTM0/MDAxNzA1OTgzODQwNDk0.FFSmEu3bX31s9V7ur9ctRZU0Z4h1lxv3RaI-eikuf8Ag.xOrmJUB6TpzhCno-dAIta05nXa6BmmBpBhqqTcdnTEIg.JPEG/I3-y6Z_xKvxk0RXKNbGqZMTg4VIM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 경찰, 안보현과 박지현의 유쾌한 순간들]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37230252&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 20 Dec 2023 03:01:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfMjAx/MDAxNzAzMDMwNTAxOTk2.QE8dVqfa9OHX84KFPsggzZdhLB1MvRgGK3UuB4lkFR0g.GlqwF28JU26pDdix0rlITUj5BM2QuymW5Us-ua0jJ1gg.JPEG/IP7KWTI3UH6g3lxV3X1UMVer5bHw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LA에서 열린 프리미어 행사장에서 만난 '인간 루이 비통' 배두나]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37053104&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37053104&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Mon, 18 Dec 2023 03:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMThfMjc3/MDAxNzAyODYxNjMzMDM3.4vjSIlXN_4DHDFY7jVMmOtto2aBPNHfn4B0oarw06DUg.xg3-pYNnbcCogSf-1V7yyhWFJ8b9uRnoY4ogHe6DtrEg.JPEG/IWQtR_icAFxI57JpjwK-l-31OaBU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
