@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 03:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 09:05:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 정연이 도전을 선택할 때]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37413216&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37413216&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 29 Feb 2024 09:01:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjlfMjI3/MDAxNzA5MTk1ODUzOTg3.4EFAU6JGJO7KO09SbG3ZTR_rSCdIe3Vl-8kGDeA3okQg.mXMfmSQkXUDvHEMMdKEuJm065x7ebZcLLMl0T-cR-JUg.JPEG/IGrTw2TxuEDIMPyn6LsAb773snks.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밝고 화사한, 고민시와 샤넬 화인주얼리의 조우]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37403549&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Jan 2024 03:01:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjVfMTQx/MDAxNzA2MTQzOTA4NjUw.cAZktJGwg7K7y5tpD7bHGi0nXR-QqSEZI9HZ2iNhGYQg.IHH8M8j3GENG9PzKNquuEHA5K7mieJmLX8kTAO2l69sg.JPEG/IB8qBfolfz4EgEV6r0tkMF5P8rbc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸른 바다 위, 오직 뷔(V). 김태형의 '숨멎' 모멘트]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37231794&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37231794&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 23 Jan 2024 09:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjNfMTM0/MDAxNzA1OTgzODQwNDk0.FFSmEu3bX31s9V7ur9ctRZU0Z4h1lxv3RaI-eikuf8Ag.xOrmJUB6TpzhCno-dAIta05nXa6BmmBpBhqqTcdnTEIg.JPEG/I3-y6Z_xKvxk0RXKNbGqZMTg4VIM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
