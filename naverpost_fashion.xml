@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 15:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 03:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨스턴 무드를 필두로 한 '카우보이 코어'에 푹 빠진 셀럽]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37478721&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37478721&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Thu, 14 Mar 2024 03:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTRfMTM0/MDAxNzEwMzgxNjYzNDgw.mEjLVYZXOBAIE1JIww73aBVroKfLx9SdjTXT2C8keCcg.Kd4by5eG9Cig4vJRdsF92EperXBwpnxcc1l8gsP6nIcg.JPEG/IQxcOKcnPLSaguf1qv-oLcOl4Vqc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<파묘>에도 등장! 지금 입어야할 가죽 트렌치코트 스타일!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37474837&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Jan 2024 09:01:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTFfMTc4/MDAxNzA0OTU3ODIwOTQw.-12sksQ7I0xrrx7yC52behnAhK48vlFXzsRT8zAW7A0g.NcwcQAGYoU8ADgIcxdB6mF3xKnbzoygzsyQz9HfYUG0g.PNG/IF0L60R6GXp06tYnrbuDJuUIES0Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 골든글로브 베스트 드레서를 꼽자면?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37174120&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37174120&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 11 Jan 2024 09:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTFfMTI5/MDAxNzA0OTU3MTkyNzQw.xZTj0AWVRnpLcA7T6fQmg3Y41ZzeuRPavVRCP8PfejEg.spud_ryV1SoEIB_Dsz72YVyzRj7KQxQ9XoNpF-asFj0g.PNG/I6-Ao90GWlbAbo1f49a3f3xdt4ak.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
