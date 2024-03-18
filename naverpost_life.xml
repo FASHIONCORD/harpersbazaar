@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 03:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 09:05:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['듄: 파트 2'를 담당한 코스튬 디자이너와의 인터뷰]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37500410&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37500410&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 18 Mar 2024 09:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMThfMjE5/MDAxNzEwNzQ4MTM3MzYw.NzNhBrysFK9lhv7MVqXNs8mRztpotdfiF680NPxoyP4g.uhuqe5Bn7WAEEbFCyIB1T-FkAi6_vvEN0BjH-ev00GQg.JPEG/I9yDKS4qa6X_jGUzE3Jzv-crl-bk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늦으면 완판! 오픈런해야하는 신세계 스위트파크]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37468431&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 27 Dec 2023 09:01:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjdfMjM4/MDAxNzAzNjU2NzI3NDU2.9Qh4h_YUDOlkZxMZhvQJ8HVgdxK1RGo-2F1fhRjNB1Eg.mWibuXuqGI9fvBrtJWhvdMxLJ9kJb-FrY96M5VVXTiYg.JPEG/Izgsa1ZnYrTezNJv5WgFuaoEOuG0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네스프레소 한 잔으로 시작하는 매혹적인 홀리데이]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36988909&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36988909&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 05 Dec 2023 03:01:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfMjE4/MDAxNzAxNzM4MTgxOTg2.9oMxN6MgThalG3QeGZElpgdRbho6WU000stSWtj_iGIg.G1lcKnwMBQ6HuZc8tzDfeR1R2daJfP7pj3SE1cqTsFEg.JPEG/IGhVlzwjHdlzLeuHLllbUe1xxBOk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
