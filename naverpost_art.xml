@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Art</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 03:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 09:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워싱턴D.C의 중심에 선 서도호 작가의 작고 용감한 '공인들']]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37601475&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37601475&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 05 Apr 2024 09:02:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMjM1/MDAxNzEyMzAzMDkxMDA5.7YZ3d7-8Bw9dwqhJA4cld7cbuAQiJRq6jkRvAS_nH2cg.zu0jFNFfjEBwTGLGZC5_eyJlyRkupTM3ftD7p0ydw24g.JPEG/Ijpa4mAxV5W7ZNY1CIB3lWWvdc5c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류준열이 바라본 세상의 아름다운 모습]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36894063&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -159,15 +167,6 @@
             <pubDate>Thu, 17 Nov 2022 03:36:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MDlfMTgg/MDAxNjIwNTM3MTc1ODQ0.gCkpFqy4CXg9moRKcq9IRmT8QXkgbw-TzN7J7JRE7B0g.lsQ-blR0kMXEDSpWB_OzKX4sCL9eZhtKx71a7e_1yfcg.PNG/IB8vnnURCvUKxkTpSYkI-buu8Ypk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 경매에 등장한 
-패션 아이콘 케이트 모스 영상?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31388466&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31388466&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MzBfMjYz/MDAxNjE5NzUyNjkxMTk3.YxMPYFDk53BAleatgNIAo2YNpg7c0c9CcHqR7us7rcQg.RhPLoCaYWtGzny4VbNig1vkkSvE5psCFWzZsE4PyMjog.PNG/Ij-xVexlQ01pGNWqTxWaPxx7WKq4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
