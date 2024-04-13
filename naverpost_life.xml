@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 15:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 03:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오은영 박사가 말하는 '애착'이 삶에서 중요한 이유]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37632633&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37632633&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Sat, 13 Apr 2024 03:01:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTJfMjM5/MDAxNzEyODg3MTgwNTc4.0NhqoelAWogBpng3aEZMH9kn4bmNNxiikpDcmTeALhMg.gVZlRvpRAbGDYAq3ow9AYh9UysMxGLPyCLB7XLoHqjcg.JPEG/IDnJlq-eiv6U09RRfudQamjLDq6c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7년만의 YG 걸그룹 '베이비몬스터', 아기괴물다운 거침없는 질주!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37629102&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 15 Jan 2024 09:01:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTVfNiAg/MDAxNzA1MzAyNDY0MDEy.B0HmYAHYWbHL7G2QL8REtvpBYtc1OmY1ZHFGLo1wv1og.emdJR9kNGsNQqXJ5GCRNnU5udkzJh29ZdPS3UtvGxoMg.JPEG/ItCoHKUDRldlzrMDnOYmNQFKspR4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년, 세계가 주목하는 피아니스트들이 찾아온다!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37174880&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37174880&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 11 Jan 2024 09:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTFfMjA0/MDAxNzA0OTYyNzgzMTg0.9R5hCPfJqkEE2KDRLREplMBU7UuUvN3bUNNgeSmgybAg.OJ4M-68jh-Y8uHvNL-st-USj15Vb8PZbbGboZg4oj-gg.JPEG/IU4TksjlpfALDxHl07iF0xi_rxOA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
