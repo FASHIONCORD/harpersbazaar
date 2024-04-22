@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 03:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 09:06:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생로랑 옷을 입은 한중일 신인 모델들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37687746&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37687746&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 22 Apr 2024 09:01:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjJfOTUg/MDAxNzEzNzUxMzk0NTQw.G-ONJ1W2cq-Pr-Ydu7rn3KwglcFdpWtMPfgS9ZCN0zog.n8CVOXUNDh_vVTvo6Pl9c91NXpSWlU9tvoLXanlaV8Yg.JPEG/I9PhaGC98-12XrIgyUSLj172J0FE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[협업맛집 '슈프림'이 걸어온 협업외길!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37676759&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 25 Jan 2024 09:01:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjVfMjAz/MDAxNzA2MTY2NzU1NzM0.9o0GdwbMky5F0j7F2SeabZoExCZVEqNcFlK_xCahF8Qg.N4R0wv9rnjFAILnEVT5VyM0iQ2z2G06fo-1daGVppwgg.JPEG/IAhBT6NuTEy14Cb3ueG-4Xp_sFzE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끊이지 않는 겨울 추위로부터 당신을 지켜줄 '10만원 이하' 방한템 모음zip]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37232079&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37232079&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 23 Jan 2024 09:01:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjNfMjgz/MDAxNzA1OTg2NjYyMzI4.4WAs0JFQ5Zz0zA6ypL1TorQNN-iy9C1RfFne1qNEB6kg.SK2YepaYckQMUVrrHyfeN597QlNGnwhnAHtX5QHOFrAg.JPEG/IBiCjnHfnLQpGO4tbKvL5jeo-Uqo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
