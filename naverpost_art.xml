@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Art</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 03:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 09:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디 마티네즈가 걸어온 그리는 길]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37752303&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37752303&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 03 May 2024 09:01:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDNfNDYg/MDAxNzE0NzA0NzcxNDcy.s89rGBP-QvZgJb55jytPCN4wXyU8p5c_-gaZo2YpCfIg.LalnIFPy06Vk-ykHMTs-aNByDIAxDSWQO8XplSOBoCkg.JPEG/IUZDHxAFyszdTtZ2AXzkKcArrpso.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향기도, 이야기도 경계가 없습니다.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37715866&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:36:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDhfMjcx/MDAxNjQ2NzI3ODkzNDA3.fkBdITzK_7TGsf2MzIR_vktI0Uvrj073jnNeTvg7WnMg.x4F3e_noJ-E2eF5tAH3RBzTpfUjekcw-SbUrzpYOXZEg.JPEG/IZvoKp_HNLxsHElR79b82VvPiPBU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매월 찾아오는 <바자 예술 산책>_2월 전시 정보 모음zip.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33261310&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33261310&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMDlfMTk5/MDAxNjQ0Mzg1MDE2ODk2.hXJZUgpf3WPeAPv7XGkQ96ZaUaX6yKg8JqCkbtcfk-Eg.M_oy0IO0DHyq-1uCaehzLG7DvEV-0MNMHFQV3IjwLuMg.JPEG/IsZqofshOrN-Xw3amzE4ttNeoFfk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
