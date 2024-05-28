@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 09:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 15:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편하고 스타일리시한 여름날 데님 버뮤다팬츠]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37897112&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37897112&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 28 May 2024 15:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjhfMjAy/MDAxNzE2ODg0OTY5MDgz.e1QD_sqmOYP63FjOQFhiGl11K1Q_aCq0HQr-voB6PrYg.L4hfc7IQiXp856wuhxSGQi4xCSXnozrA2ftpiL3pF4gg.JPEG/ILOaF_7YWuLQingaHgZ65cxe1trQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전여빈의 일상 속에 스며든 여름날 햇살, 그리고 코코 크러쉬]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37889491&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Apr 2024 09:01:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjRfMzAg/MDAxNzEzOTM2NDQyMDcw.SaU2DI5D1b1WApHTYo4H8l4jzh6dtVnuXUHjGA2_TCIg.EQLo0WwUOzTATPNiBsKgRDgZpeneqmCCc91UUhgNbbUg.JPEG/IpiJs7ZfjGc5fN3NZB6t8W-WGkEw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유퀴즈 속 티모시와 젠데이아가 입은 옷, 누가 스타일링 했을까?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37702104&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37702104&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 24 Apr 2024 03:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjRfODIg/MDAxNzEzOTI1NDYyODI4.tNSIRI3vmKUmga6xtks85SVhntmuLKSAwdiQPyly-_wg.3jKXw5x3iPOXcOCTOjLTCxARj70Ehatdnwmhxt3_Df4g.JPEG/IuC3d7b_xUGy1dw1nkgMO_fa4W_U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
