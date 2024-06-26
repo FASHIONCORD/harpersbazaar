@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jun 2024 15:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 03:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 박지환 & 최영준, 그리고 까르띠에가 선사하는 유쾌한 브로맨스]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38060602&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38060602&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 26 Jun 2024 03:01:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MjZfMzcg/MDAxNzE5MzYzMTM1NjI2.L5E2qzmLOYDfT9rQka9rb-6tapFTx7NBkDDCU762e3Eg.Mx4by_EHngzFvmz08njigdFH6iFNX8crue_YYNi9mQYg.JPEG/IAGJ_D0lJ-I4hGAlVJk21hIEDnUs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변우석, 이토록 아름다운 청춘!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38056581&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 May 2024 09:01:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTdfMjQ5/MDAxNzE1OTMwMDg5ODQw.bbU_X2iK-x_-P4FGl06VZp4H3hEIYNw5IdCzDwPGoCsg.FDZKRnDp4fRx14GWVHj6zUxh4RCx6i3jY1_hrVLwrrAg.JPEG/IZfU1GzoiJPJuCkyvBWAnLMP6a9k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올여름 강력한 패션템으로 떠오른 7부 '카프리 팬츠'를 입은 셀럽들!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37804853&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37804853&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Mon, 13 May 2024 03:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTNfMTgg/MDAxNzE1NTYyOTI5MTA4.oTzi53bVHvLZV25O05usNit7sXamfeje_UFYOs-Wa_4g.1p2y_boqZapFon5mDzlL4TlzNjoubZLap2IQ9nevBkQg.JPEG/IzQF5CR70eMZ4eqllxH4-nIHHd8M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
