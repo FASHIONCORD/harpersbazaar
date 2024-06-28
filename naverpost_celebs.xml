@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 15:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 03:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송건희랑 같이 한강 요트 데이트 할래?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38074049&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38074049&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Fri, 28 Jun 2024 03:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MjhfMTAx/MDAxNzE5NTM2MTAzNDQ5.txQb06dbMMk9R3bRoXBF4YTYkfrDwsvx6g47Go3uDusg.lQteI90z_1h4NjZlFfHRdYyFJXxgPbCm4pW_9SdbiAcg.JPEG/IussoQbUyGRW6NDaIDbz3GXAD7vs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 <미스터리 수사단>의 여섯 멤버가 남긴 단서를 찾아서]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38048752&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 25 May 2024 15:01:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/image.nmv/post_2024_05_25_0/rBmAsxeO4a_06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 도전 앞에 선 트레저의 소년들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37873603&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37873603&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 24 May 2024 09:01:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjRfMTAx/MDAxNzE2NTI3MDQzMDQ5.-rz5LoWJnTdeemzzMdoKH0_7ExMsAEdqT1jPFr3jbh8g.yOjAo-ekNgyoVrUv75022yfQn4oIn8HKAEwWrXoAt3sg.JPEG/I-s58MTxz7kLT9VGTmB0aLsAjGfw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
