@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Life</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 09:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 15:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독서만으로 여행하는 기분! 그 책, 그 장소]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38093574&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38093574&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 02 Jul 2024 15:01:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDJfMTEx/MDAxNzE5ODg2NDE0MTg4.9on2frGw545pdoA5rU62Jf4-lXTnayaOMfLvoPmOCWcg.pM55RtKIA9qaq7q_8QcbuMBF451_9ekksHg9l7bRoq0g.JPEG/IiVzQ-JEyWvcSJomDl4zfdEZrby4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아는 만큼 보인다! <인사이드 아웃2> 비하인드 스토리]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38075914&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Apr 2024 03:01:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjVfMTE3/MDAxNzE0MDEwNzUwNjI4.aKw9ZrM1ldhVYg46ZvVUq1x49tI5OVAICuXslMgD9Asg.gMUmszMzq7TQDMn9WkQQmUZx_u2xcywQ5JqSVhh-a6Mg.JPEG/I3a4F_S3K_dgMrf-AxKBRzUbBpHM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴대폰 케이스가 바꾸는 세상]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37689795&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37689795&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Mon, 22 Apr 2024 09:01:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjJfMjg0/MDAxNzEzNzY3MzM4MjY0.g6sENoeL1RSaik-owNb-lEgmgHjQpRoY_M-qN0IXtAog.dvgY_pHu7uVQ_UIUhrCMO2Yxkar0hO9mxUcD8LyrDS8g.JPEG/IgQawmYhRG3xt3uGNNhEqvXZQmh0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
