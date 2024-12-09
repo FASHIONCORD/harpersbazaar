@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Beauty</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 15:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 03:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤기 한 스푼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41938098&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41938098&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Mon, 09 Dec 2024 03:30:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDRfMTE4/MDAxNzMzMjk2OTY5NjYz.Pf1XkLr_DmjmKf8BxR6C4kz9l4mw7h196_vIow7HMfMg.y_b0A3P0vSl9QhmAqeYyccYCkw8fHHpR8dvVKjaODV8g.JPEG/IMTD1G4VfRss8qtzo4b5aOND6dr4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손 닿는 곳마다, 마법같이 변신!]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=41824577&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 17 Aug 2024 09:01:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MTZfNjYg/MDAxNzIzNzk3MjcxNDM3.yhuetW4TZRMMW_z0KYflc62EFGzMm12ctC32cdeeyMEg.gpoNplLn31nCjjdsaOlLm9ZQVprN8HztXwlaTrg9W2Mg.JPEG/Ip6NAB-TMpTyhu-WOicbm_kDi6iE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼단발, 이런 사람은 절대 하지 말 것!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38374117&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38374117&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Tue, 06 Aug 2024 03:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MDZfNTYg/MDAxNzIyOTA1MTk3OTEx.NccCeJmt940v8mhQJKbygXASNql89PSkH4x6y0irziYg.Gxtq327XFCGQc_JPhImtaigOptkqifH9ozmJnJ_naisg.JPEG/IeN3dsrdRZgD4QHoMSQBWeM21YBQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
