@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Beauty</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 15:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 03:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비결은 브라운에 있다!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42363042&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42363042&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 11 Dec 2024 03:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfMjMw/MDAxNzMzNzE4ODAwNTI1.K_5zxxd-jtEP3DLiGPV99mckNVq33FGzvnP0ZvVo6a4g.tg5YBAF0MkiqeuTNsIdsy_vQZSJ2JCGzhEt22JP8EoAg.JPEG/IarLc75fw8anA0ZFGTw8cQK1cxjQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홀리데이 선율 위로 흐르는 오딧세이]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=41939579&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Sep 2024 15:01:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MTFfODcg/MDAxNzI2MDE2NTQ0NjM0.LnkqScf-e4id90opc5aw6GWNarL6gLlbu8uwGcDs59og.DqmFepwiMawoF5FUN3N70IoAGy-6mMYVlEAqkRarIXIg.JPEG/IWvS90g0GdT7NK_pztXa4p20bxvg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고윤정의 여신 웨이브 보고 가세요]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38656728&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38656728&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Aug 2024 15:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
