@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 03:31:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 09:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너와 나의 연결고리]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42363536&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42363536&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 11 Dec 2024 09:01:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfMjIg/MDAxNzMzNzE5NTIyMDIx.x0HykLBxt-KtTLiSBzOCzXsyuQiovrZKaHqnYGFdDRcg.9mxKioQa5hSz7Qach5QPKkNAt6sXGqU43qDc2VJFZQUg.JPEG/InLM1bRubshrqRlbxv_2qotni2-0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고려대학교에서, 고려대학교 학생들과 떠난 타임슬립 여정]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=41998923&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Oct 2024 09:01:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMjVfMTEg/MDAxNzI5ODIwNzU5OTQ2.9Li1gaL1ETHkgqcQzdWte-ybXXWoxG1fxDxOsixqQLEg._T8VoS92an5e2Rs_RW27xvgFAM-UzRuYlqgbVEbsmyUg.JPEG/ICr3X8Z-2YnLfUZU6zBS0apnPO-o.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클럽모나코와 함께한 '유미의 방' 자세히 보기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39830034&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39830034&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Fri, 25 Oct 2024 03:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMjVfMjM1/MDAxNzI5ODE1NTg3Njk1.fT9a51t_hXs8_mFLv5qMe_fm1OOkJ5areKZAw3HNYTUg.jm0pjC2Fbh_5MePB4B-vHfAoD86CDVStYPgoRVN34Ckg.JPEG/IIqoh5rz9eHjB13NfLKZ2qqWLUmY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
