@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Fashion</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 03:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 09:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 17 Dec 2024 03:26:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTdfMTQ1/MDAxNzM0Mzk0NTkwMjQ4.Ttj95D0C9Xt_7CL-j9TnsyzPah74kr1KAuJjTV1f3ZUg.oKe59MC62D4RtSx6smLh_0OMz4WmpeGEay5gplt8TGAg.JPEG/IAIDn6SRo2qjGpEO_YhohzqkQE9s.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 겨울이 더욱 빛나는 이유]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=43131258&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=43131258&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Wed, 18 Dec 2024 09:01:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTZfNjEg/MDAxNzM0MzE0ODk2ODE3.6HIW9FZDYmksBA3GoDWVcqzPB20aGVhHphi8-H3T8G4g.cx9Cn9ELdcYXZp-lOQEs-mg58jv1mvLobbpvurxjI6Yg.JPEG/IK2rxc8Tp3nQeblbpQyQtlaWgvTE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하얀 눈 사이 분크]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Dec 2024 09:01:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDNfNjkg/MDAxNzMzMTg5MzA4MzM4.CSQ37KjzYc6k24WxKA7rgGUlLpJL3mmtEJ2Js2qL4Mwg.AM816z4PG4l0T9-Tjo249uHbVUayd2tL5ARs1vEC5YIg.JPEG/IRW2WqcNR9khAP8h-OBUo_aTwRRY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파티 룩 그 자체! 아크리스의 잇 백]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41737002&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41737002&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Wed, 04 Dec 2024 09:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDJfMTQ4/MDAxNzMzMTA0MTc3MzQ2.5TKDRHNyY1pNN0rTn5x7yGYmhSTt2GyrRwnhhCJURSgg.lBKk74XbZVS8312XDbOBKyHr0PF5_PL4_DTX_nbfFn0g.JPEG/IIHr1h4oPY6TaztClVNB4YCiK2Yw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
