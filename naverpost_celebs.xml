@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 하퍼스바자 ─ Celebs</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 15:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 03:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YOUNS AURA]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=44107751&amp;memberNo=41829949&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=44107751&amp;memberNo=41829949&amp;navigationType=push</guid>
+            <pubDate>Tue, 24 Dec 2024 03:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMjRfMjky/MDAxNzM0OTk5NTc4OTYx.oDCUYb67Si2qbtPrK-OLnFrBhXQOhXC1Swt2wjYvmOkg._DAieNlh3zJodJYCDWWKhe3K5K6cAOxTVWUTZqkRxmMg.JPEG/IXWnBegntZdw_xD_B1ZI4A-p19ik.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대립과 의심 속, 송중기와 이희준]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=43620277&amp;memberNo=41829949&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Oct 2024 09:01:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMTVfMTE4/MDAxNjEwNzAxMDkxNTk3.QsmIgF3B202DHBic2fNglsk_WGkQB9QX6UB3CtqY4Qgg.fJHNaeqDz1P_MX3r-QOUJhVuug6qIXUXIlOWaZDyZwIg.JPEG/post_7872813707782700918.jpg?type=f40_40" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[냉철한 카리스마 속 안성재]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39606275&amp;memberNo=41829949&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39606275&amp;memberNo=41829949&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Oct 2024 09:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">하퍼스바자</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMTRfMTIz/MDAxNzI4ODkwNjY2MDEz.V74U8FWzi5XCSUtF-UweAvxQLZS8Vq9CPd10mB-4BPwg.AW2pGUzDjIkHTRy4QfJtG2d8PvR7bBgeGRUa315vFrEg.JPEG/IDY9ea4RwttbzVHU_gVbeps8QS8s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
